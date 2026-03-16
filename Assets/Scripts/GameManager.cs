@@ -134,7 +134,7 @@ public class GameManager : MonoBehaviour
         dialogManager.ShowDialog(new List<string>
         {
             "Solomon Asantey has been defeated.",
-            "The Exile is over."
+            "The Exile has returned!"
         });
     }
 
