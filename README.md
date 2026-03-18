@@ -12,7 +12,7 @@ Joseph
 - ProgressionSystem, LevelManager
 
 Amir
-- IFactory, EnemyFactory, Enemy, 
+- EnemyFactory, Enemy, 
 - Create files for enemeies 1-5
 - Create Boss file (no implementation needed)
 
