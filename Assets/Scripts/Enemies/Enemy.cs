@@ -1,16 +1,10 @@
 using UnityEngine;
-
-abstract class Enemy : MonoBehaviour
+interface Enemy
 {
-    private float attackInterval;
 
-    public abstract void onAttack();
+    public void onAttack();
 
-    public abstract int dropGold();
-    void  Update()
-    {
-        
-    }
-
+    public int dropGold();
 
 }
+
