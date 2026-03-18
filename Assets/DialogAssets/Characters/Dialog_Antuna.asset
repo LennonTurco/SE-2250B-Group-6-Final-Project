@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9594f151aa9d4549b79d86e0bff18b8, type: 3}
+  m_Name: Dialog_Antuna
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDialogSetSO
+  character: 3
+  blocks:
+  - context: 0
+    lines:
+    - "Cold is honest. It doesn\u2019t care who you used to be"
+    - "Your warmth won\u2019t last long out here!"
+  - context: 6
+    lines:
+    - Healing is patience. Freezing is control!
+    - "Breathe slow. Don\u2019t rush on ice!"
+  - context: 2
+    lines:
+    - Find the pickaxe. Some problems require breaking, not solving!
+  - context: 7
+    lines:
+    - The ice cracks from beneath me...
+    - I misjudged your will, Exile!

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9594f151aa9d4549b79d86e0bff18b8, type: 3}
+  m_Name: Dialog_Tennon
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDialogSetSO
+  character: 0
+  blocks:
+  - context: 0
+    lines:
+    - "Fortunis called me dead weight. I\u2019m done being weak!"
+    - One step at a time. Survive, then fight back!
+  - context: 6
+    lines:
+    - Every hit is a number. Every mistake has a cost.
+    - "Gold in, upgrades out. That\u2019s the only math that matters now!"
+  - context: 7
+    lines:
+    - Try again. Be better.
+    - "Fortunis was right\u2026 I wasn\u2019t ready."
