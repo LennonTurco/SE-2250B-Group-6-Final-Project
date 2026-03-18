@@ -16,6 +16,8 @@ public enum DialogContext
     StealthWarning,
     RecruitmentNotice,
     BossRiddle,
-    GenericChatter
+    GenericChatter,
+    CharacterDeath,
+    GameOver
 }
 
