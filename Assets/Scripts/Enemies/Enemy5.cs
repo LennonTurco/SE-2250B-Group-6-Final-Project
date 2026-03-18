@@ -5,12 +5,12 @@ class Enemy5 : Enemy
         
     }
 
-    public override int dropGold()
+    public int dropGold()
     {
         throw new System.NotImplementedException();
     }
 
-    public override void onAttack()
+    public void onAttack()
     {
         throw new System.NotImplementedException();
     }
