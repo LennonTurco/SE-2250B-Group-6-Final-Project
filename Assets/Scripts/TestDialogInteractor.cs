@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class TestDialogInteractor : MonoBehaviour
 {
@@ -6,7 +7,7 @@ public class TestDialogInteractor : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.X) && target != null)
+        if (Keyboard.current != null && Keyboard.current.xKey.wasPressedThisFrame && target != null)
         {
             target.Interact();
         }
