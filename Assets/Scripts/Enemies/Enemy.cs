@@ -6,6 +6,5 @@ interface Enemy
 
     public int dropGold();
 
-
-
 }
+
