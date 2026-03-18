@@ -1,13 +1,11 @@
-class EnemyFactory
+// Enemy should have a prefab-based factory instead
+public class EnemyFactory : MonoBehaviour
 {
-    public static Enemy CreateEnemy (string s)
-    {
-        if (s.Equals("Enemy1")) return new Enemy1();
-        if (s.Equals("Enemy2")) return new Enemy2();
-        if (s.Equals("Enemy3")) return new Enemy3();
-        if (s.Equals("Enemy4")) return new Enemy4();
-        if (s.Equals("Enemy5")) return new Enemy5();
+    [SerializeField] private Enemy[] enemyPrefabs; // assign to some unity prefabs afterwards please
 
-        return null;
+    public Enemy Spawn(int index, Vector3 position)
+    {
+        if (index < 0 || index >= enemyPrefabs.Length) return null;
+        return Instantiate(enemyPrefabs[index], position, Quaternion.identity);
     }
 }

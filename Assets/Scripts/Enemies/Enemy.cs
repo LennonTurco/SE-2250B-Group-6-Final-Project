@@ -1,16 +1,14 @@
-using UnityEngine;
+protected int health;
+protected int damage;
+protected float speed;
 
-abstract class Enemy : MonoBehaviour
+public virtual void TakeDamage(int amount)
 {
-    private float attackInterval;
+    health -= amount;
+    if (health <= 0) Die();
+}
 
-    public abstract void onAttack();
-
-    public abstract int dropGold();
-    void  Update()
-    {
-        
-    }
-
-
+protected virtual void Die()
+{
+    Destroy(gameObject);
 }
