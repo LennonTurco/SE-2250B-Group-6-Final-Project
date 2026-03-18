@@ -26,3 +26,7 @@ MonoBehaviour:
     lines:
     - Try again. Be better.
     - "Fortunis was right\u2026 I wasn\u2019t ready."
+  - context: 8
+    lines:
+    - 'Well done, Tennon. You''ve won! '
+    - Better luck next time, Exile!
