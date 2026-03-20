@@ -1,12 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using TMPro;
 public class ShopManagerScript : MonoBehaviour
 {
 
     public int[,] shopItems = new int[5,5];
     public float coins;
-    public Text CoinsTXT;
+    public TMP_Text CoinsTXT;
     
     void Start()
     {
@@ -28,7 +29,7 @@ public class ShopManagerScript : MonoBehaviour
         shopItems[3,3] = 0;     
     }
 
-    public void buy()
+    public void Buy()
     {
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
 

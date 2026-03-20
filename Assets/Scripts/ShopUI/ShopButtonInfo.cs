@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 public class ShopButtonInfo : MonoBehaviour
 {
     public int ItemID;
-    public Text PriceTxt;
-    public Text QuantityTxt;
+    public TMP_Text PriceTxt;
+    public TMP_Text QuantityTxt;
     public GameObject ShopManager;
 
 
@@ -12,6 +13,6 @@ public class ShopButtonInfo : MonoBehaviour
     void Update()
     {
         PriceTxt.text = "Price: $" + ShopManager.GetComponent<ShopManagerScript>().shopItems[2,ItemID].ToString();
-        PriceTxt.text = "Price: $" + ShopManager.GetComponent<ShopManagerScript>().shopItems[3,ItemID].ToString();
+        QuantityTxt.text = "Quantity: " + ShopManager.GetComponent<ShopManagerScript>().shopItems[3,ItemID].ToString();
     }
 }
