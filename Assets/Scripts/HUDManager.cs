@@ -15,9 +15,12 @@ public class HUDManager : MonoBehaviour
 
     [Header("Gold")]
     [SerializeField] private TextMeshProUGUI goldText;
+    private int gold = 0;
 
     [Header("Character Switcher")]
     [SerializeField] private TextMeshProUGUI characterNameText;
+    
+    [SerializeField] private GameObject Gold1Btn;
 
     // Level and boss names (index 0-4)
     private readonly string[] levelNames = { "Desert", "Jungle", "Ice", "Volcano", "City" };
@@ -30,7 +33,7 @@ public class HUDManager : MonoBehaviour
         "Solomon the Ex-Boss"
     };
     
-    private List<string> unlockedCharacters = new List<string> {"Tennon Lurco"};
+    private List<string> unlockedCharacters = new List<string> {"Tennon Lurco","Antuna","Keanu","Jose"};
     private int currentCharacterIndex = 0;
 
     private void Awake()
@@ -73,6 +76,14 @@ public class HUDManager : MonoBehaviour
     private void UpdateCharacterDisplay()
     {
         // will be used for fetching the character name (will need to change sprite to in other classes)
+        characterNameText.text = "Name: " + unlockedCharacters[currentCharacterIndex];
+    }
+
+    public void onGoldClicked()
+    {
+        Gold1Btn.SetActive(false);
+        gold += 10;
+        goldText.text = "Gold: " + gold;
     }
 
     // called in different class (probably gameManager) to add a new unlocked character when a level is defeated
