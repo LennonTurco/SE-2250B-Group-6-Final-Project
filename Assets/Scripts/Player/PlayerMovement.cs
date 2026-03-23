@@ -5,17 +5,14 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour
 {
 
-    [SerializeField] private float moveSpeed = 5f;
-    private Rigidbody2D rb;
+    private Player player;
     private Vector2 moveInput;
-    private Animator animator;
     private bool isAttacking = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
+        player = GetComponent<Player>();
     }
 
     // Update is called once per frame
@@ -23,25 +20,25 @@ public class PlayerMovement : MonoBehaviour
     {
         if(!isAttacking)
         {
-        rb.linearVelocity = moveInput * moveSpeed;
+            player.rb.linearVelocity = moveInput * player.moveSpeed;
         }
     }
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        animator.SetBool("isWalking", true);
+        player.anim.SetBool("isWalking", true);
 
         if (context.canceled)
         {
-            animator.SetBool("isWalking", false);
-            animator.SetFloat("LastInputX", moveInput.x);
-            animator.SetFloat("LastInputY", moveInput.y);
+            player.anim.SetBool("isWalking", false);
+            player.anim.SetFloat("LastInputX", moveInput.x);
+            player.anim.SetFloat("LastInputY", moveInput.y);
         }
 
         moveInput = context.ReadValue<Vector2>();
 
-        animator.SetFloat("InputX", moveInput.x);
-        animator.SetFloat("InputY", moveInput.y);
+        player.anim.SetFloat("InputX", moveInput.x);
+        player.anim.SetFloat("InputY", moveInput.y);
     }
     public void OnAttack(InputAction.CallbackContext context)
     {
@@ -49,20 +46,20 @@ public class PlayerMovement : MonoBehaviour
         if (context.started) // when key is pressed down
         {
             isAttacking = true;
-            animator.SetBool("isAttacking", true);
+            player.anim.SetBool("isAttacking", true);
             if(moveInput != Vector2.zero)
             {
-                animator.SetFloat("LastInputX", moveInput.x);
-                animator.SetFloat("LastInputY", moveInput.y);
+                player.anim.SetFloat("LastInputX", moveInput.x);
+                player.anim.SetFloat("LastInputY", moveInput.y);
             }
-            rb.linearVelocity = Vector2.zero; // stop movement when attacking
+            player.rb.linearVelocity = Vector2.zero; // stop movement when attacking
         }
     }
 
     public void EndAttack()
     {
         isAttacking = false;
-        animator.SetBool("isAttacking", false);
+        player.anim.SetBool("isAttacking", false);
     }
 
 }
