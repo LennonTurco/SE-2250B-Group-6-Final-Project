@@ -82,9 +82,65 @@ public class AnimationSetSwitcher : MonoBehaviour
             return;
         }
 
+        // Capture current state and parameters before switching
+        int currentStateHash = animator.GetCurrentAnimatorStateInfo(0).fullPathHash;
+        float currentStateTime = animator.GetCurrentAnimatorStateInfo(0).normalizedTime;
+
+        // Store parameter values
+        var parameters = animator.parameters;
+        var paramValues = new System.Collections.Generic.Dictionary<string, object>();
+        foreach (var param in parameters)
+        {
+            switch (param.type)
+            {
+                case AnimatorControllerParameterType.Bool:
+                    paramValues[param.name] = animator.GetBool(param.name);
+                    break;
+                case AnimatorControllerParameterType.Float:
+                    paramValues[param.name] = animator.GetFloat(param.name);
+                    break;
+                case AnimatorControllerParameterType.Int:
+                    paramValues[param.name] = animator.GetInteger(param.name);
+                    break;
+                case AnimatorControllerParameterType.Trigger:
+                    // Triggers are consumed, so we don't restore them
+                    break;
+            }
+        }
+
+        // Switch the controller
         animator.runtimeAnimatorController = controller;
         currentController = controller;
-        Debug.Log($"AnimationSetSwitcher: switched to {controller.name}");
+
+        // Restore parameters (assuming new controller has same parameters)
+        foreach (var kvp in paramValues)
+        {
+            try
+            {
+                switch (kvp.Value)
+                {
+                    case bool b:
+                        animator.SetBool(kvp.Key, b);
+                        break;
+                    case float f:
+                        animator.SetFloat(kvp.Key, f);
+                        break;
+                    case int i:
+                        animator.SetInteger(kvp.Key, i);
+                        break;
+                }
+            }
+            catch (System.ArgumentException)
+            {
+                // Parameter doesn't exist in new controller, skip
+                Debug.LogWarning($"Parameter {kvp.Key} not found in new controller, skipping.");
+            }
+        }
+
+        // Restore state (if it exists in the new controller)
+        animator.Play(currentStateHash, 0, currentStateTime);
+
+        Debug.Log($"AnimationSetSwitcher: switched to {controller.name} and restored state");
     }
 
     public void SelectByIndex(int index)

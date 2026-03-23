@@ -225,6 +225,7 @@ GameObject:
   - component: {fileID: 808697999}
   - component: {fileID: 808698000}
   - component: {fileID: 808698001}
+  - component: {fileID: 808698002}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -454,6 +455,26 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: 9caa3d8a-6b2f-4e8e-8bad-6ede561bd9be
     m_ActionName: UI/TrackedDeviceOrientation
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: ae4b8bf0-5818-44c9-8522-ed6f75f55bbf
+    m_ActionName: 'Player/Switch1[/Keyboard/1]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 635eca88-5696-416c-b9d6-c8a23a6af3ad
+    m_ActionName: 'Player/Switch2[/Keyboard/2]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 1328f135-2d73-4b0d-9934-daaaca4e7320
+    m_ActionName: 'Player/Switch3[/Keyboard/3]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 89094f20-1e3c-4883-9176-e0b9abb8a1ca
+    m_ActionName: 'Player/Switch4[/Keyboard/4]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 5856691e-581e-43df-a5d9-706e37a2bad7
+    m_ActionName: 'Player/Switch5[/Keyboard/5]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Player
@@ -494,6 +515,24 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &808698002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808697995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff0c84a810457ce45b5c3bf3bdce2371, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationSetSwitcher
+  animator: {fileID: 808698001}
+  boyController: {fileID: 9100000, guid: aee4c0c246b89de4d92755219fe4e743, type: 2}
+  nobleController: {fileID: 9100000, guid: 69be496bdcc072745ad34b250653efee, type: 2}
+  ninjaGreenController: {fileID: 9100000, guid: aee4c0c246b89de4d92755219fe4e743, type: 2}
+  ninjaEskimoController: {fileID: 9100000, guid: 69be496bdcc072745ad34b250653efee, type: 2}
+  flamController: {fileID: 9100000, guid: aee4c0c246b89de4d92755219fe4e743, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
