@@ -19,12 +19,12 @@ public class HUDManager : MonoBehaviour
 
     [Header("Character Switcher")]
     [SerializeField] private TextMeshProUGUI characterNameText;
-    
+
     [SerializeField] private GameObject Gold1Btn;
 
-    // Level and boss names (index 0-4)
+    // level and boss names (index 0-4)
     private readonly string[] levelNames = { "Desert", "Jungle", "Ice", "Volcano", "City" };
-    private readonly string[] bossNames  =
+    private readonly string[] bossNames =
     {
         "Antuna the Arms Dealer",
         "Keanu the Ninja",
@@ -32,9 +32,12 @@ public class HUDManager : MonoBehaviour
         "Amira the Lava Queen",
         "Solomon the Ex-Boss"
     };
-    
-    private List<string> unlockedCharacters = new List<string> {"Tennon Lurco","Antuna","Keanu","Jose"};
+
+    private List<string> unlockedCharacters = new List<string> { "Tennon Lurco" };
     private int currentCharacterIndex = 0;
+
+    // current level index — set by GameManager when a level loads
+    private int currentLevelIndex = 0;
 
     private void Awake()
     {
@@ -44,19 +47,45 @@ public class HUDManager : MonoBehaviour
 
     private void Start()
     {
+        // show initial character name on start
+        UpdateCharacterDisplay();
         RefreshHUD();
     }
 
     private void Update()
     {
+        // only call RefreshHUD when something changes, not every frame
+        // left here as a hook — move logic to event-driven calls later
+    }
+
+    // updates all HUD text elements — call this whenever game state changes
+    public void RefreshHUD()
+    {
+        // update level text if ref is assigned
+        if (levelText != null)
+            levelText.text = "Level " + (currentLevelIndex + 1) + ": " + levelNames[currentLevelIndex];
+
+        // update boss text if ref is assigned
+        if (bossText != null)
+            bossText.text = "Boss: " + bossNames[currentLevelIndex];
+
+        // update gold text
+        if (goldText != null)
+            goldText.text = "Gold: " + gold;
+
+        // update progression display if ProgressionSystem exists
+        // delegates to ProgressionSystem — not re-implementing its logic here
+        if (ProgressionSystem.Instance != null)
+            Debug.Log("[HUDManager] Progression: " + ProgressionSystem.Instance.GetProgression());
+    }
+
+    // called by GameManager when a new level loads
+    public void SetLevel(int index)
+    {
+        currentLevelIndex = Mathf.Clamp(index, 0, levelNames.Length - 1);
         RefreshHUD();
     }
 
-    public void RefreshHUD() // this method will be used to update all info displayed in the HUD
-    {
-        
-    }
-    
     // iterates to the next character in the list
     public void OnNextCharacter()
     {
@@ -75,18 +104,19 @@ public class HUDManager : MonoBehaviour
 
     private void UpdateCharacterDisplay()
     {
-        // will be used for fetching the character name (will need to change sprite to in other classes)
+        if (characterNameText == null) return;
+        // fetches character name from unlocked list — sprite swap handled elsewhere
         characterNameText.text = "Name: " + unlockedCharacters[currentCharacterIndex];
     }
 
     public void onGoldClicked()
     {
-        Gold1Btn.SetActive(false);
+        if (Gold1Btn != null) Gold1Btn.SetActive(false);
         gold += 10;
-        goldText.text = "Gold: " + gold;
+        if (goldText != null) goldText.text = "Gold: " + gold;
     }
 
-    // called in different class (probably gameManager) to add a new unlocked character when a level is defeated
+    // called by GameManager when a boss is defeated and a character is recruited
     public void OnCharacterUnlocked(string characterName)
     {
         if (!unlockedCharacters.Contains(characterName))
