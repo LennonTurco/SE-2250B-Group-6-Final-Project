@@ -1,8 +1,8 @@
 """
-Swap Boy fileIDs to NinjaGreen fileIDs in all .anim files under NinjaGreen/Animations.
+Swap Boy fileIDs to NinjaEskimo fileIDs in all .anim files under NinjaEskimo/Animations.
 
 Parses both SpriteSheet.png.meta files to build a mapping:
-  Boy fileID -> sprite name -> NinjaGreen fileID
+  Boy fileID -> sprite name -> NinjaEskimo fileID
 Then replaces every occurrence in the .anim files.
 """
 
@@ -14,8 +14,8 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
 BOY_META = os.path.join(PROJECT_ROOT, "Characters", "Boy", "SpriteSheet.png.meta")
-NINJA_META = os.path.join(PROJECT_ROOT, "Characters", "NinjaGreen", "SpriteSheet.png.meta")
-ANIM_DIR = os.path.join(SCRIPT_DIR, "Animations")
+NINJA_META = os.path.join(PROJECT_ROOT, "Characters", "NinjaEskimo", "SpriteSheet.png.meta")
+ANIM_DIR = os.path.join(SCRIPT_DIR, "..", "NinjaEskimo", "Animations")
 
 
 def parse_name_fileid_table(meta_path: str) -> dict[str, str]:
@@ -59,7 +59,7 @@ def parse_name_fileid_table(meta_path: str) -> dict[str, str]:
 
 
 def build_replacement_map(boy_meta: str, ninja_meta: str) -> dict[str, str]:
-    """Build a map of Boy fileID -> NinjaGreen fileID for sprites with the same name."""
+    """Build a map of Boy fileID -> NinjaEskimo fileID for sprites with the same name."""
     boy_ids = parse_name_fileid_table(boy_meta)
     ninja_ids = parse_name_fileid_table(ninja_meta)
 
@@ -74,7 +74,7 @@ def build_replacement_map(boy_meta: str, ninja_meta: str) -> dict[str, str]:
 
 
 def swap_fileids_in_anim(anim_path: str, replacements: dict[str, str]) -> int:
-    """Replace Boy fileIDs with NinjaGreen fileIDs in a single .anim file.
+    """Replace Boy fileIDs with NinjaEskimo fileIDs in a single .anim file.
     
     Returns the number of replacements made.
     """
@@ -100,19 +100,19 @@ def swap_fileids_in_anim(anim_path: str, replacements: dict[str, str]) -> int:
 
 
 def main():
-    print("=== NinjaGreen Animation FileID Swapper ===\n")
+    print("=== NinjaEskimo Animation FileID Swapper ===\n")
 
     # Verify paths exist
-    for path, label in [(BOY_META, "Boy SpriteSheet.meta"), (NINJA_META, "NinjaGreen SpriteSheet.meta"), (ANIM_DIR, "Animations dir")]:
+    for path, label in [(BOY_META, "Boy SpriteSheet.meta"), (NINJA_META, "NinjaEskimo SpriteSheet.meta"), (ANIM_DIR, "Animations dir")]:
         if not os.path.exists(path):
             print(f"ERROR: {label} not found at: {path}")
             return
 
     # Build replacement map
     replacements = build_replacement_map(BOY_META, NINJA_META)
-    print(f"Found {len(replacements)} fileID differences between Boy and NinjaGreen:\n")
+    print(f"Found {len(replacements)} fileID differences between Boy and NinjaEskimo:\n")
     for boy_id, ninja_id in sorted(replacements.items(), key=lambda x: x[0]):
-        print(f"  Boy {boy_id:>25s}  ->  NinjaGreen {ninja_id}")
+        print(f"  Boy {boy_id:>25s}  ->  NinjaEskimo {ninja_id}")
     print()
 
     # Process all .anim files
