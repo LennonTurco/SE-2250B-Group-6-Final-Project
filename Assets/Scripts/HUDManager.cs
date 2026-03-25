@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class HUDManager : MonoBehaviour
 {
@@ -15,7 +16,7 @@ public class HUDManager : MonoBehaviour
 
     [Header("Gold")]
     [SerializeField] private TextMeshProUGUI goldText;
-    private int gold = 0;
+    private static int gold = 0;
 
     [Header("Character Switcher")]
     [SerializeField] private TextMeshProUGUI characterNameText;
@@ -38,6 +39,7 @@ public class HUDManager : MonoBehaviour
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
+        DontDestroyOnLoad(gameObject);
     }
 
     private void Start()
@@ -45,9 +47,27 @@ public class HUDManager : MonoBehaviour
         RefreshHUD();
     }
 
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
     public void RefreshHUD() // this method will be used to update all info displayed in the HUD
     {
-        
+        if (goldText != null)
+        {
+            goldText.text = "Gold: " + gold;
+        }
+
+        if (characterNameText != null && unlockedCharacters.Count > 0)
+        {
+            UpdateCharacterDisplay();
+        }
     }
     
     // iterates to the next character in the list
@@ -84,7 +104,51 @@ public class HUDManager : MonoBehaviour
     
     public void AddGold(int amount)
     {
+        AddGoldToTotal(amount);
+    }
+
+    public bool SpendGold(int amount)
+    {
+        return SpendGoldFromTotal(amount);
+    }
+
+    public int GetGold()
+    {
+        return gold;
+    }
+
+    public static void AddGoldToTotal(int amount)
+    {
         gold += amount;
-        goldText.text = "Gold: " + gold;
+        if (Instance != null)
+        {
+            Instance.RefreshHUD();
+        }
+    }
+
+    public static bool SpendGoldFromTotal(int amount)
+    {
+        if (gold < amount)
+        {
+            return false;
+        }
+
+        gold -= amount;
+        if (Instance != null)
+        {
+            Instance.RefreshHUD();
+        }
+
+        return true;
+    }
+
+    public static int GetGoldTotal()
+    {
+        return gold;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        RefreshHUD();
     }
 }

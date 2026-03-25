@@ -6,12 +6,11 @@ public class ShopManagerScript : MonoBehaviour
 {
 
     public int[,] shopItems = new int[5,5];
-    public float coins;
     public TMP_Text CoinsTXT;
     
     void Start()
     {
-        CoinsTXT.text = "Coins:" + coins.ToString();
+        RefreshCoinsText();
 
         //First column is ID's
         shopItems[1,1] = 1;
@@ -31,16 +30,24 @@ public class ShopManagerScript : MonoBehaviour
 
     public void Buy()
     {
+        RefreshCoinsText();
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
+        int itemId = ButtonRef.GetComponent<ShopButtonInfo>().ItemID;
+        int price = shopItems[2, itemId];
 
-        if (coins >= shopItems[2,ButtonRef.GetComponent<ShopButtonInfo>().ItemID])
+        if (HUDManager.SpendGoldFromTotal(price))
         {
-            coins -= shopItems[2,ButtonRef.GetComponent<ShopButtonInfo>().ItemID];
-            shopItems[3,ButtonRef.GetComponent<ShopButtonInfo>().ItemID]++;
-            CoinsTXT.text = "Coins:" + coins.ToString();
-            ButtonRef.GetComponent<ShopButtonInfo>().QuantityTxt.text = shopItems[3,ButtonRef.GetComponent<ShopButtonInfo>().ItemID].ToString();
+            shopItems[3, itemId]++;
+            RefreshCoinsText();
+            ButtonRef.GetComponent<ShopButtonInfo>().QuantityTxt.text = shopItems[3, itemId].ToString();
+        }
+    }
 
-
+    private void RefreshCoinsText()
+    {
+        if (CoinsTXT != null)
+        {
+            CoinsTXT.text = "Coins: " + HUDManager.GetGoldTotal().ToString();
         }
     }
 }
