@@ -7,6 +7,10 @@ public class Entity : MonoBehaviour
     [SerializeField] public float moveSpeed = 5f;
     [SerializeField] public float attackDamage = 10f;
     [SerializeField] public float attackCooldown = 1f;
+    [SerializeField] public float invulTime = 0f;
+    [SerializeField] public bool isInvul = false;
+    [SerializeField] public float collisionDamage = 0f;
+
 
     [Header("State")]
     public float currentHealth;
@@ -32,6 +36,8 @@ public class Entity : MonoBehaviour
 
     public virtual void TakeDamage(float amount)
     {
+        Debug.Log($"{gameObject.name} has taken {amount} damage.");
+
         if (isDead) return;
 
         currentHealth -= amount;
@@ -48,6 +54,10 @@ public class Entity : MonoBehaviour
         if (isDead) return;
         isDead = true;
         Debug.Log($"{gameObject.name} has died.");
+
+        // FILLER for now
+        Destroy(gameObject);
+
         // Common death logic (disable collisions, play animation, etc.)
     }
 
@@ -56,6 +66,28 @@ public class Entity : MonoBehaviour
         if (direction != Vector2.zero)
         {
             facingDirection = direction.normalized;
+        }
+    }
+
+    protected virtual void OnTriggerEnter2D(Collider2D collision)
+    {
+        HandleCollision(collision.gameObject, collision.isTrigger);
+    }
+
+    protected virtual void OnCollisionEnter2D(Collision2D collision)
+    {
+        HandleCollision(collision.gameObject, false);
+    }
+
+    protected virtual void HandleCollision(GameObject obj, bool isTrigger)
+    {
+        if (collisionDamage > 0f)
+        {
+            Entity other = obj.GetComponentInParent<Entity>();
+            if (other != null && other != this)
+            {
+                other.TakeDamage(collisionDamage);
+            }
         }
     }
 }
