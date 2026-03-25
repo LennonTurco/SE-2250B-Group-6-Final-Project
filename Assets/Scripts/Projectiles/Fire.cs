@@ -42,18 +42,13 @@ public class Fire : Entity
 
         Vector2 direction = new Vector2(dx, dy).normalized;
         rb.linearVelocity = direction * moveSpeed;
-        
-        Debug.Log($"Fire Start: Velocity set to {rb.linearVelocity}");
-
         Destroy(gameObject, lifetime);
     }
 
     protected override void HandleCollision(GameObject hitObject, bool hitIsTrigger)
     {
-        // Don't interact with what fired it (assuming enemies fire it)
+        // Don't interact with what fired it
         if (hitObject.CompareTag("Enemy")) return;
-
-        Debug.Log($"Fire hit object: {hitObject.name}");
 
         // Use base collision logic (if it hits an Entity, it deals collisionDamage to it)
         base.HandleCollision(hitObject, hitIsTrigger);
@@ -61,7 +56,6 @@ public class Fire : Entity
         Entity player = hitObject.GetComponentInParent<Player>();
         if (player != null)
         {
-            Debug.Log($"Fire successfully hit player!");
             Die();
         }
         else if (!hitIsTrigger && !hitObject.CompareTag("Enemy"))

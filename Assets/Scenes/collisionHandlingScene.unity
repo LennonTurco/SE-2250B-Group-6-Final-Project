@@ -27127,13 +27127,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: TossedCoin
       objectReference: {fileID: 0}
+    - target: {fileID: 2356046100086196055, guid: 7eac1eef8da181b4ca12bd85349aab6f, type: 3}
+      propertyPath: dy
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2356046100086196055, guid: 7eac1eef8da181b4ca12bd85349aab6f, type: 3}
+      propertyPath: isInvul
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9028256545665028718, guid: 7eac1eef8da181b4ca12bd85349aab6f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.5776948
+      value: -0.24
       objectReference: {fileID: 0}
     - target: {fileID: 9028256545665028718, guid: 7eac1eef8da181b4ca12bd85349aab6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.451924
+      value: 2.43
       objectReference: {fileID: 0}
     - target: {fileID: 9028256545665028718, guid: 7eac1eef8da181b4ca12bd85349aab6f, type: 3}
       propertyPath: m_LocalPosition.z

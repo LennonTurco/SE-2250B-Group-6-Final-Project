@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 9028256545665028718}
   - component: {fileID: 1045169436916314505}
   - component: {fileID: 1362313491795734071}
-  - component: {fileID: 2356046100086196055}
   - component: {fileID: 6600141399949926832}
+  - component: {fileID: 5232623635902532890}
   m_Layer: 0
   m_Name: TossedCoin
   m_TagString: Untagged
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.2903565, y: 0.13, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -121,34 +121,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
---- !u!114 &2356046100086196055
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1005219721337998162}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26214b5338fd5674b8e82a16fdb99160, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Fire
-  maxHealth: 100
-  moveSpeed: 2
-  attackDamage: 10
-  attackCooldown: 1
-  invulTime: 0
-  isInvul: 0
-  collisionDamage: 0
-  currentHealth: 0
-  isDead: 0
-  facingDirection: {x: 0, y: -1}
-  rb: {fileID: 0}
-  anim: {fileID: 0}
-  sr: {fileID: 0}
-  lifetime: 5
-  dx: 1
-  dy: -1
 --- !u!58 &6600141399949926832
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -185,3 +157,31 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.3125
+--- !u!114 &5232623635902532890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1005219721337998162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67979271c643a8b4fa38b60d8bc3e825, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TossedCoin
+  maxHealth: 100
+  moveSpeed: 5
+  attackDamage: 10
+  attackCooldown: 1
+  invulTime: 0
+  isInvul: 0
+  collisionDamage: 0
+  currentHealth: 0
+  isDead: 0
+  facingDirection: {x: 0, y: -1}
+  rb: {fileID: 0}
+  anim: {fileID: 0}
+  sr: {fileID: 0}
+  lifetime: 5
+  dx: 0
+  dy: 0

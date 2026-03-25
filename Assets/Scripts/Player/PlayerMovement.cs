@@ -8,6 +8,9 @@ public class PlayerMovement : MonoBehaviour
     private Player player;
     private Vector2 moveInput;
     private bool isAttacking = false;
+    
+    [Header("Combat Settings")]
+    [SerializeField] private GameObject tossedCoinPrefab;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -53,6 +56,31 @@ public class PlayerMovement : MonoBehaviour
                 player.anim.SetFloat("LastInputY", moveInput.y);
             }
             player.rb.linearVelocity = Vector2.zero; // stop movement when attacking
+            
+            SpawnTossedCoin();
+        }
+    }
+
+    private void SpawnTossedCoin()
+    {
+        if (tossedCoinPrefab == null) return;
+
+        Vector2 spawnDir = moveInput;
+        // If no movement input, use the last faced direction
+        if (spawnDir == Vector2.zero)
+        {
+            spawnDir = new Vector2(player.anim.GetFloat("LastInputX"), player.anim.GetFloat("LastInputY"));
+            
+            // Fallback if everything is zero
+            if (spawnDir == Vector2.zero) spawnDir = Vector2.down;
+        }
+
+        GameObject coinObj = Instantiate(tossedCoinPrefab, player.transform.position, Quaternion.identity);
+        TossedCoin coin = coinObj.GetComponent<TossedCoin>();
+        if (coin != null)
+        {
+            coin.dx = spawnDir.x;
+            coin.dy = spawnDir.y;
         }
     }
 
