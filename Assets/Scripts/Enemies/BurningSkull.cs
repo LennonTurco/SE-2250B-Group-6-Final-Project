@@ -1,8 +1,15 @@
-class Enemy3 : Enemy
+using UnityEngine;
+
+class BurningSkull : Enemy
 {
-    public Enemy3()
+    public BurningSkull()
     {
         
+    }
+
+    protected override void HandleAI()
+    {
+        // TODO: Implement AI logic for BurningSkull
     }
 
     public int dropGold()

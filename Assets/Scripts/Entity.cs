@@ -7,6 +7,9 @@ public class Entity : MonoBehaviour
     [SerializeField] public float moveSpeed = 5f;
     [SerializeField] public float attackDamage = 10f;
     [SerializeField] public float attackCooldown = 1f;
+    [SerializeField] public float invulTime = 0f;
+    [SerializeField] public bool isInvul = false;
+    
 
     [Header("State")]
     public float currentHealth;
@@ -32,6 +35,8 @@ public class Entity : MonoBehaviour
 
     public virtual void TakeDamage(float amount)
     {
+        Debug.Log($"{gameObject.name} has taken {amount} damage.");
+
         if (isDead) return;
 
         currentHealth -= amount;
@@ -48,6 +53,10 @@ public class Entity : MonoBehaviour
         if (isDead) return;
         isDead = true;
         Debug.Log($"{gameObject.name} has died.");
+
+        // FILLER for now
+        Destroy(gameObject);
+
         // Common death logic (disable collisions, play animation, etc.)
     }
 

@@ -1,10 +1,12 @@
 using UnityEngine;
-interface Enemy
+public abstract class Enemy : Entity
 {
+    protected Transform target;
 
-    public void onAttack();
+    protected virtual void Update()
+    {
+        HandleAI();
+    }
 
-    public int dropGold();
-
+    protected abstract void HandleAI();
 }
-
