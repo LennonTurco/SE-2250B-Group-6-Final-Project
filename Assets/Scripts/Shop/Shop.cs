@@ -1,166 +1,82 @@
-// using System.Collections.Generic;
-// using UnityEngine;
+using System.Collections.Generic;
+using UnityEngine;
 
-// /// <summary>
-// /// Level-agnostic shop that sells stat upgrades.
-// /// Pure C# service (no MonoBehaviour) so it can be owned by LevelManager.
-// /// </summary>
-// public class Shop
-// {
-//     [System.Serializable]
-//     public class ShopItem
-//     {
-//         public string name;
-//         public string stat;
-//         public int amount;
-//         public int cost;
-//         public string description;
-//     }
+public class Shop
+{
+    [System.Serializable]
+    public class ShopItem
+    {
+        public string name;
+        public string stat;
+        public float amount;
+        public int cost;
+        public string description;
+    }
 
-//     private readonly List<ShopItem> stock = new List<ShopItem>();
-//     private int selectedIndex = 0;
+    private readonly List<ShopItem> stock = new List<ShopItem>();
+    private ProgressionSystem progressionSystem;
+    public bool IsOpen { get; private set; }
 
-//     // References provided by GameManager / LevelManager
-//     private ProgressionSystem progressionSystem;
-//     private Player player;
+    public void Initialise(ProgressionSystem progression)
+    {
+        progressionSystem = progression;
+    }
 
-//     // Simple flag so GameManager can pause updates while the shop is open
-//     public bool IsOpen { get; private set; }
+    // populate stock based on current level
+    public void LoadStock(int levelIndex)
+    {
+        stock.Clear();
 
-//     public void Initialise(ProgressionSystem progression, Player owningPlayer)
-//     {
-//         progressionSystem = progression;
-//         player = owningPlayer;
-//     }
+        switch (levelIndex)
+        {
+            case 0: // desert
+                stock.Add(new ShopItem { name = "Desert Rations",    stat = "MaxHP",         amount = 10f, cost = 10, description = "Increases max HP." });
+                stock.Add(new ShopItem { name = "Sand Boots",        stat = "MoveSpeed",     amount = 1f,  cost = 15, description = "Move faster." });
+                break;
+            case 1: // jungle
+                stock.Add(new ShopItem { name = "Silent Footwraps",  stat = "MoveSpeed",     amount = 1f,  cost = 15, description = "Stay agile in the trees." });
+                stock.Add(new ShopItem { name = "Sharpened Shuriken",stat = "AttackDamage",  amount = 5f,  cost = 20, description = "Hit harder." });
+                break;
+            case 2: // ice
+                stock.Add(new ShopItem { name = "Ice Armour",        stat = "MaxHP",         amount = 20f, cost = 25, description = "Toughen up." });
+                break;
+            case 3: // volcano
+                stock.Add(new ShopItem { name = "Flame Blade",       stat = "AttackDamage",  amount = 10f, cost = 30, description = "Burn your enemies." });
+                break;
+            case 4: // city
+                stock.Add(new ShopItem { name = "Adrenaline Shot",   stat = "AttackCooldown",amount = 0.2f, cost = 35, description = "Attack faster." });
+                break;
+            default:
+                stock.Add(new ShopItem { name = "Generic Upgrade",   stat = "MoveSpeed",     amount = 1f,  cost = 5,  description = "A small boost." });
+                break;
+        }
 
-//     /// <summary>
-//     /// Populate the shop with level-specific items.
-//     /// levelIndex: 0-4 = Desert, Jungle, Ice, Volcano, City.
-//     /// </summary>
-//     public void LoadStock(int levelIndex)
-//     {
-//         stock.Clear();
-//         selectedIndex = 0;
+        Debug.Log("[Shop] Loaded " + stock.Count + " items for level " + levelIndex);
+    }
 
-//         // Example stock per level. These can later be moved to ScriptableObjects/data assets.
-//         switch (levelIndex)
-//         {
-//             case 0: // Desert
-//                 stock.Add(new ShopItem
-//                 {
-//                     name = "Desert Rations",
-//                     stat = "MaxHP",
-//                     amount = 1,
-//                     cost = 10,
-//                     description = "Slightly increases your max HP."
-//                 });
-//                 break;
-//             case 1: // Jungle (Neo's level)
-//                 stock.Add(new ShopItem
-//                 {
-//                     name = "Silent Footwraps",
-//                     stat = "MoveSpeed",
-//                     amount = 1,
-//                     cost = 15,
-//                     description = "Move faster and stay agile in the trees."
-//                 });
-//                 stock.Add(new ShopItem
-//                 {
-//                     name = "Sharpened Shuriken",
-//                     stat = "ShurikenDamage",
-//                     amount = 1,
-//                     cost = 20,
-//                     description = "Your shuriken strike hits harder from the shadows."
-//                 });
-//                 break;
-//             default:
-//                 stock.Add(new ShopItem
-//                 {
-//                     name = "Generic Upgrade",
-//                     stat = "Progression",
-//                     amount = 1,
-//                     cost = 5,
-//                     description = "A small boost to your overall power."
-//                 });
-//                 break;
-//         }
+    public void Open()  { IsOpen = true;  Debug.Log("[Shop] Opened."); }
+    public void Close() { IsOpen = false; Debug.Log("[Shop] Closed."); }
 
-//         Debug.Log("[Shop] Loaded stock for level index " + levelIndex + " (items: " + stock.Count + ")");
-//     }
+    // attempt purchase by item index
+    public bool Purchase(int index)
+    {
+        if (!IsOpen)                                   { Debug.LogWarning("[Shop] Not open.");           return false; }
+        if (progressionSystem == null)                 { Debug.LogError("[Shop] No progression ref.");   return false; }
+        if (index < 0 || index >= stock.Count)         { Debug.LogWarning("[Shop] Index out of range."); return false; }
 
-//     public void Open()
-//     {
-//         if (IsOpen) return;
-//         IsOpen = true;
-//         Debug.Log("[Shop] Opened.");
-//     }
+        ShopItem item = stock[index];
 
-//     public void Close()
-//     {
-//         if (!IsOpen) return;
-//         IsOpen = false;
-//         Debug.Log("[Shop] Closed.");
-//     }
+        if (!HUDManager.SpendGoldFromTotal(item.cost)) 
+        { 
+            Debug.Log("[Shop] Not enough gold for " + item.name); 
+            return false; 
+        }
 
-//     /// <summary>
-//     /// Attempt to purchase the currently selected item for the given player.
-//     /// </summary>
-//     public void Purchase()
-//     {
-//         if (!IsOpen)
-//         {
-//             Debug.LogWarning("[Shop] Cannot purchase, shop not open.");
-//             return;
-//         }
+        progressionSystem.ApplyUpgrade(item.stat, item.amount);
+        Debug.Log("[Shop] Purchased: " + item.name);
+        return true;
+    }
 
-//         if (player == null || progressionSystem == null)
-//         {
-//             Debug.LogError("[Shop] Missing references to Player or ProgressionSystem.");
-//             return;
-//         }
-
-//         if (stock.Count == 0)
-//         {
-//             Debug.LogWarning("[Shop] No items in stock.");
-//             return;
-//         }
-
-//         if (selectedIndex < 0 || selectedIndex >= stock.Count)
-//         {
-//             Debug.LogWarning("[Shop] Selected index out of range.");
-//             return;
-//         }
-
-//         ShopItem item = stock[selectedIndex];
-
-//         if (player.Gold < item.cost)
-//         {
-//             Debug.Log("[Shop] Not enough gold to purchase " + item.name);
-//             return;
-//         }
-
-//         player.SpendGold(item.cost);
-//         progressionSystem.ApplyUpgrade(item.stat, item.amount);
-
-//         Debug.Log("[Shop] Purchased " + item.name + " for " + item.cost + " gold.");
-//     }
-
-//     public void SelectNext()
-//     {
-//         if (stock.Count == 0) return;
-//         selectedIndex = (selectedIndex + 1) % stock.Count;
-//     }
-
-//     public void SelectPrevious()
-//     {
-//         if (stock.Count == 0) return;
-//         selectedIndex = (selectedIndex - 1 + stock.Count) % stock.Count;
-//     }
-
-//     public ShopItem GetSelectedItem()
-//     {
-//         if (stock.Count == 0 || selectedIndex < 0 || selectedIndex >= stock.Count) return null;
-//         return stock[selectedIndex];
-//     }
-// }
-
+    public List<ShopItem> GetStock() => stock;
+    public int GetStockCount() => stock.Count;
+}

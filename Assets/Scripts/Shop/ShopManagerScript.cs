@@ -1,53 +1,46 @@
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.EventSystems;
 using TMPro;
+
 public class ShopManagerScript : MonoBehaviour
 {
+    [SerializeField] private TMP_Text coinsTxt;
+    [SerializeField] private ShopButtonInfo[] buttons; // drag 3 buttons in inspector
 
-    public int[,] shopItems = new int[5,5];
-    public TMP_Text CoinsTXT;
-    
+    private Shop shop;
+
     void Start()
     {
-        RefreshCoinsText();
+        // get progression system from player in scene
+        Player player = FindFirstObjectByType<Player>();
+        ProgressionSystem progression = new ProgressionSystem();
+        progression.Initialise(player);
 
-        //First column is ID's
-        shopItems[1,1] = 1;
-        shopItems[1,2] = 2;
-        shopItems[1,3] = 3;
+        shop = new Shop();
+        shop.Initialise(progression);
+        shop.LoadStock(PlayerPrefs.GetInt("CurrentLevel", 0)); // level set by levelmanager
+        shop.Open();
 
-        //Second column is Price
-        shopItems[2,1] = 10;
-        shopItems[2,2] = 10;
-        shopItems[2,3] = 10;
-
-        //Third column is Quantity
-        shopItems[3,1] = 0;
-        shopItems[3,2] = 0;
-        shopItems[3,3] = 0;     
+        RefreshUI();
     }
 
-    public void Buy()
+    // called by each buy button's onClick
+    public void Buy(int itemIndex)
     {
-        RefreshCoinsText();
-        GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
-        int itemId = ButtonRef.GetComponent<ShopButtonInfo>().ItemID;
-        int price = shopItems[2, itemId];
-
-        if (HUDManager.SpendGoldFromTotal(price))
+        if (shop.Purchase(itemIndex))
         {
-            shopItems[3, itemId]++;
-            RefreshCoinsText();
-            ButtonRef.GetComponent<ShopButtonInfo>().QuantityTxt.text = shopItems[3, itemId].ToString();
+            RefreshUI();
         }
     }
 
-    private void RefreshCoinsText()
+    private void RefreshUI()
     {
-        if (CoinsTXT != null)
+        coinsTxt.text = "Gold: " + HUDManager.GetGoldTotal();
+
+        var stock = shop.GetStock();
+        for (int i = 0; i < buttons.Length; i++)
         {
-            CoinsTXT.text = "Coins: " + HUDManager.GetGoldTotal().ToString();
+            if (i < stock.Count)
+                buttons[i].SetItem(stock[i].name, stock[i].cost, stock[i].description);
         }
     }
 }
