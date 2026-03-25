@@ -2,22 +2,17 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    // inspector
     public Transform target;
-    public float smoothSpeed = 8f;
+    public float smoothSpeed = 4f;
     public Vector3 offset = new Vector3(0f, 0f, -10f);
-    public int pixelsPerUnit = 16;
-
     [Header("Level Bounds")]
     public float minX, maxX, minY, maxY;
-
-    // private fields
-    private float ppu;
+    [Header("Pixel Snapping")]
+    public bool usePixelSnap = false;  // toggle in inspector
+    public int pixelsPerUnit = 16;
     private Camera cam;
-
     void Start()
     {
-        ppu = pixelsPerUnit;
         cam = GetComponent<Camera>();
     }
 
@@ -29,18 +24,22 @@ public class CameraFollow : MonoBehaviour
         Vector3 desired = target.position + offset;
         Vector3 smoothed = Vector3.Lerp(transform.position, desired, smoothSpeed * Time.deltaTime);
 
-        // clamp so camera stays inside level bounds
+        // clamp to level bounds
         float camH = cam.orthographicSize;
         float camW = cam.orthographicSize * cam.aspect;
 
         smoothed.x = Mathf.Clamp(smoothed.x, minX + camW, maxX - camW);
         smoothed.y = Mathf.Clamp(smoothed.y, minY + camH, maxY - camH);
 
-        // snap to pixel grid after clamp (fixes tile seams)
-        smoothed.x = Mathf.Round(smoothed.x * ppu) / ppu;
-        smoothed.y = Mathf.Round(smoothed.y * ppu) / ppu;
-        smoothed.z = offset.z;
+        // optional pixel snap
+        if (usePixelSnap)
+        {
+            float ppu = pixelsPerUnit;
+            smoothed.x = Mathf.Round(smoothed.x * ppu) / ppu;
+            smoothed.y = Mathf.Round(smoothed.y * ppu) / ppu;
+        }
 
+        smoothed.z = offset.z;
         transform.position = smoothed;
     }
 }
