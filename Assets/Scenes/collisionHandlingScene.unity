@@ -26552,7 +26552,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 9
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -26596,13 +26596,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
   target: {fileID: 1682889514}
-  smoothSpeed: 8
+  smoothSpeed: 3
   offset: {x: 0, y: 0, z: -10}
   pixelsPerUnit: 16
-  minX: 0
-  maxX: 0
-  minY: 0
-  maxY: 0
+  minX: -50
+  maxX: 50
+  minY: -50
+  maxY: 50
 --- !u!114 &2029776305
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26616,8 +26616,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.2D.PixelPerfect::UnityEngine.U2D.PixelPerfectCamera
   m_AssetsPPU: 16
-  m_RefResolutionX: 320
-  m_RefResolutionY: 180
+  m_RefResolutionX: 256
+  m_RefResolutionY: 144
   m_UpscaleRT: 0
   m_PixelSnapping: 0
   m_CropFrameX: 0
