@@ -1,18 +1,16 @@
 using UnityEngine;
-using UnityEngine.UI;
 using TMPro;
+
 public class ShopButtonInfo : MonoBehaviour
 {
-    public int ItemID;
-    public TMP_Text PriceTxt;
-    public TMP_Text QuantityTxt;
-    public GameObject ShopManager;
+    [SerializeField] private TMP_Text nameTxt;
+    [SerializeField] private TMP_Text priceTxt;
+    [SerializeField] private TMP_Text descTxt;
 
-
-    // Update is called once per frame
-    void Update()
+    public void SetItem(string itemName, int cost, string description)
     {
-        PriceTxt.text = "Price: $" + ShopManager.GetComponent<ShopManagerScript>().shopItems[2,ItemID].ToString();
-        QuantityTxt.text = "Quantity: " + ShopManager.GetComponent<ShopManagerScript>().shopItems[3,ItemID].ToString();
+        nameTxt.text  = itemName;
+        priceTxt.text = "Cost: " + cost + "g";
+        descTxt.text  = description;
     }
 }
