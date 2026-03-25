@@ -1,48 +1,72 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class Fire : MonoBehaviour
+[RequireComponent(typeof(Collider2D))]
+public class Fire : Entity
 {
     [Header("Projectile Settings")]
-    [SerializeField] private float speed = 2f;
-    [SerializeField] private float damage = 10f;
     [SerializeField] private float lifetime = 5f;
 
     [Header("Direction")]
     public float dx;
     public float dy;
 
-    private Rigidbody2D rb;
-
-    private void Awake()
+    protected override void Awake()
     {
+        base.Awake();
+        
         rb = GetComponent<Rigidbody2D>();
-        rb.gravityScale = 0f; // Ensure it isn't affected by gravity
+        rb.gravityScale = 0f; 
+        // Using Dynamic allows for easier collisions with both kinematic and static objects
+        rb.bodyType = RigidbodyType2D.Dynamic; 
+        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous; // Better for fast projectiles
+
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null)
+        {
+            col.isTrigger = true;
+        }
+
+        moveSpeed = 2f;
+        collisionDamage = 10f;
     }
 
-    private void Start()
+    protected override void Start()
     {
-        Vector2 direction = new Vector2(dx, dy).normalized;
-        rb.linearVelocity = direction * speed;
+        base.Start();
 
-        // Self-destruct after lifetime to avoid orphaned objects
+        if (dx == 0 && dy == 0)
+        {
+            Debug.LogWarning("Fire projectile has (0,0) direction! It won't move.");
+        }
+
+        Vector2 direction = new Vector2(dx, dy).normalized;
+        rb.linearVelocity = direction * moveSpeed;
+        
+        Debug.Log($"Fire Start: Velocity set to {rb.linearVelocity}");
+
         Destroy(gameObject, lifetime);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    protected override void HandleCollision(GameObject hitObject, bool hitIsTrigger)
     {
-        Debug.Log("Fire hit something");
-        // Check if the collided object has a Player component
-        if (collision.TryGetComponent<Player>(out Player player))
+        // Don't interact with what fired it (assuming enemies fire it)
+        if (hitObject.CompareTag("Enemy")) return;
+
+        Debug.Log($"Fire hit object: {hitObject.name}");
+
+        // Use base collision logic (if it hits an Entity, it deals collisionDamage to it)
+        base.HandleCollision(hitObject, hitIsTrigger);
+
+        Entity player = hitObject.GetComponentInParent<Player>();
+        if (player != null)
         {
-            player.TakeDamage(damage);
-            Destroy(gameObject);
+            Debug.Log($"Fire successfully hit player!");
+            Die();
         }
-        // Example: Destroy on walls (any non-trigger collider that isn't the player)
-        // If the enemy shoots this, maybe it shouldn't be destroyed by the enemy itself.
-        else if (!collision.isTrigger && !collision.CompareTag("Enemy"))
+        else if (!hitIsTrigger && !hitObject.CompareTag("Enemy"))
         {
-            Destroy(gameObject);
+            Die();
         }
     }
 }
