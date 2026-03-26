@@ -60,23 +60,30 @@ public class Shop
 
     // attempt purchase by item index
     public bool Purchase(int index)
+{
+    if (!IsOpen)                           { Debug.LogWarning("[Shop] Not open.");           return false; }
+    if (progressionSystem == null)         { Debug.LogError("[Shop] No progression ref.");   return false; }
+    if (index < 0 || index >= stock.Count) { Debug.LogWarning("[Shop] Index out of range."); return false; }
+
+    ShopItem item = stock[index];
+
+    if (!HUDManager.SpendGoldFromTotal(item.cost))
     {
-        if (!IsOpen)                                   { Debug.LogWarning("[Shop] Not open.");           return false; }
-        if (progressionSystem == null)                 { Debug.LogError("[Shop] No progression ref.");   return false; }
-        if (index < 0 || index >= stock.Count)         { Debug.LogWarning("[Shop] Index out of range."); return false; }
-
-        ShopItem item = stock[index];
-
-        if (!HUDManager.SpendGoldFromTotal(item.cost)) 
-        { 
-            Debug.Log("[Shop] Not enough gold for " + item.name); 
-            return false; 
-        }
-
-        progressionSystem.ApplyUpgrade(item.stat, item.amount);
-        Debug.Log("[Shop] Purchased: " + item.name);
-        return true;
+        Debug.Log("[Shop] Not enough gold for " + item.name);
+        return false;
     }
+
+    progressionSystem.ApplyUpgrade(item.stat, item.amount);
+
+    // store upgrade - append to pending list for apply on return
+    int count = PlayerPrefs.GetInt("PendingCount", 0);
+    PlayerPrefs.SetString("PendingStat_" + count, item.stat);
+    PlayerPrefs.SetFloat("PendingAmount_" + count, item.amount);
+    PlayerPrefs.SetInt("PendingCount", count + 1);
+
+    Debug.Log("[Shop] Purchased: " + item.name);
+    return true;
+}
 
     public List<ShopItem> GetStock() => stock;
     public int GetStockCount() => stock.Count;

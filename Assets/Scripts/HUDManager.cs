@@ -37,14 +37,13 @@ public class HUDManager : MonoBehaviour
 
     private void Awake()
     {
-    if (Instance != null && Instance != this) { Destroy(gameObject); return; }
-    Instance = this;
-    // removed DontDestroyOnLoad - hud lives in each scene, static gold persists
+        if (Instance != null && Instance != this) { Destroy(gameObject); return; }
+        Instance = this;
+        gold = PlayerPrefs.GetInt("Gold", 0); // load persisted gold
     }
 
     private void Start()
     {
-        gold = PlayerPrefs.GetInt("Gold", 0); // load saved gold
         RefreshHUD();
     }
 
