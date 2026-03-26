@@ -68,6 +68,13 @@ public class HUDManager : MonoBehaviour
         {
             UpdateCharacterDisplay();
         }
+        
+        if (healthText != null) // updated health hud
+        {
+        Player player = FindFirstObjectByType<Player>();
+        if (player != null)
+            healthText.text = "Health: " + player.currentHealth + "/" + player.MaxHealth;
+        }
     }
     
     // iterates to the next character in the list

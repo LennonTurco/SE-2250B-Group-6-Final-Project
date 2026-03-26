@@ -4,6 +4,9 @@ public class Entity : MonoBehaviour
 {
     [Header("Base Attributes")]
     [SerializeField] protected float maxHealth = 100f;
+    // getter 
+    public float MaxHealth => maxHealth;
+    
     [SerializeField] public float moveSpeed = 5f;
     [SerializeField] public float attackDamage = 10f;
     [SerializeField] public float attackCooldown = 1f;
@@ -43,6 +46,12 @@ public class Entity : MonoBehaviour
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
+        // refresh the hud if its for the player
+        if (this is Player)
+        {
+            HUDManager.Instance?.RefreshHUD();
+        }
+            
         if (currentHealth <= 0)
         {
             Die();
