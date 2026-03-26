@@ -1,53 +1,52 @@
-// using System.Collections.Generic;
-// using UnityEngine;
+using System.Collections.Generic;
+using UnityEngine;
 
-// public class ProgressionSystem
-// {
-//     // fields
-//     private int progression; //note range is 0-4 (for each level)
-//     private List<string> inventory;
+public class ProgressionSystem
+{
+    private int progression;
+    private List<string> inventory;
+    private List<string> unlockedCharacters;
 
-//     // Roster of unlocked characters is stored as list. NOTE: May want to rework this and just store as an array later, but should work as a list.
-//     private List<Character> unlockedCharacters;
+    private Player player; // ref set by gamemanager/levelmanager
 
-//     // constructor
-//     public ProgressionSystem()
-//     {
-//         progression = 0;
-//         inventory = new List<string>();
-//         unlockedCharacters = new List<Character>();
-//     }
+    public ProgressionSystem()
+    {
+        progression = 0;
+        inventory = new List<string>();
+        unlockedCharacters = new List<string>();
+    }
 
+    public void Initialise(Player playerRef)
+    {
+        player = playerRef;
+    }
 
-//     // apply a stat upgrade by name and amount (called by shop on purchase). 
-//     // the idea here is that each item will have associated stat amounts which will be passed to this method to apply the character upgrades.
-//     public void ApplyUpgrade(string stat, int amount)
-//     {
-//         // track it in inventory
-//         inventory.Add(stat + "+" + amount);
+    // called by shop on purchase - applies upgrade to player immediately
+    public void ApplyUpgrade(string stat, float amount)
+    {
+        if (player == null)
+        {
+            Debug.LogError("[ProgressionSystem] Player ref is null.");
+            return;
+        }
 
-//         // increment progression score
-//         progression += amount;
+        player.ApplyStat(stat, amount);
+        inventory.Add(stat + "+" + amount);
+        progression++;
 
-//         Debug.Log("[ProgressionSystem] Applied upgrade: " + stat + " +" + amount);
-//     }
+        Debug.Log("[ProgressionSystem] Applied: " + stat + " +" + amount);
+    }
 
-//     // unlock a recruited character and add to roster (called by gamemanager on boss defeat)
-//     // ****NOTE MAY NEED TO REWORK THIS IF WE WANT PLAYER TO CALL IT VS CURRENT PLAN WHICH IS FOR BOSS TO CALL IT
-//     // also may need to alter the parameter to a Player object, as I think Nathan consolidated character and player classes into one, but im going to follow the uml for now 
-//     public void UnlockCharacter(Character character)
-//     {
-//         if (unlockedCharacters.Contains(character)) return;
+    // called by gamemanager on boss defeat
+    public void UnlockCharacter(string characterName)
+    {
+        if (unlockedCharacters.Contains(characterName)) return;
+        unlockedCharacters.Add(characterName);
+        progression++;
+        Debug.Log("[ProgressionSystem] Unlocked: " + characterName);
+    }
 
-//         unlockedCharacters.Add(character);
-//         progression++;
-
-//         Debug.Log("[ProgressionSystem] Unlocked character: " + character.characterName);
-//     }
-
-
-//     // getters
-//     public int GetProgression() => progression;
-//     public List<string> GetInventory() => inventory;
-//     public List<Character> GetUnlockedCharacters() => unlockedCharacters;
-// }
+    public int GetProgression() => progression;
+    public List<string> GetInventory() => inventory;
+    public List<string> GetUnlockedCharacters() => unlockedCharacters;
+}
