@@ -146,7 +146,7 @@ MonoBehaviour:
   rb: {fileID: 0}
   anim: {fileID: 0}
   sr: {fileID: 0}
-  lifetime: 5
+  lifetime: 10
   dx: 1
   dy: -1
 --- !u!58 &6600141399949926832
