@@ -1,17 +1,18 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
+using System.Collections.Generic;
 
 public class NPCShopTrigger2D : MonoBehaviour
 {
     [SerializeField] private string shopSceneName = "Shop";
     [SerializeField] private GameObject promptUI; // optional "Press E" text GO
-    // may want to impliment this further later with shop npcs
     
     private bool playerNearby = false;
 
-    private System.Collections.Generic.Dictionary<Renderer, bool> rendererStates = new System.Collections.Generic.Dictionary<Renderer, bool>();
-    private System.Collections.Generic.Dictionary<Canvas, bool> canvasStates = new System.Collections.Generic.Dictionary<Canvas, bool>();
+    // Track original states for restoration
+    private Dictionary<Renderer, bool> rendererStates = new Dictionary<Renderer, bool>();
+    private Dictionary<Canvas, bool> canvasStates = new Dictionary<Canvas, bool>();
     
     private Player shopPlayer;
     private bool originalPlayerInvulState;
@@ -29,11 +30,11 @@ public class NPCShopTrigger2D : MonoBehaviour
         rendererStates.Clear();
         canvasStates.Clear();
 
-        // Loop through every root object in the current scene
+        // 1. Loop through every root object in the current scene to hide visuals
         Scene currentScene = SceneManager.GetActiveScene();
         foreach (GameObject go in currentScene.GetRootGameObjects())
         {
-            // Hide all Renderers (Sprites, Meshes, etc.)
+            // Hide all Renderers (Sprites, Meshes, etc.) but keep them active
             Renderer[] renderers = go.GetComponentsInChildren<Renderer>(true);
             foreach (Renderer r in renderers)
             {
@@ -50,7 +51,10 @@ public class NPCShopTrigger2D : MonoBehaviour
             }
         }
 
-        // Make Player Invulnerable
+        // 2. Pause AI for all Enemies
+        Enemy.isPaused = true;
+
+        // 3. Make Player Invulnerable
         shopPlayer = FindFirstObjectByType<Player>();
         if (shopPlayer != null)
         {
@@ -58,10 +62,10 @@ public class NPCShopTrigger2D : MonoBehaviour
             shopPlayer.isInvul = true;
         }
 
-        // Load shop additively
+        // 4. Load shop additively
         SceneManager.LoadScene(shopSceneName, LoadSceneMode.Additive);
 
-        // Subscribe to know when the shop closes
+        // 5. Subscribe to know when the shop closes
         SceneManager.sceneUnloaded += OnShopUnloaded;
     }
 
@@ -69,21 +73,24 @@ public class NPCShopTrigger2D : MonoBehaviour
     {
         if (scene.name == shopSceneName)
         {
-            // Re-enable Renderers based on their original state
+            // Restore Renderers
             foreach (var kvp in rendererStates)
             {
                 if (kvp.Key != null) kvp.Key.enabled = kvp.Value;
             }
             rendererStates.Clear();
 
-            // Re-enable Canvases based on their original state
+            // Restore Canvases
             foreach (var kvp in canvasStates)
             {
                 if (kvp.Key != null) kvp.Key.enabled = kvp.Value;
             }
             canvasStates.Clear();
 
-            // Restore Player Invulnerability State and Apply Pending Stats
+            // Resume all enemies
+            Enemy.isPaused = false;
+
+            // Restore Player State and Apply Pending Stats
             if (shopPlayer != null)
             {
                 int count = PlayerPrefs.GetInt("PendingCount", 0);
