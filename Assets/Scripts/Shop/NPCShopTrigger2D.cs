@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.InputSystem;
 
 public class NPCShopTrigger2D : MonoBehaviour
 {
@@ -11,7 +12,11 @@ public class NPCShopTrigger2D : MonoBehaviour
 
     void Update()
     {
-        if (playerNearby && Input.GetKeyDown(KeyCode.E))
+        if(Keyboard.current != null && Keyboard.current.eKey.wasPressedThisFrame)
+        {
+            Debug.Log("[NPCShopTrigger2D] Player pressed E");
+        }
+        if (playerNearby && Keyboard.current != null && Keyboard.current.eKey.wasPressedThisFrame)
         {
             // save player pos before leaving
             Player player = FindFirstObjectByType<Player>();
