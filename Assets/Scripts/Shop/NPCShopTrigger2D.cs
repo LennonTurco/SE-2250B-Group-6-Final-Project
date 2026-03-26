@@ -11,16 +11,19 @@ public class NPCShopTrigger2D : MonoBehaviour
 
     void Update()
     {
-        // save player pos before leaving
-        Player player = FindFirstObjectByType<Player>();
-        if (player != null)
+        if (playerNearby && Input.GetKeyDown(KeyCode.E))
         {
-            PlayerPrefs.SetFloat("PlayerX", player.transform.position.x);
-            PlayerPrefs.SetFloat("PlayerY", player.transform.position.y);
-        }
+            // save player pos before leaving
+            Player player = FindFirstObjectByType<Player>();
+            if (player != null)
+            {
+                PlayerPrefs.SetFloat("PlayerX", player.transform.position.x);
+                PlayerPrefs.SetFloat("PlayerY", player.transform.position.y);
+            }
 
-        PlayerPrefs.SetString("PreviousScene", SceneManager.GetActiveScene().name);
-        SceneManager.LoadScene(shopSceneName);
+            PlayerPrefs.SetString("PreviousScene", SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene(shopSceneName);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
