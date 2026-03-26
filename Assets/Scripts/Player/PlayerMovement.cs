@@ -45,7 +45,6 @@ public class PlayerMovement : MonoBehaviour
     }
     public void OnAttack(InputAction.CallbackContext context)
     {
-        Debug.Log("Attack input received");
         if (context.started) // when key is pressed down
         {
             isAttacking = true;

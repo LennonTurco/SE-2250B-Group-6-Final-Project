@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c498bc80140a7345a14c2bde25d1b29, type: 3}
+  m_Name: Dialog_Solomon
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDialogSetSO
+  character: 5
+  blocks:
+  - context: 0
+    lines:
+    - "You weren\u2019t exiled by accident. You were removed by design!"
+    - Fortunis thrives when the unproductive disappear!
+  - context: 6
+    lines:
+    - Discipline built this city. Weakness threatens it!
+    - Every choice has consequences. I enforce them!
+  - context: 7
+    lines:
+    - So the exile returns victorious...
+    - With me gone, this city will collapse!

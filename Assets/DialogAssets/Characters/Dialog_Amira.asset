@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c498bc80140a7345a14c2bde25d1b29, type: 3}
+  m_Name: Dialog_Amira
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDialogSetSO
+  character: 4
+  blocks:
+  - context: 0
+    lines:
+    - This mountain is my throne, and lava is my law!
+    - Kneel, or burn!
+  - context: 6
+    lines:
+    - Fire punishes hesitation!
+    - Power is taken, not given!
+  - context: 2
+    lines:
+    - If a path is blocked by flame, look for a safer route nearby!
+  - context: 7
+    lines:
+    - "My flame\u2026 dims?"
+    - Impossible!!!

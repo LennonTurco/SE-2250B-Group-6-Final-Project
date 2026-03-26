@@ -8,6 +8,7 @@ public class Player : Entity
     protected override void Awake()
     {
         base.Awake();
+        PlayerPrefs.DeleteAll();
     }
 
     protected override void Start()

@@ -5,15 +5,24 @@ public class GoBackButton : MonoBehaviour
 {
     public void GoBack()
     {
-        string previousScene = PlayerPrefs.GetString("PreviousScene");
-
-        if (!string.IsNullOrEmpty(previousScene))
+        // If loaded additively, there will be more than 1 scene open
+        if (SceneManager.sceneCount > 1)
         {
-            SceneManager.LoadScene(previousScene);
+            SceneManager.UnloadSceneAsync(gameObject.scene.name);
         }
         else
         {
-            Debug.LogWarning("No previous scene saved!");
+            // Fallback for isolated testing of the shop scene
+            string previousScene = PlayerPrefs.GetString("PreviousScene");
+
+            if (!string.IsNullOrEmpty(previousScene))
+            {
+                SceneManager.LoadScene(previousScene);
+            }
+            else
+            {
+                Debug.LogWarning("No previous scene saved!");
+            }
         }
     }
 }
