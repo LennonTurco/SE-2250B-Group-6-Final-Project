@@ -24397,6 +24397,7 @@ MonoBehaviour:
   levelText: {fileID: 1631619800}
   bossText: {fileID: 1704355608}
   goldText: {fileID: 1991554609}
+  statsText: {fileID: 0}
   characterNameText: {fileID: 1452816099}
 --- !u!1 &1452816097
 GameObject:
@@ -26372,8 +26373,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.2D.PixelPerfect::UnityEngine.U2D.PixelPerfectCamera
   m_AssetsPPU: 16
-  m_RefResolutionX: 320
-  m_RefResolutionY: 240
+  m_RefResolutionX: 256
+  m_RefResolutionY: 144
   m_UpscaleRT: 0
   m_PixelSnapping: 0
   m_CropFrameX: 0
