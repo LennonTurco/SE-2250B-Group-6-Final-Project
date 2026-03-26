@@ -19,7 +19,9 @@ public class Player : Entity
         if (spawn != null)
             spawnPoint = spawn.transform.position;
         else
-            spawnPoint = transform.position; // fallback to starting pos
+            spawnPoint = transform.position;
+
+        LoadStats(); // load persisted stats before anything else
 
         // restore position if returning from shop
         if (PlayerPrefs.HasKey("PlayerX"))
@@ -37,8 +39,8 @@ public class Player : Entity
         int count = PlayerPrefs.GetInt("PendingCount", 0);
         for (int i = 0; i < count; i++)
         {
-            string stat = PlayerPrefs.GetString("PendingStat_" + i);
-            float amount = PlayerPrefs.GetFloat("PendingAmount_" + i);
+            string stat   = PlayerPrefs.GetString("PendingStat_" + i);
+            float  amount = PlayerPrefs.GetFloat("PendingAmount_" + i);
             ApplyStat(stat, amount);
             PlayerPrefs.DeleteKey("PendingStat_" + i);
             PlayerPrefs.DeleteKey("PendingAmount_" + i);
@@ -65,14 +67,14 @@ public class Player : Entity
         currentHealth = maxHealth;
         transform.position = spawnPoint;
 
-        // re-enable components
+        // stop movement
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
         HUDManager.Instance?.RefreshHUD();
         Debug.Log("[Player] Respawned at " + spawnPoint);
     }
 
-    // called by shop on purchase to immediately apply stat boost
+    // called by shop on purchase - applies stat boost immediately
     public void ApplyStat(string stat, float amount)
     {
         switch (stat)
@@ -95,7 +97,30 @@ public class Player : Entity
                 break;
         }
 
+        SaveStats(); // persist after every upgrade
         Debug.Log("[Player] Applied " + stat + " +" + amount);
+    }
+
+    // ── stat persistence ─────────────────────
+
+    private void SaveStats()
+    {
+        PlayerPrefs.SetFloat("Stat_MoveSpeed",      moveSpeed);
+        PlayerPrefs.SetFloat("Stat_AttackDamage",   attackDamage);
+        PlayerPrefs.SetFloat("Stat_MaxHP",          maxHealth);
+        PlayerPrefs.SetFloat("Stat_AttackCooldown", attackCooldown);
+    }
+
+    private void LoadStats()
+    {
+        if (PlayerPrefs.HasKey("Stat_MoveSpeed"))
+            moveSpeed      = PlayerPrefs.GetFloat("Stat_MoveSpeed");
+        if (PlayerPrefs.HasKey("Stat_AttackDamage"))
+            attackDamage   = PlayerPrefs.GetFloat("Stat_AttackDamage");
+        if (PlayerPrefs.HasKey("Stat_MaxHP"))
+            maxHealth      = PlayerPrefs.GetFloat("Stat_MaxHP");
+        if (PlayerPrefs.HasKey("Stat_AttackCooldown"))
+            attackCooldown = PlayerPrefs.GetFloat("Stat_AttackCooldown");
     }
 
     public bool SpendGold(int amount)
