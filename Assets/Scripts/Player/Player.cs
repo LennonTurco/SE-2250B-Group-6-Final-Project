@@ -5,12 +5,12 @@ public class Player : Entity
     protected override void Awake()
     {
         base.Awake();
-        // Player specific initialization
     }
 
     protected override void Start()
     {
         base.Start();
+
         // restore position if returning from shop
         if (PlayerPrefs.HasKey("PlayerX"))
         {
@@ -22,15 +22,26 @@ public class Player : Entity
             PlayerPrefs.DeleteKey("PlayerX");
             PlayerPrefs.DeleteKey("PlayerY");
         }
+
+        // apply all pending shop upgrades
+        int count = PlayerPrefs.GetInt("PendingCount", 0);
+        for (int i = 0; i < count; i++)
+        {
+            string stat = PlayerPrefs.GetString("PendingStat_" + i);
+            float amount = PlayerPrefs.GetFloat("PendingAmount_" + i);
+            ApplyStat(stat, amount);
+            PlayerPrefs.DeleteKey("PendingStat_" + i);
+            PlayerPrefs.DeleteKey("PendingAmount_" + i);
+        }
+        PlayerPrefs.DeleteKey("PendingCount");
     }
-    
+
     protected override void Die()
     {
         base.Die();
-        // Player specific death (game over screen, respawn, etc.)
+        // player death (game over, respawn, etc.)
     }
 
-    // Add other player specific methods here
     // called by shop on purchase to immediately apply stat boost
     public void ApplyStat(string stat, float amount)
     {
@@ -44,10 +55,10 @@ public class Player : Entity
                 break;
             case "MaxHP":
                 maxHealth += amount;
-                currentHealth += amount; // give hp immediately too
+                currentHealth += amount;
                 break;
             case "AttackCooldown":
-                attackCooldown = Mathf.Max(0.1f, attackCooldown - amount); // lower = faster
+                attackCooldown = Mathf.Max(0.1f, attackCooldown - amount);
                 break;
             default:
                 Debug.LogWarning("[Player] Unknown stat: " + stat);
