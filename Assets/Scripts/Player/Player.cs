@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class Player : Entity
 {
+    // ── private ──────────────────────────────
+    private Vector3 spawnPoint;
+
     protected override void Awake()
     {
         base.Awake();
@@ -10,6 +13,13 @@ public class Player : Entity
     protected override void Start()
     {
         base.Start();
+
+        // find and store spawn point
+        GameObject spawn = GameObject.Find("SpawnPoint");
+        if (spawn != null)
+            spawnPoint = spawn.transform.position;
+        else
+            spawnPoint = transform.position; // fallback to starting pos
 
         // restore position if returning from shop
         if (PlayerPrefs.HasKey("PlayerX"))
@@ -41,8 +51,25 @@ public class Player : Entity
 
     protected override void Die()
     {
-        base.Die();
-        // player death (game over, respawn, etc.)
+        // don't call base.Die() as it destroys the gameobject
+        if (isDead) return;
+        isDead = true;
+        Debug.Log("[Player] Died - respawning");
+        Respawn();
+    }
+
+    private void Respawn()
+    {
+        // reset state
+        isDead = false;
+        currentHealth = maxHealth;
+        transform.position = spawnPoint;
+
+        // re-enable components
+        if (rb != null) rb.linearVelocity = Vector2.zero;
+
+        HUDManager.Instance?.RefreshHUD();
+        Debug.Log("[Player] Respawned at " + spawnPoint);
     }
 
     // called by shop on purchase to immediately apply stat boost
