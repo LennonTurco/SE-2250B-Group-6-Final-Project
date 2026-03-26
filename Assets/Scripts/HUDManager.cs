@@ -44,6 +44,7 @@ public class HUDManager : MonoBehaviour
 
     private void Start()
     {
+        gold = PlayerPrefs.GetInt("Gold", 0); // load saved gold
         RefreshHUD();
     }
 
@@ -116,7 +117,11 @@ public class HUDManager : MonoBehaviour
 
     public bool SpendGold(int amount)
     {
-        return SpendGoldFromTotal(amount);
+        if (gold < amount) return false;
+        gold -= amount;
+        PlayerPrefs.SetInt("Gold", gold); // persist
+        Instance?.RefreshHUD();
+        return true;
     }
 
     public int GetGold()
@@ -127,10 +132,8 @@ public class HUDManager : MonoBehaviour
     public static void AddGoldToTotal(int amount)
     {
         gold += amount;
-        if (Instance != null)
-        {
-            Instance.RefreshHUD();
-        }
+        PlayerPrefs.SetInt("Gold", gold); // persist across scenes
+        Instance?.RefreshHUD();
     }
 
     public static bool SpendGoldFromTotal(int amount)
