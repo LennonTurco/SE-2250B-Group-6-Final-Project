@@ -3,17 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.InputSystem;
 
-/// <summary>
-/// Stateless dialog display service.
-/// Renders a sequence of dialog lines and advances on player input.
-/// </summary>
 public class DialogManager : MonoBehaviour
 {
     public static DialogManager Instance { get; private set; }
 
     [Header("Dialog Data Configuration")]
-    [Tooltip("Assign CharacterDialogSetSO assets here for global lookup.")]
+    [Tooltip("Assets in 'Resources/DialogSets' will be loaded automatically.")]
     [SerializeField] private List<CharacterDialogSetSO> characterDialogSets = new List<CharacterDialogSetSO>();
 
     [Header("UI References")]
@@ -42,14 +39,27 @@ public class DialogManager : MonoBehaviour
         {
             dialogPanel.SetActive(false);
         }
+
+        // --- AUTOMATIC LOADING ---
+        // Automatically find and load all CharacterDialogSetSO assets in any 'Resources' folder
+        var loadedSets = Resources.LoadAll<CharacterDialogSetSO>("");
+        if (loadedSets.Length > 0)
+        {
+            foreach (var set in loadedSets)
+            {
+                if (!characterDialogSets.Contains(set))
+                    characterDialogSets.Add(set);
+            }
+            Debug.Log($"[DialogManager] Automatically loaded {loadedSets.Length} dialog sets from Resources.");
+        }
     }
 
     private void Update()
     {
         if (!isShowing) return;
 
-        // Advance when player presses Z or X
-        if (Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.X))
+        // Advance when player presses Z or X using the New Input System
+        if (Keyboard.current != null && (Keyboard.current.zKey.wasPressedThisFrame || Keyboard.current.xKey.wasPressedThisFrame))
         {
             ShowNextLine();
         }
@@ -77,6 +87,7 @@ public class DialogManager : MonoBehaviour
     /// </summary>
     public void ShowDialog(List<string> dialogLines, Action onFinished = null)
     {
+        Debug.Log("[DialogManager] ShowDialog called on " + dialogLines);
         if (dialogLines == null || dialogLines.Count == 0)
         {
             Debug.LogWarning("[DialogManager] Tried to show empty dialog.");

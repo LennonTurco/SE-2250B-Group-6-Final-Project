@@ -26410,6 +26410,7 @@ GameObject:
   - component: {fileID: 2029776301}
   - component: {fileID: 2029776305}
   - component: {fileID: 2029776304}
+  - component: {fileID: 2029776306}
   m_Layer: 0
   m_Name: Main Camera (Pixel Perfect)
   m_TagString: MainCamera
@@ -26531,6 +26532,36 @@ MonoBehaviour:
   m_CropFrameX: 0
   m_CropFrameY: 0
   m_StretchFill: 0
+--- !u!114 &2029776306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2029776300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9feedd3fd441d40fdb6a6b50fa480017, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogManager
+  characterDialogSets:
+  - {fileID: 11400000, guid: 2525872f28d6a4a6eadead249f5406b6, type: 2}
+  - {fileID: 11400000, guid: 81a3e1f3a8e32441fa1c93fd354801c5, type: 2}
+  - {fileID: 11400000, guid: 1a8349c93abfa46539b83ed38c5c55bc, type: 2}
+  - {fileID: 11400000, guid: 9fdc2e75d38b6495ca524666cf95b285, type: 2}
+  - {fileID: 11400000, guid: 03d9241d72f3f4b47b5c5118a316c75d, type: 2}
+  - {fileID: 11400000, guid: 1770f007a7910449eb9735e6e61f4f1a, type: 2}
+  dialogPanel: {fileID: 0}
+  dialogText: {fileID: 0}
+  OnDialogStarted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDialogLineAdvanced:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDialogFinished:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!4 &2061580831 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7794014734706773725, guid: 2af9629e75fc31043b6e163b61dab505, type: 3}
