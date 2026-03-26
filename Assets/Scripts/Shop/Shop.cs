@@ -30,8 +30,9 @@ public class Shop
         switch (levelIndex)
         {
             case 0: // desert
-                stock.Add(new ShopItem { name = "Desert Rations",    stat = "MaxHP",         amount = 10f, cost = 10, description = "Increases max HP." });
-                stock.Add(new ShopItem { name = "Sand Boots",        stat = "MoveSpeed",     amount = 1f,  cost = 15, description = "Move faster." });
+                stock.Add(new ShopItem { name = "D20",          stat = "MaxHP",      amount = 20f, cost = 20, description = "+20 Max HP" });
+                stock.Add(new ShopItem { name = "Kunai",         stat = "AttackDamage", amount = 5f, cost = 25, description = "+5 Damage" });
+                stock.Add(new ShopItem { name = "Runner's Bag",  stat = "MoveSpeed",  amount = 1.2f, cost = 15, description = "1.2X Speed" });
                 break;
             case 1: // jungle
                 stock.Add(new ShopItem { name = "Silent Footwraps",  stat = "MoveSpeed",     amount = 1f,  cost = 15, description = "Stay agile in the trees." });
