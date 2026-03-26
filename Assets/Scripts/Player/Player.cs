@@ -34,6 +34,9 @@ public class Player : Entity
             PlayerPrefs.DeleteKey("PendingAmount_" + i);
         }
         PlayerPrefs.DeleteKey("PendingCount");
+
+        // refresh hud now that player is fully initialized
+        HUDManager.Instance?.RefreshHUD();
     }
 
     protected override void Die()
