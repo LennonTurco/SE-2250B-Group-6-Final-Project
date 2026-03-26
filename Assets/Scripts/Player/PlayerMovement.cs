@@ -65,12 +65,9 @@ public class PlayerMovement : MonoBehaviour
         if (tossedCoinPrefab == null) return;
 
         Vector2 spawnDir = moveInput;
-        // If no movement input, use the last faced direction
         if (spawnDir == Vector2.zero)
         {
             spawnDir = new Vector2(player.anim.GetFloat("LastInputX"), player.anim.GetFloat("LastInputY"));
-            
-            // Fallback if everything is zero
             if (spawnDir == Vector2.zero) spawnDir = Vector2.down;
         }
 
@@ -80,6 +77,7 @@ public class PlayerMovement : MonoBehaviour
         {
             coin.dx = spawnDir.x;
             coin.dy = spawnDir.y;
+            coin.collisionDamage = player.attackDamage; // use player's actual attack damage (prev didnt add player stats)
         }
     }
 

@@ -18,12 +18,14 @@ public class HUDManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI goldText;
     private static int gold = 0;
 
+    [Header("Stats")]
+    [SerializeField] private TextMeshProUGUI statsText;
+
     [Header("Character Switcher")]
     [SerializeField] private TextMeshProUGUI characterNameText;
 
-    // Level and boss names (index 0-4)
     private readonly string[] levelNames = { "Desert", "Jungle", "Ice", "Volcano", "City" };
-    private readonly string[] bossNames  =
+    private readonly string[] bossNames =
     {
         "Antuna the Arms Dealer",
         "Keanu the Ninja",
@@ -31,15 +33,15 @@ public class HUDManager : MonoBehaviour
         "Amira the Lava Queen",
         "Solomon the Ex-Boss"
     };
-    
-    private List<string> unlockedCharacters = new List<string> {"Tennon Lurco","Antuna","Keanu","Jose"};
+
+    private List<string> unlockedCharacters = new List<string> { "Tennon Lurco", "Antuna", "Keanu", "Jose" };
     private int currentCharacterIndex = 0;
 
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-        DontDestroyOnLoad(gameObject);
+        gold = PlayerPrefs.GetInt("Gold", 0); // load persisted gold
     }
 
     private void Start()
@@ -57,20 +59,31 @@ public class HUDManager : MonoBehaviour
         SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 
-    public void RefreshHUD() // this method will be used to update all info displayed in the HUD
+    public void RefreshHUD()
     {
         if (goldText != null)
-        {
             goldText.text = "Gold: " + gold;
-        }
 
         if (characterNameText != null && unlockedCharacters.Count > 0)
-        {
             UpdateCharacterDisplay();
+
+        if (healthText != null)
+        {
+            Player player = FindFirstObjectByType<Player>();
+            if (player != null)
+                healthText.text = "Health: " + player.currentHealth + "/" + player.MaxHealth;
+        }
+
+        if (statsText != null)
+        {
+            Player player = FindFirstObjectByType<Player>();
+            if (player != null)
+                statsText.text = "SPD: " + player.moveSpeed +
+                                 "\nATK: " + player.attackDamage +
+                                 "\nCD: "  + player.attackCooldown;
         }
     }
-    
-    // iterates to the next character in the list
+
     public void OnNextCharacter()
     {
         if (unlockedCharacters.Count == 0) return;
@@ -78,7 +91,6 @@ public class HUDManager : MonoBehaviour
         UpdateCharacterDisplay();
     }
 
-    // iterates to the prev character in the list
     public void OnPrevCharacter()
     {
         if (unlockedCharacters.Count == 0) return;
@@ -88,11 +100,9 @@ public class HUDManager : MonoBehaviour
 
     private void UpdateCharacterDisplay()
     {
-        // will be used for fetching the character name (will need to change sprite to in other classes)
         characterNameText.text = "Name: " + unlockedCharacters[currentCharacterIndex];
     }
 
-    // called in different class (probably gameManager) to add a new unlocked character when a level is defeated
     public void OnCharacterUnlocked(string characterName)
     {
         if (!unlockedCharacters.Contains(characterName))
@@ -101,7 +111,7 @@ public class HUDManager : MonoBehaviour
             Debug.Log("[HUDManager] Character unlocked: " + characterName);
         }
     }
-    
+
     public void AddGold(int amount)
     {
         AddGoldToTotal(amount);
@@ -120,25 +130,17 @@ public class HUDManager : MonoBehaviour
     public static void AddGoldToTotal(int amount)
     {
         gold += amount;
-        if (Instance != null)
-        {
-            Instance.RefreshHUD();
-        }
+        PlayerPrefs.SetInt("Gold", gold); // persist
+        Instance?.RefreshHUD();
     }
 
     public static bool SpendGoldFromTotal(int amount)
     {
-        if (gold < amount)
-        {
-            return false;
-        }
+        if (gold < amount) return false;
 
         gold -= amount;
-        if (Instance != null)
-        {
-            Instance.RefreshHUD();
-        }
-
+        PlayerPrefs.SetInt("Gold", gold); // persist after spend
+        Instance?.RefreshHUD();
         return true;
     }
 
