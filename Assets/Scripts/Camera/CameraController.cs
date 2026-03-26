@@ -22,7 +22,7 @@ public class CameraFollow : MonoBehaviour
 
         // lerp toward target
         Vector3 desired = target.position + offset;
-        Vector3 smoothed = Vector3.Lerp(transform.position, desired, smoothSpeed * Time.deltaTime);
+        Vector3 smoothed = target.position + offset;
 
         // clamp to level bounds
         float camH = cam.orthographicSize;

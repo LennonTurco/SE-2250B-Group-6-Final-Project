@@ -41,7 +41,8 @@ public class HUDManager : MonoBehaviour
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-        gold = PlayerPrefs.GetInt("Gold", 0); // load persisted gold
+        gold = 0; // reset gold for start of run
+        PlayerPrefs.SetInt("Gold", 0);
     }
 
     private void Start()

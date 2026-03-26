@@ -39,9 +39,9 @@ public class Entity : MonoBehaviour
 
     public virtual void TakeDamage(float amount)
     {
-        Debug.Log($"{gameObject.name} has taken {amount} damage.");
+        if (isInvul || isDead) return;
 
-        if (isDead) return;
+        Debug.Log($"{gameObject.name} has taken {amount} damage.");
 
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
@@ -62,7 +62,10 @@ public class Entity : MonoBehaviour
     {
         if (isDead) return;
         isDead = true;
-        Debug.Log($"{gameObject.name} has died.");
+        if(gameObject.CompareTag("Player"))
+        {
+            Debug.Log("Player has died. L!");
+        }
 
         // FILLER for now
         Destroy(gameObject);

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c498bc80140a7345a14c2bde25d1b29, type: 3}
+  m_Name: Dialog_Keanu
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDialogSetSO
+  character: 2
+  blocks:
+  - context: 0
+    lines:
+    - So the exile finally reaches my jungle...
+    - Every shadow here belongs to me!
+  - context: 6
+    lines:
+    - Patience is a weapon...
+    - Listen to the leaves. They tell you where danger is...
+  - context: 2
+    lines:
+    - Watch the pattern, then move in one clean sequence.
+    - Some branches are safe. Others will betray your weight.
+  - context: 3
+    lines:
+    - "You\u2019re exposed. Step into the bushes if you want to live."
+    - "If you attack from the open too often, I\u2019ll answer from the dark."
+  - context: 7
+    lines:
+    - "The shadows\u2026 failed me"
+    - "You learned\u2026 too quickly"
