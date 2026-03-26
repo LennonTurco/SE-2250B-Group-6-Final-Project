@@ -53,7 +53,10 @@ public class Entity : MonoBehaviour
     {
         if (isDead) return;
         isDead = true;
-        Debug.Log($"{gameObject.name} has died.");
+        if(gameObject.CompareTag("Player"))
+        {
+            Debug.Log("Player has died. L!");
+        }
 
         // FILLER for now
         Destroy(gameObject);

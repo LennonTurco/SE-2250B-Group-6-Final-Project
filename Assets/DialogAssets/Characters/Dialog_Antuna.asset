@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9594f151aa9d4549b79d86e0bff18b8, type: 3}
+  m_Name: Dialog_Antuna
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDialogSetSO
+  character: 1
+  blocks:
+  - context: 0
+    lines:
+    - Welcome to my market, exile. Everything has a price!
+    - "Don\u2019t blink. My bombs don\u2019t wait!"
+  - context: 6
+    lines:
+    - "You hear that? That\u2019s opportunity\u2026 ticking..."
+    - Aim true, or learn the hard way!
+  - context: 2
+    lines:
+    - "Riddles aren\u2019t hard. Don't overthink them!"
+  - context: 7
+    lines:
+    - "Huh\u2026 guess I priced myself too high."
+    - You got lucky, Exile!

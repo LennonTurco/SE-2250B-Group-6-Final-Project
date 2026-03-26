@@ -1,120 +1,140 @@
-// using System;
-// using System.Collections;
-// using System.Collections.Generic;
-// using UnityEngine;
-// using UnityEngine.Events;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
 
-// /// <summary>
-// /// Stateless dialog display service.
-// /// Renders a sequence of dialog lines and advances on player input.
-// /// </summary>
-// public class DialogManager : MonoBehaviour
-// {
-//     public static DialogManager Instance { get; private set; }
+/// <summary>
+/// Stateless dialog display service.
+/// Renders a sequence of dialog lines and advances on player input.
+/// </summary>
+public class DialogManager : MonoBehaviour
+{
+    public static DialogManager Instance { get; private set; }
 
-//     [Header("UI References")]
-//     [SerializeField] private GameObject dialogPanel;
-//     [SerializeField] private TMPro.TMP_Text dialogText;
+    [Header("Dialog Data Configuration")]
+    [Tooltip("Assign CharacterDialogSetSO assets here for global lookup.")]
+    [SerializeField] private List<CharacterDialogSetSO> characterDialogSets = new List<CharacterDialogSetSO>();
 
-//     [Header("Events")]
-//     public UnityEvent OnDialogStarted;
-//     public UnityEvent OnDialogLineAdvanced;
-//     public UnityEvent OnDialogFinished;
+    [Header("UI References")]
+    [SerializeField] private GameObject dialogPanel;
+    [SerializeField] private TMPro.TMP_Text dialogText;
 
-//     private readonly Queue<string> lineQueue = new Queue<string>();
-//     private bool isShowing;
+    [Header("Events")]
+    public UnityEvent OnDialogStarted;
+    public UnityEvent OnDialogLineAdvanced;
+    public UnityEvent OnDialogFinished;
 
-//     private void Awake()
-//     {
-//         if (Instance != null && Instance != this)
-//         {
-//             Destroy(gameObject);
-//             return;
-//         }
-//         Instance = this;
-//         DontDestroyOnLoad(gameObject);
+    private readonly Queue<string> lineQueue = new Queue<string>();
+    private bool isShowing;
 
-//         if (dialogPanel != null)
-//         {
-//             dialogPanel.SetActive(false);
-//         }
-//     }
+    private void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
 
-//     private void Update()
-//     {
-//         if (!isShowing) return;
+        if (dialogPanel != null)
+        {
+            dialogPanel.SetActive(false);
+        }
+    }
 
-//         // Advance when player presses Z or X
-//         if (Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.X))
-//         {
-//             ShowNextLine();
-//         }
-//     }
+    private void Update()
+    {
+        if (!isShowing) return;
 
-//     /// <summary>
-//     /// Show a dialog sequence.
-//     /// </summary>
-//     public void ShowDialog(List<string> dialogLines, Action onFinished = null)
-//     {
-//         if (dialogLines == null || dialogLines.Count == 0)
-//         {
-//             Debug.LogWarning("[DialogManager] Tried to show empty dialog.");
-//             return;
-//         }
+        // Advance when player presses Z or X
+        if (Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.X))
+        {
+            ShowNextLine();
+        }
+    }
 
-//         lineQueue.Clear();
-//         foreach (var line in dialogLines)
-//         {
-//             lineQueue.Enqueue(line);
-//         }
+    /// <summary>
+    /// Looks up dialog lines via CharacterId and DialogContext from the assigned data sets.
+    /// </summary>
+    public void ShowDialog(CharacterId charId, DialogContext context, Action onFinished = null)
+    {
+        Debug.Log("[DialogManager] ShowDialog called on " + charId + " with context " + context);
+        var dataSet = characterDialogSets.Find(set => set != null && set.character == charId);
+        if (dataSet == null)
+        {
+            Debug.LogWarning($"[DialogManager] No dialog set found for character {charId}. Cannot show {context}.");
+            return;
+        }
 
-//         StartCoroutine(ShowDialogRoutine(onFinished));
-//     }
+        var lines = dataSet.GetLines(context);
+        ShowDialog(lines, onFinished);
+    }
 
-//     private IEnumerator ShowDialogRoutine(Action onFinished)
-//     {
-//         isShowing = true;
-//         if (dialogPanel != null) dialogPanel.SetActive(true);
-//         OnDialogStarted?.Invoke();
+    /// <summary>
+    /// Show a explicit list of dialog lines.
+    /// </summary>
+    public void ShowDialog(List<string> dialogLines, Action onFinished = null)
+    {
+        if (dialogLines == null || dialogLines.Count == 0)
+        {
+            Debug.LogWarning("[DialogManager] Tried to show empty dialog.");
+            return;
+        }
 
-//         ShowNextLine();
+        lineQueue.Clear();
+        foreach (var line in dialogLines)
+        {
+            lineQueue.Enqueue(line);
+        }
 
-//         // wait until dialog is done
-//         while (isShowing)
-//         {
-//             yield return null;
-//         }
+        StartCoroutine(ShowDialogRoutine(onFinished));
+    }
 
-//         onFinished?.Invoke();
-//     }
+    private IEnumerator ShowDialogRoutine(Action onFinished)
+    {
+        isShowing = true;
+        if (dialogPanel != null) dialogPanel.SetActive(true);
+        OnDialogStarted?.Invoke();
 
-//     private void ShowNextLine()
-//     {
-//         if (lineQueue.Count == 0)
-//         {
-//             EndDialog();
-//             return;
-//         }
+        ShowNextLine();
 
-//         string line = lineQueue.Dequeue();
-//         if (dialogText != null)
-//         {
-//             dialogText.text = line;
-//         }
+        // wait until dialog is done
+        while (isShowing)
+        {
+            yield return null;
+        }
 
-//         OnDialogLineAdvanced?.Invoke();
-//     }
+        onFinished?.Invoke();
+    }
 
-//     private void EndDialog()
-//     {
-//         isShowing = false;
-//         if (dialogPanel != null) dialogPanel.SetActive(false);
-//         OnDialogFinished?.Invoke();
-//     }
+    private void ShowNextLine()
+    {
+        if (lineQueue.Count == 0)
+        {
+            EndDialog();
+            return;
+        }
 
-//     public bool IsShowing()
-//     {
-//         return isShowing;
-//     }
-// }
+        string line = lineQueue.Dequeue();
+        if (dialogText != null)
+        {
+            dialogText.text = line;
+        }
 
+        OnDialogLineAdvanced?.Invoke();
+    }
+
+    private void EndDialog()
+    {
+        isShowing = false;
+        if (dialogPanel != null) dialogPanel.SetActive(false);
+        OnDialogFinished?.Invoke();
+    }
+
+    public bool IsShowing()
+    {
+        return isShowing;
+    }
+}
