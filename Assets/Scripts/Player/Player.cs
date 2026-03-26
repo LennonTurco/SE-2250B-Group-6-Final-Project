@@ -11,8 +11,19 @@ public class Player : Entity
     protected override void Start()
     {
         base.Start();
+        // restore position if returning from shop
+        if (PlayerPrefs.HasKey("PlayerX"))
+        {
+            transform.position = new Vector3(
+                PlayerPrefs.GetFloat("PlayerX"),
+                PlayerPrefs.GetFloat("PlayerY"),
+                0f
+            );
+            PlayerPrefs.DeleteKey("PlayerX");
+            PlayerPrefs.DeleteKey("PlayerY");
+        }
     }
-
+    
     protected override void Die()
     {
         base.Die();
