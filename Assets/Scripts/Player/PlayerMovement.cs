@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
+using UnityEngine.Tilemaps;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -8,6 +9,11 @@ public class PlayerMovement : MonoBehaviour
     private Player player;
     private Vector2 moveInput;
     private bool isAttacking = false;
+    
+    [Header("Ice Settings")]
+    [SerializeField] private Tilemap iceTilemap;
+    [SerializeField] private TileBase iceTile;
+    [SerializeField] private float iceSpeedMultiplier = 2f;
     
     [Header("Combat Settings")]
     [SerializeField] private GameObject tossedCoinPrefab;
@@ -23,8 +29,15 @@ public class PlayerMovement : MonoBehaviour
     {
         if(!isAttacking)
         {
-            player.rb.linearVelocity = moveInput * player.moveSpeed;
+            float currentSpeed = IsOnIce() ? player.moveSpeed * iceSpeedMultiplier : player.moveSpeed;
+            player.rb.linearVelocity = moveInput * currentSpeed;
         }
+    }
+    
+    private bool IsOnIce()
+    {
+        Vector3Int tilePos = iceTilemap.WorldToCell(transform.position);
+        return iceTilemap.GetTile(tilePos) == iceTile;
     }
 
     public void OnMove(InputAction.CallbackContext context)
