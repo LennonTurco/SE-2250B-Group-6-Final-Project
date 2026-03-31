@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "2250LennonWork.slnx"
+    "dotnet.defaultSolution": "2250_Game.slnx"
 }
