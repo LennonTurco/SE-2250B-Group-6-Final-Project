@@ -1,58 +1,48 @@
 ﻿using UnityEngine;
-using System.Collections;
+using UnityEngine.UI;
 
-
-namespace TMPro.Examples
+public class CharacterManager : MonoBehaviour
 {
+    // assign these in inspector - order must match
+    public Sprite[] characterSprites;   // the actual player sprites
+    public Sprite[] portraitSprites;    // the face portraits for UI
+    public string[] characterNames;     // "Tennon", "Ninja", "LavaQueen", etc.
 
-    public class SimpleScript : MonoBehaviour
+    public Image portraitImage;         // the UI image in bottom left
+    public SpriteRenderer playerRenderer;
+
+    int currentIndex = 0;
+
+    void Start()
     {
+        // load last used character if saved
+        currentIndex = PlayerPrefs.GetInt("CurrentCharacter", 0);
+        ApplyCharacter();
+    }
 
-        private TextMeshPro m_textMeshPro;
-        //private TMP_FontAsset m_FontAsset;
+    // call this from input or a UI button
+    public void SwitchCharacter(int direction)
+    {
+        // direction: +1 for next, -1 for prev
+        currentIndex = (currentIndex + direction + characterNames.Length) % characterNames.Length;
+        PlayerPrefs.SetInt("CurrentCharacter", currentIndex);
+        ApplyCharacter();
+    }
 
-        private const string label = "The <#0050FF>count is: </color>{0:2}";
-        private float m_frame;
+    void ApplyCharacter()
+    {
+        playerRenderer.sprite = characterSprites[currentIndex];
+        portraitImage.sprite = portraitSprites[currentIndex];
+    }
 
+    // if other scripts need to know who's active
+    public string GetCurrentName()
+    {
+        return characterNames[currentIndex];
+    }
 
-        void Start()
-        {
-            // Add new TextMesh Pro Component
-            m_textMeshPro = gameObject.AddComponent<TextMeshPro>();
-
-            m_textMeshPro.autoSizeTextContainer = true;
-
-            // Load the Font Asset to be used.
-            //m_FontAsset = Resources.Load("Fonts & Materials/LiberationSans SDF", typeof(TMP_FontAsset)) as TMP_FontAsset;
-            //m_textMeshPro.font = m_FontAsset;
-
-            // Assign Material to TextMesh Pro Component
-            //m_textMeshPro.fontSharedMaterial = Resources.Load("Fonts & Materials/LiberationSans SDF - Bevel", typeof(Material)) as Material;
-            //m_textMeshPro.fontSharedMaterial.EnableKeyword("BEVEL_ON");
-
-            // Set various font settings.
-            m_textMeshPro.fontSize = 48;
-
-            m_textMeshPro.alignment = TextAlignmentOptions.Center;
-
-            //m_textMeshPro.anchorDampening = true; // Has been deprecated but under consideration for re-implementation.
-            //m_textMeshPro.enableAutoSizing = true;
-
-            //m_textMeshPro.characterSpacing = 0.2f;
-            //m_textMeshPro.wordSpacing = 0.1f;
-
-            //m_textMeshPro.enableCulling = true;
-            m_textMeshPro.textWrappingMode = TextWrappingModes.NoWrap;
-
-            //textMeshPro.fontColor = new Color32(255, 255, 255, 255);
-        }
-
-
-        void Update()
-        {
-            m_textMeshPro.SetText(label, m_frame % 1000);
-            m_frame += 1 * Time.deltaTime;
-        }
-
+    public int GetCurrentIndex()
+    {
+        return currentIndex;
     }
 }
