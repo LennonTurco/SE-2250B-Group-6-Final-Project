@@ -125,10 +125,10 @@ TextureImporter:
       name: Street_Lamp_16x16_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 0
         y: 0
-        width: 60
-        height: 72
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: Street_Lamp_16x16_1
       rect:
         serializedVersion: 2
-        x: 92
+        x: 80
         y: 0
-        width: 57
-        height: 71
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: Street_Lamp_16x16_2
       rect:
         serializedVersion: 2
-        x: 172
+        x: 160
         y: 0
-        width: 57
-        height: 72
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: Street_Lamp_16x16_3
       rect:
         serializedVersion: 2
-        x: 251
+        x: 240
         y: 0
-        width: 60
-        height: 73
+        width: 80
+        height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
