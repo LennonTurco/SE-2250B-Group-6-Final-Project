@@ -15,19 +15,19 @@ public class SolomonBoss : Enemy
     [SerializeField] int tankBurstCount = 3;
     [SerializeField] float tankBurstDelay = 0.3f;
 
-    [Header("Tank Idle Animation Frames")]
+    [Header("Tank Idle Animation Frames (6 each)")]
     [SerializeField] Sprite[] tankIdleUp;
     [SerializeField] Sprite[] tankIdleDown;
     [SerializeField] Sprite[] tankIdleLeft;
     [SerializeField] Sprite[] tankIdleRight;
 
-    [Header("Tank Move Animation Frames")]
+    [Header("Tank Move Animation Frames (6 each)")]
     [SerializeField] Sprite[] tankMoveUp;
     [SerializeField] Sprite[] tankMoveDown;
     [SerializeField] Sprite[] tankMoveLeft;
     [SerializeField] Sprite[] tankMoveRight;
 
-    [Header("Tank Fire Animation Frames")]
+    [Header("Tank Fire Animation Frames (6 each)")]
     [SerializeField] Sprite[] tankFireUp;
     [SerializeField] Sprite[] tankFireDown;
     [SerializeField] Sprite[] tankFireLeft;
@@ -67,6 +67,7 @@ public class SolomonBoss : Enemy
     float animTimer;
     int animFrame;
     Sprite[] lastFrames;
+    Vector2 lastDir = Vector2.down;
 
     protected override void Start()
     {
@@ -103,17 +104,23 @@ public class SolomonBoss : Enemy
         else
             HelicopterAI();
 
+        // always update animation, even while firing
+        UpdateFacing(lastDir);
         UpdateHealthBar();
     }
 
     void TankAI()
     {
-        if (isFiring) return;
-
         float dist = Vector2.Distance(transform.position, target.position);
         Vector2 dir = (target.position - transform.position).normalized;
+        lastDir = dir;
 
-        UpdateFacing(dir);
+        // don't move or start new burst while firing
+        if (isFiring)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
 
         if (dist > tankStopRange)
             rb.linearVelocity = dir * moveSpeed;
@@ -167,17 +174,18 @@ public class SolomonBoss : Enemy
 
     void HelicopterAI()
     {
-        if (isFiring) return;
-
         float time = Time.time * heliMoveSpeed * 0.3f;
         Vector2 offset = new Vector2(Mathf.Cos(time), Mathf.Sin(time)) * heliStrafeWidth;
         Vector2 targetPos = (Vector2)target.position + offset;
         Vector2 dir = (targetPos - (Vector2)transform.position).normalized;
-        rb.linearVelocity = dir * moveSpeed;
+        lastDir = dir;
 
-        UpdateFacing(dir);
+        if (!isFiring)
+            rb.linearVelocity = dir * moveSpeed;
+        else
+            rb.linearVelocity = Vector2.zero;
 
-        if (fireTimer <= 0f)
+        if (fireTimer <= 0f && !isFiring)
         {
             StartCoroutine(HeliStrafe());
             fireTimer = heliFireRate + (heliStrafeCount * heliStrafeBurstDelay) + 1f;
@@ -263,16 +271,16 @@ public class SolomonBoss : Enemy
         Vector2 dir = ((Vector2)target.position - (Vector2)transform.position).normalized;
 
         Vector2 barrelOffset;
-        if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+        if (Mathf.Abs(lastDir.x) > Mathf.Abs(lastDir.y))
         {
-            if (dir.x > 0)
+            if (lastDir.x > 0)
                 barrelOffset = new Vector2(4.2f, 1f);
             else
                 barrelOffset = new Vector2(-4.2f, 1f);
         }
         else
         {
-            if (dir.y > 0)
+            if (lastDir.y > 0)
                 barrelOffset = new Vector2(0f, 4.2f);
             else
                 barrelOffset = new Vector2(0f, -4.2f);
