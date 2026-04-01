@@ -43,7 +43,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Exception (Raised Layer)
+  - name: Buildings
     uniqueID: 1323342617
     locked: 0
   m_RenderingLayers:
