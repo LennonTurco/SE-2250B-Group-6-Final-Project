@@ -208,13 +208,13 @@ public class SolomonBoss : Enemy
         if (visualRenderer != null && visualRenderer.sprite != null)
         {
             if (visualRenderer.sprite == tankRight || visualRenderer.sprite == heliRight)
-                barrelOffset = new Vector2(4f, 0.4f);
+                barrelOffset = new Vector2(4.2f, 1f);
             else if (visualRenderer.sprite == tankLeft || visualRenderer.sprite == heliLeft)
-                barrelOffset = new Vector2(-4f, 0.4f);
+                barrelOffset = new Vector2(-4.2f, 1f);
             else if (visualRenderer.sprite == tankUp || visualRenderer.sprite == heliUp)
-                barrelOffset = new Vector2(0f, 4f);
+                barrelOffset = new Vector2(0f, 4.2f);
             else
-                barrelOffset = new Vector2(0f, -4f);
+                barrelOffset = new Vector2(0f, -4.2f);
         }
         else
         {
