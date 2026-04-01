@@ -17,5 +17,5 @@ Amir
 - Create Boss file (no implementation needed)
 
 Neo
-- Shop, DialogManager,
+- Shop, DialogManager, CutScreen + Music (These two things were committed on Lennon's laptop and GitHub account, due to difficulties on Neo's laptop).
 
