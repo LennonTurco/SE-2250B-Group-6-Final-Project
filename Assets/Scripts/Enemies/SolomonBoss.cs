@@ -11,7 +11,6 @@ public class SolomonBoss : Enemy
     [SerializeField] float tankFireRate = 1.5f;
     [SerializeField] float tankProjectileSpeed = 8f;
     [SerializeField] float tankMoveSpeed = 3f;
-    [SerializeField] float tankChaseRange = 15f;
     [SerializeField] float tankStopRange = 5f;
     [SerializeField] int tankBurstCount = 3;
     [SerializeField] float tankBurstDelay = 0.3f;
@@ -25,11 +24,21 @@ public class SolomonBoss : Enemy
     [SerializeField] int heliStrafeCount = 5;
     [SerializeField] float heliStrafeBurstDelay = 0.15f;
 
-    [Header("Sprites")]
-    [SerializeField] SpriteRenderer tankBaseRenderer;
-    [SerializeField] Transform tankGunPivot;
+    [Header("Visuals")]
     [SerializeField] GameObject tankVisuals;
     [SerializeField] GameObject heliVisuals;
+
+    [Header("Tank Directional Sprites")]
+    [SerializeField] Sprite tankUp;
+    [SerializeField] Sprite tankDown;
+    [SerializeField] Sprite tankLeft;
+    [SerializeField] Sprite tankRight;
+
+    [Header("Heli Directional Sprites")]
+    [SerializeField] Sprite heliUp;
+    [SerializeField] Sprite heliDown;
+    [SerializeField] Sprite heliLeft;
+    [SerializeField] Sprite heliRight;
 
     [Header("UI")]
     [SerializeField] UnityEngine.UI.Slider healthBar;
@@ -39,6 +48,7 @@ public class SolomonBoss : Enemy
     float fireTimer;
     bool isFiring = false;
     bool phaseTransitioning = false;
+    SpriteRenderer visualRenderer;
 
     protected override void Start()
     {
@@ -47,7 +57,11 @@ public class SolomonBoss : Enemy
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         if (player != null) target = player.transform;
 
-        if (tankVisuals != null) tankVisuals.SetActive(true);
+        if (tankVisuals != null)
+        {
+            tankVisuals.SetActive(true);
+            visualRenderer = tankVisuals.GetComponentInChildren<SpriteRenderer>();
+        }
         if (heliVisuals != null) heliVisuals.SetActive(false);
 
         moveSpeed = tankMoveSpeed;
@@ -79,24 +93,14 @@ public class SolomonBoss : Enemy
         if (isFiring) return;
 
         float dist = Vector2.Distance(transform.position, target.position);
+        Vector2 dir = (target.position - transform.position).normalized;
 
-        // rotate gun toward player
-        if (tankGunPivot != null)
-        {
-            Vector2 dir = (target.position - tankGunPivot.position).normalized;
-            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-            tankGunPivot.rotation = Quaternion.Euler(0, 0, angle - 90f);
-        }
+        UpdateFacing(dir);
 
         if (dist > tankStopRange)
-        {
-            Vector2 dir = (target.position - transform.position).normalized;
             rb.linearVelocity = dir * moveSpeed;
-        }
         else
-        {
             rb.linearVelocity = Vector2.zero;
-        }
 
         if (fireTimer <= 0f)
         {
@@ -127,7 +131,11 @@ public class SolomonBoss : Enemy
         yield return new WaitForSeconds(1.5f);
 
         if (tankVisuals != null) tankVisuals.SetActive(false);
-        if (heliVisuals != null) heliVisuals.SetActive(true);
+        if (heliVisuals != null)
+        {
+            heliVisuals.SetActive(true);
+            visualRenderer = heliVisuals.GetComponentInChildren<SpriteRenderer>();
+        }
 
         currentPhase = Phase.Helicopter;
         moveSpeed = heliMoveSpeed;
@@ -149,6 +157,8 @@ public class SolomonBoss : Enemy
         Vector2 dir = (targetPos - (Vector2)transform.position).normalized;
         rb.linearVelocity = dir * moveSpeed;
 
+        UpdateFacing(dir);
+
         if (fireTimer <= 0f)
         {
             StartCoroutine(HeliStrafe());
@@ -169,6 +179,26 @@ public class SolomonBoss : Enemy
         isFiring = false;
     }
 
+    void UpdateFacing(Vector2 dir)
+    {
+        if (visualRenderer == null) return;
+
+        Sprite up, down, left, right;
+        if (currentPhase == Phase.Tank)
+        {
+            up = tankUp; down = tankDown; left = tankLeft; right = tankRight;
+        }
+        else
+        {
+            up = heliUp; down = heliDown; left = heliLeft; right = heliRight;
+        }
+
+        if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+            visualRenderer.sprite = dir.x > 0 ? right : left;
+        else
+            visualRenderer.sprite = dir.y > 0 ? up : down;
+    }
+
     void FireProjectile(GameObject prefab, float speed)
     {
         if (prefab == null || target == null) return;
@@ -176,7 +206,10 @@ public class SolomonBoss : Enemy
         Vector2 dir = ((Vector2)target.position - (Vector2)transform.position).normalized;
         Vector2 spawnPos = (Vector2)transform.position + dir * 1.5f;
 
-        GameObject proj = Instantiate(prefab, spawnPos, Quaternion.identity);
+        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        Quaternion rot = Quaternion.Euler(0, 0, angle);
+
+        GameObject proj = Instantiate(prefab, spawnPos, rot);
         Rigidbody2D projRb = proj.GetComponent<Rigidbody2D>();
         if (projRb != null)
             projRb.linearVelocity = dir * speed;
