@@ -203,8 +203,28 @@ public class SolomonBoss : Enemy
     {
         if (prefab == null || target == null) return;
 
-        Vector2 dir = ((Vector2)target.position - (Vector2)transform.position).normalized;
-        Vector2 spawnPos = (Vector2)transform.position + dir * 1.5f;
+        // barrel offset based on current facing
+        Vector2 barrelOffset;
+        if (visualRenderer != null && visualRenderer.sprite != null)
+        {
+            if (visualRenderer.sprite == tankRight || visualRenderer.sprite == heliRight)
+                barrelOffset = new Vector2(4f, 0.4f);
+            else if (visualRenderer.sprite == tankLeft || visualRenderer.sprite == heliLeft)
+                barrelOffset = new Vector2(-4f, 0.4f);
+            else if (visualRenderer.sprite == tankUp || visualRenderer.sprite == heliUp)
+                barrelOffset = new Vector2(0f, 4f);
+            else
+                barrelOffset = new Vector2(0f, -4f);
+        }
+        else
+        {
+            barrelOffset = Vector2.zero;
+        }
+
+        Vector2 spawnPos = (Vector2)transform.position + barrelOffset;
+
+        // aim at player from barrel position
+        Vector2 dir = ((Vector2)target.position - spawnPos).normalized;
 
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
         Quaternion rot = Quaternion.Euler(0, 0, angle);
