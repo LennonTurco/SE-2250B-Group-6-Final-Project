@@ -15,6 +15,27 @@ public class SolomonBoss : Enemy
     [SerializeField] int tankBurstCount = 3;
     [SerializeField] float tankBurstDelay = 0.3f;
 
+    [Header("Tank Idle Animation Frames")]
+    [SerializeField] Sprite[] tankIdleUp;
+    [SerializeField] Sprite[] tankIdleDown;
+    [SerializeField] Sprite[] tankIdleLeft;
+    [SerializeField] Sprite[] tankIdleRight;
+
+    [Header("Tank Move Animation Frames")]
+    [SerializeField] Sprite[] tankMoveUp;
+    [SerializeField] Sprite[] tankMoveDown;
+    [SerializeField] Sprite[] tankMoveLeft;
+    [SerializeField] Sprite[] tankMoveRight;
+
+    [Header("Tank Fire Animation Frames")]
+    [SerializeField] Sprite[] tankFireUp;
+    [SerializeField] Sprite[] tankFireDown;
+    [SerializeField] Sprite[] tankFireLeft;
+    [SerializeField] Sprite[] tankFireRight;
+
+    [Header("Animation Settings")]
+    [SerializeField] float animFrameRate = 8f;
+
     [Header("Helicopter Phase")]
     [SerializeField] GameObject heliProjectilePrefab;
     [SerializeField] float heliFireRate = 0.8f;
@@ -27,12 +48,6 @@ public class SolomonBoss : Enemy
     [Header("Visuals")]
     [SerializeField] GameObject tankVisuals;
     [SerializeField] GameObject heliVisuals;
-
-    [Header("Tank Directional Sprites")]
-    [SerializeField] Sprite tankUp;
-    [SerializeField] Sprite tankDown;
-    [SerializeField] Sprite tankLeft;
-    [SerializeField] Sprite tankRight;
 
     [Header("Heli Directional Sprites")]
     [SerializeField] Sprite heliUp;
@@ -49,6 +64,9 @@ public class SolomonBoss : Enemy
     bool isFiring = false;
     bool phaseTransitioning = false;
     SpriteRenderer visualRenderer;
+    float animTimer;
+    int animFrame;
+    Sprite[] lastFrames;
 
     protected override void Start()
     {
@@ -183,56 +201,93 @@ public class SolomonBoss : Enemy
     {
         if (visualRenderer == null) return;
 
-        Sprite up, down, left, right;
+        Sprite[] frames;
+        bool moving = rb.linearVelocity.magnitude > 0.1f;
+
         if (currentPhase == Phase.Tank)
         {
-            up = tankUp; down = tankDown; left = tankLeft; right = tankRight;
+            if (isFiring)
+            {
+                if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+                    frames = dir.x > 0 ? tankFireRight : tankFireLeft;
+                else
+                    frames = dir.y > 0 ? tankFireUp : tankFireDown;
+            }
+            else if (moving)
+            {
+                if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+                    frames = dir.x > 0 ? tankMoveRight : tankMoveLeft;
+                else
+                    frames = dir.y > 0 ? tankMoveUp : tankMoveDown;
+            }
+            else
+            {
+                if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+                    frames = dir.x > 0 ? tankIdleRight : tankIdleLeft;
+                else
+                    frames = dir.y > 0 ? tankIdleUp : tankIdleDown;
+            }
         }
         else
         {
-            up = heliUp; down = heliDown; left = heliLeft; right = heliRight;
+            if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+                visualRenderer.sprite = dir.x > 0 ? heliRight : heliLeft;
+            else
+                visualRenderer.sprite = dir.y > 0 ? heliUp : heliDown;
+            return;
         }
 
-        if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
-            visualRenderer.sprite = dir.x > 0 ? right : left;
-        else
-            visualRenderer.sprite = dir.y > 0 ? up : down;
+        if (frames == null || frames.Length == 0) return;
+
+        if (frames != lastFrames)
+        {
+            lastFrames = frames;
+            animFrame = 0;
+            animTimer = 0f;
+        }
+
+        animTimer += Time.deltaTime;
+        if (animTimer >= 1f / animFrameRate)
+        {
+            animTimer -= 1f / animFrameRate;
+            animFrame = (animFrame + 1) % frames.Length;
+        }
+
+        visualRenderer.sprite = frames[animFrame];
     }
 
     void FireProjectile(GameObject prefab, float speed)
     {
         if (prefab == null || target == null) return;
 
-        // barrel offset based on current facing
+        Vector2 dir = ((Vector2)target.position - (Vector2)transform.position).normalized;
+
         Vector2 barrelOffset;
-        if (visualRenderer != null && visualRenderer.sprite != null)
+        if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
         {
-            if (visualRenderer.sprite == tankRight || visualRenderer.sprite == heliRight)
+            if (dir.x > 0)
                 barrelOffset = new Vector2(4.2f, 1f);
-            else if (visualRenderer.sprite == tankLeft || visualRenderer.sprite == heliLeft)
+            else
                 barrelOffset = new Vector2(-4.2f, 1f);
-            else if (visualRenderer.sprite == tankUp || visualRenderer.sprite == heliUp)
+        }
+        else
+        {
+            if (dir.y > 0)
                 barrelOffset = new Vector2(0f, 4.2f);
             else
                 barrelOffset = new Vector2(0f, -4.2f);
         }
-        else
-        {
-            barrelOffset = Vector2.zero;
-        }
 
         Vector2 spawnPos = (Vector2)transform.position + barrelOffset;
+        Vector2 aimDir = ((Vector2)target.position - spawnPos).normalized;
 
-        // aim at player from barrel position
-        Vector2 dir = ((Vector2)target.position - spawnPos).normalized;
-
-        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        float angle = Mathf.Atan2(aimDir.y, aimDir.x) * Mathf.Rad2Deg;
         Quaternion rot = Quaternion.Euler(0, 0, angle);
 
         GameObject proj = Instantiate(prefab, spawnPos, rot);
         Rigidbody2D projRb = proj.GetComponent<Rigidbody2D>();
         if (projRb != null)
-            projRb.linearVelocity = dir * speed;
+            projRb.linearVelocity = aimDir * speed;
 
         Destroy(proj, 5f);
     }
