@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using TMPro;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(Collider2D))]
 public class GateController : MonoBehaviour
@@ -14,6 +16,8 @@ public class GateController : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private Collider2D gateCollider;
+    private TMP_Text lockedMessageText;
+    private Text legacyLockedMessageText;
     private bool playerNearby;
     private bool opened;
 
@@ -21,6 +25,20 @@ public class GateController : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         gateCollider = GetComponent<Collider2D>();
+
+        if (lockedMessageUI != null)
+        {
+            lockedMessageText = lockedMessageUI.GetComponent<TMP_Text>();
+            if (lockedMessageText == null)
+                lockedMessageText = lockedMessageUI.GetComponentInChildren<TMP_Text>(true);
+
+            if (lockedMessageText == null)
+            {
+                legacyLockedMessageText = lockedMessageUI.GetComponent<Text>();
+                if (legacyLockedMessageText == null)
+                    legacyLockedMessageText = lockedMessageUI.GetComponentInChildren<Text>(true);
+            }
+        }
     }
 
     private void Update()
@@ -42,6 +60,8 @@ public class GateController : MonoBehaviour
 
         if (!ScrollManager.Instance.HasEnoughScrolls())
         {
+            UpdateLockedMessage();
+
             if (lockedMessageUI != null)
                 lockedMessageUI.SetActive(true);
 
@@ -69,6 +89,20 @@ public class GateController : MonoBehaviour
             gateCollider.enabled = false;
 
         Debug.Log("[GateController] Gate opened.");
+    }
+
+    private void UpdateLockedMessage()
+    {
+        if (ScrollManager.Instance == null)
+            return;
+
+        string message = $"Gate Locked: {ScrollManager.Instance.CurrentScrolls}/{ScrollManager.Instance.RequiredScrolls} Scrolls";
+
+        if (lockedMessageText != null)
+            lockedMessageText.text = message;
+
+        if (legacyLockedMessageText != null)
+            legacyLockedMessageText.text = message;
     }
 
     private void OnTriggerEnter2D(Collider2D other)

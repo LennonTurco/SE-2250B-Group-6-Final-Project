@@ -19,6 +19,8 @@ public class ChestController : MonoBehaviour
     private bool playerNearby;
     private bool opened;
 
+    
+
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
