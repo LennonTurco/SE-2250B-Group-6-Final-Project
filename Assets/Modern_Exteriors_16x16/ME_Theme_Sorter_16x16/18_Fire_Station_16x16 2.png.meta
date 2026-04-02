@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: da2962f86244c4f05bbf9c1a0f312ddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6607114463852046575
+    second: 18_Fire_Station_16x16 2_0
+  - first:
+      213: -6106388767421080773
+    second: 18_Fire_Station_16x16 2_1
+  - first:
+      213: -1988650859595015752
+    second: 18_Fire_Station_16x16 2_2
+  - first:
+      213: 7808711016643221368
+    second: 18_Fire_Station_16x16 2_3
+  - first:
+      213: 1967975825720960151
+    second: 18_Fire_Station_16x16 2_4
+  - first:
+      213: -5404827371156441785
+    second: 18_Fire_Station_16x16 2_5
+  - first:
+      213: 6148824347542280943
+    second: 18_Fire_Station_16x16 2_6
+  - first:
+      213: 5888594697577103168
+    second: 18_Fire_Station_16x16 2_7
+  - first:
+      213: -585762086076365216
+    second: 18_Fire_Station_16x16 2_8
+  - first:
+      213: 5632874009849082541
+    second: 18_Fire_Station_16x16 2_9
+  - first:
+      213: -5480909763920732138
+    second: 18_Fire_Station_16x16 2_10
+  - first:
+      213: 8989319331799704283
+    second: 18_Fire_Station_16x16 2_11
+  - first:
+      213: -6440141990463973139
+    second: 18_Fire_Station_16x16 2_12
+  - first:
+      213: 3715327934005001207
+    second: 18_Fire_Station_16x16 2_13
+  - first:
+      213: -4455232940440790287
+    second: 18_Fire_Station_16x16 2_14
+  - first:
+      213: 4731107722876994631
+    second: 18_Fire_Station_16x16 2_15
+  - first:
+      213: -8226076424581542854
+    second: 18_Fire_Station_16x16 2_16
+  - first:
+      213: -8050483317040456731
+    second: 18_Fire_Station_16x16 2_17
+  - first:
+      213: 4209795027675669538
+    second: 18_Fire_Station_16x16 2_18
+  - first:
+      213: -7335840087442612684
+    second: 18_Fire_Station_16x16 2_19
+  - first:
+      213: 1362411915319621353
+    second: 18_Fire_Station_16x16 2_20
+  - first:
+      213: -8448352997192764115
+    second: 18_Fire_Station_16x16 2_21
+  - first:
+      213: -5094891652646256914
+    second: 18_Fire_Station_16x16 2_22
+  - first:
+      213: -8215976431822604131
+    second: 18_Fire_Station_16x16 2_23
+  - first:
+      213: -8997028326675654451
+    second: 18_Fire_Station_16x16 2_24
+  - first:
+      213: -5122842906030669352
+    second: 18_Fire_Station_16x16 2_25
+  - first:
+      213: 3687808947055712734
+    second: 18_Fire_Station_16x16 2_26
+  - first:
+      213: 3077701839623400207
+    second: 18_Fire_Station_16x16 2_27
+  - first:
+      213: -860982614537606483
+    second: 18_Fire_Station_16x16 2_28
+  - first:
+      213: -4984292753545122475
+    second: 18_Fire_Station_16x16 2_29
+  - first:
+      213: 7287193268595916160
+    second: 18_Fire_Station_16x16 2_30
+  - first:
+      213: 7342541678167284571
+    second: 18_Fire_Station_16x16 2_31
+  - first:
+      213: -5410162504885732874
+    second: 18_Fire_Station_16x16 2_32
+  - first:
+      213: -7317413574475908141
+    second: 18_Fire_Station_16x16 2_33
+  - first:
+      213: -2482911875389949475
+    second: 18_Fire_Station_16x16 2_34
+  - first:
+      213: 6360673940713429728
+    second: 18_Fire_Station_16x16 2_35
+  - first:
+      213: -7006105988563110930
+    second: 18_Fire_Station_16x16 2_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 253
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d0cfa660de44a0800000000000000
+      internalID: -6607114463852046575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 399
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5e61e4cfb14ba0800000000000000
+      internalID: -6106388767421080773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 320
+        width: 55
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9509b5494e664e0800000000000000
+      internalID: -1988650859595015752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 320
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877d2bc1c4d1e5c60800000000000000
+      internalID: 7808711016643221368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79467a23697af4b10800000000000000
+      internalID: 1967975825720960151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 239
+        width: 146
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74579e554223ef4b0800000000000000
+      internalID: -5404827371156441785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead78d8a23055550800000000000000
+      internalID: 6148824347542280943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff457adad78b150800000000000000
+      internalID: 5888594697577103168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 146
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c6887c74fed7f0800000000000000
+      internalID: -585762086076365216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 160
+        width: 55
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2b595511dfb2e40800000000000000
+      internalID: 5632874009849082541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 160
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610e88bdb95efe3b0800000000000000
+      internalID: -5480909763920732138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd229780e4a70cc70800000000000000
+      internalID: 8989319331799704283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de851532bf400a6a0800000000000000
+      internalID: -6440141990463973139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3472421f7f8330800000000000000
+      internalID: 3715327934005001207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5869de35db22c0800000000000000
+      internalID: -4455232940440790287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c030586548a140800000000000000
+      internalID: 4731107722876994631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0a91531b17dd80800000000000000
+      internalID: -8226076424581542854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb58919310f64090800000000000000
+      internalID: -8050483317040456731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22460d1f5423c6a30800000000000000
+      internalID: 4209795027675669538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 37
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e99e2be4cd13a90800000000000000
+      internalID: -7335840087442612684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6b26a2b6248e210800000000000000
+      internalID: 1362411915319621353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 53
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25f739d5bb61ca80800000000000000
+      internalID: -8448352997192764115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeebaea290f4b49b0800000000000000
+      internalID: -5094891652646256914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 146
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987b3227fcfafd80800000000000000
+      internalID: -8215976431822604131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8de5ab762242380800000000000000
+      internalID: -8997028326675654451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 35
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d189e9d48108e8b0800000000000000
+      internalID: -5122842906030669352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed953c0d2babd2330800000000000000
+      internalID: 3687808947055712734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba15b448136ba20800000000000000
+      internalID: 3077701839623400207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daae2beafdc2d04f0800000000000000
+      internalID: -860982614537606483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55da368062c34dab0800000000000000
+      internalID: -4984292753545122475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df6482baf412560800000000000000
+      internalID: 7287193268595916160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b59abf0c2f5e560800000000000000
+      internalID: 7342541678167284571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f527bddd3be4b0800000000000000
+      internalID: -5410162504885732874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbfdb29f13537a90800000000000000
+      internalID: -7317413574475908141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd978caedccea8dd0800000000000000
+      internalID: -2482911875389949475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eade40bf37a54850800000000000000
+      internalID: 6360673940713429728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_Fire_Station_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee375fc29bf45ce90800000000000000
+      internalID: -7006105988563110930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      18_Fire_Station_16x16 2_0: -6607114463852046575
+      18_Fire_Station_16x16 2_1: -6106388767421080773
+      18_Fire_Station_16x16 2_10: -5480909763920732138
+      18_Fire_Station_16x16 2_11: 8989319331799704283
+      18_Fire_Station_16x16 2_12: -6440141990463973139
+      18_Fire_Station_16x16 2_13: 3715327934005001207
+      18_Fire_Station_16x16 2_14: -4455232940440790287
+      18_Fire_Station_16x16 2_15: 4731107722876994631
+      18_Fire_Station_16x16 2_16: -8226076424581542854
+      18_Fire_Station_16x16 2_17: -8050483317040456731
+      18_Fire_Station_16x16 2_18: 4209795027675669538
+      18_Fire_Station_16x16 2_19: -7335840087442612684
+      18_Fire_Station_16x16 2_2: -1988650859595015752
+      18_Fire_Station_16x16 2_20: 1362411915319621353
+      18_Fire_Station_16x16 2_21: -8448352997192764115
+      18_Fire_Station_16x16 2_22: -5094891652646256914
+      18_Fire_Station_16x16 2_23: -8215976431822604131
+      18_Fire_Station_16x16 2_24: -8997028326675654451
+      18_Fire_Station_16x16 2_25: -5122842906030669352
+      18_Fire_Station_16x16 2_26: 3687808947055712734
+      18_Fire_Station_16x16 2_27: 3077701839623400207
+      18_Fire_Station_16x16 2_28: -860982614537606483
+      18_Fire_Station_16x16 2_29: -4984292753545122475
+      18_Fire_Station_16x16 2_3: 7808711016643221368
+      18_Fire_Station_16x16 2_30: 7287193268595916160
+      18_Fire_Station_16x16 2_31: 7342541678167284571
+      18_Fire_Station_16x16 2_32: -5410162504885732874
+      18_Fire_Station_16x16 2_33: -7317413574475908141
+      18_Fire_Station_16x16 2_34: -2482911875389949475
+      18_Fire_Station_16x16 2_35: 6360673940713429728
+      18_Fire_Station_16x16 2_36: -7006105988563110930
+      18_Fire_Station_16x16 2_4: 1967975825720960151
+      18_Fire_Station_16x16 2_5: -5404827371156441785
+      18_Fire_Station_16x16 2_6: 6148824347542280943
+      18_Fire_Station_16x16 2_7: 5888594697577103168
+      18_Fire_Station_16x16 2_8: -585762086076365216
+      18_Fire_Station_16x16 2_9: 5632874009849082541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

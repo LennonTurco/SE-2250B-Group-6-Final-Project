@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: a875d8e26ac3d47679d42e7680cc7773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2496012817814963631
+    second: Drone_Helix_16x16 2_0
+  - first:
+      213: 8404388385167618648
+    second: Drone_Helix_16x16 2_1
+  - first:
+      213: 9123472690763821427
+    second: Drone_Helix_16x16 2_2
+  - first:
+      213: 1853428922020010999
+    second: Drone_Helix_16x16 2_3
+  - first:
+      213: -333989864172773232
+    second: Drone_Helix_16x16 2_4
+  - first:
+      213: 140133982149966374
+    second: Drone_Helix_16x16 2_5
+  - first:
+      213: -7503621258805516889
+    second: Drone_Helix_16x16 2_6
+  - first:
+      213: 1294568823575343188
+    second: Drone_Helix_16x16 2_7
+  - first:
+      213: 9196423329222280061
+    second: Drone_Helix_16x16 2_8
+  - first:
+      213: 5409940418501952698
+    second: Drone_Helix_16x16 2_9
+  - first:
+      213: 8060231214790454669
+    second: Drone_Helix_16x16 2_10
+  - first:
+      213: 7804013466397395760
+    second: Drone_Helix_16x16 2_11
+  - first:
+      213: -5159900445655498641
+    second: Drone_Helix_16x16 2_12
+  - first:
+      213: 4496971568377686924
+    second: Drone_Helix_16x16 2_13
+  - first:
+      213: 6908647735077481705
+    second: Drone_Helix_16x16 2_14
+  - first:
+      213: 8719730692546075954
+    second: Drone_Helix_16x16 2_15
+  - first:
+      213: -8127582456459421930
+    second: Drone_Helix_16x16 2_16
+  - first:
+      213: 4341541133634849221
+    second: Drone_Helix_16x16 2_17
+  - first:
+      213: 1973249536783152260
+    second: Drone_Helix_16x16 2_18
+  - first:
+      213: -8646383968031786934
+    second: Drone_Helix_16x16 2_19
+  - first:
+      213: 6701461919635394060
+    second: Drone_Helix_16x16 2_20
+  - first:
+      213: 480883827609692125
+    second: Drone_Helix_16x16 2_21
+  - first:
+      213: -5753123815822987431
+    second: Drone_Helix_16x16 2_22
+  - first:
+      213: -385948774048167014
+    second: Drone_Helix_16x16 2_23
+  - first:
+      213: -3499955090341982820
+    second: Drone_Helix_16x16 2_24
+  - first:
+      213: -7701685136760922174
+    second: Drone_Helix_16x16 2_25
+  - first:
+      213: 3414907299659250633
+    second: Drone_Helix_16x16 2_26
+  - first:
+      213: -7507476210148527028
+    second: Drone_Helix_16x16 2_27
+  - first:
+      213: -3235460943426334021
+    second: Drone_Helix_16x16 2_28
+  - first:
+      213: -4528525495759986217
+    second: Drone_Helix_16x16 2_29
+  - first:
+      213: 4585309960767928370
+    second: Drone_Helix_16x16 2_30
+  - first:
+      213: -8718901303055765792
+    second: Drone_Helix_16x16 2_31
+  - first:
+      213: -6090170961516670893
+    second: Drone_Helix_16x16 2_32
+  - first:
+      213: -1254618150764776518
+    second: Drone_Helix_16x16 2_33
+  - first:
+      213: -3431297789817766583
+    second: Drone_Helix_16x16 2_34
+  - first:
+      213: -5769074234861751727
+    second: Drone_Helix_16x16 2_35
+  - first:
+      213: 7484962126661840778
+    second: Drone_Helix_16x16 2_36
+  - first:
+      213: -2958086010470891488
+    second: Drone_Helix_16x16 2_37
+  - first:
+      213: -2760996537832538614
+    second: Drone_Helix_16x16 2_38
+  - first:
+      213: 7517326165875233191
+    second: Drone_Helix_16x16 2_39
+  - first:
+      213: 9003328397662070074
+    second: Drone_Helix_16x16 2_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a315f01916c5dd0800000000000000
+      internalID: -2496012817814963631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b55c35b262a470800000000000000
+      internalID: 8404388385167618648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37174f2f2161d9e70800000000000000
+      internalID: 9123472690763821427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb1071e8c3b8b910800000000000000
+      internalID: 1853428922020010999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a663fcfd6d5bf0800000000000000
+      internalID: -333989864172773232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a72034d1bd1f100800000000000000
+      internalID: 140133982149966374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5e3d39838cdd790800000000000000
+      internalID: -7503621258805516889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f0827c7b37f110800000000000000
+      internalID: 1294568823575343188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 17
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73c86e0b4240af70800000000000000
+      internalID: 9196423329222280061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab446d4c528f31b40800000000000000
+      internalID: 5409940418501952698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8da91db591bbdf60800000000000000
+      internalID: 8060231214790454669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4bf676ec6d4c60800000000000000
+      internalID: 7804013466397395760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60035c02e95468b0800000000000000
+      internalID: -5159900445655498641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bee22c0d3786e30800000000000000
+      internalID: 4496971568377686924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca99fe28270ef50800000000000000
+      internalID: 6908647735077481705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 17
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d9742add4b20970800000000000000
+      internalID: 8719730692546075954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171a0051d6053f80800000000000000
+      internalID: -8127582456459421930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c94d0898a0404c30800000000000000
+      internalID: 4341541133634849221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484f92dbff3626b10800000000000000
+      internalID: 1973249536783152260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4835d1779fd10880800000000000000
+      internalID: -8646383968031786934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eccab2c10600d50800000000000000
+      internalID: 6701461919635394060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e7ea1b417ca600800000000000000
+      internalID: 480883827609692125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe701fe5cc820b0800000000000000
+      internalID: -5753123815822987431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8c5582a5d4aaf0800000000000000
+      internalID: -385948774048167014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 17
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d885e8369ad6fc0800000000000000
+      internalID: -3499955090341982820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf95736c2e1e1590800000000000000
+      internalID: -7701685136760922174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf3199810346f20800000000000000
+      internalID: 3414907299659250633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44b666c92610d790800000000000000
+      internalID: -7507476210148527028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb25c660a655913d0800000000000000
+      internalID: -3235460943426334021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12de40e027721c0800000000000000
+      internalID: -4528525495759986217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f1a48d1b42af30800000000000000
+      internalID: 4585309960767928370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeaba7a57d300780800000000000000
+      internalID: -8718901303055765792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350566117cd5b7ba0800000000000000
+      internalID: -6090170961516670893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 17
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab378ea6073b69ee0800000000000000
+      internalID: -1254618150764776518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d345707d49160d0800000000000000
+      internalID: -3431297789817766583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152f43c9c8120ffa0800000000000000
+      internalID: -5769074234861751727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f6eeca56defd760800000000000000
+      internalID: 7484962126661840778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 17
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02084d23274c2f6d0800000000000000
+      internalID: -2958086010470891488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7868f648fea9d0800000000000000
+      internalID: -2760996537832538614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a11eb1c158e25860800000000000000
+      internalID: 7517326165875233191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone_Helix_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 17
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35a5dad97f32fc70800000000000000
+      internalID: 9003328397662070074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Drone_Helix_16x16 2_0: -2496012817814963631
+      Drone_Helix_16x16 2_1: 8404388385167618648
+      Drone_Helix_16x16 2_10: 8060231214790454669
+      Drone_Helix_16x16 2_11: 7804013466397395760
+      Drone_Helix_16x16 2_12: -5159900445655498641
+      Drone_Helix_16x16 2_13: 4496971568377686924
+      Drone_Helix_16x16 2_14: 6908647735077481705
+      Drone_Helix_16x16 2_15: 8719730692546075954
+      Drone_Helix_16x16 2_16: -8127582456459421930
+      Drone_Helix_16x16 2_17: 4341541133634849221
+      Drone_Helix_16x16 2_18: 1973249536783152260
+      Drone_Helix_16x16 2_19: -8646383968031786934
+      Drone_Helix_16x16 2_2: 9123472690763821427
+      Drone_Helix_16x16 2_20: 6701461919635394060
+      Drone_Helix_16x16 2_21: 480883827609692125
+      Drone_Helix_16x16 2_22: -5753123815822987431
+      Drone_Helix_16x16 2_23: -385948774048167014
+      Drone_Helix_16x16 2_24: -3499955090341982820
+      Drone_Helix_16x16 2_25: -7701685136760922174
+      Drone_Helix_16x16 2_26: 3414907299659250633
+      Drone_Helix_16x16 2_27: -7507476210148527028
+      Drone_Helix_16x16 2_28: -3235460943426334021
+      Drone_Helix_16x16 2_29: -4528525495759986217
+      Drone_Helix_16x16 2_3: 1853428922020010999
+      Drone_Helix_16x16 2_30: 4585309960767928370
+      Drone_Helix_16x16 2_31: -8718901303055765792
+      Drone_Helix_16x16 2_32: -6090170961516670893
+      Drone_Helix_16x16 2_33: -1254618150764776518
+      Drone_Helix_16x16 2_34: -3431297789817766583
+      Drone_Helix_16x16 2_35: -5769074234861751727
+      Drone_Helix_16x16 2_36: 7484962126661840778
+      Drone_Helix_16x16 2_37: -2958086010470891488
+      Drone_Helix_16x16 2_38: -2760996537832538614
+      Drone_Helix_16x16 2_39: 7517326165875233191
+      Drone_Helix_16x16 2_4: -333989864172773232
+      Drone_Helix_16x16 2_40: 9003328397662070074
+      Drone_Helix_16x16 2_5: 140133982149966374
+      Drone_Helix_16x16 2_6: -7503621258805516889
+      Drone_Helix_16x16 2_7: 1294568823575343188
+      Drone_Helix_16x16 2_8: 9196423329222280061
+      Drone_Helix_16x16 2_9: 5409940418501952698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

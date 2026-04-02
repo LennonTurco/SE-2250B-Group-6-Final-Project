@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 2db5731e884984362a1ede4f0ed8f009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1443146816087943966
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_0
+  - first:
+      213: -3101588945205510398
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_1
+  - first:
+      213: 1449061250565197153
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_2
+  - first:
+      213: -1855523431651438617
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_3
+  - first:
+      213: -5143403765038175036
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_4
+  - first:
+      213: -8679972521525757041
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_5
+  - first:
+      213: 2720656948112683710
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_6
+  - first:
+      213: 5769165125914996450
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_7
+  - first:
+      213: -4159312718075418082
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_8
+  - first:
+      213: 3903522617720320101
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_9
+  - first:
+      213: -8993437855454937888
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_10
+  - first:
+      213: -5103676605406838171
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_11
+  - first:
+      213: -8023450354644634596
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_12
+  - first:
+      213: -5545517099331816403
+    second: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4975ced99e8fbe0800000000000000
+      internalID: -1443146816087943966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f3fb98941f4f4d0800000000000000
+      internalID: -3101588945205510398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dc8b9a7891c1410800000000000000
+      internalID: 1449061250565197153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8008154bdf36e0800000000000000
+      internalID: -1855523431651438617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2e70d685fe98b0800000000000000
+      internalID: -5143403765038175036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b3e4aeafa8a8780800000000000000
+      internalID: -8679972521525757041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb274f36417b1c520800000000000000
+      internalID: 2720656948112683710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2cbc9d11301050800000000000000
+      internalID: 5769165125914996450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa951be172746c0800000000000000
+      internalID: -4159312718075418082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603ce993291c2630800000000000000
+      internalID: 3903522617720320101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecbe047be3e03380800000000000000
+      internalID: -8993437855454937888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620146fa291c29b0800000000000000
+      internalID: -5103676605406838171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14bc6a996af6a090800000000000000
+      internalID: -8023450354644634596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f87e549d5a03b0800000000000000
+      internalID: -5545517099331816403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_0: -1443146816087943966
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_1: -3101588945205510398
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_10: -8993437855454937888
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_11: -5103676605406838171
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_12: -8023450354644634596
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_13: -5545517099331816403
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_2: 1449061250565197153
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_3: -1855523431651438617
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_4: -5143403765038175036
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_5: -8679972521525757041
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_6: 2720656948112683710
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_7: 5769165125914996450
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_8: -4159312718075418082
+      Floor_Modular_Buildings_1_Door_Ice_Cream_16x16 2_9: 3903522617720320101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

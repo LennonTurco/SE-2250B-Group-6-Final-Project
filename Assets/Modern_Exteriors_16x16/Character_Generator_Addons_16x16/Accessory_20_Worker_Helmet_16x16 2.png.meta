@@ -1,0 +1,7124 @@
+fileFormatVersion: 2
+guid: acd0c885f3f704eb686bae974d52ce6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4391945916368328787
+    second: Accessory_20_Worker_Helmet_16x16 2_0
+  - first:
+      213: -9030909536624402259
+    second: Accessory_20_Worker_Helmet_16x16 2_1
+  - first:
+      213: 5671800329068484370
+    second: Accessory_20_Worker_Helmet_16x16 2_2
+  - first:
+      213: 4743575394946488560
+    second: Accessory_20_Worker_Helmet_16x16 2_3
+  - first:
+      213: -8005737545414034179
+    second: Accessory_20_Worker_Helmet_16x16 2_4
+  - first:
+      213: -3972969833297650358
+    second: Accessory_20_Worker_Helmet_16x16 2_5
+  - first:
+      213: 1332815273440776852
+    second: Accessory_20_Worker_Helmet_16x16 2_6
+  - first:
+      213: -8878129563740573248
+    second: Accessory_20_Worker_Helmet_16x16 2_7
+  - first:
+      213: 8622833585629611012
+    second: Accessory_20_Worker_Helmet_16x16 2_8
+  - first:
+      213: -4054376441910266513
+    second: Accessory_20_Worker_Helmet_16x16 2_9
+  - first:
+      213: 8571777652558954682
+    second: Accessory_20_Worker_Helmet_16x16 2_10
+  - first:
+      213: 7872495072083682459
+    second: Accessory_20_Worker_Helmet_16x16 2_11
+  - first:
+      213: 1619083451528709782
+    second: Accessory_20_Worker_Helmet_16x16 2_12
+  - first:
+      213: 7031663280013934348
+    second: Accessory_20_Worker_Helmet_16x16 2_13
+  - first:
+      213: -4296347735753764486
+    second: Accessory_20_Worker_Helmet_16x16 2_14
+  - first:
+      213: 2062479031265543519
+    second: Accessory_20_Worker_Helmet_16x16 2_15
+  - first:
+      213: -6457537165540387324
+    second: Accessory_20_Worker_Helmet_16x16 2_16
+  - first:
+      213: -4763133392142177950
+    second: Accessory_20_Worker_Helmet_16x16 2_17
+  - first:
+      213: 5448660394708094288
+    second: Accessory_20_Worker_Helmet_16x16 2_18
+  - first:
+      213: -1484561190814955458
+    second: Accessory_20_Worker_Helmet_16x16 2_19
+  - first:
+      213: 5138640150490742880
+    second: Accessory_20_Worker_Helmet_16x16 2_20
+  - first:
+      213: 893177923643898485
+    second: Accessory_20_Worker_Helmet_16x16 2_21
+  - first:
+      213: 3034976218569989515
+    second: Accessory_20_Worker_Helmet_16x16 2_22
+  - first:
+      213: -2129167648482319344
+    second: Accessory_20_Worker_Helmet_16x16 2_23
+  - first:
+      213: -1800123670249369823
+    second: Accessory_20_Worker_Helmet_16x16 2_24
+  - first:
+      213: -6084189904839106856
+    second: Accessory_20_Worker_Helmet_16x16 2_25
+  - first:
+      213: 1547263433265619946
+    second: Accessory_20_Worker_Helmet_16x16 2_26
+  - first:
+      213: -5288303739627371977
+    second: Accessory_20_Worker_Helmet_16x16 2_27
+  - first:
+      213: -1805685820049736188
+    second: Accessory_20_Worker_Helmet_16x16 2_28
+  - first:
+      213: 8783820573835866747
+    second: Accessory_20_Worker_Helmet_16x16 2_29
+  - first:
+      213: -2840450853686816309
+    second: Accessory_20_Worker_Helmet_16x16 2_30
+  - first:
+      213: 7006928974415507584
+    second: Accessory_20_Worker_Helmet_16x16 2_31
+  - first:
+      213: -1733736452234511718
+    second: Accessory_20_Worker_Helmet_16x16 2_32
+  - first:
+      213: 9005504601386336524
+    second: Accessory_20_Worker_Helmet_16x16 2_33
+  - first:
+      213: 7248944851937660018
+    second: Accessory_20_Worker_Helmet_16x16 2_34
+  - first:
+      213: 4624363589890334854
+    second: Accessory_20_Worker_Helmet_16x16 2_35
+  - first:
+      213: -848558932462631026
+    second: Accessory_20_Worker_Helmet_16x16 2_36
+  - first:
+      213: -8358440340907965433
+    second: Accessory_20_Worker_Helmet_16x16 2_37
+  - first:
+      213: 784025711301235514
+    second: Accessory_20_Worker_Helmet_16x16 2_38
+  - first:
+      213: -5026849290335848154
+    second: Accessory_20_Worker_Helmet_16x16 2_39
+  - first:
+      213: 3921088418440529492
+    second: Accessory_20_Worker_Helmet_16x16 2_40
+  - first:
+      213: 5254280651410180755
+    second: Accessory_20_Worker_Helmet_16x16 2_41
+  - first:
+      213: -6123693734953927837
+    second: Accessory_20_Worker_Helmet_16x16 2_42
+  - first:
+      213: 2671171267929343760
+    second: Accessory_20_Worker_Helmet_16x16 2_43
+  - first:
+      213: 9172190894237230957
+    second: Accessory_20_Worker_Helmet_16x16 2_44
+  - first:
+      213: -4954640050883462502
+    second: Accessory_20_Worker_Helmet_16x16 2_45
+  - first:
+      213: 283774089322420601
+    second: Accessory_20_Worker_Helmet_16x16 2_46
+  - first:
+      213: 2473931796675919587
+    second: Accessory_20_Worker_Helmet_16x16 2_47
+  - first:
+      213: -4091854279152731262
+    second: Accessory_20_Worker_Helmet_16x16 2_48
+  - first:
+      213: 6480239980096903876
+    second: Accessory_20_Worker_Helmet_16x16 2_49
+  - first:
+      213: -5110462540022363907
+    second: Accessory_20_Worker_Helmet_16x16 2_50
+  - first:
+      213: -6125895122823427486
+    second: Accessory_20_Worker_Helmet_16x16 2_51
+  - first:
+      213: -1442504778400858304
+    second: Accessory_20_Worker_Helmet_16x16 2_52
+  - first:
+      213: 5742200752603097155
+    second: Accessory_20_Worker_Helmet_16x16 2_53
+  - first:
+      213: 1854994874751002850
+    second: Accessory_20_Worker_Helmet_16x16 2_54
+  - first:
+      213: -6912860976638606062
+    second: Accessory_20_Worker_Helmet_16x16 2_55
+  - first:
+      213: -1740614169337225019
+    second: Accessory_20_Worker_Helmet_16x16 2_56
+  - first:
+      213: -9030182448297489610
+    second: Accessory_20_Worker_Helmet_16x16 2_57
+  - first:
+      213: 7398441675504815187
+    second: Accessory_20_Worker_Helmet_16x16 2_58
+  - first:
+      213: -5934943196977281142
+    second: Accessory_20_Worker_Helmet_16x16 2_59
+  - first:
+      213: 409916555235455335
+    second: Accessory_20_Worker_Helmet_16x16 2_60
+  - first:
+      213: -6362285613575960882
+    second: Accessory_20_Worker_Helmet_16x16 2_61
+  - first:
+      213: -5973312951844688439
+    second: Accessory_20_Worker_Helmet_16x16 2_62
+  - first:
+      213: -120568924349398833
+    second: Accessory_20_Worker_Helmet_16x16 2_63
+  - first:
+      213: 7727725627855646151
+    second: Accessory_20_Worker_Helmet_16x16 2_64
+  - first:
+      213: 2073716330797366665
+    second: Accessory_20_Worker_Helmet_16x16 2_65
+  - first:
+      213: 2684054569114959322
+    second: Accessory_20_Worker_Helmet_16x16 2_66
+  - first:
+      213: 5881747162691170202
+    second: Accessory_20_Worker_Helmet_16x16 2_67
+  - first:
+      213: 2659670778044656246
+    second: Accessory_20_Worker_Helmet_16x16 2_68
+  - first:
+      213: 7790381132717355144
+    second: Accessory_20_Worker_Helmet_16x16 2_69
+  - first:
+      213: 4943595023289463623
+    second: Accessory_20_Worker_Helmet_16x16 2_70
+  - first:
+      213: 2118438109911508611
+    second: Accessory_20_Worker_Helmet_16x16 2_71
+  - first:
+      213: 7283156029774801878
+    second: Accessory_20_Worker_Helmet_16x16 2_72
+  - first:
+      213: 8341756271250844404
+    second: Accessory_20_Worker_Helmet_16x16 2_73
+  - first:
+      213: 5683859805074710449
+    second: Accessory_20_Worker_Helmet_16x16 2_74
+  - first:
+      213: -8793164583228839642
+    second: Accessory_20_Worker_Helmet_16x16 2_75
+  - first:
+      213: -7829037061169615685
+    second: Accessory_20_Worker_Helmet_16x16 2_76
+  - first:
+      213: 8091903626507305027
+    second: Accessory_20_Worker_Helmet_16x16 2_77
+  - first:
+      213: 4993284467670423557
+    second: Accessory_20_Worker_Helmet_16x16 2_78
+  - first:
+      213: -2118904716824343234
+    second: Accessory_20_Worker_Helmet_16x16 2_79
+  - first:
+      213: -5872372856442397917
+    second: Accessory_20_Worker_Helmet_16x16 2_80
+  - first:
+      213: 4663729199446796464
+    second: Accessory_20_Worker_Helmet_16x16 2_81
+  - first:
+      213: 184654480006653928
+    second: Accessory_20_Worker_Helmet_16x16 2_82
+  - first:
+      213: -153615662827527583
+    second: Accessory_20_Worker_Helmet_16x16 2_83
+  - first:
+      213: 7249305654507499478
+    second: Accessory_20_Worker_Helmet_16x16 2_84
+  - first:
+      213: 5750755253057341276
+    second: Accessory_20_Worker_Helmet_16x16 2_85
+  - first:
+      213: -7120487050161080701
+    second: Accessory_20_Worker_Helmet_16x16 2_86
+  - first:
+      213: 729845978521186679
+    second: Accessory_20_Worker_Helmet_16x16 2_87
+  - first:
+      213: 566328281043534038
+    second: Accessory_20_Worker_Helmet_16x16 2_88
+  - first:
+      213: -892640363236502382
+    second: Accessory_20_Worker_Helmet_16x16 2_89
+  - first:
+      213: 5160883971434933136
+    second: Accessory_20_Worker_Helmet_16x16 2_90
+  - first:
+      213: 7160564889255646490
+    second: Accessory_20_Worker_Helmet_16x16 2_91
+  - first:
+      213: -1429811602973134876
+    second: Accessory_20_Worker_Helmet_16x16 2_92
+  - first:
+      213: 4913898071968928850
+    second: Accessory_20_Worker_Helmet_16x16 2_93
+  - first:
+      213: -2755481698924978915
+    second: Accessory_20_Worker_Helmet_16x16 2_94
+  - first:
+      213: 4838290687227372115
+    second: Accessory_20_Worker_Helmet_16x16 2_95
+  - first:
+      213: 9152174649679121264
+    second: Accessory_20_Worker_Helmet_16x16 2_96
+  - first:
+      213: 6891891599610488074
+    second: Accessory_20_Worker_Helmet_16x16 2_97
+  - first:
+      213: -7924991083845167705
+    second: Accessory_20_Worker_Helmet_16x16 2_98
+  - first:
+      213: -5278875359744366941
+    second: Accessory_20_Worker_Helmet_16x16 2_99
+  - first:
+      213: -2372161116888727786
+    second: Accessory_20_Worker_Helmet_16x16 2_100
+  - first:
+      213: -1024863341703653133
+    second: Accessory_20_Worker_Helmet_16x16 2_101
+  - first:
+      213: -5643065224794103664
+    second: Accessory_20_Worker_Helmet_16x16 2_102
+  - first:
+      213: 8761274200342640907
+    second: Accessory_20_Worker_Helmet_16x16 2_103
+  - first:
+      213: -1382499148925200694
+    second: Accessory_20_Worker_Helmet_16x16 2_104
+  - first:
+      213: -9204216488008286834
+    second: Accessory_20_Worker_Helmet_16x16 2_105
+  - first:
+      213: -2797253970392682941
+    second: Accessory_20_Worker_Helmet_16x16 2_106
+  - first:
+      213: -3590195276344849385
+    second: Accessory_20_Worker_Helmet_16x16 2_107
+  - first:
+      213: 7297583941733429132
+    second: Accessory_20_Worker_Helmet_16x16 2_108
+  - first:
+      213: 4671967672357899810
+    second: Accessory_20_Worker_Helmet_16x16 2_109
+  - first:
+      213: -7345850047667252638
+    second: Accessory_20_Worker_Helmet_16x16 2_110
+  - first:
+      213: -3100304444865088111
+    second: Accessory_20_Worker_Helmet_16x16 2_111
+  - first:
+      213: -653536510634806504
+    second: Accessory_20_Worker_Helmet_16x16 2_112
+  - first:
+      213: -7194099438794999087
+    second: Accessory_20_Worker_Helmet_16x16 2_113
+  - first:
+      213: -4305049201053655385
+    second: Accessory_20_Worker_Helmet_16x16 2_114
+  - first:
+      213: -8770204520746306841
+    second: Accessory_20_Worker_Helmet_16x16 2_115
+  - first:
+      213: -204333880748118858
+    second: Accessory_20_Worker_Helmet_16x16 2_116
+  - first:
+      213: -5407017070382434956
+    second: Accessory_20_Worker_Helmet_16x16 2_117
+  - first:
+      213: -8395749017962947180
+    second: Accessory_20_Worker_Helmet_16x16 2_118
+  - first:
+      213: -6086680553756423774
+    second: Accessory_20_Worker_Helmet_16x16 2_119
+  - first:
+      213: 2424781080612870803
+    second: Accessory_20_Worker_Helmet_16x16 2_120
+  - first:
+      213: 6647656824181763813
+    second: Accessory_20_Worker_Helmet_16x16 2_121
+  - first:
+      213: -5934016914760293358
+    second: Accessory_20_Worker_Helmet_16x16 2_122
+  - first:
+      213: 1028376453748080222
+    second: Accessory_20_Worker_Helmet_16x16 2_123
+  - first:
+      213: 1878861313005978585
+    second: Accessory_20_Worker_Helmet_16x16 2_124
+  - first:
+      213: -3259860992977902575
+    second: Accessory_20_Worker_Helmet_16x16 2_125
+  - first:
+      213: 825806024946483117
+    second: Accessory_20_Worker_Helmet_16x16 2_126
+  - first:
+      213: -7019729178441896821
+    second: Accessory_20_Worker_Helmet_16x16 2_127
+  - first:
+      213: 5594233051936205527
+    second: Accessory_20_Worker_Helmet_16x16 2_128
+  - first:
+      213: 5793992271359038930
+    second: Accessory_20_Worker_Helmet_16x16 2_129
+  - first:
+      213: 4252062837705092813
+    second: Accessory_20_Worker_Helmet_16x16 2_130
+  - first:
+      213: 7885600081219772557
+    second: Accessory_20_Worker_Helmet_16x16 2_131
+  - first:
+      213: -9098013676302488946
+    second: Accessory_20_Worker_Helmet_16x16 2_132
+  - first:
+      213: -8433362804133299586
+    second: Accessory_20_Worker_Helmet_16x16 2_133
+  - first:
+      213: -2464674135322463503
+    second: Accessory_20_Worker_Helmet_16x16 2_134
+  - first:
+      213: 8892728217889770213
+    second: Accessory_20_Worker_Helmet_16x16 2_135
+  - first:
+      213: 4188723189857209056
+    second: Accessory_20_Worker_Helmet_16x16 2_136
+  - first:
+      213: -6563702919802128882
+    second: Accessory_20_Worker_Helmet_16x16 2_137
+  - first:
+      213: 7662143034418280304
+    second: Accessory_20_Worker_Helmet_16x16 2_138
+  - first:
+      213: -3680571508129906860
+    second: Accessory_20_Worker_Helmet_16x16 2_139
+  - first:
+      213: -323188001105916062
+    second: Accessory_20_Worker_Helmet_16x16 2_140
+  - first:
+      213: 1179895340383126119
+    second: Accessory_20_Worker_Helmet_16x16 2_141
+  - first:
+      213: -3781515070210476804
+    second: Accessory_20_Worker_Helmet_16x16 2_142
+  - first:
+      213: -1348012076793837921
+    second: Accessory_20_Worker_Helmet_16x16 2_143
+  - first:
+      213: -6078618926554082858
+    second: Accessory_20_Worker_Helmet_16x16 2_144
+  - first:
+      213: -2447603857394760333
+    second: Accessory_20_Worker_Helmet_16x16 2_145
+  - first:
+      213: -8344915042812918413
+    second: Accessory_20_Worker_Helmet_16x16 2_146
+  - first:
+      213: 5676795185730491097
+    second: Accessory_20_Worker_Helmet_16x16 2_147
+  - first:
+      213: 7593040933351415412
+    second: Accessory_20_Worker_Helmet_16x16 2_148
+  - first:
+      213: 32303317531965240
+    second: Accessory_20_Worker_Helmet_16x16 2_149
+  - first:
+      213: -8223230407111715562
+    second: Accessory_20_Worker_Helmet_16x16 2_150
+  - first:
+      213: -1692193706903738143
+    second: Accessory_20_Worker_Helmet_16x16 2_151
+  - first:
+      213: -410061981477570510
+    second: Accessory_20_Worker_Helmet_16x16 2_152
+  - first:
+      213: -7848087690695145490
+    second: Accessory_20_Worker_Helmet_16x16 2_153
+  - first:
+      213: -6558677261371854994
+    second: Accessory_20_Worker_Helmet_16x16 2_154
+  - first:
+      213: 3193200373904402011
+    second: Accessory_20_Worker_Helmet_16x16 2_155
+  - first:
+      213: -7568504566023883813
+    second: Accessory_20_Worker_Helmet_16x16 2_156
+  - first:
+      213: -3584450039404715583
+    second: Accessory_20_Worker_Helmet_16x16 2_157
+  - first:
+      213: 4352637445444302159
+    second: Accessory_20_Worker_Helmet_16x16 2_158
+  - first:
+      213: -800372987979698683
+    second: Accessory_20_Worker_Helmet_16x16 2_159
+  - first:
+      213: -7631465413918824949
+    second: Accessory_20_Worker_Helmet_16x16 2_160
+  - first:
+      213: -494369620141994869
+    second: Accessory_20_Worker_Helmet_16x16 2_161
+  - first:
+      213: -7836403604218218969
+    second: Accessory_20_Worker_Helmet_16x16 2_162
+  - first:
+      213: 8719418725115933919
+    second: Accessory_20_Worker_Helmet_16x16 2_163
+  - first:
+      213: 6379956450457720969
+    second: Accessory_20_Worker_Helmet_16x16 2_164
+  - first:
+      213: 8535852739541795771
+    second: Accessory_20_Worker_Helmet_16x16 2_165
+  - first:
+      213: -2693792701480417824
+    second: Accessory_20_Worker_Helmet_16x16 2_166
+  - first:
+      213: -5499618676838424216
+    second: Accessory_20_Worker_Helmet_16x16 2_167
+  - first:
+      213: -8558056963969884079
+    second: Accessory_20_Worker_Helmet_16x16 2_168
+  - first:
+      213: -3026176544640685044
+    second: Accessory_20_Worker_Helmet_16x16 2_169
+  - first:
+      213: -4261691511008021271
+    second: Accessory_20_Worker_Helmet_16x16 2_170
+  - first:
+      213: -3831805099471920418
+    second: Accessory_20_Worker_Helmet_16x16 2_171
+  - first:
+      213: 5179506624051012700
+    second: Accessory_20_Worker_Helmet_16x16 2_172
+  - first:
+      213: 7108980245524747687
+    second: Accessory_20_Worker_Helmet_16x16 2_173
+  - first:
+      213: -1698195774499004234
+    second: Accessory_20_Worker_Helmet_16x16 2_174
+  - first:
+      213: 1648090361453993145
+    second: Accessory_20_Worker_Helmet_16x16 2_175
+  - first:
+      213: 1869181025113096673
+    second: Accessory_20_Worker_Helmet_16x16 2_176
+  - first:
+      213: 3364605255140173566
+    second: Accessory_20_Worker_Helmet_16x16 2_177
+  - first:
+      213: 1521121636930851952
+    second: Accessory_20_Worker_Helmet_16x16 2_178
+  - first:
+      213: -5964998862633999819
+    second: Accessory_20_Worker_Helmet_16x16 2_179
+  - first:
+      213: 1781526898100535792
+    second: Accessory_20_Worker_Helmet_16x16 2_180
+  - first:
+      213: 508247218496173622
+    second: Accessory_20_Worker_Helmet_16x16 2_181
+  - first:
+      213: -2710137216073743705
+    second: Accessory_20_Worker_Helmet_16x16 2_182
+  - first:
+      213: 2632677402326246905
+    second: Accessory_20_Worker_Helmet_16x16 2_183
+  - first:
+      213: -6277354842299983908
+    second: Accessory_20_Worker_Helmet_16x16 2_184
+  - first:
+      213: -1818691071204367888
+    second: Accessory_20_Worker_Helmet_16x16 2_185
+  - first:
+      213: 5149392427899561903
+    second: Accessory_20_Worker_Helmet_16x16 2_186
+  - first:
+      213: 118044491101066928
+    second: Accessory_20_Worker_Helmet_16x16 2_187
+  - first:
+      213: 2530844531707852512
+    second: Accessory_20_Worker_Helmet_16x16 2_188
+  - first:
+      213: -1773769635814777955
+    second: Accessory_20_Worker_Helmet_16x16 2_189
+  - first:
+      213: 9207245968092774748
+    second: Accessory_20_Worker_Helmet_16x16 2_190
+  - first:
+      213: 6096356653064699972
+    second: Accessory_20_Worker_Helmet_16x16 2_191
+  - first:
+      213: 194388485137051197
+    second: Accessory_20_Worker_Helmet_16x16 2_192
+  - first:
+      213: -5286128790445768120
+    second: Accessory_20_Worker_Helmet_16x16 2_193
+  - first:
+      213: -1373223161068133123
+    second: Accessory_20_Worker_Helmet_16x16 2_194
+  - first:
+      213: -4630628474336998294
+    second: Accessory_20_Worker_Helmet_16x16 2_195
+  - first:
+      213: -3625262301808212177
+    second: Accessory_20_Worker_Helmet_16x16 2_196
+  - first:
+      213: 2245948617419438325
+    second: Accessory_20_Worker_Helmet_16x16 2_197
+  - first:
+      213: 8835023399713030968
+    second: Accessory_20_Worker_Helmet_16x16 2_198
+  - first:
+      213: 9162590544191592642
+    second: Accessory_20_Worker_Helmet_16x16 2_199
+  - first:
+      213: -3778966268721433388
+    second: Accessory_20_Worker_Helmet_16x16 2_200
+  - first:
+      213: -8211354455642874995
+    second: Accessory_20_Worker_Helmet_16x16 2_201
+  - first:
+      213: 6043143682480942765
+    second: Accessory_20_Worker_Helmet_16x16 2_202
+  - first:
+      213: 1474418668548514268
+    second: Accessory_20_Worker_Helmet_16x16 2_203
+  - first:
+      213: -8231998418905388971
+    second: Accessory_20_Worker_Helmet_16x16 2_204
+  - first:
+      213: -5551344094202322082
+    second: Accessory_20_Worker_Helmet_16x16 2_205
+  - first:
+      213: -5303333098428799679
+    second: Accessory_20_Worker_Helmet_16x16 2_206
+  - first:
+      213: -2084010526390300114
+    second: Accessory_20_Worker_Helmet_16x16 2_207
+  - first:
+      213: 8094544344668663323
+    second: Accessory_20_Worker_Helmet_16x16 2_208
+  - first:
+      213: -1083877905372738506
+    second: Accessory_20_Worker_Helmet_16x16 2_209
+  - first:
+      213: 7291751371324759274
+    second: Accessory_20_Worker_Helmet_16x16 2_210
+  - first:
+      213: 7874150891769119552
+    second: Accessory_20_Worker_Helmet_16x16 2_211
+  - first:
+      213: -4070009388018409823
+    second: Accessory_20_Worker_Helmet_16x16 2_212
+  - first:
+      213: -481031516385547200
+    second: Accessory_20_Worker_Helmet_16x16 2_213
+  - first:
+      213: -7405844804540969534
+    second: Accessory_20_Worker_Helmet_16x16 2_214
+  - first:
+      213: -6259410548969817511
+    second: Accessory_20_Worker_Helmet_16x16 2_215
+  - first:
+      213: 6621467021622229515
+    second: Accessory_20_Worker_Helmet_16x16 2_216
+  - first:
+      213: -2641881891499125384
+    second: Accessory_20_Worker_Helmet_16x16 2_217
+  - first:
+      213: -4998925959372374535
+    second: Accessory_20_Worker_Helmet_16x16 2_218
+  - first:
+      213: 3618482710402575139
+    second: Accessory_20_Worker_Helmet_16x16 2_219
+  - first:
+      213: -8471500421657300364
+    second: Accessory_20_Worker_Helmet_16x16 2_220
+  - first:
+      213: 2229669283450261849
+    second: Accessory_20_Worker_Helmet_16x16 2_221
+  - first:
+      213: 1275636599198951640
+    second: Accessory_20_Worker_Helmet_16x16 2_222
+  - first:
+      213: -5013204825079584002
+    second: Accessory_20_Worker_Helmet_16x16 2_223
+  - first:
+      213: 7316136985380934357
+    second: Accessory_20_Worker_Helmet_16x16 2_224
+  - first:
+      213: -2534290744206064367
+    second: Accessory_20_Worker_Helmet_16x16 2_225
+  - first:
+      213: 2351273019188301146
+    second: Accessory_20_Worker_Helmet_16x16 2_226
+  - first:
+      213: 6825945456156639295
+    second: Accessory_20_Worker_Helmet_16x16 2_227
+  - first:
+      213: -5733009407096688018
+    second: Accessory_20_Worker_Helmet_16x16 2_228
+  - first:
+      213: 3145807537878925577
+    second: Accessory_20_Worker_Helmet_16x16 2_229
+  - first:
+      213: -3670274575918748392
+    second: Accessory_20_Worker_Helmet_16x16 2_230
+  - first:
+      213: -3468974889275399767
+    second: Accessory_20_Worker_Helmet_16x16 2_231
+  - first:
+      213: -8007404570644774344
+    second: Accessory_20_Worker_Helmet_16x16 2_232
+  - first:
+      213: 4275102374320355012
+    second: Accessory_20_Worker_Helmet_16x16 2_233
+  - first:
+      213: -6291603560135301145
+    second: Accessory_20_Worker_Helmet_16x16 2_234
+  - first:
+      213: 9067224318970686247
+    second: Accessory_20_Worker_Helmet_16x16 2_235
+  - first:
+      213: 2509711133116304379
+    second: Accessory_20_Worker_Helmet_16x16 2_236
+  - first:
+      213: -2042081992114211035
+    second: Accessory_20_Worker_Helmet_16x16 2_237
+  - first:
+      213: -6461436962745626363
+    second: Accessory_20_Worker_Helmet_16x16 2_238
+  - first:
+      213: 3508020988769742685
+    second: Accessory_20_Worker_Helmet_16x16 2_239
+  - first:
+      213: 6585667221350723891
+    second: Accessory_20_Worker_Helmet_16x16 2_240
+  - first:
+      213: 2776048988252643364
+    second: Accessory_20_Worker_Helmet_16x16 2_241
+  - first:
+      213: 5500095407627738360
+    second: Accessory_20_Worker_Helmet_16x16 2_242
+  - first:
+      213: -9186719316135274484
+    second: Accessory_20_Worker_Helmet_16x16 2_243
+  - first:
+      213: 6670563327742797959
+    second: Accessory_20_Worker_Helmet_16x16 2_244
+  - first:
+      213: 3970161586404014461
+    second: Accessory_20_Worker_Helmet_16x16 2_245
+  - first:
+      213: -3499415650040194198
+    second: Accessory_20_Worker_Helmet_16x16 2_246
+  - first:
+      213: -3101604441275916216
+    second: Accessory_20_Worker_Helmet_16x16 2_247
+  - first:
+      213: -8963730623379014984
+    second: Accessory_20_Worker_Helmet_16x16 2_248
+  - first:
+      213: -3785369101045310495
+    second: Accessory_20_Worker_Helmet_16x16 2_249
+  - first:
+      213: 8831087014900662043
+    second: Accessory_20_Worker_Helmet_16x16 2_250
+  - first:
+      213: -314117311967602536
+    second: Accessory_20_Worker_Helmet_16x16 2_251
+  - first:
+      213: -6966508478849704059
+    second: Accessory_20_Worker_Helmet_16x16 2_252
+  - first:
+      213: 6342232715565647169
+    second: Accessory_20_Worker_Helmet_16x16 2_253
+  - first:
+      213: -7551873077244311086
+    second: Accessory_20_Worker_Helmet_16x16 2_254
+  - first:
+      213: -7398668202398016059
+    second: Accessory_20_Worker_Helmet_16x16 2_255
+  - first:
+      213: -1210582692391016176
+    second: Accessory_20_Worker_Helmet_16x16 2_256
+  - first:
+      213: -7192491178997832699
+    second: Accessory_20_Worker_Helmet_16x16 2_257
+  - first:
+      213: -9030660748368299544
+    second: Accessory_20_Worker_Helmet_16x16 2_258
+  - first:
+      213: 8258143280614102215
+    second: Accessory_20_Worker_Helmet_16x16 2_259
+  - first:
+      213: 6590023679277476528
+    second: Accessory_20_Worker_Helmet_16x16 2_260
+  - first:
+      213: -4085267185973654574
+    second: Accessory_20_Worker_Helmet_16x16 2_261
+  - first:
+      213: 2822208794767607129
+    second: Accessory_20_Worker_Helmet_16x16 2_262
+  - first:
+      213: 789709034562273785
+    second: Accessory_20_Worker_Helmet_16x16 2_263
+  - first:
+      213: 7507022579036193626
+    second: Accessory_20_Worker_Helmet_16x16 2_264
+  - first:
+      213: -8532443945788660736
+    second: Accessory_20_Worker_Helmet_16x16 2_265
+  - first:
+      213: 6049326472848815162
+    second: Accessory_20_Worker_Helmet_16x16 2_266
+  - first:
+      213: -7871703307744054395
+    second: Accessory_20_Worker_Helmet_16x16 2_267
+  - first:
+      213: 6224428669541584024
+    second: Accessory_20_Worker_Helmet_16x16 2_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3589cd99a8353fc30800000000000000
+      internalID: 4391945916368328787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 619
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0a0decf93cba280800000000000000
+      internalID: -9030909536624402259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 621
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217121b495846be40800000000000000
+      internalID: 5671800329068484370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 619
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8911d60b094d140800000000000000
+      internalID: 4743575394946488560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb6906e18e5e090800000000000000
+      internalID: -8005737545414034179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d53fe7cfc2dd8c0800000000000000
+      internalID: -3972969833297650358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49217acfd6c1f7210800000000000000
+      internalID: 1332815273440776852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 588
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1795b333c8ac480800000000000000
+      internalID: -8878129563740573248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 588
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404c2ccd5757aa770800000000000000
+      internalID: 8622833585629611012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f93a6b16fbb7c0800000000000000
+      internalID: -4054376441910266513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0886a1c5215f670800000000000000
+      internalID: 8571777652558954682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 589
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94af8bce88b04d60800000000000000
+      internalID: 7872495072083682459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696051622d3287610800000000000000
+      internalID: 1619083451528709782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f73617f7c759160800000000000000
+      internalID: 7031663280013934348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 588
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d7d25f7e4064c0800000000000000
+      internalID: -4296347735753764486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 588
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55464f50c56f9c10800000000000000
+      internalID: 2062479031265543519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406151459283266a0800000000000000
+      internalID: -6457537165540387324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269609f7a63f5edb0800000000000000
+      internalID: -4763133392142177950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc050c2c78d9b40800000000000000
+      internalID: 5448660394708094288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 555
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c4266677c56be0800000000000000
+      internalID: -1484561190814955458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0608f8ebdfd105740800000000000000
+      internalID: 5138640150490742880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 555
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af30cd694356c00800000000000000
+      internalID: 893177923643898485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 555
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d5f917ac66e1a20800000000000000
+      internalID: 3034976218569989515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01425f4fd4da372e0800000000000000
+      internalID: -2129167648482319344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 555
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f83033f0da407e0800000000000000
+      internalID: -1800123670249369823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 557
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de1c08548d909ba0800000000000000
+      internalID: -6084189904839106856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3afb115ebf87510800000000000000
+      internalID: 1547263433265619946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 555
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732042774cb2c96b0800000000000000
+      internalID: -5288303739627371977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eb9f7405ae0f6e0800000000000000
+      internalID: -1805685820049736188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b723142f54666e970800000000000000
+      internalID: 8783820573835866747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 555
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1da087ff0b498d0800000000000000
+      internalID: -2840450853686816309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080bd6627cc9d3160800000000000000
+      internalID: 7006928974415507584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a7a66e1e780f7e0800000000000000
+      internalID: -1733736452234511718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0147c4c8baf9fc70800000000000000
+      internalID: 9005504601386336524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 529
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0420bfec699460800000000000000
+      internalID: 7248944851937660018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 529
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e9af1f2a0d2040800000000000000
+      internalID: 4624363589890334854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87849395205934f0800000000000000
+      internalID: -848558932462631026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704c2eb7bcad00c80800000000000000
+      internalID: -8358440340907965433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 193
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3312e00b3b61ea00800000000000000
+      internalID: 784025711301235514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 193
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6297b1e243b0d3ab0800000000000000
+      internalID: -5026849290335848154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456cb0a44218a6630800000000000000
+      internalID: 3921088418440529492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a03810a64fae840800000000000000
+      internalID: 5254280651410180755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b39c62ef4440ba0800000000000000
+      internalID: -6123693734953927837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017882f9d18e11520800000000000000
+      internalID: 2671171267929343760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67251f950b2a4f70800000000000000
+      internalID: 9172190894237230957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 428
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9afa21ef159d3bb0800000000000000
+      internalID: -4954640050883462502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 428
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d58ed70b20f300800000000000000
+      internalID: 283774089322420601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee79639cdb255220800000000000000
+      internalID: 2473931796675919587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b70727630d637c0800000000000000
+      internalID: -4091854279152731262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cad5f89def6ee950800000000000000
+      internalID: 6480239980096903876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8c600756df319b0800000000000000
+      internalID: -5110462540022363907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 427
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26acfc897d27cfaa0800000000000000
+      internalID: -6125895122823427486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ffc98fb813bfbe0800000000000000
+      internalID: -1442504778400858304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34863e7392560bf40800000000000000
+      internalID: 5742200752603097155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 396
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e824b9a2044eb910800000000000000
+      internalID: 1854994874751002850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 396
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215cbc151959010a0800000000000000
+      internalID: -6912860976638606062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a4a992a818d7e0800000000000000
+      internalID: -1740614169337225019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bc24048e85ea280800000000000000
+      internalID: -9030182448297489610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c09e7518b8ca660800000000000000
+      internalID: 7398441675504815187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a874c066b98d2ada0800000000000000
+      internalID: -5934943196977281142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7617c566fe050b500800000000000000
+      internalID: 409916555235455335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 396
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60a3b71fe94b7a0800000000000000
+      internalID: -6362285613575960882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 396
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdae0da4878a1da0800000000000000
+      internalID: -5973312951844688439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 395
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0043db337a35ef0800000000000000
+      internalID: -120568924349398833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cda40ae3856e3b60800000000000000
+      internalID: 7727725627855646151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d7a1e040257cc10800000000000000
+      internalID: 2073716330797366665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add7cdde86daf3520800000000000000
+      internalID: 2684054569114959322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 363
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6ed2b1e920a150800000000000000
+      internalID: 5881747162691170202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 363
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa6d82b7c09e420800000000000000
+      internalID: 2659670778044656246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f5807d5efc1c60800000000000000
+      internalID: 7790381132717355144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 363
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743be8c3b7d2b9440800000000000000
+      internalID: 4943595023289463623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 365
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ecebac34366d10800000000000000
+      internalID: 2118438109911508611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba87e32d7f21560800000000000000
+      internalID: 7283156029774801878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 363
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa2bc6d12fd3c370800000000000000
+      internalID: 8341756271250844404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf599ad06021ee40800000000000000
+      internalID: 5683859805074710449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6296915566768f580800000000000000
+      internalID: -8793164583228839642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 363
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbced9bd54ca95390800000000000000
+      internalID: -7829037061169615685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_77
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 364
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340c9aeb9773c4070800000000000000
+      internalID: 8091903626507305027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 193
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50898fd84c5bb4540800000000000000
+      internalID: 4993284467670423557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d09c0f2632892e0800000000000000
+      internalID: -2118904716824343234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bda1f0004218ea0800000000000000
+      internalID: -5872372856442397917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a4a55ff4e8b040800000000000000
+      internalID: 4663729199446796464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 329
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72bfe6546009200800000000000000
+      internalID: 184654480006653928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_83
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 329
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162aa395e5f3eddf0800000000000000
+      internalID: -153615662827527583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df66259515ba9460800000000000000
+      internalID: 7249305654507499478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57c1b01f69cecf40800000000000000
+      internalID: 5750755253057341276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386316bf0c2fe2d90800000000000000
+      internalID: -7120487050161080701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771b082fc0fe02a00800000000000000
+      internalID: 729845978521186679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_88
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d08bd132900cd700800000000000000
+      internalID: 566328281043534038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dc1da154bc93f0800000000000000
+      internalID: -892640363236502382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_90
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be264e0a42f9740800000000000000
+      internalID: 5160883971434933136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 331
+        width: 194
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15973714df6f5360800000000000000
+      internalID: 7160564889255646490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efed0d2ce9482ce0800000000000000
+      internalID: -1429811602973134876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_93
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2545f22f24ca13440800000000000000
+      internalID: 4913898071968928850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_94
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 329
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d9c767eff82c9d0800000000000000
+      internalID: -2755481698924978915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_95
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 328
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a444eebf052340800000000000000
+      internalID: 4838290687227372115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 328
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b85748a5e030f70800000000000000
+      internalID: 9152174649679121264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_97
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 329
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05284125eae4af50800000000000000
+      internalID: 6891891599610488074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5554ff896c40290800000000000000
+      internalID: -7924991083845167705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_99
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6efd834daadb6b0800000000000000
+      internalID: -5278875359744366941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_100
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7add4804641fd0800000000000000
+      internalID: -2372161116888727786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81f6e7834f6c1f0800000000000000
+      internalID: -1024863341703653133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_102
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a9c7831ecfa1b0800000000000000
+      internalID: -5643065224794103664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_103
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09b73b477c469970800000000000000
+      internalID: 8761274200342640907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 161
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6980e495060dce0800000000000000
+      internalID: -1382499148925200694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df874cedd044080800000000000000
+      internalID: -9204216488008286834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e613c95582e29d0800000000000000
+      internalID: -2797253970392682941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c0e27fa601d2ec0800000000000000
+      internalID: -3590195276344849385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fad954ee9364560800000000000000
+      internalID: 7297583941733429132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e400948d926d040800000000000000
+      internalID: 4671967672357899810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262d1873d4c4e0a90800000000000000
+      internalID: -7345850047667252638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1957044988189f4d0800000000000000
+      internalID: -3100304444865088111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8133dd3910c2ee6f0800000000000000
+      internalID: -653536510634806504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da79c72dac692c90800000000000000
+      internalID: -7194099438794999087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1e9e8f846144c0800000000000000
+      internalID: -4305049201053655385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_115
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 301
+        width: 162
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e234657479f94680800000000000000
+      internalID: -8770204520746306841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc6e660b6f0a2df0800000000000000
+      internalID: -204333880748118858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_117
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b1614f9a66f4b0800000000000000
+      internalID: -5407017070382434956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_118
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ddbf030ce4c7b80800000000000000
+      internalID: -8395749017962947180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_119
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a90214f844c78ba0800000000000000
+      internalID: -6086680553756423774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_120
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9408bb8d86a120800000000000000
+      internalID: 2424781080612870803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_121
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2e0a29a8314c50800000000000000
+      internalID: 6647656824181763813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214ad884e0326ada0800000000000000
+      internalID: -5934016914760293358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_123
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb705afe6854e00800000000000000
+      internalID: 1028376453748080222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_124
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d302f7d86e031a10800000000000000
+      internalID: 1878861313005978585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 299
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1146668c2b5a2c2d0800000000000000
+      internalID: -3259860992977902575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 225
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafff42543ad57b00800000000000000
+      internalID: 825806024946483117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca68b1189e49e90800000000000000
+      internalID: -7019729178441896821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_128
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da286b3255b2ad40800000000000000
+      internalID: 5594233051936205527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d6bdd545686050800000000000000
+      internalID: 5793992271359038930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce2d0c5f9c520b30800000000000000
+      internalID: 4252062837705092813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8065e18e774f6d60800000000000000
+      internalID: 7885600081219772557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_132
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2856c3cc5db180800000000000000
+      internalID: -9098013676302488946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a74a5263da6fa80800000000000000
+      internalID: -8433362804133299586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2f20daee7bbcdd0800000000000000
+      internalID: -2464674135322463503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea896fc231596b70800000000000000
+      internalID: 8892728217889770213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea41e16c85512a30800000000000000
+      internalID: 4188723189857209056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06fffd68fa09e4a0800000000000000
+      internalID: -6563702919802128882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_138
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773cb87e76655a60800000000000000
+      internalID: 7662143034418280304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3e7fb6bbfbecc0800000000000000
+      internalID: -3680571508129906860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_140
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc96ea93ec38bf0800000000000000
+      internalID: -323188001105916062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_141
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 268
+        width: 226
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ccab8f84df5010800000000000000
+      internalID: 1179895340383126119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf47157341c558bc0800000000000000
+      internalID: -3781515070210476804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_143
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9644c18826ea4de0800000000000000
+      internalID: -1348012076793837921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d117cdca4864aba0800000000000000
+      internalID: -6078618926554082858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_145
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 265
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3750c19724d580ed0800000000000000
+      internalID: -2447603857394760333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_146
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37582585bf7e03c80800000000000000
+      internalID: -8344915042812918413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_147
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21d1cf42708ce40800000000000000
+      internalID: 5676795185730491097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e596dcf76ef5960800000000000000
+      internalID: 7593040933351415412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_149
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373f8632b3c27000800000000000000
+      internalID: 32303317531965240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_150
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6155ae5638731ed80800000000000000
+      internalID: -8223230407111715562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_151
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8e9d80ace1488e0800000000000000
+      internalID: -1692193706903738143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_152
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f22aecca2f4af0800000000000000
+      internalID: -410061981477570510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_153
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 265
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7000683ddf51390800000000000000
+      internalID: -7848087690695145490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_154
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6faf77b7c5eaf4a0800000000000000
+      internalID: -6558677261371854994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_155
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56673f52d6805c20800000000000000
+      internalID: 3193200373904402011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 225
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37935623547f690800000000000000
+      internalID: -7568504566023883813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a52e2ea9714ec0800000000000000
+      internalID: -3584450039404715583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4575c302bca76c30800000000000000
+      internalID: 4352637445444302159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_159
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee6ab020184e4f0800000000000000
+      internalID: -800372987979698683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_160
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0660b7a3a6971690800000000000000
+      internalID: -7631465413918824949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_161
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c01b32375a329f0800000000000000
+      internalID: -494369620141994869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_162
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267bf5e0708f3390800000000000000
+      internalID: -7836403604218218969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4bc6e0229910970800000000000000
+      internalID: 8719418725115933919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9889ef7d6982a8850800000000000000
+      internalID: 6379956450457720969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb30f6b77d0757670800000000000000
+      internalID: 8535852739541795771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_166
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e548b17fc9bd9ad0800000000000000
+      internalID: -2693792701480417824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_167
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86121fe93fd6da3b0800000000000000
+      internalID: -5499618676838424216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1506407a88cab3980800000000000000
+      internalID: -8558056963969884079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca21d477cd006d0800000000000000
+      internalID: -3026176544640685044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_170
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b110762e6bd4c0800000000000000
+      internalID: -4261691511008021271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_171
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 235
+        width: 161
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed222755091b2dac0800000000000000
+      internalID: -3831805099471920418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_172
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 236
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e75615dd41e740800000000000000
+      internalID: 5179506624051012700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_173
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a595c94edb28a260800000000000000
+      internalID: 7108980245524747687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_174
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0eae5c0fbce68e0800000000000000
+      internalID: -1698195774499004234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_175
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd538a3713fd610800000000000000
+      internalID: 1648090361453993145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_176
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e144ce2d3aa0f910800000000000000
+      internalID: 1869181025113096673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_177
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ea0237aa71be20800000000000000
+      internalID: 3364605255140173566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_178
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749c6dc11c1c1510800000000000000
+      internalID: 1521121636930851952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_179
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532671b6321183da0800000000000000
+      internalID: -5964998862633999819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_180
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1061f564149b810800000000000000
+      internalID: 1781526898100535792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_181
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6367b840728ad0700800000000000000
+      internalID: 508247218496173622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_182
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2cb579f88a36ad0800000000000000
+      internalID: -2710137216073743705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_183
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5aadd1626298420800000000000000
+      internalID: 2632677402326246905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_184
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd791af970b52e8a0800000000000000
+      internalID: -6277354842299983908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_185
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f160b84b16b2c6e0800000000000000
+      internalID: -1818691071204367888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_186
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 235
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa72a0a6121567740800000000000000
+      internalID: 5149392427899561903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b655c7d6d063a100800000000000000
+      internalID: 118044491101066928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6bf2e41bd5f1320800000000000000
+      internalID: 2530844531707852512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_189
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bd2eff9ed4267e0800000000000000
+      internalID: -1773769635814777955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_190
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5141d70d65b6cf70800000000000000
+      internalID: 9207245968092774748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_191
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440c20a731c9a9450800000000000000
+      internalID: 6096356653064699972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e250d1c4b92b200800000000000000
+      internalID: 194388485137051197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_193
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c3884fd5e3a6b0800000000000000
+      internalID: -5286128790445768120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_194
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 204
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e1378fc451fce0800000000000000
+      internalID: -1373223161068133123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_195
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c855ccfe3bcbfb0800000000000000
+      internalID: -4630628474336998294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_196
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274b1bd42b70bdc0800000000000000
+      internalID: -3625262301808212177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8b0153e563b2f10800000000000000
+      internalID: 2245948617419438325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_198
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c82ad8fe4c9a70800000000000000
+      internalID: 8835023399713030968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c894e0fd8f082f70800000000000000
+      internalID: 9162590544191592642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_200
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4fcae433a6e8bc0800000000000000
+      internalID: -3778966268721433388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd592d0a86b0e80800000000000000
+      internalID: -8211354455642874995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2ce8492f8dd350800000000000000
+      internalID: 6043143682480942765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_203
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e90d97ff267410800000000000000
+      internalID: 1474418668548514268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55821919d0112cd80800000000000000
+      internalID: -8231998418905388971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_205
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53ab1765f9a5f2b0800000000000000
+      internalID: -5551344094202322082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_206
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145649e25a6c666b0800000000000000
+      internalID: -5303333098428799679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_207
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22d452c77b1413e0800000000000000
+      internalID: -2084010526390300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_208
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 172
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e6f9ad139955070800000000000000
+      internalID: 8094544344668663323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_209
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0d56a9ca45f0f0800000000000000
+      internalID: -1083877905372738506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_210
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec97462d31813560800000000000000
+      internalID: 7291751371324759274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_211
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04349bb548a964d60800000000000000
+      internalID: 7874150891769119552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_212
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae58a2860c6487c0800000000000000
+      internalID: -4070009388018409823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_213
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c621c62680359f0800000000000000
+      internalID: -481031516385547200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_214
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc9ab5367293990800000000000000
+      internalID: -7405844804540969534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a325df44b1229a0800000000000000
+      internalID: -6259410548969817511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ab1c39c2d24eb50800000000000000
+      internalID: 6621467021622229515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_217
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87558aeba66265bd0800000000000000
+      internalID: -2641881891499125384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd712d435f30aab0800000000000000
+      internalID: -4998925959372374535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b20738ade673230800000000000000
+      internalID: 3618482710402575139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_220
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727b8c104f2f6a80800000000000000
+      internalID: -8471500421657300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_221
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95117a6666061fe10800000000000000
+      internalID: 2229669283450261849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_222
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 140
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8adb57ab8f3b110800000000000000
+      internalID: 1275636599198951640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_223
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6bdec5c48d6ab0800000000000000
+      internalID: -5013204825079584002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_224
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d25abd53d3288560800000000000000
+      internalID: 7316136985380934357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_225
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1158902def364dcd0800000000000000
+      internalID: -2534290744206064367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_226
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dcda67a5661a020800000000000000
+      internalID: 2351273019188301146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30886a1a31aabe50800000000000000
+      internalID: 6825945456156639295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_228
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 139
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62770ca1524070b0800000000000000
+      internalID: -5733009407096688018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_229
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901050bd94728ab20800000000000000
+      internalID: 3145807537878925577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d273a18b0901dc0800000000000000
+      internalID: -3670274575918748392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16df5b7b9bbdfc0800000000000000
+      internalID: -3468974889275399767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_232
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83201e1d7fbffd090800000000000000
+      internalID: -8007404570644774344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_233
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63bcf75f6345b30800000000000000
+      internalID: 4275102374320355012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_234
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76d8a75ebbfa8a0800000000000000
+      internalID: -6291603560135301145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be7075a7045dd70800000000000000
+      internalID: 9067224318970686247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_236
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8d328af844d220800000000000000
+      internalID: 2509711133116304379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_237
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5277fc16f3119a3e0800000000000000
+      internalID: -2042081992114211035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_238
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d7f8015d5456a0800000000000000
+      internalID: -6461436962745626363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f2c34c08efea030800000000000000
+      internalID: 3508020988769742685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3313b89027df46b50800000000000000
+      internalID: 6585667221350723891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_241
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a1efb8d1868620800000000000000
+      internalID: 2776048988252643364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc986ae1a3445c40800000000000000
+      internalID: 5500095407627738360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 76
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08998e8477328080800000000000000
+      internalID: -9186719316135274484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_244
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886bd1210a929c50800000000000000
+      internalID: 6670563327742797959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_245
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7933829de8d81730800000000000000
+      internalID: 3970161586404014461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_246
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 77
+        width: 98
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b59e9c1049f6fc0800000000000000
+      internalID: -3499415650040194198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_247
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840a9f39133e4f4d0800000000000000
+      internalID: -3101604441275916216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_248
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf33b6d7e6a9380800000000000000
+      internalID: -8963730623379014984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_249
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb547cbbdaa77bc0800000000000000
+      internalID: -3785369101045310495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_250
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff7b7d9d25e8a70800000000000000
+      internalID: 8831087014900662043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898de5218f704abf0800000000000000
+      internalID: -314117311967602536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_252
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 75
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f9a69d27df15f90800000000000000
+      internalID: -6966508478849704059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c62e5d03240850800000000000000
+      internalID: 6342232715565647169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_254
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d94402a27b523790800000000000000
+      internalID: -7551873077244311086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_255
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd96114876a25990800000000000000
+      internalID: -7398668202398016059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_256
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192cc88475233fe0800000000000000
+      internalID: -1210582692391016176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_257
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 45
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50424b151632f2c90800000000000000
+      internalID: -7192491178997832699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_258
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b17655e5aca280800000000000000
+      internalID: -9030660748368299544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_259
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c458496f81da9270800000000000000
+      internalID: 8258143280614102215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_260
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2fb0fe97747b50800000000000000
+      internalID: 6590023679277476528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0b7793273e47c0800000000000000
+      internalID: -4085267185973654574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_262
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9554b1632ff7a2720800000000000000
+      internalID: 2822208794767607129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_263
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f14001de2c95fa00800000000000000
+      internalID: 789709034562273785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_264
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a530a40034d4e2860800000000000000
+      internalID: 7507022579036193626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_265
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 11
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a559207ba69980800000000000000
+      internalID: -8532443945788660736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_266
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343588506683f350800000000000000
+      internalID: 6049326472848815162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_267
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f5a43c8712c290800000000000000
+      internalID: -7871703307744054395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_20_Worker_Helmet_16x16 2_268
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c88c185ec916650800000000000000
+      internalID: 6224428669541584024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accessory_20_Worker_Helmet_16x16 2_0: 4391945916368328787
+      Accessory_20_Worker_Helmet_16x16 2_1: -9030909536624402259
+      Accessory_20_Worker_Helmet_16x16 2_10: 8571777652558954682
+      Accessory_20_Worker_Helmet_16x16 2_100: -2372161116888727786
+      Accessory_20_Worker_Helmet_16x16 2_101: -1024863341703653133
+      Accessory_20_Worker_Helmet_16x16 2_102: -5643065224794103664
+      Accessory_20_Worker_Helmet_16x16 2_103: 8761274200342640907
+      Accessory_20_Worker_Helmet_16x16 2_104: -1382499148925200694
+      Accessory_20_Worker_Helmet_16x16 2_105: -9204216488008286834
+      Accessory_20_Worker_Helmet_16x16 2_106: -2797253970392682941
+      Accessory_20_Worker_Helmet_16x16 2_107: -3590195276344849385
+      Accessory_20_Worker_Helmet_16x16 2_108: 7297583941733429132
+      Accessory_20_Worker_Helmet_16x16 2_109: 4671967672357899810
+      Accessory_20_Worker_Helmet_16x16 2_11: 7872495072083682459
+      Accessory_20_Worker_Helmet_16x16 2_110: -7345850047667252638
+      Accessory_20_Worker_Helmet_16x16 2_111: -3100304444865088111
+      Accessory_20_Worker_Helmet_16x16 2_112: -653536510634806504
+      Accessory_20_Worker_Helmet_16x16 2_113: -7194099438794999087
+      Accessory_20_Worker_Helmet_16x16 2_114: -4305049201053655385
+      Accessory_20_Worker_Helmet_16x16 2_115: -8770204520746306841
+      Accessory_20_Worker_Helmet_16x16 2_116: -204333880748118858
+      Accessory_20_Worker_Helmet_16x16 2_117: -5407017070382434956
+      Accessory_20_Worker_Helmet_16x16 2_118: -8395749017962947180
+      Accessory_20_Worker_Helmet_16x16 2_119: -6086680553756423774
+      Accessory_20_Worker_Helmet_16x16 2_12: 1619083451528709782
+      Accessory_20_Worker_Helmet_16x16 2_120: 2424781080612870803
+      Accessory_20_Worker_Helmet_16x16 2_121: 6647656824181763813
+      Accessory_20_Worker_Helmet_16x16 2_122: -5934016914760293358
+      Accessory_20_Worker_Helmet_16x16 2_123: 1028376453748080222
+      Accessory_20_Worker_Helmet_16x16 2_124: 1878861313005978585
+      Accessory_20_Worker_Helmet_16x16 2_125: -3259860992977902575
+      Accessory_20_Worker_Helmet_16x16 2_126: 825806024946483117
+      Accessory_20_Worker_Helmet_16x16 2_127: -7019729178441896821
+      Accessory_20_Worker_Helmet_16x16 2_128: 5594233051936205527
+      Accessory_20_Worker_Helmet_16x16 2_129: 5793992271359038930
+      Accessory_20_Worker_Helmet_16x16 2_13: 7031663280013934348
+      Accessory_20_Worker_Helmet_16x16 2_130: 4252062837705092813
+      Accessory_20_Worker_Helmet_16x16 2_131: 7885600081219772557
+      Accessory_20_Worker_Helmet_16x16 2_132: -9098013676302488946
+      Accessory_20_Worker_Helmet_16x16 2_133: -8433362804133299586
+      Accessory_20_Worker_Helmet_16x16 2_134: -2464674135322463503
+      Accessory_20_Worker_Helmet_16x16 2_135: 8892728217889770213
+      Accessory_20_Worker_Helmet_16x16 2_136: 4188723189857209056
+      Accessory_20_Worker_Helmet_16x16 2_137: -6563702919802128882
+      Accessory_20_Worker_Helmet_16x16 2_138: 7662143034418280304
+      Accessory_20_Worker_Helmet_16x16 2_139: -3680571508129906860
+      Accessory_20_Worker_Helmet_16x16 2_14: -4296347735753764486
+      Accessory_20_Worker_Helmet_16x16 2_140: -323188001105916062
+      Accessory_20_Worker_Helmet_16x16 2_141: 1179895340383126119
+      Accessory_20_Worker_Helmet_16x16 2_142: -3781515070210476804
+      Accessory_20_Worker_Helmet_16x16 2_143: -1348012076793837921
+      Accessory_20_Worker_Helmet_16x16 2_144: -6078618926554082858
+      Accessory_20_Worker_Helmet_16x16 2_145: -2447603857394760333
+      Accessory_20_Worker_Helmet_16x16 2_146: -8344915042812918413
+      Accessory_20_Worker_Helmet_16x16 2_147: 5676795185730491097
+      Accessory_20_Worker_Helmet_16x16 2_148: 7593040933351415412
+      Accessory_20_Worker_Helmet_16x16 2_149: 32303317531965240
+      Accessory_20_Worker_Helmet_16x16 2_15: 2062479031265543519
+      Accessory_20_Worker_Helmet_16x16 2_150: -8223230407111715562
+      Accessory_20_Worker_Helmet_16x16 2_151: -1692193706903738143
+      Accessory_20_Worker_Helmet_16x16 2_152: -410061981477570510
+      Accessory_20_Worker_Helmet_16x16 2_153: -7848087690695145490
+      Accessory_20_Worker_Helmet_16x16 2_154: -6558677261371854994
+      Accessory_20_Worker_Helmet_16x16 2_155: 3193200373904402011
+      Accessory_20_Worker_Helmet_16x16 2_156: -7568504566023883813
+      Accessory_20_Worker_Helmet_16x16 2_157: -3584450039404715583
+      Accessory_20_Worker_Helmet_16x16 2_158: 4352637445444302159
+      Accessory_20_Worker_Helmet_16x16 2_159: -800372987979698683
+      Accessory_20_Worker_Helmet_16x16 2_16: -6457537165540387324
+      Accessory_20_Worker_Helmet_16x16 2_160: -7631465413918824949
+      Accessory_20_Worker_Helmet_16x16 2_161: -494369620141994869
+      Accessory_20_Worker_Helmet_16x16 2_162: -7836403604218218969
+      Accessory_20_Worker_Helmet_16x16 2_163: 8719418725115933919
+      Accessory_20_Worker_Helmet_16x16 2_164: 6379956450457720969
+      Accessory_20_Worker_Helmet_16x16 2_165: 8535852739541795771
+      Accessory_20_Worker_Helmet_16x16 2_166: -2693792701480417824
+      Accessory_20_Worker_Helmet_16x16 2_167: -5499618676838424216
+      Accessory_20_Worker_Helmet_16x16 2_168: -8558056963969884079
+      Accessory_20_Worker_Helmet_16x16 2_169: -3026176544640685044
+      Accessory_20_Worker_Helmet_16x16 2_17: -4763133392142177950
+      Accessory_20_Worker_Helmet_16x16 2_170: -4261691511008021271
+      Accessory_20_Worker_Helmet_16x16 2_171: -3831805099471920418
+      Accessory_20_Worker_Helmet_16x16 2_172: 5179506624051012700
+      Accessory_20_Worker_Helmet_16x16 2_173: 7108980245524747687
+      Accessory_20_Worker_Helmet_16x16 2_174: -1698195774499004234
+      Accessory_20_Worker_Helmet_16x16 2_175: 1648090361453993145
+      Accessory_20_Worker_Helmet_16x16 2_176: 1869181025113096673
+      Accessory_20_Worker_Helmet_16x16 2_177: 3364605255140173566
+      Accessory_20_Worker_Helmet_16x16 2_178: 1521121636930851952
+      Accessory_20_Worker_Helmet_16x16 2_179: -5964998862633999819
+      Accessory_20_Worker_Helmet_16x16 2_18: 5448660394708094288
+      Accessory_20_Worker_Helmet_16x16 2_180: 1781526898100535792
+      Accessory_20_Worker_Helmet_16x16 2_181: 508247218496173622
+      Accessory_20_Worker_Helmet_16x16 2_182: -2710137216073743705
+      Accessory_20_Worker_Helmet_16x16 2_183: 2632677402326246905
+      Accessory_20_Worker_Helmet_16x16 2_184: -6277354842299983908
+      Accessory_20_Worker_Helmet_16x16 2_185: -1818691071204367888
+      Accessory_20_Worker_Helmet_16x16 2_186: 5149392427899561903
+      Accessory_20_Worker_Helmet_16x16 2_187: 118044491101066928
+      Accessory_20_Worker_Helmet_16x16 2_188: 2530844531707852512
+      Accessory_20_Worker_Helmet_16x16 2_189: -1773769635814777955
+      Accessory_20_Worker_Helmet_16x16 2_19: -1484561190814955458
+      Accessory_20_Worker_Helmet_16x16 2_190: 9207245968092774748
+      Accessory_20_Worker_Helmet_16x16 2_191: 6096356653064699972
+      Accessory_20_Worker_Helmet_16x16 2_192: 194388485137051197
+      Accessory_20_Worker_Helmet_16x16 2_193: -5286128790445768120
+      Accessory_20_Worker_Helmet_16x16 2_194: -1373223161068133123
+      Accessory_20_Worker_Helmet_16x16 2_195: -4630628474336998294
+      Accessory_20_Worker_Helmet_16x16 2_196: -3625262301808212177
+      Accessory_20_Worker_Helmet_16x16 2_197: 2245948617419438325
+      Accessory_20_Worker_Helmet_16x16 2_198: 8835023399713030968
+      Accessory_20_Worker_Helmet_16x16 2_199: 9162590544191592642
+      Accessory_20_Worker_Helmet_16x16 2_2: 5671800329068484370
+      Accessory_20_Worker_Helmet_16x16 2_20: 5138640150490742880
+      Accessory_20_Worker_Helmet_16x16 2_200: -3778966268721433388
+      Accessory_20_Worker_Helmet_16x16 2_201: -8211354455642874995
+      Accessory_20_Worker_Helmet_16x16 2_202: 6043143682480942765
+      Accessory_20_Worker_Helmet_16x16 2_203: 1474418668548514268
+      Accessory_20_Worker_Helmet_16x16 2_204: -8231998418905388971
+      Accessory_20_Worker_Helmet_16x16 2_205: -5551344094202322082
+      Accessory_20_Worker_Helmet_16x16 2_206: -5303333098428799679
+      Accessory_20_Worker_Helmet_16x16 2_207: -2084010526390300114
+      Accessory_20_Worker_Helmet_16x16 2_208: 8094544344668663323
+      Accessory_20_Worker_Helmet_16x16 2_209: -1083877905372738506
+      Accessory_20_Worker_Helmet_16x16 2_21: 893177923643898485
+      Accessory_20_Worker_Helmet_16x16 2_210: 7291751371324759274
+      Accessory_20_Worker_Helmet_16x16 2_211: 7874150891769119552
+      Accessory_20_Worker_Helmet_16x16 2_212: -4070009388018409823
+      Accessory_20_Worker_Helmet_16x16 2_213: -481031516385547200
+      Accessory_20_Worker_Helmet_16x16 2_214: -7405844804540969534
+      Accessory_20_Worker_Helmet_16x16 2_215: -6259410548969817511
+      Accessory_20_Worker_Helmet_16x16 2_216: 6621467021622229515
+      Accessory_20_Worker_Helmet_16x16 2_217: -2641881891499125384
+      Accessory_20_Worker_Helmet_16x16 2_218: -4998925959372374535
+      Accessory_20_Worker_Helmet_16x16 2_219: 3618482710402575139
+      Accessory_20_Worker_Helmet_16x16 2_22: 3034976218569989515
+      Accessory_20_Worker_Helmet_16x16 2_220: -8471500421657300364
+      Accessory_20_Worker_Helmet_16x16 2_221: 2229669283450261849
+      Accessory_20_Worker_Helmet_16x16 2_222: 1275636599198951640
+      Accessory_20_Worker_Helmet_16x16 2_223: -5013204825079584002
+      Accessory_20_Worker_Helmet_16x16 2_224: 7316136985380934357
+      Accessory_20_Worker_Helmet_16x16 2_225: -2534290744206064367
+      Accessory_20_Worker_Helmet_16x16 2_226: 2351273019188301146
+      Accessory_20_Worker_Helmet_16x16 2_227: 6825945456156639295
+      Accessory_20_Worker_Helmet_16x16 2_228: -5733009407096688018
+      Accessory_20_Worker_Helmet_16x16 2_229: 3145807537878925577
+      Accessory_20_Worker_Helmet_16x16 2_23: -2129167648482319344
+      Accessory_20_Worker_Helmet_16x16 2_230: -3670274575918748392
+      Accessory_20_Worker_Helmet_16x16 2_231: -3468974889275399767
+      Accessory_20_Worker_Helmet_16x16 2_232: -8007404570644774344
+      Accessory_20_Worker_Helmet_16x16 2_233: 4275102374320355012
+      Accessory_20_Worker_Helmet_16x16 2_234: -6291603560135301145
+      Accessory_20_Worker_Helmet_16x16 2_235: 9067224318970686247
+      Accessory_20_Worker_Helmet_16x16 2_236: 2509711133116304379
+      Accessory_20_Worker_Helmet_16x16 2_237: -2042081992114211035
+      Accessory_20_Worker_Helmet_16x16 2_238: -6461436962745626363
+      Accessory_20_Worker_Helmet_16x16 2_239: 3508020988769742685
+      Accessory_20_Worker_Helmet_16x16 2_24: -1800123670249369823
+      Accessory_20_Worker_Helmet_16x16 2_240: 6585667221350723891
+      Accessory_20_Worker_Helmet_16x16 2_241: 2776048988252643364
+      Accessory_20_Worker_Helmet_16x16 2_242: 5500095407627738360
+      Accessory_20_Worker_Helmet_16x16 2_243: -9186719316135274484
+      Accessory_20_Worker_Helmet_16x16 2_244: 6670563327742797959
+      Accessory_20_Worker_Helmet_16x16 2_245: 3970161586404014461
+      Accessory_20_Worker_Helmet_16x16 2_246: -3499415650040194198
+      Accessory_20_Worker_Helmet_16x16 2_247: -3101604441275916216
+      Accessory_20_Worker_Helmet_16x16 2_248: -8963730623379014984
+      Accessory_20_Worker_Helmet_16x16 2_249: -3785369101045310495
+      Accessory_20_Worker_Helmet_16x16 2_25: -6084189904839106856
+      Accessory_20_Worker_Helmet_16x16 2_250: 8831087014900662043
+      Accessory_20_Worker_Helmet_16x16 2_251: -314117311967602536
+      Accessory_20_Worker_Helmet_16x16 2_252: -6966508478849704059
+      Accessory_20_Worker_Helmet_16x16 2_253: 6342232715565647169
+      Accessory_20_Worker_Helmet_16x16 2_254: -7551873077244311086
+      Accessory_20_Worker_Helmet_16x16 2_255: -7398668202398016059
+      Accessory_20_Worker_Helmet_16x16 2_256: -1210582692391016176
+      Accessory_20_Worker_Helmet_16x16 2_257: -7192491178997832699
+      Accessory_20_Worker_Helmet_16x16 2_258: -9030660748368299544
+      Accessory_20_Worker_Helmet_16x16 2_259: 8258143280614102215
+      Accessory_20_Worker_Helmet_16x16 2_26: 1547263433265619946
+      Accessory_20_Worker_Helmet_16x16 2_260: 6590023679277476528
+      Accessory_20_Worker_Helmet_16x16 2_261: -4085267185973654574
+      Accessory_20_Worker_Helmet_16x16 2_262: 2822208794767607129
+      Accessory_20_Worker_Helmet_16x16 2_263: 789709034562273785
+      Accessory_20_Worker_Helmet_16x16 2_264: 7507022579036193626
+      Accessory_20_Worker_Helmet_16x16 2_265: -8532443945788660736
+      Accessory_20_Worker_Helmet_16x16 2_266: 6049326472848815162
+      Accessory_20_Worker_Helmet_16x16 2_267: -7871703307744054395
+      Accessory_20_Worker_Helmet_16x16 2_268: 6224428669541584024
+      Accessory_20_Worker_Helmet_16x16 2_27: -5288303739627371977
+      Accessory_20_Worker_Helmet_16x16 2_28: -1805685820049736188
+      Accessory_20_Worker_Helmet_16x16 2_29: 8783820573835866747
+      Accessory_20_Worker_Helmet_16x16 2_3: 4743575394946488560
+      Accessory_20_Worker_Helmet_16x16 2_30: -2840450853686816309
+      Accessory_20_Worker_Helmet_16x16 2_31: 7006928974415507584
+      Accessory_20_Worker_Helmet_16x16 2_32: -1733736452234511718
+      Accessory_20_Worker_Helmet_16x16 2_33: 9005504601386336524
+      Accessory_20_Worker_Helmet_16x16 2_34: 7248944851937660018
+      Accessory_20_Worker_Helmet_16x16 2_35: 4624363589890334854
+      Accessory_20_Worker_Helmet_16x16 2_36: -848558932462631026
+      Accessory_20_Worker_Helmet_16x16 2_37: -8358440340907965433
+      Accessory_20_Worker_Helmet_16x16 2_38: 784025711301235514
+      Accessory_20_Worker_Helmet_16x16 2_39: -5026849290335848154
+      Accessory_20_Worker_Helmet_16x16 2_4: -8005737545414034179
+      Accessory_20_Worker_Helmet_16x16 2_40: 3921088418440529492
+      Accessory_20_Worker_Helmet_16x16 2_41: 5254280651410180755
+      Accessory_20_Worker_Helmet_16x16 2_42: -6123693734953927837
+      Accessory_20_Worker_Helmet_16x16 2_43: 2671171267929343760
+      Accessory_20_Worker_Helmet_16x16 2_44: 9172190894237230957
+      Accessory_20_Worker_Helmet_16x16 2_45: -4954640050883462502
+      Accessory_20_Worker_Helmet_16x16 2_46: 283774089322420601
+      Accessory_20_Worker_Helmet_16x16 2_47: 2473931796675919587
+      Accessory_20_Worker_Helmet_16x16 2_48: -4091854279152731262
+      Accessory_20_Worker_Helmet_16x16 2_49: 6480239980096903876
+      Accessory_20_Worker_Helmet_16x16 2_5: -3972969833297650358
+      Accessory_20_Worker_Helmet_16x16 2_50: -5110462540022363907
+      Accessory_20_Worker_Helmet_16x16 2_51: -6125895122823427486
+      Accessory_20_Worker_Helmet_16x16 2_52: -1442504778400858304
+      Accessory_20_Worker_Helmet_16x16 2_53: 5742200752603097155
+      Accessory_20_Worker_Helmet_16x16 2_54: 1854994874751002850
+      Accessory_20_Worker_Helmet_16x16 2_55: -6912860976638606062
+      Accessory_20_Worker_Helmet_16x16 2_56: -1740614169337225019
+      Accessory_20_Worker_Helmet_16x16 2_57: -9030182448297489610
+      Accessory_20_Worker_Helmet_16x16 2_58: 7398441675504815187
+      Accessory_20_Worker_Helmet_16x16 2_59: -5934943196977281142
+      Accessory_20_Worker_Helmet_16x16 2_6: 1332815273440776852
+      Accessory_20_Worker_Helmet_16x16 2_60: 409916555235455335
+      Accessory_20_Worker_Helmet_16x16 2_61: -6362285613575960882
+      Accessory_20_Worker_Helmet_16x16 2_62: -5973312951844688439
+      Accessory_20_Worker_Helmet_16x16 2_63: -120568924349398833
+      Accessory_20_Worker_Helmet_16x16 2_64: 7727725627855646151
+      Accessory_20_Worker_Helmet_16x16 2_65: 2073716330797366665
+      Accessory_20_Worker_Helmet_16x16 2_66: 2684054569114959322
+      Accessory_20_Worker_Helmet_16x16 2_67: 5881747162691170202
+      Accessory_20_Worker_Helmet_16x16 2_68: 2659670778044656246
+      Accessory_20_Worker_Helmet_16x16 2_69: 7790381132717355144
+      Accessory_20_Worker_Helmet_16x16 2_7: -8878129563740573248
+      Accessory_20_Worker_Helmet_16x16 2_70: 4943595023289463623
+      Accessory_20_Worker_Helmet_16x16 2_71: 2118438109911508611
+      Accessory_20_Worker_Helmet_16x16 2_72: 7283156029774801878
+      Accessory_20_Worker_Helmet_16x16 2_73: 8341756271250844404
+      Accessory_20_Worker_Helmet_16x16 2_74: 5683859805074710449
+      Accessory_20_Worker_Helmet_16x16 2_75: -8793164583228839642
+      Accessory_20_Worker_Helmet_16x16 2_76: -7829037061169615685
+      Accessory_20_Worker_Helmet_16x16 2_77: 8091903626507305027
+      Accessory_20_Worker_Helmet_16x16 2_78: 4993284467670423557
+      Accessory_20_Worker_Helmet_16x16 2_79: -2118904716824343234
+      Accessory_20_Worker_Helmet_16x16 2_8: 8622833585629611012
+      Accessory_20_Worker_Helmet_16x16 2_80: -5872372856442397917
+      Accessory_20_Worker_Helmet_16x16 2_81: 4663729199446796464
+      Accessory_20_Worker_Helmet_16x16 2_82: 184654480006653928
+      Accessory_20_Worker_Helmet_16x16 2_83: -153615662827527583
+      Accessory_20_Worker_Helmet_16x16 2_84: 7249305654507499478
+      Accessory_20_Worker_Helmet_16x16 2_85: 5750755253057341276
+      Accessory_20_Worker_Helmet_16x16 2_86: -7120487050161080701
+      Accessory_20_Worker_Helmet_16x16 2_87: 729845978521186679
+      Accessory_20_Worker_Helmet_16x16 2_88: 566328281043534038
+      Accessory_20_Worker_Helmet_16x16 2_89: -892640363236502382
+      Accessory_20_Worker_Helmet_16x16 2_9: -4054376441910266513
+      Accessory_20_Worker_Helmet_16x16 2_90: 5160883971434933136
+      Accessory_20_Worker_Helmet_16x16 2_91: 7160564889255646490
+      Accessory_20_Worker_Helmet_16x16 2_92: -1429811602973134876
+      Accessory_20_Worker_Helmet_16x16 2_93: 4913898071968928850
+      Accessory_20_Worker_Helmet_16x16 2_94: -2755481698924978915
+      Accessory_20_Worker_Helmet_16x16 2_95: 4838290687227372115
+      Accessory_20_Worker_Helmet_16x16 2_96: 9152174649679121264
+      Accessory_20_Worker_Helmet_16x16 2_97: 6891891599610488074
+      Accessory_20_Worker_Helmet_16x16 2_98: -7924991083845167705
+      Accessory_20_Worker_Helmet_16x16 2_99: -5278875359744366941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

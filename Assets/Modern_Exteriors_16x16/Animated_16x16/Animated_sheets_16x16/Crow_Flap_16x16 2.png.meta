@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8a27277f0d2c542128606f6f95ad69c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3689314175179650929
+    second: Crow_Flap_16x16 2_0
+  - first:
+      213: -7650507533871656284
+    second: Crow_Flap_16x16 2_1
+  - first:
+      213: -2380729780828342366
+    second: Crow_Flap_16x16 2_2
+  - first:
+      213: -5787729782765527297
+    second: Crow_Flap_16x16 2_3
+  - first:
+      213: 933248736325838466
+    second: Crow_Flap_16x16 2_4
+  - first:
+      213: 1494129632956684332
+    second: Crow_Flap_16x16 2_5
+  - first:
+      213: -7629348832494307224
+    second: Crow_Flap_16x16 2_6
+  - first:
+      213: 3065461463966930232
+    second: Crow_Flap_16x16 2_7
+  - first:
+      213: -547177916594045502
+    second: Crow_Flap_16x16 2_8
+  - first:
+      213: 5819739444100194719
+    second: Crow_Flap_16x16 2_9
+  - first:
+      213: -7446621371906407531
+    second: Crow_Flap_16x16 2_10
+  - first:
+      213: -5766233845739762832
+    second: Crow_Flap_16x16 2_11
+  - first:
+      213: -2853389545171849802
+    second: Crow_Flap_16x16 2_12
+  - first:
+      213: 2630855591869535972
+    second: Crow_Flap_16x16 2_13
+  - first:
+      213: 3810744282401760469
+    second: Crow_Flap_16x16 2_14
+  - first:
+      213: -2852292941738018364
+    second: Crow_Flap_16x16 2_15
+  - first:
+      213: 7940674142602259605
+    second: Crow_Flap_16x16 2_16
+  - first:
+      213: 6303914405921541495
+    second: Crow_Flap_16x16 2_17
+  - first:
+      213: -4871669225084048532
+    second: Crow_Flap_16x16 2_18
+  - first:
+      213: -1882607026638773730
+    second: Crow_Flap_16x16 2_19
+  - first:
+      213: -8972127460969502976
+    second: Crow_Flap_16x16 2_20
+  - first:
+      213: 7627767254534889733
+    second: Crow_Flap_16x16 2_21
+  - first:
+      213: -1922726470644314399
+    second: Crow_Flap_16x16 2_22
+  - first:
+      213: 5902838444361813658
+    second: Crow_Flap_16x16 2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f888a93fd4cecccc0800000000000000
+      internalID: -3689314175179650929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2512c9eefe3d590800000000000000
+      internalID: -7650507533871656284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a77883c0e2f5fed0800000000000000
+      internalID: -2380729780828342366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffedf426d6addafa0800000000000000
+      internalID: -5787729782765527297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286a8c7f7c093fc00800000000000000
+      internalID: 933248736325838466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2894c42cf63cb410800000000000000
+      internalID: 1494129632956684332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b2aba8ab1f1690800000000000000
+      internalID: -7629348832494307224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d560c5f4ba8a20800000000000000
+      internalID: 3065461463966930232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd397c75980868f0800000000000000
+      internalID: -547177916594045502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ebeaa03ed3c050800000000000000
+      internalID: 5819739444100194719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593cfaee05948a890800000000000000
+      internalID: -7446621371906407531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bc8dc3ed83affa0800000000000000
+      internalID: -5766233845739762832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 11
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde73a9359b668d0800000000000000
+      internalID: -2853389545171849802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 11
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6dbb0d83da28420800000000000000
+      internalID: 2630855591869535972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d468621cbb72e430800000000000000
+      internalID: 3810744282401760469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 4
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f95c7eae9a68d0800000000000000
+      internalID: -2852292941738018364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cefeaaf01f23e60800000000000000
+      internalID: 7940674142602259605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dcb6ba0c00c7750800000000000000
+      internalID: 6303914405921541495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ba9a7a6aa546cb0800000000000000
+      internalID: -4871669225084048532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12aa8d32e2afd5e0800000000000000
+      internalID: -1882607026638773730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 6
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a2615c999c7380800000000000000
+      internalID: -8972127460969502976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 6
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501a8e387e54bd960800000000000000
+      internalID: 7627767254534889733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee4105467a1155e0800000000000000
+      internalID: -1922726470644314399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crow_Flap_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 7
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e84b26a481be150800000000000000
+      internalID: 5902838444361813658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crow_Flap_16x16 2_0: -3689314175179650929
+      Crow_Flap_16x16 2_1: -7650507533871656284
+      Crow_Flap_16x16 2_10: -7446621371906407531
+      Crow_Flap_16x16 2_11: -5766233845739762832
+      Crow_Flap_16x16 2_12: -2853389545171849802
+      Crow_Flap_16x16 2_13: 2630855591869535972
+      Crow_Flap_16x16 2_14: 3810744282401760469
+      Crow_Flap_16x16 2_15: -2852292941738018364
+      Crow_Flap_16x16 2_16: 7940674142602259605
+      Crow_Flap_16x16 2_17: 6303914405921541495
+      Crow_Flap_16x16 2_18: -4871669225084048532
+      Crow_Flap_16x16 2_19: -1882607026638773730
+      Crow_Flap_16x16 2_2: -2380729780828342366
+      Crow_Flap_16x16 2_20: -8972127460969502976
+      Crow_Flap_16x16 2_21: 7627767254534889733
+      Crow_Flap_16x16 2_22: -1922726470644314399
+      Crow_Flap_16x16 2_23: 5902838444361813658
+      Crow_Flap_16x16 2_3: -5787729782765527297
+      Crow_Flap_16x16 2_4: 933248736325838466
+      Crow_Flap_16x16 2_5: 1494129632956684332
+      Crow_Flap_16x16 2_6: -7629348832494307224
+      Crow_Flap_16x16 2_7: 3065461463966930232
+      Crow_Flap_16x16 2_8: -547177916594045502
+      Crow_Flap_16x16 2_9: 5819739444100194719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
