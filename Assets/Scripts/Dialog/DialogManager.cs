@@ -3,7 +3,6 @@ using UnityEngine;
 using TMPro;
 
 // in-world npc dialog - singleton, one per scene
-// lennon owns this, neo wires it to npc trigger zones
 public class DialogManager : MonoBehaviour
 {
     public static DialogManager Instance { get; private set; }
