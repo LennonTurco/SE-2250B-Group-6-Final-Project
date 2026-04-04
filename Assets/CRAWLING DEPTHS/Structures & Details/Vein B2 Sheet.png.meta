@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -161,12 +161,12 @@ TextureImporter:
       name: Vein B2 Sheet_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 4
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: Vein B2 Sheet_1
       rect:
         serializedVersion: 2
-        x: 35
+        x: 36
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: Vein B2 Sheet_2
       rect:
         serializedVersion: 2
-        x: 67
+        x: 68
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Vein B2 Sheet_3
       rect:
         serializedVersion: 2
-        x: 99
+        x: 100
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: Vein B2 Sheet_4
       rect:
         serializedVersion: 2
-        x: 131
+        x: 132
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: Vein B2 Sheet_5
       rect:
         serializedVersion: 2
-        x: 163
+        x: 164
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +293,12 @@ TextureImporter:
       name: Vein B2 Sheet_6
       rect:
         serializedVersion: 2
-        x: 195
+        x: 196
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: Vein B2 Sheet_7
       rect:
         serializedVersion: 2
-        x: 227
+        x: 228
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: Vein B2 Sheet_8
       rect:
         serializedVersion: 2
-        x: 259
+        x: 260
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: Vein B2 Sheet_9
       rect:
         serializedVersion: 2
-        x: 291
+        x: 292
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +381,12 @@ TextureImporter:
       name: Vein B2 Sheet_10
       rect:
         serializedVersion: 2
-        x: 323
+        x: 324
         y: 0
-        width: 29
+        width: 27
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: Vein B2 Sheet_11
       rect:
         serializedVersion: 2
-        x: 355
+        x: 356
         y: 0
-        width: 29
+        width: 27
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,12 +425,12 @@ TextureImporter:
       name: Vein B2 Sheet_12
       rect:
         serializedVersion: 2
-        x: 387
+        x: 388
         y: 0
-        width: 29
+        width: 27
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -447,12 +447,12 @@ TextureImporter:
       name: Vein B2 Sheet_13
       rect:
         serializedVersion: 2
-        x: 419
+        x: 420
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -469,12 +469,12 @@ TextureImporter:
       name: Vein B2 Sheet_14
       rect:
         serializedVersion: 2
-        x: 451
+        x: 452
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -491,12 +491,12 @@ TextureImporter:
       name: Vein B2 Sheet_15
       rect:
         serializedVersion: 2
-        x: 483
+        x: 484
         y: 0
-        width: 29
-        height: 16
+        width: 27
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -513,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a73352dc7ce344f14abb4595a75d8c23
     internalID: 0
     vertices: []
     indices: 
@@ -521,7 +521,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Vein B2 Sheet_0: 4294544147866058201
       Vein B2 Sheet_1: 2729762577604718237
