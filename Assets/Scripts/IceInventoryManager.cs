@@ -17,6 +17,9 @@ public class IceInventoryManager : MonoBehaviour
     [SerializeField] private GameObject polarBearPanel;
     [SerializeField] private TextMeshProUGUI polarBearText;
 
+    [Header("Special Igloo")]
+    [SerializeField] private GameObject specialIgloo; // drag SpecialIgloo here
+
     [Header("Settings")]
     [SerializeField] private int fishToCollect = 3;
 
@@ -37,9 +40,9 @@ public class IceInventoryManager : MonoBehaviour
         if (fishingRodInventoryBox != null) fishingRodInventoryBox.SetActive(false);
         if (fishInventoryBox != null) fishInventoryBox.SetActive(false);
         if (polarBearPanel != null) polarBearPanel.SetActive(false);
+        if (specialIgloo != null) specialIgloo.SetActive(false);
     }
 
-    // Called when player buys a fishing rod from NPC
     public void AddFishingRod()
     {
         fishingRodCount++;
@@ -48,8 +51,6 @@ public class IceInventoryManager : MonoBehaviour
         Debug.Log("[Inventory] Fishing rods: " + fishingRodCount);
     }
 
-    // Called when player collides with a fish sprite
-    // Returns true if successful (player had a fishing rod)
     public bool CollectFish()
     {
         if (fishingRodCount <= 0)
@@ -58,21 +59,17 @@ public class IceInventoryManager : MonoBehaviour
             return false;
         }
 
-        // Spend 1 fishing rod, gain 1 fish
         fishingRodCount--;
         fishCount++;
 
-        // Show fish box if not already visible
         if (fishInventoryBox != null) fishInventoryBox.SetActive(true);
 
-        // Hide fishing rod box if no rods left
         if (fishingRodCount <= 0 && fishingRodInventoryBox != null)
             fishingRodInventoryBox.SetActive(false);
 
         RefreshUI();
         Debug.Log("[Inventory] Fish: " + fishCount + " | Rods left: " + fishingRodCount);
 
-        // Check if player has collected enough fish
         if (fishCount >= fishToCollect && !polarBearMessageShown)
             ShowPolarBearMessage();
 
@@ -101,16 +98,16 @@ public class IceInventoryManager : MonoBehaviour
     {
         polarBearMessageShown = true;
 
-        // Hide fish and rod inventory
         if (fishingRodInventoryBox != null) fishingRodInventoryBox.SetActive(false);
         if (fishInventoryBox != null) fishInventoryBox.SetActive(false);
 
-        // Show polar bear message
         if (polarBearPanel != null) polarBearPanel.SetActive(true);
         if (polarBearText != null)
-            polarBearText.text = "Mike the Polar Bear: I'm SO hungry...\nI'll trade you my ice pickaxe for those " + fishToCollect + " fish!\nFind my igloo to make the trade!";
+            polarBearText.text = "You have 3 fish!\nFind the special igloo to get the ice pickaxe!";
 
-        // Auto hide after 5 seconds
+        // Reveal the special igloo at the same time
+        if (specialIgloo != null) specialIgloo.SetActive(true);
+
         Invoke(nameof(HidePolarBearMessage), 5f);
     }
 
