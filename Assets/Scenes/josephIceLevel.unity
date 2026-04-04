@@ -679,6 +679,7 @@ MonoBehaviour:
   polarBearPanel: {fileID: 785419230}
   polarBearText: {fileID: 307314075}
   specialIgloo: {fileID: 845677059}
+  mazeBoss: {fileID: 1569427138}
   fishToCollect: 3
 --- !u!1 &49686821
 GameObject:
@@ -33939,7 +33940,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1569427139
 Transform:
   m_ObjectHideFlags: 0

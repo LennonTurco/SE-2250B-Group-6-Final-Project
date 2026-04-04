@@ -18,7 +18,10 @@ public class IceInventoryManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI polarBearText;
 
     [Header("Special Igloo")]
-    [SerializeField] private GameObject specialIgloo; // drag SpecialIgloo here
+    [SerializeField] private GameObject specialIgloo;
+
+    [Header("Maze")]
+    [SerializeField] private GameObject mazeBoss;
 
     [Header("Settings")]
     [SerializeField] private int fishToCollect = 3;
@@ -41,6 +44,7 @@ public class IceInventoryManager : MonoBehaviour
         if (fishInventoryBox != null) fishInventoryBox.SetActive(false);
         if (polarBearPanel != null) polarBearPanel.SetActive(false);
         if (specialIgloo != null) specialIgloo.SetActive(false);
+        if (mazeBoss != null) mazeBoss.SetActive(false);
     }
 
     public void AddFishingRod()
@@ -79,7 +83,11 @@ public class IceInventoryManager : MonoBehaviour
     public void GiveIcePickaxe()
     {
         hasIcePickaxe = true;
-        Debug.Log("[Inventory] Ice Pickaxe obtained!");
+
+        // Reveal the maze and boss area
+        if (mazeBoss != null) mazeBoss.SetActive(true);
+
+        Debug.Log("[Inventory] Ice Pickaxe obtained! Maze revealed.");
     }
 
     public bool HasFishingRod() => fishingRodCount > 0;
@@ -105,7 +113,6 @@ public class IceInventoryManager : MonoBehaviour
         if (polarBearText != null)
             polarBearText.text = "You have 3 fish!\nFind the special igloo to get the ice pickaxe!";
 
-        // Reveal the special igloo at the same time
         if (specialIgloo != null) specialIgloo.SetActive(true);
 
         Invoke(nameof(HidePolarBearMessage), 5f);
