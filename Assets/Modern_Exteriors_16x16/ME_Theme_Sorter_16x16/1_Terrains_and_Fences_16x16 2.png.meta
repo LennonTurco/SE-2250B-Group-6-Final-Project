@@ -1,0 +1,4680 @@
+fileFormatVersion: 2
+guid: 46163ea64337c4f24ba653a825a5df02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1653283105222902287
+    second: 1_Terrains_and_Fences_16x16 2_0
+  - first:
+      213: -9151231513732469400
+    second: 1_Terrains_and_Fences_16x16 2_1
+  - first:
+      213: -6259607571154476670
+    second: 1_Terrains_and_Fences_16x16 2_2
+  - first:
+      213: 8676362615604221947
+    second: 1_Terrains_and_Fences_16x16 2_3
+  - first:
+      213: -6302198264915099370
+    second: 1_Terrains_and_Fences_16x16 2_4
+  - first:
+      213: -6932998745571118839
+    second: 1_Terrains_and_Fences_16x16 2_5
+  - first:
+      213: 6806361717552400564
+    second: 1_Terrains_and_Fences_16x16 2_6
+  - first:
+      213: 3831678845251112238
+    second: 1_Terrains_and_Fences_16x16 2_7
+  - first:
+      213: -6562051964938740216
+    second: 1_Terrains_and_Fences_16x16 2_8
+  - first:
+      213: 418615872853449519
+    second: 1_Terrains_and_Fences_16x16 2_9
+  - first:
+      213: -7459879744057533301
+    second: 1_Terrains_and_Fences_16x16 2_10
+  - first:
+      213: 1643457699591893718
+    second: 1_Terrains_and_Fences_16x16 2_11
+  - first:
+      213: -7214669674524335116
+    second: 1_Terrains_and_Fences_16x16 2_12
+  - first:
+      213: -190306015828733755
+    second: 1_Terrains_and_Fences_16x16 2_13
+  - first:
+      213: -3318036136200165540
+    second: 1_Terrains_and_Fences_16x16 2_14
+  - first:
+      213: -8927023529331935895
+    second: 1_Terrains_and_Fences_16x16 2_15
+  - first:
+      213: 5317452692646972591
+    second: 1_Terrains_and_Fences_16x16 2_16
+  - first:
+      213: 3312272399899508629
+    second: 1_Terrains_and_Fences_16x16 2_17
+  - first:
+      213: 7272015849702008985
+    second: 1_Terrains_and_Fences_16x16 2_18
+  - first:
+      213: 2450649864335005868
+    second: 1_Terrains_and_Fences_16x16 2_19
+  - first:
+      213: 8896512512670729372
+    second: 1_Terrains_and_Fences_16x16 2_20
+  - first:
+      213: 7872895417308287282
+    second: 1_Terrains_and_Fences_16x16 2_21
+  - first:
+      213: -7923623335432454561
+    second: 1_Terrains_and_Fences_16x16 2_22
+  - first:
+      213: -5122811895670051305
+    second: 1_Terrains_and_Fences_16x16 2_23
+  - first:
+      213: 2372050273843751179
+    second: 1_Terrains_and_Fences_16x16 2_24
+  - first:
+      213: 8991625568896360712
+    second: 1_Terrains_and_Fences_16x16 2_25
+  - first:
+      213: -7058766731240801911
+    second: 1_Terrains_and_Fences_16x16 2_26
+  - first:
+      213: 4300382207410451397
+    second: 1_Terrains_and_Fences_16x16 2_27
+  - first:
+      213: 2707227048730121902
+    second: 1_Terrains_and_Fences_16x16 2_28
+  - first:
+      213: -1882330702067545966
+    second: 1_Terrains_and_Fences_16x16 2_29
+  - first:
+      213: -309986218481480450
+    second: 1_Terrains_and_Fences_16x16 2_30
+  - first:
+      213: 5841553895830235730
+    second: 1_Terrains_and_Fences_16x16 2_31
+  - first:
+      213: -9023039300260958277
+    second: 1_Terrains_and_Fences_16x16 2_32
+  - first:
+      213: 613230633805931032
+    second: 1_Terrains_and_Fences_16x16 2_33
+  - first:
+      213: -3833315757140955200
+    second: 1_Terrains_and_Fences_16x16 2_34
+  - first:
+      213: 1480192031338381443
+    second: 1_Terrains_and_Fences_16x16 2_35
+  - first:
+      213: -5203849391126059281
+    second: 1_Terrains_and_Fences_16x16 2_36
+  - first:
+      213: 4082554047320048430
+    second: 1_Terrains_and_Fences_16x16 2_37
+  - first:
+      213: 6492347844174045757
+    second: 1_Terrains_and_Fences_16x16 2_38
+  - first:
+      213: 5451609472678232213
+    second: 1_Terrains_and_Fences_16x16 2_39
+  - first:
+      213: 6754699678548918131
+    second: 1_Terrains_and_Fences_16x16 2_40
+  - first:
+      213: -1924060916154382649
+    second: 1_Terrains_and_Fences_16x16 2_41
+  - first:
+      213: 6607390976629174995
+    second: 1_Terrains_and_Fences_16x16 2_42
+  - first:
+      213: 8794936207094822242
+    second: 1_Terrains_and_Fences_16x16 2_43
+  - first:
+      213: -2546873111290519711
+    second: 1_Terrains_and_Fences_16x16 2_44
+  - first:
+      213: -2553015985312679824
+    second: 1_Terrains_and_Fences_16x16 2_45
+  - first:
+      213: -5294569977766660395
+    second: 1_Terrains_and_Fences_16x16 2_46
+  - first:
+      213: 4444590735825138579
+    second: 1_Terrains_and_Fences_16x16 2_47
+  - first:
+      213: 8365497196055285281
+    second: 1_Terrains_and_Fences_16x16 2_48
+  - first:
+      213: -552248472625718366
+    second: 1_Terrains_and_Fences_16x16 2_49
+  - first:
+      213: 4885003639131585847
+    second: 1_Terrains_and_Fences_16x16 2_50
+  - first:
+      213: 6751942247085724101
+    second: 1_Terrains_and_Fences_16x16 2_51
+  - first:
+      213: -5588227661627243488
+    second: 1_Terrains_and_Fences_16x16 2_52
+  - first:
+      213: -5543387636719916071
+    second: 1_Terrains_and_Fences_16x16 2_53
+  - first:
+      213: 1076323936048229465
+    second: 1_Terrains_and_Fences_16x16 2_54
+  - first:
+      213: -5362451869533773983
+    second: 1_Terrains_and_Fences_16x16 2_55
+  - first:
+      213: -3245862499147571197
+    second: 1_Terrains_and_Fences_16x16 2_56
+  - first:
+      213: -8585877048334428998
+    second: 1_Terrains_and_Fences_16x16 2_57
+  - first:
+      213: 1605320815759428893
+    second: 1_Terrains_and_Fences_16x16 2_58
+  - first:
+      213: -4575902187883036624
+    second: 1_Terrains_and_Fences_16x16 2_59
+  - first:
+      213: -7755318049149543694
+    second: 1_Terrains_and_Fences_16x16 2_60
+  - first:
+      213: 3073905138628778243
+    second: 1_Terrains_and_Fences_16x16 2_61
+  - first:
+      213: -6727959727575586673
+    second: 1_Terrains_and_Fences_16x16 2_62
+  - first:
+      213: 2253262313339843214
+    second: 1_Terrains_and_Fences_16x16 2_63
+  - first:
+      213: -7883065629071052806
+    second: 1_Terrains_and_Fences_16x16 2_64
+  - first:
+      213: 899393314866235005
+    second: 1_Terrains_and_Fences_16x16 2_65
+  - first:
+      213: 4825914904453901709
+    second: 1_Terrains_and_Fences_16x16 2_66
+  - first:
+      213: -8281263155700366677
+    second: 1_Terrains_and_Fences_16x16 2_67
+  - first:
+      213: -4210366255858543697
+    second: 1_Terrains_and_Fences_16x16 2_68
+  - first:
+      213: 1856963466437423173
+    second: 1_Terrains_and_Fences_16x16 2_69
+  - first:
+      213: -2505241445427350110
+    second: 1_Terrains_and_Fences_16x16 2_70
+  - first:
+      213: -3752820298695856364
+    second: 1_Terrains_and_Fences_16x16 2_71
+  - first:
+      213: -6008370531960285480
+    second: 1_Terrains_and_Fences_16x16 2_72
+  - first:
+      213: 4048218997862147933
+    second: 1_Terrains_and_Fences_16x16 2_73
+  - first:
+      213: 4391195642435077169
+    second: 1_Terrains_and_Fences_16x16 2_74
+  - first:
+      213: 3114831972904783617
+    second: 1_Terrains_and_Fences_16x16 2_75
+  - first:
+      213: -8823046705554518
+    second: 1_Terrains_and_Fences_16x16 2_76
+  - first:
+      213: 8669389939666430206
+    second: 1_Terrains_and_Fences_16x16 2_77
+  - first:
+      213: 501261570552743406
+    second: 1_Terrains_and_Fences_16x16 2_78
+  - first:
+      213: -3969484775584293568
+    second: 1_Terrains_and_Fences_16x16 2_79
+  - first:
+      213: 8349897151345080377
+    second: 1_Terrains_and_Fences_16x16 2_80
+  - first:
+      213: 4053509282316764798
+    second: 1_Terrains_and_Fences_16x16 2_81
+  - first:
+      213: 2289463652610270601
+    second: 1_Terrains_and_Fences_16x16 2_82
+  - first:
+      213: -1324671667405594108
+    second: 1_Terrains_and_Fences_16x16 2_83
+  - first:
+      213: 5123931067573167206
+    second: 1_Terrains_and_Fences_16x16 2_84
+  - first:
+      213: -8638179938382406173
+    second: 1_Terrains_and_Fences_16x16 2_85
+  - first:
+      213: -6999522974812882604
+    second: 1_Terrains_and_Fences_16x16 2_86
+  - first:
+      213: -5537967264274541787
+    second: 1_Terrains_and_Fences_16x16 2_87
+  - first:
+      213: -2966216672287213179
+    second: 1_Terrains_and_Fences_16x16 2_88
+  - first:
+      213: -2122808641109201292
+    second: 1_Terrains_and_Fences_16x16 2_89
+  - first:
+      213: 3181528915638771048
+    second: 1_Terrains_and_Fences_16x16 2_90
+  - first:
+      213: 6798559866935861220
+    second: 1_Terrains_and_Fences_16x16 2_91
+  - first:
+      213: 7873445087192634768
+    second: 1_Terrains_and_Fences_16x16 2_92
+  - first:
+      213: -680286894759261946
+    second: 1_Terrains_and_Fences_16x16 2_93
+  - first:
+      213: -3341152335570560482
+    second: 1_Terrains_and_Fences_16x16 2_94
+  - first:
+      213: -7615627199674782741
+    second: 1_Terrains_and_Fences_16x16 2_95
+  - first:
+      213: 5629649909971524205
+    second: 1_Terrains_and_Fences_16x16 2_96
+  - first:
+      213: 3210526701113269767
+    second: 1_Terrains_and_Fences_16x16 2_97
+  - first:
+      213: 3043052539288302748
+    second: 1_Terrains_and_Fences_16x16 2_98
+  - first:
+      213: -5170669619720711788
+    second: 1_Terrains_and_Fences_16x16 2_99
+  - first:
+      213: -606998032058019246
+    second: 1_Terrains_and_Fences_16x16 2_100
+  - first:
+      213: -7418527182210405055
+    second: 1_Terrains_and_Fences_16x16 2_101
+  - first:
+      213: 4743906963262365933
+    second: 1_Terrains_and_Fences_16x16 2_102
+  - first:
+      213: 5102544779853000756
+    second: 1_Terrains_and_Fences_16x16 2_103
+  - first:
+      213: -401058070677396811
+    second: 1_Terrains_and_Fences_16x16 2_104
+  - first:
+      213: 1766662201092490046
+    second: 1_Terrains_and_Fences_16x16 2_105
+  - first:
+      213: -1202259976407676341
+    second: 1_Terrains_and_Fences_16x16 2_106
+  - first:
+      213: -2590131309802714988
+    second: 1_Terrains_and_Fences_16x16 2_107
+  - first:
+      213: -2954016310990805271
+    second: 1_Terrains_and_Fences_16x16 2_108
+  - first:
+      213: 2980704451811403033
+    second: 1_Terrains_and_Fences_16x16 2_109
+  - first:
+      213: 1819788400298461528
+    second: 1_Terrains_and_Fences_16x16 2_110
+  - first:
+      213: 622457784083480752
+    second: 1_Terrains_and_Fences_16x16 2_111
+  - first:
+      213: 2757646597452620299
+    second: 1_Terrains_and_Fences_16x16 2_112
+  - first:
+      213: 2300422367392745831
+    second: 1_Terrains_and_Fences_16x16 2_113
+  - first:
+      213: 2851278657463237495
+    second: 1_Terrains_and_Fences_16x16 2_114
+  - first:
+      213: -1263911003166108404
+    second: 1_Terrains_and_Fences_16x16 2_115
+  - first:
+      213: 2830807165581018753
+    second: 1_Terrains_and_Fences_16x16 2_116
+  - first:
+      213: 7010532404657295431
+    second: 1_Terrains_and_Fences_16x16 2_117
+  - first:
+      213: -4703352357541818497
+    second: 1_Terrains_and_Fences_16x16 2_118
+  - first:
+      213: -608282854657800011
+    second: 1_Terrains_and_Fences_16x16 2_119
+  - first:
+      213: 5052212889078871813
+    second: 1_Terrains_and_Fences_16x16 2_120
+  - first:
+      213: 1774022455105481553
+    second: 1_Terrains_and_Fences_16x16 2_121
+  - first:
+      213: 7488532128234571303
+    second: 1_Terrains_and_Fences_16x16 2_122
+  - first:
+      213: -3628391912664565871
+    second: 1_Terrains_and_Fences_16x16 2_123
+  - first:
+      213: 5893153068071678133
+    second: 1_Terrains_and_Fences_16x16 2_124
+  - first:
+      213: 8743274964372212785
+    second: 1_Terrains_and_Fences_16x16 2_125
+  - first:
+      213: -8648692306499762093
+    second: 1_Terrains_and_Fences_16x16 2_126
+  - first:
+      213: 6616703987820045856
+    second: 1_Terrains_and_Fences_16x16 2_127
+  - first:
+      213: 8029813640964987506
+    second: 1_Terrains_and_Fences_16x16 2_128
+  - first:
+      213: 6780285227853746423
+    second: 1_Terrains_and_Fences_16x16 2_129
+  - first:
+      213: -7786028068344919454
+    second: 1_Terrains_and_Fences_16x16 2_130
+  - first:
+      213: -3345804904165375389
+    second: 1_Terrains_and_Fences_16x16 2_131
+  - first:
+      213: -1123887136816753746
+    second: 1_Terrains_and_Fences_16x16 2_132
+  - first:
+      213: 4659145655795566771
+    second: 1_Terrains_and_Fences_16x16 2_133
+  - first:
+      213: -4365420345289421869
+    second: 1_Terrains_and_Fences_16x16 2_134
+  - first:
+      213: -7943232480968589617
+    second: 1_Terrains_and_Fences_16x16 2_135
+  - first:
+      213: 262435051585099805
+    second: 1_Terrains_and_Fences_16x16 2_136
+  - first:
+      213: -3482903618890561002
+    second: 1_Terrains_and_Fences_16x16 2_137
+  - first:
+      213: -7489547261370901520
+    second: 1_Terrains_and_Fences_16x16 2_138
+  - first:
+      213: 5724156843921415905
+    second: 1_Terrains_and_Fences_16x16 2_139
+  - first:
+      213: 6005832132564153971
+    second: 1_Terrains_and_Fences_16x16 2_140
+  - first:
+      213: 5941157031242052956
+    second: 1_Terrains_and_Fences_16x16 2_141
+  - first:
+      213: 5361638593314959557
+    second: 1_Terrains_and_Fences_16x16 2_142
+  - first:
+      213: -7260897682430029036
+    second: 1_Terrains_and_Fences_16x16 2_143
+  - first:
+      213: -2268879861577192245
+    second: 1_Terrains_and_Fences_16x16 2_144
+  - first:
+      213: 2402817269099287875
+    second: 1_Terrains_and_Fences_16x16 2_145
+  - first:
+      213: -7665400803432495100
+    second: 1_Terrains_and_Fences_16x16 2_146
+  - first:
+      213: -2942756551225988876
+    second: 1_Terrains_and_Fences_16x16 2_147
+  - first:
+      213: -331839018356061763
+    second: 1_Terrains_and_Fences_16x16 2_148
+  - first:
+      213: 7140544140134140241
+    second: 1_Terrains_and_Fences_16x16 2_149
+  - first:
+      213: -2653024498545306363
+    second: 1_Terrains_and_Fences_16x16 2_150
+  - first:
+      213: -942007671457114019
+    second: 1_Terrains_and_Fences_16x16 2_151
+  - first:
+      213: -4959959907908313497
+    second: 1_Terrains_and_Fences_16x16 2_152
+  - first:
+      213: -2130530154726756120
+    second: 1_Terrains_and_Fences_16x16 2_153
+  - first:
+      213: 3314431695726137333
+    second: 1_Terrains_and_Fences_16x16 2_154
+  - first:
+      213: 3720300325564620023
+    second: 1_Terrains_and_Fences_16x16 2_155
+  - first:
+      213: 7481590554573440098
+    second: 1_Terrains_and_Fences_16x16 2_156
+  - first:
+      213: 5832230166932637024
+    second: 1_Terrains_and_Fences_16x16 2_157
+  - first:
+      213: 6053182286995784956
+    second: 1_Terrains_and_Fences_16x16 2_158
+  - first:
+      213: 6326863358195340223
+    second: 1_Terrains_and_Fences_16x16 2_159
+  - first:
+      213: -6841625211716822457
+    second: 1_Terrains_and_Fences_16x16 2_160
+  - first:
+      213: 5394458233126607056
+    second: 1_Terrains_and_Fences_16x16 2_161
+  - first:
+      213: -1774372650615945740
+    second: 1_Terrains_and_Fences_16x16 2_162
+  - first:
+      213: -2700042786708736561
+    second: 1_Terrains_and_Fences_16x16 2_163
+  - first:
+      213: 6529298536602058474
+    second: 1_Terrains_and_Fences_16x16 2_164
+  - first:
+      213: 6811474036513724410
+    second: 1_Terrains_and_Fences_16x16 2_165
+  - first:
+      213: 1536467457429909056
+    second: 1_Terrains_and_Fences_16x16 2_166
+  - first:
+      213: -1899005776865437592
+    second: 1_Terrains_and_Fences_16x16 2_167
+  - first:
+      213: 8831418241651227863
+    second: 1_Terrains_and_Fences_16x16 2_168
+  - first:
+      213: 8958228625435852172
+    second: 1_Terrains_and_Fences_16x16 2_169
+  - first:
+      213: 7185367871818120209
+    second: 1_Terrains_and_Fences_16x16 2_170
+  - first:
+      213: -1458030542903206722
+    second: 1_Terrains_and_Fences_16x16 2_171
+  - first:
+      213: -1036246285123737978
+    second: 1_Terrains_and_Fences_16x16 2_172
+  - first:
+      213: -5636618411916760015
+    second: 1_Terrains_and_Fences_16x16 2_173
+  - first:
+      213: 4225248957426050663
+    second: 1_Terrains_and_Fences_16x16 2_174
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1119
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdb80876cb5e09e0800000000000000
+      internalID: -1653283105222902287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1119
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dad9e6c6b400180800000000000000
+      internalID: -9151231513732469400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1103
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281edff24186129a0800000000000000
+      internalID: -6259607571154476670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1151
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7919d54d1a86870800000000000000
+      internalID: 8676362615604221947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1153
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61107ab81181a88a0800000000000000
+      internalID: -6302198264915099370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1119
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901310e9f5a09cf90800000000000000
+      internalID: -6932998745571118839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1137
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b84783abed057e50800000000000000
+      internalID: 6806361717552400564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1137
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4290db9bdc2530800000000000000
+      internalID: 3831678845251112238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1139
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e1c205188eee4a0800000000000000
+      internalID: -6562051964938740216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b15ce1be83fc500800000000000000
+      internalID: 418615872853449519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1023
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c915c95ee297890800000000000000
+      internalID: -7459879744057533301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1023
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23e83021cbec610800000000000000
+      internalID: 1643457699591893718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1055
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3a13ee72850eb90800000000000000
+      internalID: -7214669674524335116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 962
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c098e7dfa5eb5df0800000000000000
+      internalID: -190306015828733755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 943
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5721edb6b7f3f1d0800000000000000
+      internalID: -3318036136200165540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 943
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965bd90c567dc1480800000000000000
+      internalID: -8927023529331935895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 943
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facca270d036bc940800000000000000
+      internalID: 5317452692646972591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 975
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f3753d23e87fd20800000000000000
+      internalID: 3312272399899508629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 943
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998af72f2e36be460800000000000000
+      internalID: 7272015849702008985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81c884115720220800000000000000
+      internalID: 2450649864335005868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 879
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948e899ef2c67b70800000000000000
+      internalID: 8896512512670729372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 895
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231167e6ba4224d60800000000000000
+      internalID: 7872895417308287282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 863
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e7d8dbe82a90290800000000000000
+      internalID: -7923623335432454561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 879
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee07309bd18e8b0800000000000000
+      internalID: -5122811895670051305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 897
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0923d908273be020800000000000000
+      internalID: 2372050273843751179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 895
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8012363b0dba8cc70800000000000000
+      internalID: 8991625568896360712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 927
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989fb009e093a0e90800000000000000
+      internalID: -7058766731240801911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 863
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33c1f45d60eab30800000000000000
+      internalID: 4300382207410451397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 863
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea653e548a0029520800000000000000
+      internalID: 2707227048730121902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 863
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298c371133e90e5e0800000000000000
+      internalID: -1882330702067545966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 863
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc052a3d25b2bbf0800000000000000
+      internalID: -309986218481480450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 865
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa241815e511150800000000000000
+      internalID: 5841553895830235730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 863
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf6e810099b7c280800000000000000
+      internalID: -9023039300260958277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 863
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e36d2302a28800800000000000000
+      internalID: 613230633805931032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 847
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa4bfe0a35dcac0800000000000000
+      internalID: -3833315757140955200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 847
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380c9436fc2ba8410800000000000000
+      internalID: 1480192031338381443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe66c49cc8638c7b0800000000000000
+      internalID: -5203849391126059281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 720
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2348d6964528a830800000000000000
+      internalID: 4082554047320048430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 767
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32644267f3791a50800000000000000
+      internalID: 6492347844174045757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 783
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59004297ee108ab40800000000000000
+      internalID: 5451609472678232213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 800
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7a58d1938dbd50800000000000000
+      internalID: 6754699678548918131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 767
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6c7667acc5c45e0800000000000000
+      internalID: -1924060916154382649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 767
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d27a16f51b22bb50800000000000000
+      internalID: 6607390976629174995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 751
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265bb1ef1e3ed0a70800000000000000
+      internalID: 8794936207094822242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 719
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd8813660b7acd0800000000000000
+      internalID: -2546873111290519711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 690
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0783b81ec7dd19cd0800000000000000
+      internalID: -2553015985312679824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 731
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d635c438a8e586b0800000000000000
+      internalID: -5294569977766660395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39379dcc9bb5ead30800000000000000
+      internalID: 4444590735825138579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 639
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec664a067381470800000000000000
+      internalID: 8365497196055285281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 655
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5469a0f40658f0800000000000000
+      internalID: -552248472625718366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 671
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dbdec8de40bc340800000000000000
+      internalID: 4885003639131585847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 688
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c15f7d43b7b3bd50800000000000000
+      internalID: 6751942247085724101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 687
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02442b8ac80a272b0800000000000000
+      internalID: -5588227661627243488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 673
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db6405805ee113b0800000000000000
+      internalID: -5543387636719916071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 639
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ca76fcaeedfee00800000000000000
+      internalID: 1076323936048229465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 591
+        width: 129
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f5f47af6eb495b0800000000000000
+      internalID: -5362451869533773983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002c8c114164f2d0800000000000000
+      internalID: -3245862499147571197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 527
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4d8d08056d8d880800000000000000
+      internalID: -8585877048334428998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 579
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d81edc6ce374610800000000000000
+      internalID: 1605320815759428893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 531
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0308c4c44312f70c0800000000000000
+      internalID: -4575902187883036624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_60
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 580
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa1440e2539f5490800000000000000
+      internalID: -7755318049149543694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 579
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3095735ff64b8aa20800000000000000
+      internalID: 3073905138628778243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 577
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8829b6264c71a2a0800000000000000
+      internalID: -6727959727575586673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82756cb222354f10800000000000000
+      internalID: 2253262313339843214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_64
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 581
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe02e9399b99290800000000000000
+      internalID: -7883065629071052806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 580
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7686f564794b7c00800000000000000
+      internalID: 899393314866235005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 543
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dec3c690819f240800000000000000
+      internalID: 4825914904453901709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_67
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 564
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba203f0390b031d80800000000000000
+      internalID: -8281263155700366677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 563
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa39241a236c195c0800000000000000
+      internalID: -4210366255858543697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_69
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54071e12f6245c910800000000000000
+      internalID: 1856963466437423173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_70
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 563
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a577b0cd289b3dd0800000000000000
+      internalID: -2505241445427350110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_71
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 562
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fab5652dd4bebc0800000000000000
+      internalID: -3752820298695856364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6159bb5dafd9ca0800000000000000
+      internalID: -6008370531960285480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_73
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 547
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57af8ceab92e2830800000000000000
+      internalID: 4048218997862147933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_74
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 549
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1340696db29a0fc30800000000000000
+      internalID: 4391195642435077169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 546
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc4002d2b1a3b20800000000000000
+      internalID: 3114831972904783617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_76
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 548
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab574b5c77a0eff0800000000000000
+      internalID: -8823046705554518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8a92db73cdf4870800000000000000
+      internalID: 8669389939666430206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 532
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5c95c1eb6d4f600800000000000000
+      internalID: 501261570552743406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_79
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 531
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1af9b0ae89e8c0800000000000000
+      internalID: -3969484775584293568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 529
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93838f0383bc0e370800000000000000
+      internalID: 8349897151345080377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e764d324735f04830800000000000000
+      internalID: 4053509282316764798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 533
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e00cdf0fc5cf10800000000000000
+      internalID: 2289463652610270601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_83
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 497
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e34c0322dd9de0800000000000000
+      internalID: -1324671667405594108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 431
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646940882cdb1740800000000000000
+      internalID: 5123931067573167206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_85
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 516
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed9fc2fc150f1880800000000000000
+      internalID: -8638179938382406173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_86
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 515
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b71180f2bcde90800000000000000
+      internalID: -6999522974812882604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 516
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5239c235d103523b0800000000000000
+      internalID: -5537967264274541787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_88
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 515
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ba79f6a1e5d6d0800000000000000
+      internalID: -2966216672287213179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 514
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e6e8cb9c44a82e0800000000000000
+      internalID: -2122808641109201292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_90
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 431
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d584b31bf072c20800000000000000
+      internalID: 3181528915638771048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 464
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef50fcbd26595e50800000000000000
+      internalID: 6798559866935861220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_92
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 463
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09559ac6798144d60800000000000000
+      internalID: 7873445087192634768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 498
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609458c6ca22f86f0800000000000000
+      internalID: -680286894759261946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_94
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 499
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a99d927a7d1a1d0800000000000000
+      internalID: -3341152335570560482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_95
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 501
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebe495496bdf4690800000000000000
+      internalID: -7615627199674782741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_96
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 499
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a99a514c8802e40800000000000000
+      internalID: 5629649909971524205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_97
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 500
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e53c946051e8c20800000000000000
+      internalID: 3210526701113269767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_98
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 484
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94312569281b3a20800000000000000
+      internalID: 3043052539288302748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 483
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49194a150671e38b0800000000000000
+      internalID: -5170669619720711788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 481
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25212df71828397f0800000000000000
+      internalID: -606998032058019246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14de4c335d81c0990800000000000000
+      internalID: -7418527182210405055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_102
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 485
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de061c0bf3eb5d140800000000000000
+      internalID: 4743906963262365933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_103
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 454
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43079ad5171efc640800000000000000
+      internalID: 5102544779853000756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_104
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 468
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b268f24fc72f6af0800000000000000
+      internalID: -401058070677396811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 467
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334a3669e1748810800000000000000
+      internalID: 1766662201092490046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_106
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 468
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0d8adbe6b05fe0800000000000000
+      internalID: -1202259976407676341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_107
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 467
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498879dfb410e0cd0800000000000000
+      internalID: -2590131309802714988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_108
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 466
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6eea2f0d93107d0800000000000000
+      internalID: -2954016310990805271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915e4ae08e69d5920800000000000000
+      internalID: 2980704451811403033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_110
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 439
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8598a2e88ef214910800000000000000
+      internalID: 1819788400298461528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b009f38e0a63a800800000000000000
+      internalID: 622457784083480752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_112
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026a3148f0254620800000000000000
+      internalID: 2757646597452620299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_113
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 453
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769cec974fdbcef10800000000000000
+      internalID: 2300422367392745831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_114
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 451
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bbfbd05d6c19720800000000000000
+      internalID: 2851278657463237495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_115
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05939c93afa57ee0800000000000000
+      internalID: -1263911003166108404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_116
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 431
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186461c6e1c094720800000000000000
+      internalID: 2830807165581018753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_117
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 408
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74096f1241a6a4160800000000000000
+      internalID: 7010532404657295431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_118
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 409
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f493343f55abeb0800000000000000
+      internalID: -4703352357541818497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_119
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 408
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8492d67f1fe87f0800000000000000
+      internalID: -608282854657800011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_120
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 399
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5073237dad01d1640800000000000000
+      internalID: 5052212889078871813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 399
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be02416089e9810800000000000000
+      internalID: 1774022455105481553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 303
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72685807b4c9ce760800000000000000
+      internalID: 7488532128234571303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1977abb87cc55adc0800000000000000
+      internalID: -3628391912664565871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_124
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 328
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b07a6dfd7fa8c150800000000000000
+      internalID: 5893153068071678133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_125
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 360
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cc8f8914a565970800000000000000
+      internalID: 8743274964372212785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 335
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3588d638b2ca9f780800000000000000
+      internalID: -8648692306499762093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_127
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 319
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ace9583143db50800000000000000
+      internalID: 6616703987820045856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_128
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 319
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27add4276f0af6f60800000000000000
+      internalID: 8029813640964987506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_129
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 319
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f01d02cd79681e50800000000000000
+      internalID: 6780285227853746423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a841759b872f390800000000000000
+      internalID: -7786028068344919454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362867f9a205191d0800000000000000
+      internalID: -3345804904165375389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_132
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 239
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3186a8a962760f0800000000000000
+      internalID: -1123887136816753746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8cf7ae94c98a040800000000000000
+      internalID: 4659145655795566771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_134
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 287
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc2cf2359ea63c0800000000000000
+      internalID: -4365420345289421869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb583c428f3c190800000000000000
+      internalID: -7943232480968589617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_136
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18575af94b54a300800000000000000
+      internalID: 262435051585099805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_137
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0b11ac9d3aafc0800000000000000
+      internalID: -3482903618890561002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbdc757278cf0890800000000000000
+      internalID: -7489547261370901520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_139
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9e88525a407f40800000000000000
+      internalID: 5724156843921415905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_140
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 175
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376fc1a1180095350800000000000000
+      internalID: 6005832132564153971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_141
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 175
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553ff1a7da337250800000000000000
+      internalID: 5941157031242052956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_142
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 191
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c03098b4ed586a40800000000000000
+      internalID: 5361638593314959557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4131d48170c1c3b90800000000000000
+      internalID: -7260897682430029036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_144
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 175
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc67a479c15380e0800000000000000
+      internalID: -2268879861577192245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_145
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34556d85395885120800000000000000
+      internalID: 2402817269099287875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_146
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 163
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408896215960f9590800000000000000
+      internalID: -7665400803432495100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_147
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a8bf028a3927d0800000000000000
+      internalID: -2942756551225988876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c544cb22156bf0800000000000000
+      internalID: -331839018356061763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_149
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 116
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15941bf201f481360800000000000000
+      internalID: 7140544140134140241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 118
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5055ccf56409e2bd0800000000000000
+      internalID: -2653024498545306363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_151
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d581b1783015de2f0800000000000000
+      internalID: -942007671457114019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e12f42ebeaa2bb0800000000000000
+      internalID: -4959959907908313497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_153
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0f040cc16de62e0800000000000000
+      internalID: -2130530154726756120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_154
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4d00111a3ffd20800000000000000
+      internalID: 3314431695726137333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_155
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9c036f6921a330800000000000000
+      internalID: 3720300325564620023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264844068f2f3d760800000000000000
+      internalID: 7481590554573440098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_157
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0654654bf6e30f050800000000000000
+      internalID: 5832230166932637024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_158
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf402190839310450800000000000000
+      internalID: 6053182286995784956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_159
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb31baff3b88dc750800000000000000
+      internalID: 6326863358195340223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_160
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 111
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a13415e1aad01a0800000000000000
+      internalID: -6841625211716822457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_161
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 95
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d851359e27fcda40800000000000000
+      internalID: 5394458233126607056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_162
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 111
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f54edca9792067e0800000000000000
+      internalID: -1774372650615945740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_163
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5bed31465878ad0800000000000000
+      internalID: -2700042786708736561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_164
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb4a2ec6abc9a50800000000000000
+      internalID: 6529298536602058474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_165
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af752372c87378e50800000000000000
+      internalID: 6811474036513724410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eae011301a25510800000000000000
+      internalID: 1536467457429909056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_167
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868558bae4065a5e0800000000000000
+      internalID: -1899005776865437592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_168
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 31
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcb68499108f8a70800000000000000
+      internalID: 8831418241651227863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_169
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df6dbd875025c70800000000000000
+      internalID: 8958228625435852172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_170
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 31
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c393c720e87b360800000000000000
+      internalID: 7185367871818120209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_171
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc959a32f804cbe0800000000000000
+      internalID: -1458030542903206722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_172
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686a1637e738e91f0800000000000000
+      internalID: -1036246285123737978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_173
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c664f1b65b6c1b0800000000000000
+      internalID: -5636618411916760015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_Terrains_and_Fences_16x16 2_174
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76628fa5a8913aa30800000000000000
+      internalID: 4225248957426050663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1_Terrains_and_Fences_16x16 2_0: -1653283105222902287
+      1_Terrains_and_Fences_16x16 2_1: -9151231513732469400
+      1_Terrains_and_Fences_16x16 2_10: -7459879744057533301
+      1_Terrains_and_Fences_16x16 2_100: -606998032058019246
+      1_Terrains_and_Fences_16x16 2_101: -7418527182210405055
+      1_Terrains_and_Fences_16x16 2_102: 4743906963262365933
+      1_Terrains_and_Fences_16x16 2_103: 5102544779853000756
+      1_Terrains_and_Fences_16x16 2_104: -401058070677396811
+      1_Terrains_and_Fences_16x16 2_105: 1766662201092490046
+      1_Terrains_and_Fences_16x16 2_106: -1202259976407676341
+      1_Terrains_and_Fences_16x16 2_107: -2590131309802714988
+      1_Terrains_and_Fences_16x16 2_108: -2954016310990805271
+      1_Terrains_and_Fences_16x16 2_109: 2980704451811403033
+      1_Terrains_and_Fences_16x16 2_11: 1643457699591893718
+      1_Terrains_and_Fences_16x16 2_110: 1819788400298461528
+      1_Terrains_and_Fences_16x16 2_111: 622457784083480752
+      1_Terrains_and_Fences_16x16 2_112: 2757646597452620299
+      1_Terrains_and_Fences_16x16 2_113: 2300422367392745831
+      1_Terrains_and_Fences_16x16 2_114: 2851278657463237495
+      1_Terrains_and_Fences_16x16 2_115: -1263911003166108404
+      1_Terrains_and_Fences_16x16 2_116: 2830807165581018753
+      1_Terrains_and_Fences_16x16 2_117: 7010532404657295431
+      1_Terrains_and_Fences_16x16 2_118: -4703352357541818497
+      1_Terrains_and_Fences_16x16 2_119: -608282854657800011
+      1_Terrains_and_Fences_16x16 2_12: -7214669674524335116
+      1_Terrains_and_Fences_16x16 2_120: 5052212889078871813
+      1_Terrains_and_Fences_16x16 2_121: 1774022455105481553
+      1_Terrains_and_Fences_16x16 2_122: 7488532128234571303
+      1_Terrains_and_Fences_16x16 2_123: -3628391912664565871
+      1_Terrains_and_Fences_16x16 2_124: 5893153068071678133
+      1_Terrains_and_Fences_16x16 2_125: 8743274964372212785
+      1_Terrains_and_Fences_16x16 2_126: -8648692306499762093
+      1_Terrains_and_Fences_16x16 2_127: 6616703987820045856
+      1_Terrains_and_Fences_16x16 2_128: 8029813640964987506
+      1_Terrains_and_Fences_16x16 2_129: 6780285227853746423
+      1_Terrains_and_Fences_16x16 2_13: -190306015828733755
+      1_Terrains_and_Fences_16x16 2_130: -7786028068344919454
+      1_Terrains_and_Fences_16x16 2_131: -3345804904165375389
+      1_Terrains_and_Fences_16x16 2_132: -1123887136816753746
+      1_Terrains_and_Fences_16x16 2_133: 4659145655795566771
+      1_Terrains_and_Fences_16x16 2_134: -4365420345289421869
+      1_Terrains_and_Fences_16x16 2_135: -7943232480968589617
+      1_Terrains_and_Fences_16x16 2_136: 262435051585099805
+      1_Terrains_and_Fences_16x16 2_137: -3482903618890561002
+      1_Terrains_and_Fences_16x16 2_138: -7489547261370901520
+      1_Terrains_and_Fences_16x16 2_139: 5724156843921415905
+      1_Terrains_and_Fences_16x16 2_14: -3318036136200165540
+      1_Terrains_and_Fences_16x16 2_140: 6005832132564153971
+      1_Terrains_and_Fences_16x16 2_141: 5941157031242052956
+      1_Terrains_and_Fences_16x16 2_142: 5361638593314959557
+      1_Terrains_and_Fences_16x16 2_143: -7260897682430029036
+      1_Terrains_and_Fences_16x16 2_144: -2268879861577192245
+      1_Terrains_and_Fences_16x16 2_145: 2402817269099287875
+      1_Terrains_and_Fences_16x16 2_146: -7665400803432495100
+      1_Terrains_and_Fences_16x16 2_147: -2942756551225988876
+      1_Terrains_and_Fences_16x16 2_148: -331839018356061763
+      1_Terrains_and_Fences_16x16 2_149: 7140544140134140241
+      1_Terrains_and_Fences_16x16 2_15: -8927023529331935895
+      1_Terrains_and_Fences_16x16 2_150: -2653024498545306363
+      1_Terrains_and_Fences_16x16 2_151: -942007671457114019
+      1_Terrains_and_Fences_16x16 2_152: -4959959907908313497
+      1_Terrains_and_Fences_16x16 2_153: -2130530154726756120
+      1_Terrains_and_Fences_16x16 2_154: 3314431695726137333
+      1_Terrains_and_Fences_16x16 2_155: 3720300325564620023
+      1_Terrains_and_Fences_16x16 2_156: 7481590554573440098
+      1_Terrains_and_Fences_16x16 2_157: 5832230166932637024
+      1_Terrains_and_Fences_16x16 2_158: 6053182286995784956
+      1_Terrains_and_Fences_16x16 2_159: 6326863358195340223
+      1_Terrains_and_Fences_16x16 2_16: 5317452692646972591
+      1_Terrains_and_Fences_16x16 2_160: -6841625211716822457
+      1_Terrains_and_Fences_16x16 2_161: 5394458233126607056
+      1_Terrains_and_Fences_16x16 2_162: -1774372650615945740
+      1_Terrains_and_Fences_16x16 2_163: -2700042786708736561
+      1_Terrains_and_Fences_16x16 2_164: 6529298536602058474
+      1_Terrains_and_Fences_16x16 2_165: 6811474036513724410
+      1_Terrains_and_Fences_16x16 2_166: 1536467457429909056
+      1_Terrains_and_Fences_16x16 2_167: -1899005776865437592
+      1_Terrains_and_Fences_16x16 2_168: 8831418241651227863
+      1_Terrains_and_Fences_16x16 2_169: 8958228625435852172
+      1_Terrains_and_Fences_16x16 2_17: 3312272399899508629
+      1_Terrains_and_Fences_16x16 2_170: 7185367871818120209
+      1_Terrains_and_Fences_16x16 2_171: -1458030542903206722
+      1_Terrains_and_Fences_16x16 2_172: -1036246285123737978
+      1_Terrains_and_Fences_16x16 2_173: -5636618411916760015
+      1_Terrains_and_Fences_16x16 2_174: 4225248957426050663
+      1_Terrains_and_Fences_16x16 2_18: 7272015849702008985
+      1_Terrains_and_Fences_16x16 2_19: 2450649864335005868
+      1_Terrains_and_Fences_16x16 2_2: -6259607571154476670
+      1_Terrains_and_Fences_16x16 2_20: 8896512512670729372
+      1_Terrains_and_Fences_16x16 2_21: 7872895417308287282
+      1_Terrains_and_Fences_16x16 2_22: -7923623335432454561
+      1_Terrains_and_Fences_16x16 2_23: -5122811895670051305
+      1_Terrains_and_Fences_16x16 2_24: 2372050273843751179
+      1_Terrains_and_Fences_16x16 2_25: 8991625568896360712
+      1_Terrains_and_Fences_16x16 2_26: -7058766731240801911
+      1_Terrains_and_Fences_16x16 2_27: 4300382207410451397
+      1_Terrains_and_Fences_16x16 2_28: 2707227048730121902
+      1_Terrains_and_Fences_16x16 2_29: -1882330702067545966
+      1_Terrains_and_Fences_16x16 2_3: 8676362615604221947
+      1_Terrains_and_Fences_16x16 2_30: -309986218481480450
+      1_Terrains_and_Fences_16x16 2_31: 5841553895830235730
+      1_Terrains_and_Fences_16x16 2_32: -9023039300260958277
+      1_Terrains_and_Fences_16x16 2_33: 613230633805931032
+      1_Terrains_and_Fences_16x16 2_34: -3833315757140955200
+      1_Terrains_and_Fences_16x16 2_35: 1480192031338381443
+      1_Terrains_and_Fences_16x16 2_36: -5203849391126059281
+      1_Terrains_and_Fences_16x16 2_37: 4082554047320048430
+      1_Terrains_and_Fences_16x16 2_38: 6492347844174045757
+      1_Terrains_and_Fences_16x16 2_39: 5451609472678232213
+      1_Terrains_and_Fences_16x16 2_4: -6302198264915099370
+      1_Terrains_and_Fences_16x16 2_40: 6754699678548918131
+      1_Terrains_and_Fences_16x16 2_41: -1924060916154382649
+      1_Terrains_and_Fences_16x16 2_42: 6607390976629174995
+      1_Terrains_and_Fences_16x16 2_43: 8794936207094822242
+      1_Terrains_and_Fences_16x16 2_44: -2546873111290519711
+      1_Terrains_and_Fences_16x16 2_45: -2553015985312679824
+      1_Terrains_and_Fences_16x16 2_46: -5294569977766660395
+      1_Terrains_and_Fences_16x16 2_47: 4444590735825138579
+      1_Terrains_and_Fences_16x16 2_48: 8365497196055285281
+      1_Terrains_and_Fences_16x16 2_49: -552248472625718366
+      1_Terrains_and_Fences_16x16 2_5: -6932998745571118839
+      1_Terrains_and_Fences_16x16 2_50: 4885003639131585847
+      1_Terrains_and_Fences_16x16 2_51: 6751942247085724101
+      1_Terrains_and_Fences_16x16 2_52: -5588227661627243488
+      1_Terrains_and_Fences_16x16 2_53: -5543387636719916071
+      1_Terrains_and_Fences_16x16 2_54: 1076323936048229465
+      1_Terrains_and_Fences_16x16 2_55: -5362451869533773983
+      1_Terrains_and_Fences_16x16 2_56: -3245862499147571197
+      1_Terrains_and_Fences_16x16 2_57: -8585877048334428998
+      1_Terrains_and_Fences_16x16 2_58: 1605320815759428893
+      1_Terrains_and_Fences_16x16 2_59: -4575902187883036624
+      1_Terrains_and_Fences_16x16 2_6: 6806361717552400564
+      1_Terrains_and_Fences_16x16 2_60: -7755318049149543694
+      1_Terrains_and_Fences_16x16 2_61: 3073905138628778243
+      1_Terrains_and_Fences_16x16 2_62: -6727959727575586673
+      1_Terrains_and_Fences_16x16 2_63: 2253262313339843214
+      1_Terrains_and_Fences_16x16 2_64: -7883065629071052806
+      1_Terrains_and_Fences_16x16 2_65: 899393314866235005
+      1_Terrains_and_Fences_16x16 2_66: 4825914904453901709
+      1_Terrains_and_Fences_16x16 2_67: -8281263155700366677
+      1_Terrains_and_Fences_16x16 2_68: -4210366255858543697
+      1_Terrains_and_Fences_16x16 2_69: 1856963466437423173
+      1_Terrains_and_Fences_16x16 2_7: 3831678845251112238
+      1_Terrains_and_Fences_16x16 2_70: -2505241445427350110
+      1_Terrains_and_Fences_16x16 2_71: -3752820298695856364
+      1_Terrains_and_Fences_16x16 2_72: -6008370531960285480
+      1_Terrains_and_Fences_16x16 2_73: 4048218997862147933
+      1_Terrains_and_Fences_16x16 2_74: 4391195642435077169
+      1_Terrains_and_Fences_16x16 2_75: 3114831972904783617
+      1_Terrains_and_Fences_16x16 2_76: -8823046705554518
+      1_Terrains_and_Fences_16x16 2_77: 8669389939666430206
+      1_Terrains_and_Fences_16x16 2_78: 501261570552743406
+      1_Terrains_and_Fences_16x16 2_79: -3969484775584293568
+      1_Terrains_and_Fences_16x16 2_8: -6562051964938740216
+      1_Terrains_and_Fences_16x16 2_80: 8349897151345080377
+      1_Terrains_and_Fences_16x16 2_81: 4053509282316764798
+      1_Terrains_and_Fences_16x16 2_82: 2289463652610270601
+      1_Terrains_and_Fences_16x16 2_83: -1324671667405594108
+      1_Terrains_and_Fences_16x16 2_84: 5123931067573167206
+      1_Terrains_and_Fences_16x16 2_85: -8638179938382406173
+      1_Terrains_and_Fences_16x16 2_86: -6999522974812882604
+      1_Terrains_and_Fences_16x16 2_87: -5537967264274541787
+      1_Terrains_and_Fences_16x16 2_88: -2966216672287213179
+      1_Terrains_and_Fences_16x16 2_89: -2122808641109201292
+      1_Terrains_and_Fences_16x16 2_9: 418615872853449519
+      1_Terrains_and_Fences_16x16 2_90: 3181528915638771048
+      1_Terrains_and_Fences_16x16 2_91: 6798559866935861220
+      1_Terrains_and_Fences_16x16 2_92: 7873445087192634768
+      1_Terrains_and_Fences_16x16 2_93: -680286894759261946
+      1_Terrains_and_Fences_16x16 2_94: -3341152335570560482
+      1_Terrains_and_Fences_16x16 2_95: -7615627199674782741
+      1_Terrains_and_Fences_16x16 2_96: 5629649909971524205
+      1_Terrains_and_Fences_16x16 2_97: 3210526701113269767
+      1_Terrains_and_Fences_16x16 2_98: 3043052539288302748
+      1_Terrains_and_Fences_16x16 2_99: -5170669619720711788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

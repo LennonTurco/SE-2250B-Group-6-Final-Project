@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 340abd12dab9144569810c81af1eb97b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2037523957250398314
+    second: Subway_Turnstile_16x16 2_0
+  - first:
+      213: -3180617656202473553
+    second: Subway_Turnstile_16x16 2_1
+  - first:
+      213: -7652169446363625580
+    second: Subway_Turnstile_16x16 2_2
+  - first:
+      213: 6694286629236133944
+    second: Subway_Turnstile_16x16 2_3
+  - first:
+      213: -3588987011666270679
+    second: Subway_Turnstile_16x16 2_4
+  - first:
+      213: 6210485299278845751
+    second: Subway_Turnstile_16x16 2_5
+  - first:
+      213: -7619797689953215122
+    second: Subway_Turnstile_16x16 2_6
+  - first:
+      213: -8238372433446565537
+    second: Subway_Turnstile_16x16 2_7
+  - first:
+      213: 6907846710119369670
+    second: Subway_Turnstile_16x16 2_8
+  - first:
+      213: 5646539210870523076
+    second: Subway_Turnstile_16x16 2_9
+  - first:
+      213: -3260623629355148608
+    second: Subway_Turnstile_16x16 2_10
+  - first:
+      213: 1629332733242442341
+    second: Subway_Turnstile_16x16 2_11
+  - first:
+      213: -5607385176926718361
+    second: Subway_Turnstile_16x16 2_12
+  - first:
+      213: -326566409847214274
+    second: Subway_Turnstile_16x16 2_13
+  - first:
+      213: 3567667691299918174
+    second: Subway_Turnstile_16x16 2_14
+  - first:
+      213: -3444742449492035461
+    second: Subway_Turnstile_16x16 2_15
+  - first:
+      213: -6032095139697781007
+    second: Subway_Turnstile_16x16 2_16
+  - first:
+      213: -3086114378580151269
+    second: Subway_Turnstile_16x16 2_17
+  - first:
+      213: -2811603788080908332
+    second: Subway_Turnstile_16x16 2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697edb291c249b3e0800000000000000
+      internalID: -2037523957250398314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf47b3e71d2cd3d0800000000000000
+      internalID: -3180617656202473553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49706647e680ec590800000000000000
+      internalID: -7652169446363625580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8305440b832e6ec50800000000000000
+      internalID: 6694286629236133944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 29
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262422045b513ec0800000000000000
+      internalID: -3588987011666270679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 31
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371d42a973103650800000000000000
+      internalID: 6210485299278845751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 31
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1ff55f5a014690800000000000000
+      internalID: -7619797689953215122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f590c09abeb6bad80800000000000000
+      internalID: -8238372433446565537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 29
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb0487cbf99ddf50800000000000000
+      internalID: 6907846710119369670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 27
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48042ee798c5e40800000000000000
+      internalID: 5646539210870523076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca9a0aa510ffb2d0800000000000000
+      internalID: -3260623629355148608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56205d10d7d8c9610800000000000000
+      internalID: 1629332733242442341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766fd7a04e09e22b0800000000000000
+      internalID: -5607385176926718361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f6b79949dc77bf0800000000000000
+      internalID: -326566409847214274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d198ecd6e28130800000000000000
+      internalID: 3567667691299918174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7871534ef0d130d0800000000000000
+      internalID: -3444742449492035461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f614fa0e61b94ca0800000000000000
+      internalID: -6032095139697781007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b143188d25beb25d0800000000000000
+      internalID: -3086114378580151269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Turnstile_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77b42504d2bf8d0800000000000000
+      internalID: -2811603788080908332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subway_Turnstile_16x16 2_0: -2037523957250398314
+      Subway_Turnstile_16x16 2_1: -3180617656202473553
+      Subway_Turnstile_16x16 2_10: -3260623629355148608
+      Subway_Turnstile_16x16 2_11: 1629332733242442341
+      Subway_Turnstile_16x16 2_12: -5607385176926718361
+      Subway_Turnstile_16x16 2_13: -326566409847214274
+      Subway_Turnstile_16x16 2_14: 3567667691299918174
+      Subway_Turnstile_16x16 2_15: -3444742449492035461
+      Subway_Turnstile_16x16 2_16: -6032095139697781007
+      Subway_Turnstile_16x16 2_17: -3086114378580151269
+      Subway_Turnstile_16x16 2_18: -2811603788080908332
+      Subway_Turnstile_16x16 2_2: -7652169446363625580
+      Subway_Turnstile_16x16 2_3: 6694286629236133944
+      Subway_Turnstile_16x16 2_4: -3588987011666270679
+      Subway_Turnstile_16x16 2_5: 6210485299278845751
+      Subway_Turnstile_16x16 2_6: -7619797689953215122
+      Subway_Turnstile_16x16 2_7: -8238372433446565537
+      Subway_Turnstile_16x16 2_8: 6907846710119369670
+      Subway_Turnstile_16x16 2_9: 5646539210870523076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

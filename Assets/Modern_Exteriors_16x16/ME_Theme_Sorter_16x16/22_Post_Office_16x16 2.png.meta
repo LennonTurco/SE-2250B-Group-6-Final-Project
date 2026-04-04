@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: b948ea6252f794713864a117ff13abbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6431161905494297347
+    second: 22_Post_Office_16x16 2_0
+  - first:
+      213: -8279315233719737882
+    second: 22_Post_Office_16x16 2_1
+  - first:
+      213: -5482448715420584952
+    second: 22_Post_Office_16x16 2_2
+  - first:
+      213: -6448473422261320340
+    second: 22_Post_Office_16x16 2_3
+  - first:
+      213: -3063216106161740080
+    second: 22_Post_Office_16x16 2_4
+  - first:
+      213: 8914529879708093928
+    second: 22_Post_Office_16x16 2_5
+  - first:
+      213: 7331911874271134549
+    second: 22_Post_Office_16x16 2_6
+  - first:
+      213: -6955034834945650900
+    second: 22_Post_Office_16x16 2_7
+  - first:
+      213: -5020968121343690716
+    second: 22_Post_Office_16x16 2_8
+  - first:
+      213: -6852839520588376386
+    second: 22_Post_Office_16x16 2_9
+  - first:
+      213: 8423815788671715627
+    second: 22_Post_Office_16x16 2_10
+  - first:
+      213: 2103522298290258156
+    second: 22_Post_Office_16x16 2_11
+  - first:
+      213: -6145988132499722413
+    second: 22_Post_Office_16x16 2_12
+  - first:
+      213: -6096475925055794829
+    second: 22_Post_Office_16x16 2_13
+  - first:
+      213: -2110462103840586385
+    second: 22_Post_Office_16x16 2_14
+  - first:
+      213: -8154761282262796908
+    second: 22_Post_Office_16x16 2_15
+  - first:
+      213: -1834044238365570100
+    second: 22_Post_Office_16x16 2_16
+  - first:
+      213: 5072715254800814098
+    second: 22_Post_Office_16x16 2_17
+  - first:
+      213: 2333883440064030804
+    second: 22_Post_Office_16x16 2_18
+  - first:
+      213: -8682045922513559591
+    second: 22_Post_Office_16x16 2_19
+  - first:
+      213: 6169711950529422330
+    second: 22_Post_Office_16x16 2_20
+  - first:
+      213: -5561569304514076943
+    second: 22_Post_Office_16x16 2_21
+  - first:
+      213: 7413558073335684143
+    second: 22_Post_Office_16x16 2_22
+  - first:
+      213: 2069087085070921806
+    second: 22_Post_Office_16x16 2_23
+  - first:
+      213: -7191234110861546454
+    second: 22_Post_Office_16x16 2_24
+  - first:
+      213: -9066754180273915856
+    second: 22_Post_Office_16x16 2_25
+  - first:
+      213: -1299941269188177838
+    second: 22_Post_Office_16x16 2_26
+  - first:
+      213: 3175404799448318308
+    second: 22_Post_Office_16x16 2_27
+  - first:
+      213: 2293725509838490506
+    second: 22_Post_Office_16x16 2_28
+  - first:
+      213: 7269402517367324105
+    second: 22_Post_Office_16x16 2_29
+  - first:
+      213: -162072623853065974
+    second: 22_Post_Office_16x16 2_30
+  - first:
+      213: 695019215507978468
+    second: 22_Post_Office_16x16 2_31
+  - first:
+      213: -229565315314404090
+    second: 22_Post_Office_16x16 2_32
+  - first:
+      213: -1756291084735976967
+    second: 22_Post_Office_16x16 2_33
+  - first:
+      213: -8304763873619402652
+    second: 22_Post_Office_16x16 2_34
+  - first:
+      213: 5685665190308559195
+    second: 22_Post_Office_16x16 2_35
+  - first:
+      213: 7179199271597418565
+    second: 22_Post_Office_16x16 2_36
+  - first:
+      213: -7877331346315545363
+    second: 22_Post_Office_16x16 2_37
+  - first:
+      213: -1551105375011087439
+    second: 22_Post_Office_16x16 2_38
+  - first:
+      213: 7694508787026050235
+    second: 22_Post_Office_16x16 2_39
+  - first:
+      213: -5954512486869871876
+    second: 22_Post_Office_16x16 2_40
+  - first:
+      213: -3238106739883780035
+    second: 22_Post_Office_16x16 2_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 125
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fcf9125cefb6a0800000000000000
+      internalID: -6431161905494297347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 320
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a7ae19a6f91d80800000000000000
+      internalID: -8279315233719737882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 56
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8043f0ac0fd6ae3b0800000000000000
+      internalID: -5482448715420584952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 425
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650192869b6286a0800000000000000
+      internalID: -6448473422261320340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 425
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d669f95e254d75d0800000000000000
+      internalID: -3063216106161740080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 428
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed4b93c1b5c6bb70800000000000000
+      internalID: 8914529879708093928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 438
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5534666e00f20c560800000000000000
+      internalID: 7331911874271134549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 438
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc89ebaa0ca7f90800000000000000
+      internalID: -6955034834945650900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 303
+        width: 125
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428bfba8810f15ab0800000000000000
+      internalID: -5020968121343690716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 272
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6529093c2d5e0a0800000000000000
+      internalID: -6852839520588376386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 272
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29ca1914d767e470800000000000000
+      internalID: 8423815788671715627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 257
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce044b6a266313d10800000000000000
+      internalID: 2103522298290258156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f66983b5015baa0800000000000000
+      internalID: -6145988132499722413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 239
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37114595277f46ba0800000000000000
+      internalID: -6096475925055794829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6588a4f5e126b2e0800000000000000
+      internalID: -2110462103840586385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 239
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495fd9ec1d774de80800000000000000
+      internalID: -8154761282262796908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 208
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb4edd7b7a2c86e0800000000000000
+      internalID: -1834044238365570100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109b19d5a7e56640800000000000000
+      internalID: 5072715254800814098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ee209f9e936020800000000000000
+      internalID: 2333883440064030804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df53f0ab3d238780800000000000000
+      internalID: -8682045922513559591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3e9c994583f9550800000000000000
+      internalID: 6169711950529422330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 239
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed8ba1f2651d2b0800000000000000
+      internalID: -5561569304514076943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c17eaf9cf32e660800000000000000
+      internalID: 7413558073335684143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 239
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40300bcdbfd6bc10800000000000000
+      internalID: 2069087085070921806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 239
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cec6d4daa933c90800000000000000
+      internalID: -7191234110861546454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0383cfa5c1b6c2280800000000000000
+      internalID: -9066754180273915856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2501b259d4ea5fde0800000000000000
+      internalID: -1299941269188177838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 226
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461003157dd411c20800000000000000
+      internalID: 3175404799448318308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 226
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bcc22d233f4df10800000000000000
+      internalID: 2293725509838490506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd7209131b12e460800000000000000
+      internalID: 7269402517367324105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092c6baec330cdf0800000000000000
+      internalID: -162072623853065974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e87c6c4b4435a900800000000000000
+      internalID: 695019215507978468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6053fefdf8b60dcf0800000000000000
+      internalID: -229565315314404090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9602c409660a7e0800000000000000
+      internalID: -1756291084735976967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 207
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4602b69e14d8fbc80800000000000000
+      internalID: -8304763873619402652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 207
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59352cdd5a87ee40800000000000000
+      internalID: 5685665190308559195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ae4353b3a1a360800000000000000
+      internalID: 7179199271597418565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4ffcc50e81ea290800000000000000
+      internalID: -7877331346315545363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 207
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbd34921ed597ae0800000000000000
+      internalID: -1551105375011087439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc3fcb79f268ca60800000000000000
+      internalID: 7694508787026050235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf25e7901725d5da0800000000000000
+      internalID: -5954512486869871876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22_Post_Office_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 175
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38dd68831fef03d0800000000000000
+      internalID: -3238106739883780035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      22_Post_Office_16x16 2_0: -6431161905494297347
+      22_Post_Office_16x16 2_1: -8279315233719737882
+      22_Post_Office_16x16 2_10: 8423815788671715627
+      22_Post_Office_16x16 2_11: 2103522298290258156
+      22_Post_Office_16x16 2_12: -6145988132499722413
+      22_Post_Office_16x16 2_13: -6096475925055794829
+      22_Post_Office_16x16 2_14: -2110462103840586385
+      22_Post_Office_16x16 2_15: -8154761282262796908
+      22_Post_Office_16x16 2_16: -1834044238365570100
+      22_Post_Office_16x16 2_17: 5072715254800814098
+      22_Post_Office_16x16 2_18: 2333883440064030804
+      22_Post_Office_16x16 2_19: -8682045922513559591
+      22_Post_Office_16x16 2_2: -5482448715420584952
+      22_Post_Office_16x16 2_20: 6169711950529422330
+      22_Post_Office_16x16 2_21: -5561569304514076943
+      22_Post_Office_16x16 2_22: 7413558073335684143
+      22_Post_Office_16x16 2_23: 2069087085070921806
+      22_Post_Office_16x16 2_24: -7191234110861546454
+      22_Post_Office_16x16 2_25: -9066754180273915856
+      22_Post_Office_16x16 2_26: -1299941269188177838
+      22_Post_Office_16x16 2_27: 3175404799448318308
+      22_Post_Office_16x16 2_28: 2293725509838490506
+      22_Post_Office_16x16 2_29: 7269402517367324105
+      22_Post_Office_16x16 2_3: -6448473422261320340
+      22_Post_Office_16x16 2_30: -162072623853065974
+      22_Post_Office_16x16 2_31: 695019215507978468
+      22_Post_Office_16x16 2_32: -229565315314404090
+      22_Post_Office_16x16 2_33: -1756291084735976967
+      22_Post_Office_16x16 2_34: -8304763873619402652
+      22_Post_Office_16x16 2_35: 5685665190308559195
+      22_Post_Office_16x16 2_36: 7179199271597418565
+      22_Post_Office_16x16 2_37: -7877331346315545363
+      22_Post_Office_16x16 2_38: -1551105375011087439
+      22_Post_Office_16x16 2_39: 7694508787026050235
+      22_Post_Office_16x16 2_4: -3063216106161740080
+      22_Post_Office_16x16 2_40: -5954512486869871876
+      22_Post_Office_16x16 2_41: -3238106739883780035
+      22_Post_Office_16x16 2_5: 8914529879708093928
+      22_Post_Office_16x16 2_6: 7331911874271134549
+      22_Post_Office_16x16 2_7: -6955034834945650900
+      22_Post_Office_16x16 2_8: -5020968121343690716
+      22_Post_Office_16x16 2_9: -6852839520588376386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

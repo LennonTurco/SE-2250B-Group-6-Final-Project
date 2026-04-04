@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: de31ac4883d984b61a948d1a5221658e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6225515089849841808
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_0
+  - first:
+      213: 7309549388443871976
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_1
+  - first:
+      213: 5804999530731097104
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_2
+  - first:
+      213: -588893606362696270
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_3
+  - first:
+      213: -1906830600097570614
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_4
+  - first:
+      213: 6897110379188936830
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_5
+  - first:
+      213: 4014699907688033574
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_6
+  - first:
+      213: -1953521430562728347
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_7
+  - first:
+      213: 6440794846615977555
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_8
+  - first:
+      213: -5081719247762521760
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_9
+  - first:
+      213: -2468120852888059933
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_10
+  - first:
+      213: -116627611312263806
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_11
+  - first:
+      213: 140336069440521655
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_12
+  - first:
+      213: -1005431966485817503
+    second: Floor_Modular_Buildings_1_Door_4_16x16 2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09875527df8756650800000000000000
+      internalID: 6225515089849841808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaee5ee07cb07560800000000000000
+      internalID: 7309549388443871976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c498621508f8050800000000000000
+      internalID: 5804999530731097104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b0469264d3d7f0800000000000000
+      internalID: -588893606362696270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e65a0ca39985e0800000000000000
+      internalID: -1906830600097570614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e706730f85577bf50800000000000000
+      internalID: 6897110379188936830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62de9859b4417b730800000000000000
+      internalID: 4014699907688033574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566123eeb92b3e4e0800000000000000
+      internalID: -1953521430562728347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e36b7c9cc426950800000000000000
+      internalID: 6440794846615977555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06189dca44b1a79b0800000000000000
+      internalID: -5081719247762521760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef7fd439297fbdd0800000000000000
+      internalID: -2468120852888059933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28deab03ec7a16ef0800000000000000
+      internalID: -116627611312263806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b54d2069e292f100800000000000000
+      internalID: 140336069440521655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Modular_Buildings_1_Door_4_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1675ac714fcfb02f0800000000000000
+      internalID: -1005431966485817503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Floor_Modular_Buildings_1_Door_4_16x16 2_0: 6225515089849841808
+      Floor_Modular_Buildings_1_Door_4_16x16 2_1: 7309549388443871976
+      Floor_Modular_Buildings_1_Door_4_16x16 2_10: -2468120852888059933
+      Floor_Modular_Buildings_1_Door_4_16x16 2_11: -116627611312263806
+      Floor_Modular_Buildings_1_Door_4_16x16 2_12: 140336069440521655
+      Floor_Modular_Buildings_1_Door_4_16x16 2_13: -1005431966485817503
+      Floor_Modular_Buildings_1_Door_4_16x16 2_2: 5804999530731097104
+      Floor_Modular_Buildings_1_Door_4_16x16 2_3: -588893606362696270
+      Floor_Modular_Buildings_1_Door_4_16x16 2_4: -1906830600097570614
+      Floor_Modular_Buildings_1_Door_4_16x16 2_5: 6897110379188936830
+      Floor_Modular_Buildings_1_Door_4_16x16 2_6: 4014699907688033574
+      Floor_Modular_Buildings_1_Door_4_16x16 2_7: -1953521430562728347
+      Floor_Modular_Buildings_1_Door_4_16x16 2_8: 6440794846615977555
+      Floor_Modular_Buildings_1_Door_4_16x16 2_9: -5081719247762521760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

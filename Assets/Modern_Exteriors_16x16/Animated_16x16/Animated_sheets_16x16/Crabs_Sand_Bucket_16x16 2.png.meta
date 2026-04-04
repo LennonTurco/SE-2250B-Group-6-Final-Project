@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 1c00e95b118384b8d85ab3c31b94f807
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4837389323392100975
+    second: Crabs_Sand_Bucket_16x16 2_0
+  - first:
+      213: -6360086803448586195
+    second: Crabs_Sand_Bucket_16x16 2_1
+  - first:
+      213: -8597353981755244751
+    second: Crabs_Sand_Bucket_16x16 2_2
+  - first:
+      213: 7553807056556028045
+    second: Crabs_Sand_Bucket_16x16 2_3
+  - first:
+      213: 3304122936051595708
+    second: Crabs_Sand_Bucket_16x16 2_4
+  - first:
+      213: -3070173836395785353
+    second: Crabs_Sand_Bucket_16x16 2_5
+  - first:
+      213: -6236439699993079973
+    second: Crabs_Sand_Bucket_16x16 2_6
+  - first:
+      213: -1139225156621529175
+    second: Crabs_Sand_Bucket_16x16 2_7
+  - first:
+      213: -203384254434849164
+    second: Crabs_Sand_Bucket_16x16 2_8
+  - first:
+      213: 492611615188607492
+    second: Crabs_Sand_Bucket_16x16 2_9
+  - first:
+      213: 4903950478730883484
+    second: Crabs_Sand_Bucket_16x16 2_10
+  - first:
+      213: -3114326580313490381
+    second: Crabs_Sand_Bucket_16x16 2_11
+  - first:
+      213: 6161989756291155777
+    second: Crabs_Sand_Bucket_16x16 2_12
+  - first:
+      213: -8838308594243879730
+    second: Crabs_Sand_Bucket_16x16 2_13
+  - first:
+      213: 7262299087413547968
+    second: Crabs_Sand_Bucket_16x16 2_14
+  - first:
+      213: 8171965901551144093
+    second: Crabs_Sand_Bucket_16x16 2_15
+  - first:
+      213: 8130371854826460176
+    second: Crabs_Sand_Bucket_16x16 2_16
+  - first:
+      213: 764247026086780598
+    second: Crabs_Sand_Bucket_16x16 2_17
+  - first:
+      213: 5648717115741279809
+    second: Crabs_Sand_Bucket_16x16 2_18
+  - first:
+      213: 5423013683917251063
+    second: Crabs_Sand_Bucket_16x16 2_19
+  - first:
+      213: -615608739334128907
+    second: Crabs_Sand_Bucket_16x16 2_20
+  - first:
+      213: 7439197925449451154
+    second: Crabs_Sand_Bucket_16x16 2_21
+  - first:
+      213: -703613772016985589
+    second: Crabs_Sand_Bucket_16x16 2_22
+  - first:
+      213: -296351077231590509
+    second: Crabs_Sand_Bucket_16x16 2_23
+  - first:
+      213: -3767928185026377096
+    second: Crabs_Sand_Bucket_16x16 2_24
+  - first:
+      213: 7012734810337121814
+    second: Crabs_Sand_Bucket_16x16 2_25
+  - first:
+      213: -4822925887969110795
+    second: Crabs_Sand_Bucket_16x16 2_26
+  - first:
+      213: 5076105554711133947
+    second: Crabs_Sand_Bucket_16x16 2_27
+  - first:
+      213: -5397153151651923554
+    second: Crabs_Sand_Bucket_16x16 2_28
+  - first:
+      213: -4424564304938752387
+    second: Crabs_Sand_Bucket_16x16 2_29
+  - first:
+      213: -341712082604591731
+    second: Crabs_Sand_Bucket_16x16 2_30
+  - first:
+      213: 2958315780651154189
+    second: Crabs_Sand_Bucket_16x16 2_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19552fa3a042edcb0800000000000000
+      internalID: -4837389323392100975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d202ccbdfbe6cb7a0800000000000000
+      internalID: -6360086803448586195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f3035ba1010b880800000000000000
+      internalID: -8597353981755244751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807cd30f7384d860800000000000000
+      internalID: 7553807056556028045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97399ed4a9add20800000000000000
+      internalID: 3304122936051595708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7735eea892d8465d0800000000000000
+      internalID: -3070173836395785353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc4ca8227b379a0800000000000000
+      internalID: -6236439699993079973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af826481c8a030f0800000000000000
+      internalID: -1139225156621529175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ec081291f6d2df0800000000000000
+      internalID: -203384254434849164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 103
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4026c8f67ab16d600800000000000000
+      internalID: 492611615188607492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917cd86af45e0440800000000000000
+      internalID: 4903950478730883484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7bd1c970b7c4d0800000000000000
+      internalID: -3114326580313490381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14784552909c38550800000000000000
+      internalID: 6161989756291155777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccbfc03925085580800000000000000
+      internalID: -8838308594243879730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 72
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39dedea8ed8c460800000000000000
+      internalID: 7262299087413547968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8f86c0b7a86170800000000000000
+      internalID: 8171965901551144093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d3ca1022e4d070800000000000000
+      internalID: 8130371854826460176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1d8efe962b9a00800000000000000
+      internalID: 764247026086780598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1469d60e946446e40800000000000000
+      internalID: 5648717115741279809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f168f1963a624b40800000000000000
+      internalID: 5423013683917251063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fafc5bfc1be477f0800000000000000
+      internalID: -615608739334128907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 39
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296cc3049175d3760800000000000000
+      internalID: 7439197925449451154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0adad390034c36f0800000000000000
+      internalID: -703613772016985589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 39
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3938ec0f34623ebf0800000000000000
+      internalID: -296351077231590509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a02507741a5bbc0800000000000000
+      internalID: -3767928185026377096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 39
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616192aa72d325160800000000000000
+      internalID: 7012734810337121814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4d0953576811db0800000000000000
+      internalID: -4822925887969110795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb1fe8b13f17640800000000000000
+      internalID: 5076105554711133947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99386dcdc57915b0800000000000000
+      internalID: -5397153151651923554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76a04ef43ac892c0800000000000000
+      internalID: -4424564304938752387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85f4ecdbaef14bf0800000000000000
+      internalID: -341712082604591731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabs_Sand_Bucket_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf427578c0e0920800000000000000
+      internalID: 2958315780651154189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crabs_Sand_Bucket_16x16 2_0: -4837389323392100975
+      Crabs_Sand_Bucket_16x16 2_1: -6360086803448586195
+      Crabs_Sand_Bucket_16x16 2_10: 4903950478730883484
+      Crabs_Sand_Bucket_16x16 2_11: -3114326580313490381
+      Crabs_Sand_Bucket_16x16 2_12: 6161989756291155777
+      Crabs_Sand_Bucket_16x16 2_13: -8838308594243879730
+      Crabs_Sand_Bucket_16x16 2_14: 7262299087413547968
+      Crabs_Sand_Bucket_16x16 2_15: 8171965901551144093
+      Crabs_Sand_Bucket_16x16 2_16: 8130371854826460176
+      Crabs_Sand_Bucket_16x16 2_17: 764247026086780598
+      Crabs_Sand_Bucket_16x16 2_18: 5648717115741279809
+      Crabs_Sand_Bucket_16x16 2_19: 5423013683917251063
+      Crabs_Sand_Bucket_16x16 2_2: -8597353981755244751
+      Crabs_Sand_Bucket_16x16 2_20: -615608739334128907
+      Crabs_Sand_Bucket_16x16 2_21: 7439197925449451154
+      Crabs_Sand_Bucket_16x16 2_22: -703613772016985589
+      Crabs_Sand_Bucket_16x16 2_23: -296351077231590509
+      Crabs_Sand_Bucket_16x16 2_24: -3767928185026377096
+      Crabs_Sand_Bucket_16x16 2_25: 7012734810337121814
+      Crabs_Sand_Bucket_16x16 2_26: -4822925887969110795
+      Crabs_Sand_Bucket_16x16 2_27: 5076105554711133947
+      Crabs_Sand_Bucket_16x16 2_28: -5397153151651923554
+      Crabs_Sand_Bucket_16x16 2_29: -4424564304938752387
+      Crabs_Sand_Bucket_16x16 2_3: 7553807056556028045
+      Crabs_Sand_Bucket_16x16 2_30: -341712082604591731
+      Crabs_Sand_Bucket_16x16 2_31: 2958315780651154189
+      Crabs_Sand_Bucket_16x16 2_4: 3304122936051595708
+      Crabs_Sand_Bucket_16x16 2_5: -3070173836395785353
+      Crabs_Sand_Bucket_16x16 2_6: -6236439699993079973
+      Crabs_Sand_Bucket_16x16 2_7: -1139225156621529175
+      Crabs_Sand_Bucket_16x16 2_8: -203384254434849164
+      Crabs_Sand_Bucket_16x16 2_9: 492611615188607492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

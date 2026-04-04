@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 879c039531ca94e25a605fa127ac472d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1167474340562379593
+    second: 6_Garage_Sales_16x16 2_0
+  - first:
+      213: -2912762834226069658
+    second: 6_Garage_Sales_16x16 2_1
+  - first:
+      213: 1849848261785751868
+    second: 6_Garage_Sales_16x16 2_2
+  - first:
+      213: 7301498849466399276
+    second: 6_Garage_Sales_16x16 2_3
+  - first:
+      213: 8279749228077117292
+    second: 6_Garage_Sales_16x16 2_4
+  - first:
+      213: -4013097072400083061
+    second: 6_Garage_Sales_16x16 2_5
+  - first:
+      213: 3535043023226474594
+    second: 6_Garage_Sales_16x16 2_6
+  - first:
+      213: -4100756915545334226
+    second: 6_Garage_Sales_16x16 2_7
+  - first:
+      213: -1314449589061332319
+    second: 6_Garage_Sales_16x16 2_8
+  - first:
+      213: 299585611941439004
+    second: 6_Garage_Sales_16x16 2_9
+  - first:
+      213: 2475608342186788
+    second: 6_Garage_Sales_16x16 2_10
+  - first:
+      213: -8576870963684026976
+    second: 6_Garage_Sales_16x16 2_11
+  - first:
+      213: 7199538832298570520
+    second: 6_Garage_Sales_16x16 2_12
+  - first:
+      213: 7147760070721899332
+    second: 6_Garage_Sales_16x16 2_13
+  - first:
+      213: -8098548796058287012
+    second: 6_Garage_Sales_16x16 2_14
+  - first:
+      213: -1437593875017804885
+    second: 6_Garage_Sales_16x16 2_15
+  - first:
+      213: -1459895447965757722
+    second: 6_Garage_Sales_16x16 2_16
+  - first:
+      213: -3770537364834225227
+    second: 6_Garage_Sales_16x16 2_17
+  - first:
+      213: 6062524847333298101
+    second: 6_Garage_Sales_16x16 2_18
+  - first:
+      213: 6865182479435595740
+    second: 6_Garage_Sales_16x16 2_19
+  - first:
+      213: -8367509604012852655
+    second: 6_Garage_Sales_16x16 2_20
+  - first:
+      213: -5235553720379264527
+    second: 6_Garage_Sales_16x16 2_21
+  - first:
+      213: -7912672633201621100
+    second: 6_Garage_Sales_16x16 2_22
+  - first:
+      213: -5168912078281416559
+    second: 6_Garage_Sales_16x16 2_23
+  - first:
+      213: -4748543853552117556
+    second: 6_Garage_Sales_16x16 2_24
+  - first:
+      213: -4102052240643430817
+    second: 6_Garage_Sales_16x16 2_25
+  - first:
+      213: -4638100575621208914
+    second: 6_Garage_Sales_16x16 2_26
+  - first:
+      213: 7940460980643540578
+    second: 6_Garage_Sales_16x16 2_27
+  - first:
+      213: 2042298289715928375
+    second: 6_Garage_Sales_16x16 2_28
+  - first:
+      213: 7707445815265515221
+    second: 6_Garage_Sales_16x16 2_29
+  - first:
+      213: -1157464391965152625
+    second: 6_Garage_Sales_16x16 2_30
+  - first:
+      213: 6104356539526213474
+    second: 6_Garage_Sales_16x16 2_31
+  - first:
+      213: -4247205166293654376
+    second: 6_Garage_Sales_16x16 2_32
+  - first:
+      213: 8666364607737446117
+    second: 6_Garage_Sales_16x16 2_33
+  - first:
+      213: 873458093787042191
+    second: 6_Garage_Sales_16x16 2_34
+  - first:
+      213: 4586475583690897576
+    second: 6_Garage_Sales_16x16 2_35
+  - first:
+      213: -3226903635957558282
+    second: 6_Garage_Sales_16x16 2_36
+  - first:
+      213: 3960488469838952263
+    second: 6_Garage_Sales_16x16 2_37
+  - first:
+      213: 4385753873481026311
+    second: 6_Garage_Sales_16x16 2_38
+  - first:
+      213: -5767767937482913426
+    second: 6_Garage_Sales_16x16 2_39
+  - first:
+      213: 5653613914200307459
+    second: 6_Garage_Sales_16x16 2_40
+  - first:
+      213: -4470628158977061479
+    second: 6_Garage_Sales_16x16 2_41
+  - first:
+      213: -4090596519312214896
+    second: 6_Garage_Sales_16x16 2_42
+  - first:
+      213: 7261240536564740967
+    second: 6_Garage_Sales_16x16 2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943aa992ab3b33010800000000000000
+      internalID: 1167474340562379593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 34
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fbefe72a9c397d0800000000000000
+      internalID: -2912762834226069658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 399
+        width: 34
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c311d14713bfba910800000000000000
+      internalID: 1849848261785751868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 399
+        width: 98
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a3e52c482245560800000000000000
+      internalID: 7301498849466399276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 399
+        width: 34
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe9d01e0497e270800000000000000
+      internalID: 8279749228077117292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 399
+        width: 34
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87de66997d9e48c0800000000000000
+      internalID: -4013097072400083061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 399
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260132176eefe0130800000000000000
+      internalID: 3535043023226474594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e91b2ef4f2717c0800000000000000
+      internalID: -4100756915545334226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a257d0201322cde0800000000000000
+      internalID: -1314449589061332319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 159
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16669bd687582400800000000000000
+      internalID: 299585611941439004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 305
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc6db7d8bc80000800000000000000
+      internalID: 2475608342186788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5504dfc45d8f880800000000000000
+      internalID: -8576870963684026976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81379c55c66e9e360800000000000000
+      internalID: 7199538832298570520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b8913f9e1f13360800000000000000
+      internalID: 7147760070721899332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5447c627cc2c9f80800000000000000
+      internalID: -8098548796058287012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba35944ccf3ac0ce0800000000000000
+      internalID: -1437593875017804885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 95
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee8ace23d86dbbe0800000000000000
+      internalID: -1459895447965757722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f7bc6e3c5cabc0800000000000000
+      internalID: -3770537364834225227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfc74f5a3a622450800000000000000
+      internalID: 6062524847333298101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 99
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7efc7717064f50800000000000000
+      internalID: 6865182479435595740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 98
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af42e1952a0eb80800000000000000
+      internalID: -8367509604012852655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 96
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b15661a39757b0800000000000000
+      internalID: -5235553720379264527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497001ac92a803290800000000000000
+      internalID: -7912672633201621100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 95
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906fc2d9d55448b0800000000000000
+      internalID: -5168912078281416559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 95
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc859a82688c91eb0800000000000000
+      internalID: -4748543853552117556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 95
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f566a5288359217c0800000000000000
+      internalID: -4102052240643430817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 95
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42095a91822afb0800000000000000
+      internalID: -4638100575621208914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 95
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eab18013f223e60800000000000000
+      internalID: 7940460980643540578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 66
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dd7e35973b75c10800000000000000
+      internalID: 2042298289715928375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d878122956fa60800000000000000
+      internalID: 7707445815265515221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae0cc944cdfefe0800000000000000
+      internalID: -1157464391965152625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26feac03ee707b450800000000000000
+      internalID: 6104356539526213474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ecd66765ee05c0800000000000000
+      internalID: -4247205166293654376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 113
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee3532c1bc154870800000000000000
+      internalID: 8666364607737446117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 63
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81dd5e22852f1c00800000000000000
+      internalID: 873458093787042191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 63
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f5e04e3f66af30800000000000000
+      internalID: 4586475583690897576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 63
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3555e6d3cb733d0800000000000000
+      internalID: -3226903635957558282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 63
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f7cd974b76f630800000000000000
+      internalID: 3960488469838952263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 63
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b412549e35ddc30800000000000000
+      internalID: 4385753873481026311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 63
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69817bae95c4ffa0800000000000000
+      internalID: -5767767937482913426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3077d1d96eba57e40800000000000000
+      internalID: 5653613914200307459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4055306325f1c0800000000000000
+      internalID: -4470628158977061479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09432fa73284b37c0800000000000000
+      internalID: -4090596519312214896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Garage_Sales_16x16 2_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 23
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bb9adbcb15c460800000000000000
+      internalID: 7261240536564740967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      6_Garage_Sales_16x16 2_0: 1167474340562379593
+      6_Garage_Sales_16x16 2_1: -2912762834226069658
+      6_Garage_Sales_16x16 2_10: 2475608342186788
+      6_Garage_Sales_16x16 2_11: -8576870963684026976
+      6_Garage_Sales_16x16 2_12: 7199538832298570520
+      6_Garage_Sales_16x16 2_13: 7147760070721899332
+      6_Garage_Sales_16x16 2_14: -8098548796058287012
+      6_Garage_Sales_16x16 2_15: -1437593875017804885
+      6_Garage_Sales_16x16 2_16: -1459895447965757722
+      6_Garage_Sales_16x16 2_17: -3770537364834225227
+      6_Garage_Sales_16x16 2_18: 6062524847333298101
+      6_Garage_Sales_16x16 2_19: 6865182479435595740
+      6_Garage_Sales_16x16 2_2: 1849848261785751868
+      6_Garage_Sales_16x16 2_20: -8367509604012852655
+      6_Garage_Sales_16x16 2_21: -5235553720379264527
+      6_Garage_Sales_16x16 2_22: -7912672633201621100
+      6_Garage_Sales_16x16 2_23: -5168912078281416559
+      6_Garage_Sales_16x16 2_24: -4748543853552117556
+      6_Garage_Sales_16x16 2_25: -4102052240643430817
+      6_Garage_Sales_16x16 2_26: -4638100575621208914
+      6_Garage_Sales_16x16 2_27: 7940460980643540578
+      6_Garage_Sales_16x16 2_28: 2042298289715928375
+      6_Garage_Sales_16x16 2_29: 7707445815265515221
+      6_Garage_Sales_16x16 2_3: 7301498849466399276
+      6_Garage_Sales_16x16 2_30: -1157464391965152625
+      6_Garage_Sales_16x16 2_31: 6104356539526213474
+      6_Garage_Sales_16x16 2_32: -4247205166293654376
+      6_Garage_Sales_16x16 2_33: 8666364607737446117
+      6_Garage_Sales_16x16 2_34: 873458093787042191
+      6_Garage_Sales_16x16 2_35: 4586475583690897576
+      6_Garage_Sales_16x16 2_36: -3226903635957558282
+      6_Garage_Sales_16x16 2_37: 3960488469838952263
+      6_Garage_Sales_16x16 2_38: 4385753873481026311
+      6_Garage_Sales_16x16 2_39: -5767767937482913426
+      6_Garage_Sales_16x16 2_4: 8279749228077117292
+      6_Garage_Sales_16x16 2_40: 5653613914200307459
+      6_Garage_Sales_16x16 2_41: -4470628158977061479
+      6_Garage_Sales_16x16 2_42: -4090596519312214896
+      6_Garage_Sales_16x16 2_43: 7261240536564740967
+      6_Garage_Sales_16x16 2_5: -4013097072400083061
+      6_Garage_Sales_16x16 2_6: 3535043023226474594
+      6_Garage_Sales_16x16 2_7: -4100756915545334226
+      6_Garage_Sales_16x16 2_8: -1314449589061332319
+      6_Garage_Sales_16x16 2_9: 299585611941439004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

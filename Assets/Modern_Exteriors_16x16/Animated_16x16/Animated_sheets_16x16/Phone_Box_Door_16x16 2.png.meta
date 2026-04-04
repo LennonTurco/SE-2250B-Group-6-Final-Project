@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 1087c54f6d6e8433baa483fad718f26b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8085432453988972801
+    second: Phone_Box_Door_16x16 2_0
+  - first:
+      213: -5388767210566793733
+    second: Phone_Box_Door_16x16 2_1
+  - first:
+      213: 2634822987708969409
+    second: Phone_Box_Door_16x16 2_2
+  - first:
+      213: 3162766765353228034
+    second: Phone_Box_Door_16x16 2_3
+  - first:
+      213: 1773929627599510245
+    second: Phone_Box_Door_16x16 2_4
+  - first:
+      213: 5156969689245355761
+    second: Phone_Box_Door_16x16 2_5
+  - first:
+      213: -2909800224940779048
+    second: Phone_Box_Door_16x16 2_6
+  - first:
+      213: 7790041733241388449
+    second: Phone_Box_Door_16x16 2_7
+  - first:
+      213: -6621496625246642112
+    second: Phone_Box_Door_16x16 2_8
+  - first:
+      213: 2901663071857085243
+    second: Phone_Box_Door_16x16 2_9
+  - first:
+      213: -45262233890584271
+    second: Phone_Box_Door_16x16 2_10
+  - first:
+      213: 4686736537176369961
+    second: Phone_Box_Door_16x16 2_11
+  - first:
+      213: -1294491889022502180
+    second: Phone_Box_Door_16x16 2_12
+  - first:
+      213: 771744146445261492
+    second: Phone_Box_Door_16x16 2_13
+  - first:
+      213: -3861677314200605776
+    second: Phone_Box_Door_16x16 2_14
+  - first:
+      213: -1142148440538724593
+    second: Phone_Box_Door_16x16 2_15
+  - first:
+      213: -1883712087785687009
+    second: Phone_Box_Door_16x16 2_16
+  - first:
+      213: 4976353707050213849
+    second: Phone_Box_Door_16x16 2_17
+  - first:
+      213: -5467324404736004110
+    second: Phone_Box_Door_16x16 2_18
+  - first:
+      213: -2832948723264124738
+    second: Phone_Box_Door_16x16 2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff682948506cacf80800000000000000
+      internalID: -8085432453988972801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 31
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c4ecd5c04735b0800000000000000
+      internalID: -5388767210566793733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c13d642c85c09420800000000000000
+      internalID: 2634822987708969409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2075a44bd9764eb20800000000000000
+      internalID: 3162766765353228034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 25
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea1c9df8934e9810800000000000000
+      internalID: 1773929627599510245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 19
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0dec0c9c319740800000000000000
+      internalID: 5156969689245355761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 18
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99d09bc105e97d0800000000000000
+      internalID: -2909800224940779048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 11
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3257dea9cb1c60800000000000000
+      internalID: 7790041733241388449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 11
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040e9bac6e7bb14a0800000000000000
+      internalID: -6621496625246642112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 10
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b09efa037c44820800000000000000
+      internalID: 2901663071857085243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 10
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1390633fc323f5ff0800000000000000
+      internalID: -45262233890584271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 10
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bed369c02aa0140800000000000000
+      internalID: 4686736537176369961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 11
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda70364c7a090ee0800000000000000
+      internalID: -1294491889022502180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 11
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba5b5a5639c5ba00800000000000000
+      internalID: 771744146445261492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 18
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb63e951f0986ac0800000000000000
+      internalID: -3861677314200605776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 19
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f074ce07b064620f0800000000000000
+      internalID: -1142148440538724593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 25
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18bc6426d5bbd5e0800000000000000
+      internalID: -1883712087785687009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 27
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d12d69a45f8f0540800000000000000
+      internalID: 4976353707050213849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 31
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffe2e7cb692024b0800000000000000
+      internalID: -5467324404736004110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phone_Box_Door_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 31
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb802f255285fa8d0800000000000000
+      internalID: -2832948723264124738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Phone_Box_Door_16x16 2_0: -8085432453988972801
+      Phone_Box_Door_16x16 2_1: -5388767210566793733
+      Phone_Box_Door_16x16 2_10: -45262233890584271
+      Phone_Box_Door_16x16 2_11: 4686736537176369961
+      Phone_Box_Door_16x16 2_12: -1294491889022502180
+      Phone_Box_Door_16x16 2_13: 771744146445261492
+      Phone_Box_Door_16x16 2_14: -3861677314200605776
+      Phone_Box_Door_16x16 2_15: -1142148440538724593
+      Phone_Box_Door_16x16 2_16: -1883712087785687009
+      Phone_Box_Door_16x16 2_17: 4976353707050213849
+      Phone_Box_Door_16x16 2_18: -5467324404736004110
+      Phone_Box_Door_16x16 2_19: -2832948723264124738
+      Phone_Box_Door_16x16 2_2: 2634822987708969409
+      Phone_Box_Door_16x16 2_3: 3162766765353228034
+      Phone_Box_Door_16x16 2_4: 1773929627599510245
+      Phone_Box_Door_16x16 2_5: 5156969689245355761
+      Phone_Box_Door_16x16 2_6: -2909800224940779048
+      Phone_Box_Door_16x16 2_7: 7790041733241388449
+      Phone_Box_Door_16x16 2_8: -6621496625246642112
+      Phone_Box_Door_16x16 2_9: 2901663071857085243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

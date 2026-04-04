@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: b22fadd38b932415699fa076716c3b27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2585534333558218873
+    second: 12_Hotel_and_Hospital_16x16 2_0
+  - first:
+      213: 8616054522839586737
+    second: 12_Hotel_and_Hospital_16x16 2_1
+  - first:
+      213: -9172887031153629116
+    second: 12_Hotel_and_Hospital_16x16 2_2
+  - first:
+      213: 7641532685608073421
+    second: 12_Hotel_and_Hospital_16x16 2_3
+  - first:
+      213: 150756051302988338
+    second: 12_Hotel_and_Hospital_16x16 2_4
+  - first:
+      213: -4509923004034631225
+    second: 12_Hotel_and_Hospital_16x16 2_5
+  - first:
+      213: -440395049763805956
+    second: 12_Hotel_and_Hospital_16x16 2_6
+  - first:
+      213: -1662500465304867515
+    second: 12_Hotel_and_Hospital_16x16 2_7
+  - first:
+      213: -8837085434096113351
+    second: 12_Hotel_and_Hospital_16x16 2_8
+  - first:
+      213: -3718631656013202626
+    second: 12_Hotel_and_Hospital_16x16 2_9
+  - first:
+      213: 6541178555643070871
+    second: 12_Hotel_and_Hospital_16x16 2_10
+  - first:
+      213: -8988077759249462377
+    second: 12_Hotel_and_Hospital_16x16 2_11
+  - first:
+      213: 1952921479577400571
+    second: 12_Hotel_and_Hospital_16x16 2_12
+  - first:
+      213: -10756071808356523
+    second: 12_Hotel_and_Hospital_16x16 2_13
+  - first:
+      213: -4093146741256849721
+    second: 12_Hotel_and_Hospital_16x16 2_14
+  - first:
+      213: -4709267266626248848
+    second: 12_Hotel_and_Hospital_16x16 2_15
+  - first:
+      213: -4592353744799035130
+    second: 12_Hotel_and_Hospital_16x16 2_16
+  - first:
+      213: 4932686670076618217
+    second: 12_Hotel_and_Hospital_16x16 2_17
+  - first:
+      213: 5753081136449907154
+    second: 12_Hotel_and_Hospital_16x16 2_18
+  - first:
+      213: -124827769087741212
+    second: 12_Hotel_and_Hospital_16x16 2_19
+  - first:
+      213: 8662956114733106241
+    second: 12_Hotel_and_Hospital_16x16 2_20
+  - first:
+      213: 816383449073001198
+    second: 12_Hotel_and_Hospital_16x16 2_21
+  - first:
+      213: -5419352792427647393
+    second: 12_Hotel_and_Hospital_16x16 2_22
+  - first:
+      213: -7890053733403058306
+    second: 12_Hotel_and_Hospital_16x16 2_23
+  - first:
+      213: 7676395455434414009
+    second: 12_Hotel_and_Hospital_16x16 2_24
+  - first:
+      213: 2845367770256115224
+    second: 12_Hotel_and_Hospital_16x16 2_25
+  - first:
+      213: -9156036547106990853
+    second: 12_Hotel_and_Hospital_16x16 2_26
+  - first:
+      213: 6143017053527151572
+    second: 12_Hotel_and_Hospital_16x16 2_27
+  - first:
+      213: -2399662297275292694
+    second: 12_Hotel_and_Hospital_16x16 2_28
+  - first:
+      213: -8869664358576533194
+    second: 12_Hotel_and_Hospital_16x16 2_29
+  - first:
+      213: 8901429151108031277
+    second: 12_Hotel_and_Hospital_16x16 2_30
+  - first:
+      213: -9080334211280762494
+    second: 12_Hotel_and_Hospital_16x16 2_31
+  - first:
+      213: 5120520574202163805
+    second: 12_Hotel_and_Hospital_16x16 2_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 273
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f9fade8365e1cd0800000000000000
+      internalID: -2585534333558218873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7504f40ff529770800000000000000
+      internalID: 8616054522839586737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 959
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ec4f58db53b080800000000000000
+      internalID: -9172887031153629116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 930
+        width: 140
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8b431bd7d2c0a60800000000000000
+      internalID: 7641532685608073421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 273
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab7a574d7971200800000000000000
+      internalID: 150756051302988338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 752
+        width: 50
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c937242ce88961c0800000000000000
+      internalID: -4509923004034631225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 273
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ecf9190763e9f0800000000000000
+      internalID: -440395049763805956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 273
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de49692ac9de8e0800000000000000
+      internalID: -1662500465304867515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 273
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9392cea5e9d5c5580800000000000000
+      internalID: -8837085434096113351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 575
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7fc40634c46cc0800000000000000
+      internalID: -3718631656013202626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 527
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799028d5d3fe6ca50800000000000000
+      internalID: 6541178555643070871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 433
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc85a16eee34380800000000000000
+      internalID: -8988077759249462377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 415
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4f0781dbb2a1b10800000000000000
+      internalID: 1952921479577400571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f2fa0e869c9dff0800000000000000
+      internalID: -10756071808356523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c676d9a9b83237c0800000000000000
+      internalID: -4093146741256849721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f1e5c2f5255aeb0800000000000000
+      internalID: -4709267266626248848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019156b99ea440c0800000000000000
+      internalID: -4592353744799035130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a836546c647440800000000000000
+      internalID: 4932686670076618217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 65
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e81effcc07df40800000000000000
+      internalID: 5753081136449907154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2bb6d2ec5844ef0800000000000000
+      internalID: -124827769087741212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 65
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144077320b0093870800000000000000
+      internalID: 8662956114733106241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2218aeb60645b00800000000000000
+      internalID: 816383449073001198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 65
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e24d629579ac4b0800000000000000
+      internalID: -5419352792427647393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 63
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f14c9cee5e08290800000000000000
+      internalID: -7890053733403058306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b75794def8088a60800000000000000
+      internalID: 7676395455434414009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816067169e6cc7720800000000000000
+      internalID: 2845367770256115224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4913b65493fe080800000000000000
+      internalID: -9156036547106990853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 17
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d317ac8671604550800000000000000
+      internalID: 6143017053527151572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae32206cadfa2bed0800000000000000
+      internalID: -2399662297275292694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 17
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6315a16624f98e480800000000000000
+      internalID: -8869664358576533194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 15
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23e911b6aa388b70800000000000000
+      internalID: 8901429151108031277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 17
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28988cef42c2cf180800000000000000
+      internalID: -9080334211280762494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12_Hotel_and_Hospital_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 15
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d523662255ebf0740800000000000000
+      internalID: 5120520574202163805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      12_Hotel_and_Hospital_16x16 2_0: -2585534333558218873
+      12_Hotel_and_Hospital_16x16 2_1: 8616054522839586737
+      12_Hotel_and_Hospital_16x16 2_10: 6541178555643070871
+      12_Hotel_and_Hospital_16x16 2_11: -8988077759249462377
+      12_Hotel_and_Hospital_16x16 2_12: 1952921479577400571
+      12_Hotel_and_Hospital_16x16 2_13: -10756071808356523
+      12_Hotel_and_Hospital_16x16 2_14: -4093146741256849721
+      12_Hotel_and_Hospital_16x16 2_15: -4709267266626248848
+      12_Hotel_and_Hospital_16x16 2_16: -4592353744799035130
+      12_Hotel_and_Hospital_16x16 2_17: 4932686670076618217
+      12_Hotel_and_Hospital_16x16 2_18: 5753081136449907154
+      12_Hotel_and_Hospital_16x16 2_19: -124827769087741212
+      12_Hotel_and_Hospital_16x16 2_2: -9172887031153629116
+      12_Hotel_and_Hospital_16x16 2_20: 8662956114733106241
+      12_Hotel_and_Hospital_16x16 2_21: 816383449073001198
+      12_Hotel_and_Hospital_16x16 2_22: -5419352792427647393
+      12_Hotel_and_Hospital_16x16 2_23: -7890053733403058306
+      12_Hotel_and_Hospital_16x16 2_24: 7676395455434414009
+      12_Hotel_and_Hospital_16x16 2_25: 2845367770256115224
+      12_Hotel_and_Hospital_16x16 2_26: -9156036547106990853
+      12_Hotel_and_Hospital_16x16 2_27: 6143017053527151572
+      12_Hotel_and_Hospital_16x16 2_28: -2399662297275292694
+      12_Hotel_and_Hospital_16x16 2_29: -8869664358576533194
+      12_Hotel_and_Hospital_16x16 2_3: 7641532685608073421
+      12_Hotel_and_Hospital_16x16 2_30: 8901429151108031277
+      12_Hotel_and_Hospital_16x16 2_31: -9080334211280762494
+      12_Hotel_and_Hospital_16x16 2_32: 5120520574202163805
+      12_Hotel_and_Hospital_16x16 2_4: 150756051302988338
+      12_Hotel_and_Hospital_16x16 2_5: -4509923004034631225
+      12_Hotel_and_Hospital_16x16 2_6: -440395049763805956
+      12_Hotel_and_Hospital_16x16 2_7: -1662500465304867515
+      12_Hotel_and_Hospital_16x16 2_8: -8837085434096113351
+      12_Hotel_and_Hospital_16x16 2_9: -3718631656013202626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

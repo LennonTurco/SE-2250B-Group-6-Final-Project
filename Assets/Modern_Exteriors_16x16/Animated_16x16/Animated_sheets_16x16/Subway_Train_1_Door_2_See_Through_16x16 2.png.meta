@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: d0dbde1e33b1349a5a5f257787ad17af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7559671604054782417
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_0
+  - first:
+      213: 5146239419495122913
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_1
+  - first:
+      213: -1048294593462963552
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_2
+  - first:
+      213: 7901975791016444300
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_3
+  - first:
+      213: 5660076099219671133
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_4
+  - first:
+      213: 5719191058701662965
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_5
+  - first:
+      213: 4298315181638170196
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_6
+  - first:
+      213: -2039576407421926838
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_7
+  - first:
+      213: 1638014777023363620
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_8
+  - first:
+      213: 3233388544628923598
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_9
+  - first:
+      213: -867462267159569367
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_10
+  - first:
+      213: -5739036252006090071
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_11
+  - first:
+      213: -2739944572740176697
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_12
+  - first:
+      213: -7592601250311641793
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_13
+  - first:
+      213: -665908325950562298
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_14
+  - first:
+      213: 3154578969506519600
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_15
+  - first:
+      213: -1529090341876713893
+    second: Subway_Train_1_Door_2_See_Through_16x16 2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e05bd9ab6a61790800000000000000
+      internalID: -7559671604054782417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e78e107c7d1b6740800000000000000
+      internalID: 5146239419495122913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a27da01f95b371f0800000000000000
+      internalID: -1048294593462963552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81854f8d1579ad60800000000000000
+      internalID: 7901975791016444300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58caaf4931ac8e40800000000000000
+      internalID: 5660076099219671133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab08067f5ae5f40800000000000000
+      internalID: 5719191058701662965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456363e52eea6ab30800000000000000
+      internalID: 4298315181638170196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4249574018f1b3e0800000000000000
+      internalID: -2039576407421926838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a7159d2c56bb610800000000000000
+      internalID: 1638014777023363620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 147
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9c6700cd4fdc20800000000000000
+      internalID: 3233388544628923598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c16edf9a726f3f0800000000000000
+      internalID: -867462267159569367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa761e7fe8da50b0800000000000000
+      internalID: -5739036252006090071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ff8d8de2c9f9d0800000000000000
+      internalID: -2739944572740176697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ecf1e369a1a690800000000000000
+      internalID: -7592601250311641793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600edbad7e732c6f0800000000000000
+      internalID: -665908325950562298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a9a5debd057cb20800000000000000
+      internalID: 3154578969506519600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_Train_1_Door_2_See_Through_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5635fe7f6497cae0800000000000000
+      internalID: -1529090341876713893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Subway_Train_1_Door_2_See_Through_16x16 2_0: -7559671604054782417
+      Subway_Train_1_Door_2_See_Through_16x16 2_1: 5146239419495122913
+      Subway_Train_1_Door_2_See_Through_16x16 2_10: -867462267159569367
+      Subway_Train_1_Door_2_See_Through_16x16 2_11: -5739036252006090071
+      Subway_Train_1_Door_2_See_Through_16x16 2_12: -2739944572740176697
+      Subway_Train_1_Door_2_See_Through_16x16 2_13: -7592601250311641793
+      Subway_Train_1_Door_2_See_Through_16x16 2_14: -665908325950562298
+      Subway_Train_1_Door_2_See_Through_16x16 2_15: 3154578969506519600
+      Subway_Train_1_Door_2_See_Through_16x16 2_16: -1529090341876713893
+      Subway_Train_1_Door_2_See_Through_16x16 2_2: -1048294593462963552
+      Subway_Train_1_Door_2_See_Through_16x16 2_3: 7901975791016444300
+      Subway_Train_1_Door_2_See_Through_16x16 2_4: 5660076099219671133
+      Subway_Train_1_Door_2_See_Through_16x16 2_5: 5719191058701662965
+      Subway_Train_1_Door_2_See_Through_16x16 2_6: 4298315181638170196
+      Subway_Train_1_Door_2_See_Through_16x16 2_7: -2039576407421926838
+      Subway_Train_1_Door_2_See_Through_16x16 2_8: 1638014777023363620
+      Subway_Train_1_Door_2_See_Through_16x16 2_9: 3233388544628923598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
