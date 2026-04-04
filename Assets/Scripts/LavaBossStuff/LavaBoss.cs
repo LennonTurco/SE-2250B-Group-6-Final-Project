@@ -1,7 +1,11 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class LavaBoss : MonoBehaviour
 {
+    [Header("Health")]
+    [SerializeField] private float maxHealth = 100f;
+
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 2.5f;
     [SerializeField] private float roamRadius = 4f;
@@ -56,6 +60,11 @@ public class LavaBoss : MonoBehaviour
     private float animationTimer;
     private int animationFrame;
     private Sprite[] currentAnimationFrames;
+    private float currentHealth;
+    private bool isDead;
+
+    [Header("UI")]
+    public Slider healthBar;
 
     private void Start()
     {
@@ -66,6 +75,7 @@ public class LavaBoss : MonoBehaviour
         }
 
         spawnPosition = transform.position;
+        currentHealth = maxHealth;
         fireTimer = initialDelay > 0f ? initialDelay : fireInterval;
         AcquireTarget();
 
@@ -74,11 +84,17 @@ public class LavaBoss : MonoBehaviour
             firePoint = transform;
         }
 
+        UpdateHealthBar();
         PickNewDestination();
     }
 
     private void Update()
     {
+        if (isDead)
+        {
+            return;
+        }
+
         fireTimer -= Time.deltaTime;
         if (fireTimer <= 0f)
         {
@@ -92,7 +108,65 @@ public class LavaBoss : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (isDead)
+        {
+            return;
+        }
+
         MoveBoss();
+    }
+
+    public void TakeDamage(float amount)
+    {
+        if (isDead || amount <= 0f)
+        {
+            return;
+        }
+
+        currentHealth -= amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
+        Debug.Log($"LavaBoss took {amount} damage. Health: {currentHealth}/{maxHealth}");
+        UpdateHealthBar();
+
+        if (currentHealth <= 0f)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        if (isDead)
+        {
+            return;
+        }
+
+        isDead = true;
+        currentMoveDirection = Vector2.zero;
+
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
+
+        if (healthBar != null)
+        {
+            healthBar.gameObject.SetActive(false);
+        }
+
+        Debug.Log("LavaBoss defeated.");
+        Destroy(gameObject);
+    }
+
+    private void UpdateHealthBar()
+    {
+        if (healthBar == null)
+        {
+            return;
+        }
+
+        healthBar.maxValue = maxHealth;
+        healthBar.value = currentHealth;
     }
 
     private void UpdateMovementState()
