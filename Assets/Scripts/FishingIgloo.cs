@@ -10,6 +10,7 @@ public class FishingIgloo : MonoBehaviour
     [Header("Settings")]
     [SerializeField] private int requiredGold = 30;
 
+    // if you walk into one of the fishing igloos
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;

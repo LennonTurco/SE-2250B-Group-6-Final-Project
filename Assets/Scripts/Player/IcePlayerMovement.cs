@@ -31,6 +31,7 @@ public class IcePlayerMovement : MonoBehaviour
 
     private bool isOnIce = false;
 
+    // at initialization, create player object and sets normal drag
     void Start()
     {
         player = GetComponent<Player>();
@@ -43,6 +44,7 @@ public class IcePlayerMovement : MonoBehaviour
 
         CheckIce();
 
+        // if the player is on an ice tile, the acceleration and max speed is increased
         float acceleration = isOnIce ? iceAcceleration : normalAcceleration;
         float maxSpeed = player.moveSpeed * (isOnIce ? iceMaxSpeedMultiplier : 1f);
 
@@ -60,6 +62,7 @@ public class IcePlayerMovement : MonoBehaviour
         }
     }
 
+    // checks if the player is on an ice tile
     private void CheckIce()
     {
         if (iceTilemap == null) return;
@@ -83,7 +86,7 @@ public class IcePlayerMovement : MonoBehaviour
         Vector3Int cell = iceTilemap.WorldToCell(worldPos);
         return iceTilemap.HasTile(cell);
     }
-
+    
     public void OnMove(InputAction.CallbackContext context)
     {
         if (context.canceled)

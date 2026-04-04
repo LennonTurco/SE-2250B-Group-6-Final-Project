@@ -23,6 +23,7 @@ public class JoseTheBoss : MonoBehaviour
 
     private void Start()
     {
+        // like the snowball shooting igloos, the timer is set to space out icicle launches
         shootTimer = shootCooldown;
 
         Player player = FindFirstObjectByType<Player>();
@@ -32,6 +33,7 @@ public class JoseTheBoss : MonoBehaviour
         if (defeatPanel != null) defeatPanel.SetActive(false);
     }
 
+    // increments the timer and checks if another icicle should be shot
     private void Update()
     {
         if (defeated) return;
@@ -56,6 +58,7 @@ public class JoseTheBoss : MonoBehaviour
         }
     }
 
+    // shoots icicle at player
     private void ShootIcicle()
     {
         if (iciclePrefab == null)
@@ -73,6 +76,7 @@ public class JoseTheBoss : MonoBehaviour
             icicle.Launch(direction, gameObject);
     }
 
+    // if the icicle collides with the player, the players health is reduced and the icicle is destroyed
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (defeated) return;

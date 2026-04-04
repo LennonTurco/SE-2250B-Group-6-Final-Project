@@ -9,9 +9,11 @@ public class Fish : MonoBehaviour
 
     private void Start()
     {
+        // cant pick up fish if you dont have a fishing rod
         if (noRodPanel != null) noRodPanel.SetActive(false);
     }
 
+    // if you collide with a fish sprite
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;

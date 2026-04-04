@@ -21,6 +21,7 @@ public class IceMazeBoundary : MonoBehaviour
         movement = GetComponent<IcePlayerMovement>();
     }
 
+    // if you hit into a boundary, your position is reset to right in front of the maze
     private void Update()
     {
         if (mazeBoundaries == null) return;
@@ -54,6 +55,7 @@ public class IceMazeBoundary : MonoBehaviour
         }
     }
 
+    // checks if you have hit the boundary (outside of the mazeBoundaries)
     private bool IsOnBoundary(Vector3 worldPos)
     {
         Vector3Int cell = mazeBoundaries.WorldToCell(worldPos);

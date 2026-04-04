@@ -20,19 +20,21 @@ public class FishingRodNPC : MonoBehaviour
         if (tradeButton != null) tradeButton.onClick.AddListener(OnTrade);
     }
 
+    // if you collide with one of the three NPCs
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
         if (alreadyTraded) return;
         ShowOffer();
     }
-
+    
     private void OnTriggerExit2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
         if (offerPanel != null) offerPanel.SetActive(false);
     }
 
+    // shows the offer panel that says you can trade 30 gold for a fishing rod
     private void ShowOffer()
     {
         if (offerPanel != null) offerPanel.SetActive(true);
@@ -42,6 +44,7 @@ public class FishingRodNPC : MonoBehaviour
             tradeButton.gameObject.SetActive(true);
     }
 
+    // adjusts the HUD and your inventory if you make the trade
     private void OnTrade()
     {
         if (HUDManager.GetGoldTotal() >= cost)

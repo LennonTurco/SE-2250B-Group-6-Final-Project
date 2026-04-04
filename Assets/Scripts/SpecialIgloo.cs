@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class SpecialIgloo : MonoBehaviour
+public class SpecialIgloo : MonoBehaviour // only appears once 3 fish are caught and is only used to obtain the pickaxe and open the maze
 {
     [Header("Trade UI")]
     [SerializeField] private GameObject tradePanel;
@@ -14,6 +14,7 @@ public class SpecialIgloo : MonoBehaviour
 
     private bool traded = false;
 
+    // makes the special igloo visible if the player has clicked the trade for pickaxe button
     private void Start()
     {
         if (tradePanel != null) tradePanel.SetActive(false);
@@ -21,6 +22,7 @@ public class SpecialIgloo : MonoBehaviour
         if (tradeButton != null) tradeButton.onClick.AddListener(OnTrade);
     }
 
+    // if the player collides with the special igloo
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
@@ -39,6 +41,7 @@ public class SpecialIgloo : MonoBehaviour
         if (tradePanel != null) tradePanel.SetActive(false);
     }
 
+    // when the trade button is clicked, this adds the pickaxe to the players inventory
     private void OnTrade()
     {
         if (IceInventoryManager.Instance == null) return;

@@ -12,6 +12,7 @@ public class Snowball : MonoBehaviour
 
     private void Awake()
     {
+        // initiates rigid body and collider
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f;
         rb.bodyType = RigidbodyType2D.Dynamic;
@@ -23,11 +24,13 @@ public class Snowball : MonoBehaviour
         Destroy(gameObject, lifetime);
     }
 
+    // launches a snowball
     public void Launch(Vector2 direction, GameObject owner)
     {
         rb.linearVelocity = direction.normalized * moveSpeed;
     }
 
+    // if the snowball collides with a player, their health is decreased and the snowball is destroyed
     private void OnTriggerEnter2D(Collider2D other)
     {
         // Ignore other snowballs

@@ -23,6 +23,7 @@ public class Icicle : MonoBehaviour
         Destroy(gameObject, lifetime);
     }
 
+    // launches the icicle from the boss
     public void Launch(Vector2 direction, GameObject owner)
     {
         rb.linearVelocity = direction.normalized * moveSpeed;
@@ -34,6 +35,7 @@ public class Icicle : MonoBehaviour
             Physics2D.IgnoreCollision(icicleCol, ownerCol);
     }
 
+    // if it collides with player then it takes damage and the icicle is destroyed
     private void OnTriggerEnter2D(Collider2D other)
     {
         // Ignore other icicles and enemies

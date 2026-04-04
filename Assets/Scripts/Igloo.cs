@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Igloo : MonoBehaviour
+public class Igloo : MonoBehaviour // these igloos shoot snowballs at the player
 {
     [Header("Igloo Settings")]
     [SerializeField] private GameObject snowballPrefab;
@@ -12,6 +12,7 @@ public class Igloo : MonoBehaviour
 
     private void Start()
     {
+        // sets up the shoottimer to space out snowballs being launched
         shootTimer = shootCooldown;
 
         Player player = FindFirstObjectByType<Player>();
@@ -21,6 +22,7 @@ public class Igloo : MonoBehaviour
             Debug.LogWarning("Igloo: Could not find Player in scene!");
     }
 
+    // update increments the timer and checks if another snowball should be shot
     private void Update()
     {
         if (playerTransform == null) return;
@@ -34,6 +36,7 @@ public class Igloo : MonoBehaviour
         }
     }
 
+    // shoots snowball at the player
     private void ShootSnowball()
     {
         if (snowballPrefab == null)
