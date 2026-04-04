@@ -24,6 +24,10 @@ public class IceInventoryManager : MonoBehaviour
     [SerializeField] private GameObject mazeBoss;
     [SerializeField] private GameObject joseBoss;
 
+    [Header("Boundaries")]
+    [SerializeField] private GameObject mainMapBoundaries;
+    [SerializeField] private GameObject fullMapBoundaries;
+
     [Header("Settings")]
     [SerializeField] private int fishToCollect = 3;
 
@@ -47,6 +51,7 @@ public class IceInventoryManager : MonoBehaviour
         if (specialIgloo != null) specialIgloo.SetActive(false);
         if (mazeBoss != null) mazeBoss.SetActive(false);
         if (joseBoss != null) joseBoss.SetActive(false);
+        if (fullMapBoundaries != null) fullMapBoundaries.SetActive(false);
     }
 
     public void AddFishingRod()
@@ -88,6 +93,10 @@ public class IceInventoryManager : MonoBehaviour
 
         if (mazeBoss != null) mazeBoss.SetActive(true);
         if (joseBoss != null) joseBoss.SetActive(true);
+
+        // Swap boundaries
+        if (mainMapBoundaries != null) mainMapBoundaries.SetActive(false);
+        if (fullMapBoundaries != null) fullMapBoundaries.SetActive(true);
 
         Debug.Log("[Inventory] Ice Pickaxe obtained! Maze and boss revealed.");
     }
