@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 using TMPro;
 using UnityEngine.UI;
 
@@ -13,6 +14,9 @@ public class GateController : MonoBehaviour
     [Header("Gate State")]
     [SerializeField] private Sprite openedSprite;
     [SerializeField] private bool disableColliderWhenOpened = true;
+
+    [Header("Scene Transition")]
+    [SerializeField] private string targetSceneName = "Lava Boss Scene";
 
     private SpriteRenderer spriteRenderer;
     private Collider2D gateCollider;
@@ -87,6 +91,13 @@ public class GateController : MonoBehaviour
 
         if (gateCollider != null && disableColliderWhenOpened)
             gateCollider.enabled = false;
+
+        if (!string.IsNullOrWhiteSpace(targetSceneName))
+        {
+            Debug.Log($"[GateController] Loading scene '{targetSceneName}'.");
+            SceneManager.LoadScene(targetSceneName);
+            return;
+        }
 
         Debug.Log("[GateController] Gate opened.");
     }
