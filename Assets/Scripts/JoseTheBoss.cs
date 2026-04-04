@@ -1,0 +1,105 @@
+using UnityEngine;
+
+public class JoseTheBoss : MonoBehaviour
+{
+    [Header("Projectile")]
+    [SerializeField] private GameObject iciclePrefab;
+    [SerializeField] private float shootCooldown = 1.5f;
+    [SerializeField] private float spawnOffset = 0.8f;
+
+    [Header("Boss Settings")]
+    [SerializeField] private int hitsToDefeat = 5;
+    [SerializeField] private GameObject defeatPanel;
+
+    [Header("Activation")]
+    [SerializeField] private float activationYThreshold = 10f; // boss starts firing when player Y exceeds this
+
+    private float shootTimer = 0f;
+    private Transform playerTransform;
+    private int hitCount = 0;
+    private bool defeated = false;
+    private bool playerInContact = false;
+    private bool activated = false;
+
+    private void Start()
+    {
+        shootTimer = shootCooldown;
+
+        Player player = FindFirstObjectByType<Player>();
+        if (player != null)
+            playerTransform = player.transform;
+
+        if (defeatPanel != null) defeatPanel.SetActive(false);
+    }
+
+    private void Update()
+    {
+        if (defeated) return;
+        if (playerTransform == null) return;
+
+        // Only start firing once player passes the Y threshold
+        if (!activated)
+        {
+            if (playerTransform.position.y >= activationYThreshold)
+            {
+                activated = true;
+                Debug.Log("[Jose] Activated! Player reached Y: " + playerTransform.position.y);
+            }
+            return;
+        }
+
+        shootTimer += Time.deltaTime;
+        if (shootTimer >= shootCooldown)
+        {
+            shootTimer = 0f;
+            ShootIcicle();
+        }
+    }
+
+    private void ShootIcicle()
+    {
+        if (iciclePrefab == null)
+        {
+            Debug.LogWarning("JoseTheBoss: Icicle prefab not assigned!");
+            return;
+        }
+
+        Vector2 direction = (playerTransform.position - transform.position).normalized;
+        Vector3 spawnPos = transform.position + (Vector3)(direction * spawnOffset);
+
+        GameObject icicleObj = Instantiate(iciclePrefab, spawnPos, Quaternion.identity);
+        Icicle icicle = icicleObj.GetComponent<Icicle>();
+        if (icicle != null)
+            icicle.Launch(direction, gameObject);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (defeated) return;
+        if (!other.CompareTag("Player")) return;
+        if (playerInContact) return;
+
+        playerInContact = true;
+        hitCount++;
+        Debug.Log("[Jose] Hit " + hitCount + "/" + hitsToDefeat);
+
+        if (hitCount >= hitsToDefeat)
+            Defeat();
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (!other.CompareTag("Player")) return;
+        playerInContact = false;
+    }
+
+    private void Defeat()
+    {
+        defeated = true;
+        Debug.Log("[Jose] Defeated!");
+
+        if (defeatPanel != null) defeatPanel.SetActive(true);
+
+        Destroy(gameObject, 2f);
+    }
+}

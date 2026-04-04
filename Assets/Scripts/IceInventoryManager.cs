@@ -20,8 +20,9 @@ public class IceInventoryManager : MonoBehaviour
     [Header("Special Igloo")]
     [SerializeField] private GameObject specialIgloo;
 
-    [Header("Maze")]
+    [Header("Maze and Boss")]
     [SerializeField] private GameObject mazeBoss;
+    [SerializeField] private GameObject joseBoss;
 
     [Header("Settings")]
     [SerializeField] private int fishToCollect = 3;
@@ -45,6 +46,7 @@ public class IceInventoryManager : MonoBehaviour
         if (polarBearPanel != null) polarBearPanel.SetActive(false);
         if (specialIgloo != null) specialIgloo.SetActive(false);
         if (mazeBoss != null) mazeBoss.SetActive(false);
+        if (joseBoss != null) joseBoss.SetActive(false);
     }
 
     public void AddFishingRod()
@@ -84,10 +86,10 @@ public class IceInventoryManager : MonoBehaviour
     {
         hasIcePickaxe = true;
 
-        // Reveal the maze and boss area
         if (mazeBoss != null) mazeBoss.SetActive(true);
+        if (joseBoss != null) joseBoss.SetActive(true);
 
-        Debug.Log("[Inventory] Ice Pickaxe obtained! Maze revealed.");
+        Debug.Log("[Inventory] Ice Pickaxe obtained! Maze and boss revealed.");
     }
 
     public bool HasFishingRod() => fishingRodCount > 0;
