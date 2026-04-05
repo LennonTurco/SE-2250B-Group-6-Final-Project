@@ -41,8 +41,6 @@ public class Entity : MonoBehaviour
     {
         if (isInvul || isDead) return;
 
-        Debug.Log($"{gameObject.name} has taken {amount} damage.");
-
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 

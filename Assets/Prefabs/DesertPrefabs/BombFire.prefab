@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2356046100086196055}
   - component: {fileID: 6600141399949926832}
   m_Layer: 0
-  m_Name: Fire
+  m_Name: BombFire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 100
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 6211036013863027259, guid: a236df42964b9fd4fb45c5f73f72fbdf, type: 3}
+  m_Sprite: {fileID: -6879244290724207698, guid: a236df42964b9fd4fb45c5f73f72fbdf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -133,20 +133,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26214b5338fd5674b8e82a16fdb99160, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Fire
-  maxHealth: 100
-  moveSpeed: 2
-  attackDamage: 10
+  maxHealth: 500
+  moveSpeed: 8
+  attackDamage: 5
   attackCooldown: 1
   invulTime: 0
   isInvul: 0
-  collisionDamage: 10
+  collisionDamage: 5
   currentHealth: 0
   isDead: 0
   facingDirection: {x: 0, y: -1}
   rb: {fileID: 0}
   anim: {fileID: 0}
   sr: {fileID: 0}
-  lifetime: 10
+  lifetime: 12
   dx: 1
   dy: -1
 --- !u!58 &6600141399949926832
