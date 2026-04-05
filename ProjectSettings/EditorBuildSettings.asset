@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LavaBoss.unity
     guid: 0499b192ded0942a78516dcdd36759a6
+  - enabled: 1
+    path: Assets/Scenes/CityScene.unity
+    guid: 46b2646925c3bf24d9b47d48fb8bf57d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0

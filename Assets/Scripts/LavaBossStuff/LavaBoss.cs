@@ -6,6 +6,9 @@ public class LavaBoss : MonoBehaviour
     [Header("Health")]
     [SerializeField] private float maxHealth = 100f;
 
+    [Header("Boss Rewards")]
+    [SerializeField] private GameObject levelLoadZoneToEnable;
+
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 2.5f;
     [SerializeField] private float roamRadius = 4f;
@@ -86,6 +89,11 @@ public class LavaBoss : MonoBehaviour
 
         UpdateHealthBar();
         PickNewDestination();
+
+        if (levelLoadZoneToEnable != null)
+        {
+            levelLoadZoneToEnable.SetActive(false);
+        }
     }
 
     private void Update()
@@ -152,6 +160,11 @@ public class LavaBoss : MonoBehaviour
         if (healthBar != null)
         {
             healthBar.gameObject.SetActive(false);
+        }
+
+        if (levelLoadZoneToEnable != null)
+        {
+            levelLoadZoneToEnable.SetActive(true);
         }
 
         Debug.Log("LavaBoss defeated.");
