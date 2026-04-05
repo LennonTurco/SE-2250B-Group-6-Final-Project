@@ -10,6 +10,7 @@ public class JoseTheBoss : MonoBehaviour
     [Header("Boss Settings")]
     [SerializeField] private int hitsToDefeat = 5;
     [SerializeField] private GameObject defeatPanel;
+    [SerializeField] private GameObject levelLoadZoneToEnable;
 
     [Header("Activation")]
     [SerializeField] private float activationYThreshold = 40f;
@@ -30,6 +31,7 @@ public class JoseTheBoss : MonoBehaviour
             playerTransform = player.transform;
 
         if (defeatPanel != null) defeatPanel.SetActive(false);
+        if (levelLoadZoneToEnable != null) levelLoadZoneToEnable.SetActive(false);
     }
 
     private void Update()
@@ -100,6 +102,7 @@ public class JoseTheBoss : MonoBehaviour
         Debug.Log("[Jose] Defeated!");
 
         if (defeatPanel != null) defeatPanel.SetActive(true);
+        if (levelLoadZoneToEnable != null) levelLoadZoneToEnable.SetActive(true);
 
         Destroy(gameObject, 2f);
     }
