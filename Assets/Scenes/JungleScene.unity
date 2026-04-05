@@ -6639,8 +6639,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb253a80bcd894d9c8e6fb91b4597b34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimpleAutoDialogTrigger
-  line: LOL! I love wasting your time! The real challenge is southeast of here!
+  line: Go southwest.
   triggerOnce: 1
+  marksJungleSkeletonHintSeen: 1
 --- !u!1001 &267089291
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35381,7 +35382,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LevelLoadZone
   sceneToLoad: JungleBoss
   requiresPuzzleSolved: 0
-  blockedLines: []
+  requiresJungleSkeletonHint: 1
+  blockedLines:
+  - Talk to the skeleton first. He said to go southwest.
 --- !u!58 &1293540001
 CircleCollider2D:
   m_ObjectHideFlags: 0

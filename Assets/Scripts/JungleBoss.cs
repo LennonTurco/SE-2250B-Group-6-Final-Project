@@ -11,11 +11,10 @@ public class JungleBoss : MonoBehaviour
     [SerializeField] private GameObject levelLoadZoneToEnable;
 
     [Header("Stationary Behaviour")]
-    [SerializeField] private float playerAppearanceDuration = 3f;
+    [SerializeField] private float playerAppearanceDuration = 0.5f;
     [SerializeField] private float playerDisappearanceDuration = 0.75f;
     [SerializeField] private float repositionSquareSize = 5f;
     [SerializeField] private float repositionPadding = 0.35f;
-    [SerializeField] private int shotsBeforeDisappear = 1;
 
     [Header("Projectile")]
     [SerializeField] private GameObject projectilePrefab;
@@ -79,7 +78,7 @@ public class JungleBoss : MonoBehaviour
     private bool isDead;
     private bool isVisible = true;
     private Coroutine visibilityRoutine;
-    private int shotsFiredThisCycle;
+    private bool hasShotThisCycle;
 
     private void Start()
     {
@@ -92,9 +91,9 @@ public class JungleBoss : MonoBehaviour
         }
 
         currentHealth = maxHealth;
-        fireTimer = initialDelay > 0f ? initialDelay : fireInterval;
-        visibilityTimer = playerAppearanceDuration;
-        shotsFiredThisCycle = 0;
+        fireTimer = initialDelay > 0f ? initialDelay : 0f;
+        visibilityTimer = 0f;
+        hasShotThisCycle = false;
 
         AcquireTarget();
 
@@ -123,16 +122,20 @@ public class JungleBoss : MonoBehaviour
         if (isVisible)
         {
             fireTimer -= Time.deltaTime;
-            if (fireTimer <= 0f)
+            if (!hasShotThisCycle && fireTimer <= 0f)
             {
                 FireAtPlayer();
-                fireTimer = fireInterval;
+                visibilityTimer = playerAppearanceDuration;
+                hasShotThisCycle = true;
             }
 
-            visibilityTimer -= Time.deltaTime;
-            if (visibilityTimer <= 0f && shotsFiredThisCycle >= Mathf.Max(1, shotsBeforeDisappear))
+            if (visibilityTimer > 0f)
             {
-                visibilityRoutine = StartCoroutine(DisappearAndReappear());
+                visibilityTimer -= Time.deltaTime;
+                if (visibilityTimer <= 0f)
+                {
+                    visibilityRoutine = StartCoroutine(DisappearAndReappear());
+                }
             }
         }
 
@@ -249,8 +252,9 @@ public class JungleBoss : MonoBehaviour
 
         SetBossVisible(true);
         isVisible = true;
-        visibilityTimer = playerAppearanceDuration;
-        shotsFiredThisCycle = 0;
+        fireTimer = 0f;
+        visibilityTimer = 0f;
+        hasShotThisCycle = false;
         visibilityRoutine = null;
     }
 
@@ -381,7 +385,6 @@ public class JungleBoss : MonoBehaviour
 
         facingDirection = direction;
         shootAnimationTimer = shootAnimationDuration;
-        shotsFiredThisCycle++;
     }
 
     private void UpdateAnimation()
