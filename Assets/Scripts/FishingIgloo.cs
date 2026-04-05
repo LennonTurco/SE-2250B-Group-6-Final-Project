@@ -15,7 +15,7 @@ public class FishingIgloo : MonoBehaviour
     {
         if (!other.CompareTag("Player")) return;
 
-        if (HUDManager.GetGoldTotal() >= requiredGold)
+        if (IceHUDManager.GetGoldTotal() >= requiredGold)
         {
             // Destroy the igloo
             Destroy(gameObject);

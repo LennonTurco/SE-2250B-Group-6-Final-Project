@@ -49,7 +49,7 @@ public class Entity : MonoBehaviour
         // refresh the hud if its for the player
         if (this is Player)
         {
-            HUDManager.Instance?.RefreshHUD();
+            IceHUDManager.Instance?.RefreshHUD();
         }
             
         if (currentHealth <= 0)

@@ -45,7 +45,7 @@ public class ChestController : MonoBehaviour
         if (openedSprite != null)
             spriteRenderer.sprite = openedSprite;
 
-        HUDManager.AddGoldToTotal(goldAmount);
+        IceHUDManager.AddGoldToTotal(goldAmount);
 
         if (ScrollManager.Instance != null)
             ScrollManager.Instance.AddScroll(scrollAmount);

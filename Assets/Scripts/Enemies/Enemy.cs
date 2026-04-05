@@ -18,7 +18,7 @@ public abstract class Enemy : Entity
 
     protected override void Die()
     {
-        HUDManager.AddGoldToTotal(goldDrop); // drop gold on death
+        IceHUDManager.AddGoldToTotal(goldDrop); // drop gold on death
         base.Die();
     }
 }
