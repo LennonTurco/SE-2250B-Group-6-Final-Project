@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6714d2e9f239d4c52a942c9a38950cb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -845117584407785071
+    second: Condo_6_Roof_Trapdoor_16x16 2_0
+  - first:
+      213: -2755200906866012098
+    second: Condo_6_Roof_Trapdoor_16x16 2_1
+  - first:
+      213: 66628693059005500
+    second: Condo_6_Roof_Trapdoor_16x16 2_2
+  - first:
+      213: -2758495946694158955
+    second: Condo_6_Roof_Trapdoor_16x16 2_3
+  - first:
+      213: 7797310770818199792
+    second: Condo_6_Roof_Trapdoor_16x16 2_4
+  - first:
+      213: 1346483890896747247
+    second: Condo_6_Roof_Trapdoor_16x16 2_5
+  - first:
+      213: -958466933380786068
+    second: Condo_6_Roof_Trapdoor_16x16 2_6
+  - first:
+      213: 7216082195778100777
+    second: Condo_6_Roof_Trapdoor_16x16 2_7
+  - first:
+      213: -3932726367636719384
+    second: Condo_6_Roof_Trapdoor_16x16 2_8
+  - first:
+      213: 7983315080568448727
+    second: Condo_6_Roof_Trapdoor_16x16 2_9
+  - first:
+      213: 7448865499290344187
+    second: Condo_6_Roof_Trapdoor_16x16 2_10
+  - first:
+      213: 4018202989866883054
+    second: Condo_6_Roof_Trapdoor_16x16 2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 112
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19110fbd80a8544f0800000000000000
+      internalID: -845117584407785071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30da657f5f83c9d0800000000000000
+      internalID: -2755200906866012098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c61ad7176bce000800000000000000
+      internalID: 66628693059005500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59590f63d8ad7b9d0800000000000000
+      internalID: -2758495946694158955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f032f985dc953c60800000000000000
+      internalID: 7797310770818199792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feabfacf6fbafa210800000000000000
+      internalID: 1346483890896747247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6851eaf667d2b2f0800000000000000
+      internalID: -958466933380786068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92edf5d468ca42460800000000000000
+      internalID: 7216082195778100777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8733284362c69c0800000000000000
+      internalID: -3932726367636719384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62d43b4ce6ace60800000000000000
+      internalID: 7983315080568448727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1dd0b4bfaf5760800000000000000
+      internalID: 7448865499290344187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Condo_6_Roof_Trapdoor_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 81
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79d66745683c730800000000000000
+      internalID: 4018202989866883054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Condo_6_Roof_Trapdoor_16x16 2_0: -845117584407785071
+      Condo_6_Roof_Trapdoor_16x16 2_1: -2755200906866012098
+      Condo_6_Roof_Trapdoor_16x16 2_10: 7448865499290344187
+      Condo_6_Roof_Trapdoor_16x16 2_11: 4018202989866883054
+      Condo_6_Roof_Trapdoor_16x16 2_2: 66628693059005500
+      Condo_6_Roof_Trapdoor_16x16 2_3: -2758495946694158955
+      Condo_6_Roof_Trapdoor_16x16 2_4: 7797310770818199792
+      Condo_6_Roof_Trapdoor_16x16 2_5: 1346483890896747247
+      Condo_6_Roof_Trapdoor_16x16 2_6: -958466933380786068
+      Condo_6_Roof_Trapdoor_16x16 2_7: 7216082195778100777
+      Condo_6_Roof_Trapdoor_16x16 2_8: -3932726367636719384
+      Condo_6_Roof_Trapdoor_16x16 2_9: 7983315080568448727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

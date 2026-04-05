@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 816d193536b204d0db3b2a5edf2547d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7182948129496916445
+    second: Delivery_Truck_Door_16x16 2_0
+  - first:
+      213: 3491434348787694885
+    second: Delivery_Truck_Door_16x16 2_1
+  - first:
+      213: 5843754742964819655
+    second: Delivery_Truck_Door_16x16 2_2
+  - first:
+      213: -2010702704317657461
+    second: Delivery_Truck_Door_16x16 2_3
+  - first:
+      213: -3638177320959161876
+    second: Delivery_Truck_Door_16x16 2_4
+  - first:
+      213: 2030424106447032458
+    second: Delivery_Truck_Door_16x16 2_5
+  - first:
+      213: -3230942080012249672
+    second: Delivery_Truck_Door_16x16 2_6
+  - first:
+      213: 6351940308552200065
+    second: Delivery_Truck_Door_16x16 2_7
+  - first:
+      213: -5337369527087440823
+    second: Delivery_Truck_Door_16x16 2_8
+  - first:
+      213: 8561852245103095925
+    second: Delivery_Truck_Door_16x16 2_9
+  - first:
+      213: 6143298572013464529
+    second: Delivery_Truck_Door_16x16 2_10
+  - first:
+      213: -233881968316676682
+    second: Delivery_Truck_Door_16x16 2_11
+  - first:
+      213: -1077625856182493704
+    second: Delivery_Truck_Door_16x16 2_12
+  - first:
+      213: -6104249980430448923
+    second: Delivery_Truck_Door_16x16 2_13
+  - first:
+      213: -4065350701146995431
+    second: Delivery_Truck_Door_16x16 2_14
+  - first:
+      213: -4666116635416548258
+    second: Delivery_Truck_Door_16x16 2_15
+  - first:
+      213: -4470087025493564330
+    second: Delivery_Truck_Door_16x16 2_16
+  - first:
+      213: -5085939021291188294
+    second: Delivery_Truck_Door_16x16 2_17
+  - first:
+      213: -3279828835579984451
+    second: Delivery_Truck_Door_16x16 2_18
+  - first:
+      213: -4551691691608873131
+    second: Delivery_Truck_Door_16x16 2_19
+  - first:
+      213: 1102176079848155632
+    second: Delivery_Truck_Door_16x16 2_20
+  - first:
+      213: -4624768316897796328
+    second: Delivery_Truck_Door_16x16 2_21
+  - first:
+      213: -248568388748233122
+    second: Delivery_Truck_Door_16x16 2_22
+  - first:
+      213: -7982128722195444776
+    second: Delivery_Truck_Door_16x16 2_23
+  - first:
+      213: 6450100481712140695
+    second: Delivery_Truck_Door_16x16 2_24
+  - first:
+      213: -8041950672968932850
+    second: Delivery_Truck_Door_16x16 2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd168b25445fea360800000000000000
+      internalID: 7182948129496916445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d7614ba01147030800000000000000
+      internalID: 3491434348787694885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c61ce82aff291150800000000000000
+      internalID: 5843754742964819655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e8a382b8c8814e0800000000000000
+      internalID: -2010702704317657461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9c852a009928dc0800000000000000
+      internalID: -3638177320959161876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a805a2897f38d2c10800000000000000
+      internalID: 2030424106447032458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51207eb436923d0800000000000000
+      internalID: -3230942080012249672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2dbd7e00a62850800000000000000
+      internalID: 6351940308552200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c55f691badde5b0800000000000000
+      internalID: -5337369527087440823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57030c8114fc1d670800000000000000
+      internalID: 8561852245103095925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbe60ea081614550800000000000000
+      internalID: 6143298572013464529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58d17c69511ccf0800000000000000
+      internalID: -233881968316676682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd57794ef08b01f0800000000000000
+      internalID: -1077625856182493704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e602480cf8594ba0800000000000000
+      internalID: -6104249980430448923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158fb29319f497c0800000000000000
+      internalID: -4065350701146995431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca47964af9e3fb0800000000000000
+      internalID: -4666116635416548258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654af5aa88f07f1c0800000000000000
+      internalID: -4470087025493564330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf04a6186d1b69b0800000000000000
+      internalID: -5085939021291188294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50c232d05bb72d0800000000000000
+      internalID: -3279828835579984451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576e8ab58425d0c0800000000000000
+      internalID: -4551691691608873131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f928471e47bb4f00800000000000000
+      internalID: 1102176079848155632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f53d608b581dfb0800000000000000
+      internalID: -4624768316897796328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56354e0e58ec8cf0800000000000000
+      internalID: -248568388748233122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db0912e738c93190800000000000000
+      internalID: -7982128722195444776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791370ac63c538950800000000000000
+      internalID: 6450100481712140695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delivery_Truck_Door_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0229749870456090800000000000000
+      internalID: -8041950672968932850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Delivery_Truck_Door_16x16 2_0: 7182948129496916445
+      Delivery_Truck_Door_16x16 2_1: 3491434348787694885
+      Delivery_Truck_Door_16x16 2_10: 6143298572013464529
+      Delivery_Truck_Door_16x16 2_11: -233881968316676682
+      Delivery_Truck_Door_16x16 2_12: -1077625856182493704
+      Delivery_Truck_Door_16x16 2_13: -6104249980430448923
+      Delivery_Truck_Door_16x16 2_14: -4065350701146995431
+      Delivery_Truck_Door_16x16 2_15: -4666116635416548258
+      Delivery_Truck_Door_16x16 2_16: -4470087025493564330
+      Delivery_Truck_Door_16x16 2_17: -5085939021291188294
+      Delivery_Truck_Door_16x16 2_18: -3279828835579984451
+      Delivery_Truck_Door_16x16 2_19: -4551691691608873131
+      Delivery_Truck_Door_16x16 2_2: 5843754742964819655
+      Delivery_Truck_Door_16x16 2_20: 1102176079848155632
+      Delivery_Truck_Door_16x16 2_21: -4624768316897796328
+      Delivery_Truck_Door_16x16 2_22: -248568388748233122
+      Delivery_Truck_Door_16x16 2_23: -7982128722195444776
+      Delivery_Truck_Door_16x16 2_24: 6450100481712140695
+      Delivery_Truck_Door_16x16 2_25: -8041950672968932850
+      Delivery_Truck_Door_16x16 2_3: -2010702704317657461
+      Delivery_Truck_Door_16x16 2_4: -3638177320959161876
+      Delivery_Truck_Door_16x16 2_5: 2030424106447032458
+      Delivery_Truck_Door_16x16 2_6: -3230942080012249672
+      Delivery_Truck_Door_16x16 2_7: 6351940308552200065
+      Delivery_Truck_Door_16x16 2_8: -5337369527087440823
+      Delivery_Truck_Door_16x16 2_9: 8561852245103095925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

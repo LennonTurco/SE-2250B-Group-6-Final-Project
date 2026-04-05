@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 24a78459f10184fa8ac9325c30109e55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -340717005274240857
+    second: 7_Villas_16x16 2_0
+  - first:
+      213: -4639995149533420817
+    second: 7_Villas_16x16 2_1
+  - first:
+      213: -832035376980908159
+    second: 7_Villas_16x16 2_2
+  - first:
+      213: -5799545258970620262
+    second: 7_Villas_16x16 2_3
+  - first:
+      213: 7621893578793085894
+    second: 7_Villas_16x16 2_4
+  - first:
+      213: 3041240760508487303
+    second: 7_Villas_16x16 2_5
+  - first:
+      213: 3708444609557719227
+    second: 7_Villas_16x16 2_6
+  - first:
+      213: -2066576533792824950
+    second: 7_Villas_16x16 2_7
+  - first:
+      213: 6080330607441673829
+    second: 7_Villas_16x16 2_8
+  - first:
+      213: -3793318151765047658
+    second: 7_Villas_16x16 2_9
+  - first:
+      213: 7220299137698415754
+    second: 7_Villas_16x16 2_10
+  - first:
+      213: -5730069369575524307
+    second: 7_Villas_16x16 2_11
+  - first:
+      213: -924885553812353867
+    second: 7_Villas_16x16 2_12
+  - first:
+      213: 6887326315319894353
+    second: 7_Villas_16x16 2_13
+  - first:
+      213: 3068632108576552388
+    second: 7_Villas_16x16 2_14
+  - first:
+      213: -924041567686583419
+    second: 7_Villas_16x16 2_15
+  - first:
+      213: 7578479252588014805
+    second: 7_Villas_16x16 2_16
+  - first:
+      213: 7647203387028934949
+    second: 7_Villas_16x16 2_17
+  - first:
+      213: 4598843234980249605
+    second: 7_Villas_16x16 2_18
+  - first:
+      213: 3645868082583975986
+    second: 7_Villas_16x16 2_19
+  - first:
+      213: 320375260076065034
+    second: 7_Villas_16x16 2_20
+  - first:
+      213: -6587931907819499557
+    second: 7_Villas_16x16 2_21
+  - first:
+      213: -2265348492580900619
+    second: 7_Villas_16x16 2_22
+  - first:
+      213: -7890670598994908386
+    second: 7_Villas_16x16 2_23
+  - first:
+      213: -716202654182675614
+    second: 7_Villas_16x16 2_24
+  - first:
+      213: 8756273329872519047
+    second: 7_Villas_16x16 2_25
+  - first:
+      213: 8013683443777168606
+    second: 7_Villas_16x16 2_26
+  - first:
+      213: 7662196512817181098
+    second: 7_Villas_16x16 2_27
+  - first:
+      213: -1681260551014059822
+    second: 7_Villas_16x16 2_28
+  - first:
+      213: -3178687727197087891
+    second: 7_Villas_16x16 2_29
+  - first:
+      213: -6339222720305930859
+    second: 7_Villas_16x16 2_30
+  - first:
+      213: -2591829880946976037
+    second: 7_Villas_16x16 2_31
+  - first:
+      213: 5215760735154955731
+    second: 7_Villas_16x16 2_32
+  - first:
+      213: 5023292850054700242
+    second: 7_Villas_16x16 2_33
+  - first:
+      213: 2426449982759969649
+    second: 7_Villas_16x16 2_34
+  - first:
+      213: 2375796118797096717
+    second: 7_Villas_16x16 2_35
+  - first:
+      213: -8658366761754331016
+    second: 7_Villas_16x16 2_36
+  - first:
+      213: -7429337993217234746
+    second: 7_Villas_16x16 2_37
+  - first:
+      213: -257659740924543635
+    second: 7_Villas_16x16 2_38
+  - first:
+      213: 885869935442647380
+    second: 7_Villas_16x16 2_39
+  - first:
+      213: 6897308110848779615
+    second: 7_Villas_16x16 2_40
+  - first:
+      213: 209809916427232522
+    second: 7_Villas_16x16 2_41
+  - first:
+      213: 6356413908606053286
+    second: 7_Villas_16x16 2_42
+  - first:
+      213: -4005547702856923830
+    second: 7_Villas_16x16 2_43
+  - first:
+      213: 3340538629335910454
+    second: 7_Villas_16x16 2_44
+  - first:
+      213: -4581125642146469223
+    second: 7_Villas_16x16 2_45
+  - first:
+      213: 7896464239379977576
+    second: 7_Villas_16x16 2_46
+  - first:
+      213: -6370390282240741532
+    second: 7_Villas_16x16 2_47
+  - first:
+      213: 2134724351006279077
+    second: 7_Villas_16x16 2_48
+  - first:
+      213: 8165130205181406486
+    second: 7_Villas_16x16 2_49
+  - first:
+      213: -4883481742120156999
+    second: 7_Villas_16x16 2_50
+  - first:
+      213: -7675131998682279471
+    second: 7_Villas_16x16 2_51
+  - first:
+      213: 8857000324921686187
+    second: 7_Villas_16x16 2_52
+  - first:
+      213: 4439979020118170200
+    second: 7_Villas_16x16 2_53
+  - first:
+      213: 6772577985749306409
+    second: 7_Villas_16x16 2_54
+  - first:
+      213: -5538195129151542591
+    second: 7_Villas_16x16 2_55
+  - first:
+      213: -4711421020280919253
+    second: 7_Villas_16x16 2_56
+  - first:
+      213: -8581544595377307839
+    second: 7_Villas_16x16 2_57
+  - first:
+      213: -5551533875596847334
+    second: 7_Villas_16x16 2_58
+  - first:
+      213: -4048290794300264031
+    second: 7_Villas_16x16 2_59
+  - first:
+      213: -4602574821956325361
+    second: 7_Villas_16x16 2_60
+  - first:
+      213: -7838645317408687894
+    second: 7_Villas_16x16 2_61
+  - first:
+      213: 2863379720485413367
+    second: 7_Villas_16x16 2_62
+  - first:
+      213: 4886135391308163733
+    second: 7_Villas_16x16 2_63
+  - first:
+      213: 4548951722745375516
+    second: 7_Villas_16x16 2_64
+  - first:
+      213: 2025208191790309722
+    second: 7_Villas_16x16 2_65
+  - first:
+      213: 7961237568826635115
+    second: 7_Villas_16x16 2_66
+  - first:
+      213: -5200409293735969950
+    second: 7_Villas_16x16 2_67
+  - first:
+      213: -4443091071912517332
+    second: 7_Villas_16x16 2_68
+  - first:
+      213: -5766257290557811167
+    second: 7_Villas_16x16 2_69
+  - first:
+      213: 3961385281066593831
+    second: 7_Villas_16x16 2_70
+  - first:
+      213: -5702287588136604938
+    second: 7_Villas_16x16 2_71
+  - first:
+      213: -7458262257570227778
+    second: 7_Villas_16x16 2_72
+  - first:
+      213: -6381235498033336751
+    second: 7_Villas_16x16 2_73
+  - first:
+      213: 7999143570010820461
+    second: 7_Villas_16x16 2_74
+  - first:
+      213: -4011572852086742787
+    second: 7_Villas_16x16 2_75
+  - first:
+      213: -1129428278662918263
+    second: 7_Villas_16x16 2_76
+  - first:
+      213: -3785131858940159933
+    second: 7_Villas_16x16 2_77
+  - first:
+      213: 6465471236554557217
+    second: 7_Villas_16x16 2_78
+  - first:
+      213: -931209662669042882
+    second: 7_Villas_16x16 2_79
+  - first:
+      213: -3363831685812309060
+    second: 7_Villas_16x16 2_80
+  - first:
+      213: -8505675617811334996
+    second: 7_Villas_16x16 2_81
+  - first:
+      213: -709743164686134281
+    second: 7_Villas_16x16 2_82
+  - first:
+      213: 1988847183781376118
+    second: 7_Villas_16x16 2_83
+  - first:
+      213: 1154660084369750439
+    second: 7_Villas_16x16 2_84
+  - first:
+      213: 1246422283419185121
+    second: 7_Villas_16x16 2_85
+  - first:
+      213: 3206185678604747419
+    second: 7_Villas_16x16 2_86
+  - first:
+      213: 2564841442666171571
+    second: 7_Villas_16x16 2_87
+  - first:
+      213: -5238820707900871357
+    second: 7_Villas_16x16 2_88
+  - first:
+      213: 4064748303261022068
+    second: 7_Villas_16x16 2_89
+  - first:
+      213: -8049620594770852840
+    second: 7_Villas_16x16 2_90
+  - first:
+      213: 126308547241328749
+    second: 7_Villas_16x16 2_91
+  - first:
+      213: 2725086681005162662
+    second: 7_Villas_16x16 2_92
+  - first:
+      213: -1997709748207921629
+    second: 7_Villas_16x16 2_93
+  - first:
+      213: -1376132509601676182
+    second: 7_Villas_16x16 2_94
+  - first:
+      213: -7954183440869442705
+    second: 7_Villas_16x16 2_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 145
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8a1bb50b7854bf0800000000000000
+      internalID: -340717005274240857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 703
+        width: 146
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe26688cefc6b9fb0800000000000000
+      internalID: -4639995149533420817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 703
+        width: 146
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187ae72ab340474f0800000000000000
+      internalID: -832035376980908159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 145
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e51447050e38fa0800000000000000
+      internalID: -5799545258970620262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 463
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbeacfc3d766c960800000000000000
+      internalID: 7621893578793085894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 626
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861c86cb58a43a20800000000000000
+      internalID: 3041240760508487303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 594
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb866e569ba077330800000000000000
+      internalID: 3708444609557719227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 463
+        width: 65
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ee1a779b0253e0800000000000000
+      internalID: -2066576533792824950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 431
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56efe75f87ca16450800000000000000
+      internalID: 6080330607441673829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 431
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696c0042d3d6b5bc0800000000000000
+      internalID: -3793318151765047658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 432
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c29a9fc7a33460800000000000000
+      internalID: 7220299137698415754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 431
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ba108444ba70b0800000000000000
+      internalID: -5730069369575524307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 365
+        width: 129
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bccf133d752a23f0800000000000000
+      internalID: -924885553812353867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 383
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a7dc0bc2b49f50800000000000000
+      internalID: 6887326315319894353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 434
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5301af4a8f59a20800000000000000
+      internalID: 3068632108576552388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 437
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b985807152d23f0800000000000000
+      internalID: -924041567686583419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 437
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2d2c4aba2c2960800000000000000
+      internalID: 7578479252588014805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5211601c6f2502a60800000000000000
+      internalID: 7647203387028934949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 273
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c4b67e8f52df30800000000000000
+      internalID: 4598843234980249605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 424
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383a5854b9b89230800000000000000
+      internalID: 3645868082583975986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 416
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0148a30a93327400800000000000000
+      internalID: 320375260076065034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 420
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf05fd85d6f294a0800000000000000
+      internalID: -6587931907819499557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 419
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0bf3f5c8ddf80e0800000000000000
+      internalID: -2265348492580900619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 402
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b2a4395e4be7290800000000000000
+      internalID: -7890670598994908386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 404
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bef3a0b798f06f0800000000000000
+      internalID: -716202654182675614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 386
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f37476338848970800000000000000
+      internalID: 8756273329872519047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 388
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed464c042a2563f60800000000000000
+      internalID: 8013683443777168606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 354
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa174b1e127955a60800000000000000
+      internalID: 7662196512817181098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 343
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0fde1cf66faa8e0800000000000000
+      internalID: -1681260551014059822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 343
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6716808a5803e3d0800000000000000
+      internalID: -3178687727197087891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 343
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d5414c58e8608a0800000000000000
+      internalID: -6339222720305930859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 355
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda99e39478f70cd0800000000000000
+      internalID: -2591829880946976037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 355
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5675c11ca126840800000000000000
+      internalID: 5215760735154955731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 367
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc154a8b3256b540800000000000000
+      internalID: 5023292850054700242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 367
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17329a7476b7ca120800000000000000
+      internalID: 2426449982759969649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 320
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0717a78bf588f020800000000000000
+      internalID: 2375796118797096717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 338
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878759edd4d47d780800000000000000
+      internalID: -8658366761754331016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 323
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c829fd1570b5e890800000000000000
+      internalID: -7429337993217234746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 323
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df54da4db9c6cf0800000000000000
+      internalID: -257659740924543635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 320
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d143430e3b4c00800000000000000
+      internalID: 885869935442647380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 341
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55ef8dee2928bf50800000000000000
+      internalID: 6897308110848779615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 324
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05eff2e10569e200800000000000000
+      internalID: 209809916427232522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 311
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abe0dba5c4863850800000000000000
+      internalID: 6356413908606053286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 311
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45c458269f6968c0800000000000000
+      internalID: -4005547702856923830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 311
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63889083f2afb5e20800000000000000
+      internalID: 3340538629335910454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_45
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 325
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2d6410829c60c0800000000000000
+      internalID: -4581125642146469223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86591d17360e59d60800000000000000
+      internalID: 7896464239379977576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 313
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fa0724ac3d797a0800000000000000
+      internalID: -6370390282240741532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 306
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a50b1bac7010ad10800000000000000
+      internalID: 2134724351006279077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 310
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d66a039ae505170800000000000000
+      internalID: 8165130205181406486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 311
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b082d5ba336a3cb0800000000000000
+      internalID: -4883481742120156999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 314
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d11f4e9c147c7590800000000000000
+      internalID: -7675131998682279471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_52
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 307
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f97e7ed26aea70800000000000000
+      internalID: 8857000324921686187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 290
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a94501569fd9d30800000000000000
+      internalID: 4439979020118170200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cc73e9bc70dfd50800000000000000
+      internalID: 6772577985749306409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 275
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caaf166fd06423b0800000000000000
+      internalID: -5538195129151542591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_56
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 304
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2be8d25b8bad9eb0800000000000000
+      internalID: -4711421020280919253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_57
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 304
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fbc5058aa38e880800000000000000
+      internalID: -8581544595377307839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 288
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17908a7a5df4f2b0800000000000000
+      internalID: -5551533875596847334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 290
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1bf3aa8f491d7c0800000000000000
+      internalID: -4048290794300264031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_60
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 239
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f22db59e5020c0800000000000000
+      internalID: -4602574821956325361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_61
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 208
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8739f5d99873390800000000000000
+      internalID: -7838645317408687894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f127985fa4ccb720800000000000000
+      internalID: 2863379720485413367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 274
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a2363204a0fc340800000000000000
+      internalID: 4886135391308163733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_64
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 272
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ba3ae8d7f112f30800000000000000
+      internalID: 4548951722745375516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 274
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a516fd3de1cfa1c10800000000000000
+      internalID: 2025208191790309722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f76e636ffb7e60800000000000000
+      internalID: 7961237568826635115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b3a30ec4f64d7b0800000000000000
+      internalID: -5200409293735969950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 257
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e1f9e538f652c0800000000000000
+      internalID: -4443091071912517332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_69
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1269bc09b832affa0800000000000000
+      internalID: -5766257290557811167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e6f60cceaa9f630800000000000000
+      internalID: 3961385281066593831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faaffd86a76dd0b0800000000000000
+      internalID: -5702287588136604938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 224
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d2d70efdee7890800000000000000
+      internalID: -7458262257570227778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 244
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e2c9faf1c4177a0800000000000000
+      internalID: -6381235498033336751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 244
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f48d512baa20f60800000000000000
+      internalID: 7999143570010820461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 243
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e4c8ceb70458c0800000000000000
+      internalID: -4011572852086742787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f040be6f67350f0800000000000000
+      internalID: -1129428278662918263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_77
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 159
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3489bd7f0a2887bc0800000000000000
+      internalID: -3785131858940159933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_78
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 208
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127075885d7f9b950800000000000000
+      internalID: 6465471236554557217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_79
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 209
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b433ddebda313f0800000000000000
+      internalID: -931209662669042882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb334f277e44151d0800000000000000
+      internalID: -3363831685812309060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_81
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 144
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca877a13715c5f980800000000000000
+      internalID: -8505675617811334996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_82
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31f132a5c7626f0800000000000000
+      internalID: -709743164686134281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 176
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67033dde9fdc99b10800000000000000
+      internalID: 1988847183781376118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 138
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a97e25aa3d260010800000000000000
+      internalID: 1154660084369750439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 79
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efe453867e2c4110800000000000000
+      internalID: 1246422283419185121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_86
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b924e2933e8ae7c20800000000000000
+      internalID: 3206185678604747419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_87
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 129
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4157f3b5289320800000000000000
+      internalID: 2564841442666171571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dab979258fb47b0800000000000000
+      internalID: -5238820707900871357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_89
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477be3dbb03e86830800000000000000
+      internalID: 4064748303261022068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 111
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c300c7b00a4090800000000000000
+      internalID: -8049620594770852840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d604a6a54fcb0c100800000000000000
+      internalID: 126308547241328749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_92
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00673f5e371d520800000000000000
+      internalID: 2725086681005162662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_93
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3265bbd7195b644e0800000000000000
+      internalID: -1997709748207921629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_94
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64435906cef6ece0800000000000000
+      internalID: -1376132509601676182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7_Villas_16x16 2_95
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bbea8bd401d9190800000000000000
+      internalID: -7954183440869442705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      7_Villas_16x16 2_0: -340717005274240857
+      7_Villas_16x16 2_1: -4639995149533420817
+      7_Villas_16x16 2_10: 7220299137698415754
+      7_Villas_16x16 2_11: -5730069369575524307
+      7_Villas_16x16 2_12: -924885553812353867
+      7_Villas_16x16 2_13: 6887326315319894353
+      7_Villas_16x16 2_14: 3068632108576552388
+      7_Villas_16x16 2_15: -924041567686583419
+      7_Villas_16x16 2_16: 7578479252588014805
+      7_Villas_16x16 2_17: 7647203387028934949
+      7_Villas_16x16 2_18: 4598843234980249605
+      7_Villas_16x16 2_19: 3645868082583975986
+      7_Villas_16x16 2_2: -832035376980908159
+      7_Villas_16x16 2_20: 320375260076065034
+      7_Villas_16x16 2_21: -6587931907819499557
+      7_Villas_16x16 2_22: -2265348492580900619
+      7_Villas_16x16 2_23: -7890670598994908386
+      7_Villas_16x16 2_24: -716202654182675614
+      7_Villas_16x16 2_25: 8756273329872519047
+      7_Villas_16x16 2_26: 8013683443777168606
+      7_Villas_16x16 2_27: 7662196512817181098
+      7_Villas_16x16 2_28: -1681260551014059822
+      7_Villas_16x16 2_29: -3178687727197087891
+      7_Villas_16x16 2_3: -5799545258970620262
+      7_Villas_16x16 2_30: -6339222720305930859
+      7_Villas_16x16 2_31: -2591829880946976037
+      7_Villas_16x16 2_32: 5215760735154955731
+      7_Villas_16x16 2_33: 5023292850054700242
+      7_Villas_16x16 2_34: 2426449982759969649
+      7_Villas_16x16 2_35: 2375796118797096717
+      7_Villas_16x16 2_36: -8658366761754331016
+      7_Villas_16x16 2_37: -7429337993217234746
+      7_Villas_16x16 2_38: -257659740924543635
+      7_Villas_16x16 2_39: 885869935442647380
+      7_Villas_16x16 2_4: 7621893578793085894
+      7_Villas_16x16 2_40: 6897308110848779615
+      7_Villas_16x16 2_41: 209809916427232522
+      7_Villas_16x16 2_42: 6356413908606053286
+      7_Villas_16x16 2_43: -4005547702856923830
+      7_Villas_16x16 2_44: 3340538629335910454
+      7_Villas_16x16 2_45: -4581125642146469223
+      7_Villas_16x16 2_46: 7896464239379977576
+      7_Villas_16x16 2_47: -6370390282240741532
+      7_Villas_16x16 2_48: 2134724351006279077
+      7_Villas_16x16 2_49: 8165130205181406486
+      7_Villas_16x16 2_5: 3041240760508487303
+      7_Villas_16x16 2_50: -4883481742120156999
+      7_Villas_16x16 2_51: -7675131998682279471
+      7_Villas_16x16 2_52: 8857000324921686187
+      7_Villas_16x16 2_53: 4439979020118170200
+      7_Villas_16x16 2_54: 6772577985749306409
+      7_Villas_16x16 2_55: -5538195129151542591
+      7_Villas_16x16 2_56: -4711421020280919253
+      7_Villas_16x16 2_57: -8581544595377307839
+      7_Villas_16x16 2_58: -5551533875596847334
+      7_Villas_16x16 2_59: -4048290794300264031
+      7_Villas_16x16 2_6: 3708444609557719227
+      7_Villas_16x16 2_60: -4602574821956325361
+      7_Villas_16x16 2_61: -7838645317408687894
+      7_Villas_16x16 2_62: 2863379720485413367
+      7_Villas_16x16 2_63: 4886135391308163733
+      7_Villas_16x16 2_64: 4548951722745375516
+      7_Villas_16x16 2_65: 2025208191790309722
+      7_Villas_16x16 2_66: 7961237568826635115
+      7_Villas_16x16 2_67: -5200409293735969950
+      7_Villas_16x16 2_68: -4443091071912517332
+      7_Villas_16x16 2_69: -5766257290557811167
+      7_Villas_16x16 2_7: -2066576533792824950
+      7_Villas_16x16 2_70: 3961385281066593831
+      7_Villas_16x16 2_71: -5702287588136604938
+      7_Villas_16x16 2_72: -7458262257570227778
+      7_Villas_16x16 2_73: -6381235498033336751
+      7_Villas_16x16 2_74: 7999143570010820461
+      7_Villas_16x16 2_75: -4011572852086742787
+      7_Villas_16x16 2_76: -1129428278662918263
+      7_Villas_16x16 2_77: -3785131858940159933
+      7_Villas_16x16 2_78: 6465471236554557217
+      7_Villas_16x16 2_79: -931209662669042882
+      7_Villas_16x16 2_8: 6080330607441673829
+      7_Villas_16x16 2_80: -3363831685812309060
+      7_Villas_16x16 2_81: -8505675617811334996
+      7_Villas_16x16 2_82: -709743164686134281
+      7_Villas_16x16 2_83: 1988847183781376118
+      7_Villas_16x16 2_84: 1154660084369750439
+      7_Villas_16x16 2_85: 1246422283419185121
+      7_Villas_16x16 2_86: 3206185678604747419
+      7_Villas_16x16 2_87: 2564841442666171571
+      7_Villas_16x16 2_88: -5238820707900871357
+      7_Villas_16x16 2_89: 4064748303261022068
+      7_Villas_16x16 2_9: -3793318151765047658
+      7_Villas_16x16 2_90: -8049620594770852840
+      7_Villas_16x16 2_91: 126308547241328749
+      7_Villas_16x16 2_92: 2725086681005162662
+      7_Villas_16x16 2_93: -1997709748207921629
+      7_Villas_16x16 2_94: -1376132509601676182
+      7_Villas_16x16 2_95: -7954183440869442705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

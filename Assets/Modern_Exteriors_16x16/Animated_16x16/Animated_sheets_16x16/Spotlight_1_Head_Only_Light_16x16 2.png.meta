@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: b96c66b5896d04d61bbde8dd7f916595
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1754422819758257465
+    second: Spotlight_1_Head_Only_Light_16x16 2_0
+  - first:
+      213: -3829381847374989187
+    second: Spotlight_1_Head_Only_Light_16x16 2_1
+  - first:
+      213: 5966408445566976086
+    second: Spotlight_1_Head_Only_Light_16x16 2_2
+  - first:
+      213: 7969109509395788527
+    second: Spotlight_1_Head_Only_Light_16x16 2_3
+  - first:
+      213: -983218033690831981
+    second: Spotlight_1_Head_Only_Light_16x16 2_4
+  - first:
+      213: 341348221197963819
+    second: Spotlight_1_Head_Only_Light_16x16 2_5
+  - first:
+      213: -4241896179221521517
+    second: Spotlight_1_Head_Only_Light_16x16 2_6
+  - first:
+      213: -584790204700088279
+    second: Spotlight_1_Head_Only_Light_16x16 2_7
+  - first:
+      213: -2586035459437349708
+    second: Spotlight_1_Head_Only_Light_16x16 2_8
+  - first:
+      213: 8801594502450891695
+    second: Spotlight_1_Head_Only_Light_16x16 2_9
+  - first:
+      213: -7536545429988388523
+    second: Spotlight_1_Head_Only_Light_16x16 2_10
+  - first:
+      213: 8538862733984020471
+    second: Spotlight_1_Head_Only_Light_16x16 2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 34
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4872adb907a7e0800000000000000
+      internalID: -1754422819758257465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 36
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7872edaf7d4bdac0800000000000000
+      internalID: -3829381847374989187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 46
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65009eeaed0fcc250800000000000000
+      internalID: 5966408445566976086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 56
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe239bb60e6f79e60800000000000000
+      internalID: 7969109509395788527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 46
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393991d5868ea52f0800000000000000
+      internalID: -983218033690831981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 36
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22573d0666bcb400800000000000000
+      internalID: 341348221197963819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 34
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b1a6746e1c125c0800000000000000
+      internalID: -4241896179221521517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 37
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92829bc386862e7f0800000000000000
+      internalID: -584790204700088279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 46
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43ca7737e8c1cd0800000000000000
+      internalID: -2586035459437349708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 56
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabcd9f219b852a70800000000000000
+      internalID: 8801594502450891695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 46
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551d2fb9cdfc86790800000000000000
+      internalID: -7536545429988388523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_1_Head_Only_Light_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 0
+        width: 37
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f730fc6a62208670800000000000000
+      internalID: 8538862733984020471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spotlight_1_Head_Only_Light_16x16 2_0: -1754422819758257465
+      Spotlight_1_Head_Only_Light_16x16 2_1: -3829381847374989187
+      Spotlight_1_Head_Only_Light_16x16 2_10: -7536545429988388523
+      Spotlight_1_Head_Only_Light_16x16 2_11: 8538862733984020471
+      Spotlight_1_Head_Only_Light_16x16 2_2: 5966408445566976086
+      Spotlight_1_Head_Only_Light_16x16 2_3: 7969109509395788527
+      Spotlight_1_Head_Only_Light_16x16 2_4: -983218033690831981
+      Spotlight_1_Head_Only_Light_16x16 2_5: 341348221197963819
+      Spotlight_1_Head_Only_Light_16x16 2_6: -4241896179221521517
+      Spotlight_1_Head_Only_Light_16x16 2_7: -584790204700088279
+      Spotlight_1_Head_Only_Light_16x16 2_8: -2586035459437349708
+      Spotlight_1_Head_Only_Light_16x16 2_9: 8801594502450891695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Event
   - Enemy
+  - SrollTXT
+  - ScrollTXT
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - Foreground
   - Water
   - UI
-  - 
+  - Editing
   - 
   - 
   - 

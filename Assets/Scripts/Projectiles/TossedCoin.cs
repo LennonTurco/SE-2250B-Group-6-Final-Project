@@ -54,6 +54,14 @@ public class TossedCoin : Entity
         // Deals the collisionDamage to whatever hitObject is (if it's an Entity)
         base.HandleCollision(hitObject, hitIsTrigger);
 
+        LavaBoss lavaBoss = hitObject.GetComponentInParent<LavaBoss>();
+        if (lavaBoss != null)
+        {
+            lavaBoss.TakeDamage(collisionDamage);
+            Die();
+            return;
+        }
+
         // Check if we hit an enemy
         Enemy enemy = hitObject.GetComponentInParent<Enemy>();
         if (enemy != null)

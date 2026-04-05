@@ -1,0 +1,3900 @@
+fileFormatVersion: 2
+guid: 83c52912933e64615970afdbc1415dca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3939497124710842699
+    second: 2_City_Terrains_16x16 2_0
+  - first:
+      213: 550860955166768536
+    second: 2_City_Terrains_16x16 2_1
+  - first:
+      213: -7619635006286420166
+    second: 2_City_Terrains_16x16 2_2
+  - first:
+      213: 2885480235939477074
+    second: 2_City_Terrains_16x16 2_3
+  - first:
+      213: 1469684878533122654
+    second: 2_City_Terrains_16x16 2_4
+  - first:
+      213: 4084440947639429815
+    second: 2_City_Terrains_16x16 2_5
+  - first:
+      213: 449432845296337426
+    second: 2_City_Terrains_16x16 2_6
+  - first:
+      213: 6990594959542567139
+    second: 2_City_Terrains_16x16 2_7
+  - first:
+      213: 5216839586807810521
+    second: 2_City_Terrains_16x16 2_8
+  - first:
+      213: -7659008900817922771
+    second: 2_City_Terrains_16x16 2_9
+  - first:
+      213: 2894759438106335709
+    second: 2_City_Terrains_16x16 2_10
+  - first:
+      213: -7451829151958941319
+    second: 2_City_Terrains_16x16 2_11
+  - first:
+      213: 4419008113669309537
+    second: 2_City_Terrains_16x16 2_12
+  - first:
+      213: -35559503099654885
+    second: 2_City_Terrains_16x16 2_13
+  - first:
+      213: 1006229227910214992
+    second: 2_City_Terrains_16x16 2_14
+  - first:
+      213: -871463677263289969
+    second: 2_City_Terrains_16x16 2_15
+  - first:
+      213: 1194342682931020700
+    second: 2_City_Terrains_16x16 2_16
+  - first:
+      213: 4397854530719907044
+    second: 2_City_Terrains_16x16 2_17
+  - first:
+      213: 7872958389448450371
+    second: 2_City_Terrains_16x16 2_18
+  - first:
+      213: -9113786938630459471
+    second: 2_City_Terrains_16x16 2_19
+  - first:
+      213: -4085107691045911346
+    second: 2_City_Terrains_16x16 2_20
+  - first:
+      213: 5839339151601260903
+    second: 2_City_Terrains_16x16 2_21
+  - first:
+      213: 3999978284414116176
+    second: 2_City_Terrains_16x16 2_22
+  - first:
+      213: 9147508224700814421
+    second: 2_City_Terrains_16x16 2_23
+  - first:
+      213: -106897918837798282
+    second: 2_City_Terrains_16x16 2_24
+  - first:
+      213: -1144467029422283282
+    second: 2_City_Terrains_16x16 2_25
+  - first:
+      213: -931919531262769183
+    second: 2_City_Terrains_16x16 2_26
+  - first:
+      213: -5854908885575109556
+    second: 2_City_Terrains_16x16 2_27
+  - first:
+      213: -5565117924403233371
+    second: 2_City_Terrains_16x16 2_28
+  - first:
+      213: -3862753822125980622
+    second: 2_City_Terrains_16x16 2_29
+  - first:
+      213: 3573392636891081441
+    second: 2_City_Terrains_16x16 2_30
+  - first:
+      213: 2134073683746782113
+    second: 2_City_Terrains_16x16 2_31
+  - first:
+      213: 6572699661653506657
+    second: 2_City_Terrains_16x16 2_32
+  - first:
+      213: -5040443924186060663
+    second: 2_City_Terrains_16x16 2_33
+  - first:
+      213: 2069069632320079874
+    second: 2_City_Terrains_16x16 2_34
+  - first:
+      213: -6000461563281984415
+    second: 2_City_Terrains_16x16 2_35
+  - first:
+      213: 1421956886915796
+    second: 2_City_Terrains_16x16 2_36
+  - first:
+      213: -7801456580217605588
+    second: 2_City_Terrains_16x16 2_37
+  - first:
+      213: 4443565202283280457
+    second: 2_City_Terrains_16x16 2_38
+  - first:
+      213: 1084758070080064548
+    second: 2_City_Terrains_16x16 2_39
+  - first:
+      213: -4347391796448698004
+    second: 2_City_Terrains_16x16 2_40
+  - first:
+      213: 3555970597538039191
+    second: 2_City_Terrains_16x16 2_41
+  - first:
+      213: -7324647878819070886
+    second: 2_City_Terrains_16x16 2_42
+  - first:
+      213: 27172624903884885
+    second: 2_City_Terrains_16x16 2_43
+  - first:
+      213: -1734155979058393231
+    second: 2_City_Terrains_16x16 2_44
+  - first:
+      213: -2924896656645669660
+    second: 2_City_Terrains_16x16 2_45
+  - first:
+      213: -8491472266227535762
+    second: 2_City_Terrains_16x16 2_46
+  - first:
+      213: 4883664812932208305
+    second: 2_City_Terrains_16x16 2_47
+  - first:
+      213: -8991466115531970503
+    second: 2_City_Terrains_16x16 2_48
+  - first:
+      213: -8666308104636048087
+    second: 2_City_Terrains_16x16 2_49
+  - first:
+      213: -2166500159127044508
+    second: 2_City_Terrains_16x16 2_50
+  - first:
+      213: 993780382111525557
+    second: 2_City_Terrains_16x16 2_51
+  - first:
+      213: -2927265925818845499
+    second: 2_City_Terrains_16x16 2_52
+  - first:
+      213: -4628836890445037326
+    second: 2_City_Terrains_16x16 2_53
+  - first:
+      213: -1604506992135417896
+    second: 2_City_Terrains_16x16 2_54
+  - first:
+      213: 4764905183702860906
+    second: 2_City_Terrains_16x16 2_55
+  - first:
+      213: -2736320041776905329
+    second: 2_City_Terrains_16x16 2_56
+  - first:
+      213: 1046402180223645721
+    second: 2_City_Terrains_16x16 2_57
+  - first:
+      213: -16407190111528848
+    second: 2_City_Terrains_16x16 2_58
+  - first:
+      213: -2634091407709801666
+    second: 2_City_Terrains_16x16 2_59
+  - first:
+      213: 1462636113128180299
+    second: 2_City_Terrains_16x16 2_60
+  - first:
+      213: 5499970594083510349
+    second: 2_City_Terrains_16x16 2_61
+  - first:
+      213: -8192933269976919405
+    second: 2_City_Terrains_16x16 2_62
+  - first:
+      213: -4893618313488401300
+    second: 2_City_Terrains_16x16 2_63
+  - first:
+      213: -6508544792957404421
+    second: 2_City_Terrains_16x16 2_64
+  - first:
+      213: 7455567239309119
+    second: 2_City_Terrains_16x16 2_65
+  - first:
+      213: -4685146464167799990
+    second: 2_City_Terrains_16x16 2_66
+  - first:
+      213: -5281696764396143144
+    second: 2_City_Terrains_16x16 2_67
+  - first:
+      213: -7975854795394302042
+    second: 2_City_Terrains_16x16 2_68
+  - first:
+      213: 5594046494594223157
+    second: 2_City_Terrains_16x16 2_69
+  - first:
+      213: -9088940301838584656
+    second: 2_City_Terrains_16x16 2_70
+  - first:
+      213: 3413710223206265417
+    second: 2_City_Terrains_16x16 2_71
+  - first:
+      213: 4447207150372970028
+    second: 2_City_Terrains_16x16 2_72
+  - first:
+      213: 1227964543544216705
+    second: 2_City_Terrains_16x16 2_73
+  - first:
+      213: 7984448327716100306
+    second: 2_City_Terrains_16x16 2_74
+  - first:
+      213: -2419837510962518218
+    second: 2_City_Terrains_16x16 2_75
+  - first:
+      213: 8046142357770892052
+    second: 2_City_Terrains_16x16 2_76
+  - first:
+      213: -511932822372688424
+    second: 2_City_Terrains_16x16 2_77
+  - first:
+      213: 8243135185963441378
+    second: 2_City_Terrains_16x16 2_78
+  - first:
+      213: -5799987167983056974
+    second: 2_City_Terrains_16x16 2_79
+  - first:
+      213: -8550413268766518821
+    second: 2_City_Terrains_16x16 2_80
+  - first:
+      213: 5163731361990182602
+    second: 2_City_Terrains_16x16 2_81
+  - first:
+      213: -2980377416245366881
+    second: 2_City_Terrains_16x16 2_82
+  - first:
+      213: 1922178712994640928
+    second: 2_City_Terrains_16x16 2_83
+  - first:
+      213: 8455618486789816601
+    second: 2_City_Terrains_16x16 2_84
+  - first:
+      213: -2032217521792065467
+    second: 2_City_Terrains_16x16 2_85
+  - first:
+      213: 2811152106622070069
+    second: 2_City_Terrains_16x16 2_86
+  - first:
+      213: 7994711447136771613
+    second: 2_City_Terrains_16x16 2_87
+  - first:
+      213: -6420434014932993837
+    second: 2_City_Terrains_16x16 2_88
+  - first:
+      213: 3723347105363847734
+    second: 2_City_Terrains_16x16 2_89
+  - first:
+      213: -6936937005424190534
+    second: 2_City_Terrains_16x16 2_90
+  - first:
+      213: 2755401258065382903
+    second: 2_City_Terrains_16x16 2_91
+  - first:
+      213: 3179626850817922427
+    second: 2_City_Terrains_16x16 2_92
+  - first:
+      213: 4382103333349186827
+    second: 2_City_Terrains_16x16 2_93
+  - first:
+      213: -4405701131398820982
+    second: 2_City_Terrains_16x16 2_94
+  - first:
+      213: 7644122557153301209
+    second: 2_City_Terrains_16x16 2_95
+  - first:
+      213: 5331419746099266618
+    second: 2_City_Terrains_16x16 2_96
+  - first:
+      213: -3693487688015343206
+    second: 2_City_Terrains_16x16 2_97
+  - first:
+      213: -4005725803987540408
+    second: 2_City_Terrains_16x16 2_98
+  - first:
+      213: -5710973361392066098
+    second: 2_City_Terrains_16x16 2_99
+  - first:
+      213: -4962359656710158627
+    second: 2_City_Terrains_16x16 2_100
+  - first:
+      213: -6050665328091636741
+    second: 2_City_Terrains_16x16 2_101
+  - first:
+      213: 4061491374148020361
+    second: 2_City_Terrains_16x16 2_102
+  - first:
+      213: 630297194483183361
+    second: 2_City_Terrains_16x16 2_103
+  - first:
+      213: -7102958255697498394
+    second: 2_City_Terrains_16x16 2_104
+  - first:
+      213: 510832995977790305
+    second: 2_City_Terrains_16x16 2_105
+  - first:
+      213: -6013707844624247262
+    second: 2_City_Terrains_16x16 2_106
+  - first:
+      213: 5206753706991144995
+    second: 2_City_Terrains_16x16 2_107
+  - first:
+      213: -7569228028375912841
+    second: 2_City_Terrains_16x16 2_108
+  - first:
+      213: 2035360584059688372
+    second: 2_City_Terrains_16x16 2_109
+  - first:
+      213: -7380904115396953717
+    second: 2_City_Terrains_16x16 2_110
+  - first:
+      213: -2772314241395725020
+    second: 2_City_Terrains_16x16 2_111
+  - first:
+      213: 2535436656491561428
+    second: 2_City_Terrains_16x16 2_112
+  - first:
+      213: 436838788983725847
+    second: 2_City_Terrains_16x16 2_113
+  - first:
+      213: 8090022928389308674
+    second: 2_City_Terrains_16x16 2_114
+  - first:
+      213: -1673673055330104386
+    second: 2_City_Terrains_16x16 2_115
+  - first:
+      213: 743426983547112523
+    second: 2_City_Terrains_16x16 2_116
+  - first:
+      213: 264277281040249029
+    second: 2_City_Terrains_16x16 2_117
+  - first:
+      213: -6558050180731669568
+    second: 2_City_Terrains_16x16 2_118
+  - first:
+      213: -7649507358634542810
+    second: 2_City_Terrains_16x16 2_119
+  - first:
+      213: 4730324483014583620
+    second: 2_City_Terrains_16x16 2_120
+  - first:
+      213: -7433927722891863485
+    second: 2_City_Terrains_16x16 2_121
+  - first:
+      213: 1128686769819617752
+    second: 2_City_Terrains_16x16 2_122
+  - first:
+      213: 994112864870023984
+    second: 2_City_Terrains_16x16 2_123
+  - first:
+      213: 5364822714643340622
+    second: 2_City_Terrains_16x16 2_124
+  - first:
+      213: -2442778774244698102
+    second: 2_City_Terrains_16x16 2_125
+  - first:
+      213: -2736285189802196884
+    second: 2_City_Terrains_16x16 2_126
+  - first:
+      213: 6835465080468122292
+    second: 2_City_Terrains_16x16 2_127
+  - first:
+      213: -6950334784712077176
+    second: 2_City_Terrains_16x16 2_128
+  - first:
+      213: 2899202980176172499
+    second: 2_City_Terrains_16x16 2_129
+  - first:
+      213: 1533381482239929872
+    second: 2_City_Terrains_16x16 2_130
+  - first:
+      213: 7908014588520042120
+    second: 2_City_Terrains_16x16 2_131
+  - first:
+      213: -1204640595350152319
+    second: 2_City_Terrains_16x16 2_132
+  - first:
+      213: -8209096344397477362
+    second: 2_City_Terrains_16x16 2_133
+  - first:
+      213: -6679395570372113283
+    second: 2_City_Terrains_16x16 2_134
+  - first:
+      213: -3906300175140770926
+    second: 2_City_Terrains_16x16 2_135
+  - first:
+      213: -6479757187499693108
+    second: 2_City_Terrains_16x16 2_136
+  - first:
+      213: 8176118118318124692
+    second: 2_City_Terrains_16x16 2_137
+  - first:
+      213: 1435171782430892439
+    second: 2_City_Terrains_16x16 2_138
+  - first:
+      213: 3841304836472160237
+    second: 2_City_Terrains_16x16 2_139
+  - first:
+      213: 6323695747164543945
+    second: 2_City_Terrains_16x16 2_140
+  - first:
+      213: -8849743380020133863
+    second: 2_City_Terrains_16x16 2_141
+  - first:
+      213: 6244258268531344243
+    second: 2_City_Terrains_16x16 2_142
+  - first:
+      213: 6945704164587911466
+    second: 2_City_Terrains_16x16 2_143
+  - first:
+      213: 996127436648070091
+    second: 2_City_Terrains_16x16 2_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 465
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beffe7cc381459c0800000000000000
+      internalID: -3939497124710842699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1295
+        width: 465
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df851ce1d05a700800000000000000
+      internalID: 550860955166768536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 465
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37aa24155e914690800000000000000
+      internalID: -7619635006286420166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 927
+        width: 465
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25635959cf84b0820800000000000000
+      internalID: 2885480235939477074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 465
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5adabc3c9e556410800000000000000
+      internalID: 1469684878533122654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baab1ec669dea830800000000000000
+      internalID: 4084440947639429815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 482
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120846aac4bc3600800000000000000
+      internalID: 449432845296337426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 514
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0cb24f315930160800000000000000
+      internalID: 6990594959542567139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 487
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d900e5d6ffe56840800000000000000
+      internalID: 5216839586807810521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 519
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25513fdbfbb5b590800000000000000
+      internalID: -7659008900817922771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 482
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd999823f504c2820800000000000000
+      internalID: 2894759438106335709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 523
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97146962ed8c59890800000000000000
+      internalID: -7451829151958941319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 479
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16404da6778735d30800000000000000
+      internalID: 4419008113669309537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 523
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d0b5102daa18ff0800000000000000
+      internalID: -35559503099654885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 479
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055343cc628d6fd00800000000000000
+      internalID: 1006229227910214992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 535
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81e01a1760f7e3f0800000000000000
+      internalID: -871463677263289969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 527
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c03c9758239010800000000000000
+      internalID: 1194342682931020700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 499
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf6651561580d30800000000000000
+      internalID: 4397854530719907044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 489
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a18641fd524d60800000000000000
+      internalID: 7872958389448450371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 481
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2654f013558180800000000000000
+      internalID: -9113786938630459471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 489
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec40ef5e238ce47c0800000000000000
+      internalID: -4085107691045911346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 546
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769593e2500890150800000000000000
+      internalID: 5839339151601260903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 529
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a7cf8e07c28730800000000000000
+      internalID: 3999978284414116176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 481
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5549149c34a72fe70800000000000000
+      internalID: 9147508224700814421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 498
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac170c8e8348ef0800000000000000
+      internalID: -106897918837798282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 546
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee56326ec490e10f0800000000000000
+      internalID: -1144467029422283282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 529
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e785d3bf182113f0800000000000000
+      internalID: -931919531262769183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 504
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c447403a36f2fbea0800000000000000
+      internalID: -5854908885575109556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 498
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad39c6abbab4c2b0800000000000000
+      internalID: -5565117924403233371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 487
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23406615dddb46ac0800000000000000
+      internalID: -3862753822125980622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 481
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaa3ecabad379130800000000000000
+      internalID: 3573392636891081441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 498
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab7c3465b0cd9d10800000000000000
+      internalID: 2134073683746782113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 481
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aff24c48be63b50800000000000000
+      internalID: 6572699661653506657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 546
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9882d94d4febc0ab0800000000000000
+      internalID: -5040443924186060663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 529
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2088cf14edfc6bc10800000000000000
+      internalID: 2069069632320079874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 535
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164313000041abca0800000000000000
+      internalID: -6000461563281984415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 527
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da6123234d050000800000000000000
+      internalID: 1421956886915796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 503
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22fe7df298abb390800000000000000
+      internalID: -7801456580217605588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 493
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948b16a2207baad30800000000000000
+      internalID: 4443565202283280457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 480
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4c5aa7b5dd0f00800000000000000
+      internalID: 1084758070080064548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 493
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c616a31d136faa3c0800000000000000
+      internalID: -4347391796448698004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 529
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7950df90b68595130800000000000000
+      internalID: 3555970597538039191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_42
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 544
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cbb26df8f995a90800000000000000
+      internalID: -7324647878819070886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 518
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550d20fbb59806000800000000000000
+      internalID: 27172624903884885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_44
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 497
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fca13335a0fe7e0800000000000000
+      internalID: -1734155979058393231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 453
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec38efccfda867d0800000000000000
+      internalID: -2924896656645669660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 480
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e603d6fa6fa382a80800000000000000
+      internalID: -8491472266227535762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 529
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b616e8c54346c340800000000000000
+      internalID: 4883664812932208305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 453
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93861cde435e73380800000000000000
+      internalID: -8991466115531970503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_49
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 544
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d5415e1b61bb780800000000000000
+      internalID: -8666308104636048087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 514
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb769759b0fe1e0800000000000000
+      internalID: -2166500159127044508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 497
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba62840efd9acd00800000000000000
+      internalID: 993780382111525557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 501
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6767856234067d0800000000000000
+      internalID: -2927265925818845499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 501
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0cccd6f5113cfb0800000000000000
+      internalID: -4628836890445037326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 466
+        width: 465
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df43264465abb9e0800000000000000
+      internalID: -1604506992135417896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 518
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64c60fd408502240800000000000000
+      internalID: 4764905183702860906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 495
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f830b1e6b63a60ad0800000000000000
+      internalID: -2736320041776905329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_57
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918bc642d31958e00800000000000000
+      internalID: 1046402180223645721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 456
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078d3ad5fb5b5cff0800000000000000
+      internalID: -16407190111528848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 444
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337c8912d3d17bd0800000000000000
+      internalID: -2634091407709801666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 450
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac9a6abc35c4410800000000000000
+      internalID: 1462636113128180299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 450
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48117f7d12d35c40800000000000000
+      internalID: 5499970594083510349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 450
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392db86599adc4e80800000000000000
+      internalID: -8192933269976919405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 451
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c7d264210661cb0800000000000000
+      internalID: -4893618313488401300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 431
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa3e0b9ef00da5a0800000000000000
+      internalID: -6508544792957404421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 433
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e5e48ccc7a1000800000000000000
+      internalID: 7455567239309119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 433
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d9922d140bfeb0800000000000000
+      internalID: -4685146464167799990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 433
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd76d2c6c4a3b6b0800000000000000
+      internalID: -5281696764396143144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 439
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af3d6c4252105190800000000000000
+      internalID: -7975854795394302042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cce47f5ab02ad40800000000000000
+      internalID: 5594046494594223157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_70
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 436
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4fd2463f89dd180800000000000000
+      internalID: -9088940301838584656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94234548c5fef5f20800000000000000
+      internalID: 3413710223206265417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 403
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ede884757a7bd30800000000000000
+      internalID: 4447207150372970028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c4abe0f3b9a0110800000000000000
+      internalID: 1227964543544216705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_74
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 403
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8dafc53757ece60800000000000000
+      internalID: 7984448327716100306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 400
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e9e8ca920b6ed0800000000000000
+      internalID: -2419837510962518218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413782718d3a9af60800000000000000
+      internalID: 8046142357770892052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_77
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 401
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dddc957fcf35e8f0800000000000000
+      internalID: -511932822372688424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecdfd217cf756270800000000000000
+      internalID: 8243135185963441378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_79
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 403
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7cb8e766e428fa0800000000000000
+      internalID: -5799987167983056974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd192602f64d65980800000000000000
+      internalID: -8550413268766518821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 403
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac608faa05249a740800000000000000
+      internalID: 5163731361990182602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 400
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2918d78293a6d0800000000000000
+      internalID: -2980377416245366881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024fcd6fa53fcaa10800000000000000
+      internalID: 1922178712994640928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 401
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9114555c634685570800000000000000
+      internalID: 8455618486789816601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540624b5eec1cc3e0800000000000000
+      internalID: -2032217521792065467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_86
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 403
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dacc462f7330720800000000000000
+      internalID: 2811152106622070069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e165014bbe2fe60800000000000000
+      internalID: 7994711447136771613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_88
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 403
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d87514c74906e6a0800000000000000
+      internalID: -6420434014932993837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 400
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ae0b6177cfba330800000000000000
+      internalID: 3723347105363847734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbdd6a0c8c0bbf90800000000000000
+      internalID: -6936937005424190534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_91
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 401
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdc6a078d62d3620800000000000000
+      internalID: 2755401258065382903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75db4146cd402c20800000000000000
+      internalID: 3179626850817922427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_93
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 403
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d5559a3cb50dc30800000000000000
+      internalID: 4382103333349186827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bcf64d92ecbd2c0800000000000000
+      internalID: -4405701131398820982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_95
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 403
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d25ca627f0651a60800000000000000
+      internalID: 7644122557153301209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_96
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3400c213020df940800000000000000
+      internalID: 5331419746099266618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_97
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91119544881ebcc0800000000000000
+      internalID: -3693487688015343206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 177
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e4b1ca9dc868c0800000000000000
+      internalID: -4005725803987540408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_99
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 211
+        width: 178
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1e1806cfb8eb0b0800000000000000
+      internalID: -5710973361392066098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_100
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 271
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6cf061f28222bb0800000000000000
+      internalID: -4962359656710158627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_101
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 303
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb535021f7b70ca0800000000000000
+      internalID: -6050665328091636741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_102
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 303
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988e766d2e05d5830800000000000000
+      internalID: 4061491374148020361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_103
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 271
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f681c75f34fb800800000000000000
+      internalID: 630297194483183361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_104
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee8ba79193d6d90800000000000000
+      internalID: -7102958255697498394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1630ec047e7d61700800000000000000
+      internalID: 510832995977790305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226113ac3940b8ca0800000000000000
+      internalID: -6013707844624247262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_107
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320d722f8ea124840800000000000000
+      internalID: 5206753706991144995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e29b03633b4f690800000000000000
+      internalID: -7569228028375912841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b595badaad0f3c10800000000000000
+      internalID: 2035360584059688372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_110
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 212
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89bb8010d2c19990800000000000000
+      internalID: -7380904115396953717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_111
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de9d3c2e2c689d0800000000000000
+      internalID: -2772314241395725020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_112
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10faca43eaf2320800000000000000
+      internalID: 2535436656491561428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f9c796096ff0600800000000000000
+      internalID: 436838788983725847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_114
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20109679df8854070800000000000000
+      internalID: 8090022928389308674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_115
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 208
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb08e2493be5c8e0800000000000000
+      internalID: -1673673055330104386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_116
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c04c617ee215a00800000000000000
+      internalID: 743426983547112523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 212
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c03c9279c6eaa300800000000000000
+      internalID: 264277281040249029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_118
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c37d4e4b102df4a0800000000000000
+      internalID: -6558050180731669568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_119
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f9dd069d77d590800000000000000
+      internalID: -7649507358634542810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_120
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ea621e0d75a140800000000000000
+      internalID: 4730324483014583620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_121
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a1a176f1265d890800000000000000
+      internalID: -7433927722891863485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_122
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 208
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d908c913a6e9af00800000000000000
+      internalID: 1128686769819617752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_123
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0334931326ccbcd00800000000000000
+      internalID: 994112864870023984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 212
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d534db5dda37a40800000000000000
+      internalID: 5364822714643340622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08d740b5a1891ed0800000000000000
+      internalID: -2442778774244698102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_126
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 211
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c608da90e13c60ad0800000000000000
+      internalID: -2736285189802196884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baa3eb56437cde50800000000000000
+      internalID: 6835465080468122292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880123776537b8f90800000000000000
+      internalID: -6950334784712077176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d59725ffb90c3820800000000000000
+      internalID: 2899202980176172499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_130
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ea21a755aa74510800000000000000
+      internalID: 1533381482239929872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_131
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 194
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e085bae59eebd60800000000000000
+      internalID: 7908014588520042120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_132
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 194
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b9320d2c1484fe0800000000000000
+      internalID: -1204640595350152319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a0b315e5e631e80800000000000000
+      internalID: -8209096344397477362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c07a12e150e43a0800000000000000
+      internalID: -6679395570372113283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_135
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b20baefa80ac9c0800000000000000
+      internalID: -3906300175140770926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_136
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 79
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbeb405b274316a0800000000000000
+      internalID: -6479757187499693108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_137
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 79
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eacf31c18677170800000000000000
+      internalID: 8176118118318124692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_138
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 111
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791257bd121cae310800000000000000
+      internalID: 1435171782430892439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_139
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 111
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb9eb856e0f4530800000000000000
+      internalID: 3841304836472160237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_140
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 79
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb146517c742c750800000000000000
+      internalID: 6323695747164543945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_141
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100988a8456f2580800000000000000
+      internalID: -8849743380020133863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_142
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3734b9dcfcf08a650800000000000000
+      internalID: 6244258268531344243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_143
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b6354329146060800000000000000
+      internalID: 6945704164587911466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_City_Terrains_16x16 2_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbbd6c30a4f2dd00800000000000000
+      internalID: 996127436648070091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2_City_Terrains_16x16 2_0: -3939497124710842699
+      2_City_Terrains_16x16 2_1: 550860955166768536
+      2_City_Terrains_16x16 2_10: 2894759438106335709
+      2_City_Terrains_16x16 2_100: -4962359656710158627
+      2_City_Terrains_16x16 2_101: -6050665328091636741
+      2_City_Terrains_16x16 2_102: 4061491374148020361
+      2_City_Terrains_16x16 2_103: 630297194483183361
+      2_City_Terrains_16x16 2_104: -7102958255697498394
+      2_City_Terrains_16x16 2_105: 510832995977790305
+      2_City_Terrains_16x16 2_106: -6013707844624247262
+      2_City_Terrains_16x16 2_107: 5206753706991144995
+      2_City_Terrains_16x16 2_108: -7569228028375912841
+      2_City_Terrains_16x16 2_109: 2035360584059688372
+      2_City_Terrains_16x16 2_11: -7451829151958941319
+      2_City_Terrains_16x16 2_110: -7380904115396953717
+      2_City_Terrains_16x16 2_111: -2772314241395725020
+      2_City_Terrains_16x16 2_112: 2535436656491561428
+      2_City_Terrains_16x16 2_113: 436838788983725847
+      2_City_Terrains_16x16 2_114: 8090022928389308674
+      2_City_Terrains_16x16 2_115: -1673673055330104386
+      2_City_Terrains_16x16 2_116: 743426983547112523
+      2_City_Terrains_16x16 2_117: 264277281040249029
+      2_City_Terrains_16x16 2_118: -6558050180731669568
+      2_City_Terrains_16x16 2_119: -7649507358634542810
+      2_City_Terrains_16x16 2_12: 4419008113669309537
+      2_City_Terrains_16x16 2_120: 4730324483014583620
+      2_City_Terrains_16x16 2_121: -7433927722891863485
+      2_City_Terrains_16x16 2_122: 1128686769819617752
+      2_City_Terrains_16x16 2_123: 994112864870023984
+      2_City_Terrains_16x16 2_124: 5364822714643340622
+      2_City_Terrains_16x16 2_125: -2442778774244698102
+      2_City_Terrains_16x16 2_126: -2736285189802196884
+      2_City_Terrains_16x16 2_127: 6835465080468122292
+      2_City_Terrains_16x16 2_128: -6950334784712077176
+      2_City_Terrains_16x16 2_129: 2899202980176172499
+      2_City_Terrains_16x16 2_13: -35559503099654885
+      2_City_Terrains_16x16 2_130: 1533381482239929872
+      2_City_Terrains_16x16 2_131: 7908014588520042120
+      2_City_Terrains_16x16 2_132: -1204640595350152319
+      2_City_Terrains_16x16 2_133: -8209096344397477362
+      2_City_Terrains_16x16 2_134: -6679395570372113283
+      2_City_Terrains_16x16 2_135: -3906300175140770926
+      2_City_Terrains_16x16 2_136: -6479757187499693108
+      2_City_Terrains_16x16 2_137: 8176118118318124692
+      2_City_Terrains_16x16 2_138: 1435171782430892439
+      2_City_Terrains_16x16 2_139: 3841304836472160237
+      2_City_Terrains_16x16 2_14: 1006229227910214992
+      2_City_Terrains_16x16 2_140: 6323695747164543945
+      2_City_Terrains_16x16 2_141: -8849743380020133863
+      2_City_Terrains_16x16 2_142: 6244258268531344243
+      2_City_Terrains_16x16 2_143: 6945704164587911466
+      2_City_Terrains_16x16 2_144: 996127436648070091
+      2_City_Terrains_16x16 2_15: -871463677263289969
+      2_City_Terrains_16x16 2_16: 1194342682931020700
+      2_City_Terrains_16x16 2_17: 4397854530719907044
+      2_City_Terrains_16x16 2_18: 7872958389448450371
+      2_City_Terrains_16x16 2_19: -9113786938630459471
+      2_City_Terrains_16x16 2_2: -7619635006286420166
+      2_City_Terrains_16x16 2_20: -4085107691045911346
+      2_City_Terrains_16x16 2_21: 5839339151601260903
+      2_City_Terrains_16x16 2_22: 3999978284414116176
+      2_City_Terrains_16x16 2_23: 9147508224700814421
+      2_City_Terrains_16x16 2_24: -106897918837798282
+      2_City_Terrains_16x16 2_25: -1144467029422283282
+      2_City_Terrains_16x16 2_26: -931919531262769183
+      2_City_Terrains_16x16 2_27: -5854908885575109556
+      2_City_Terrains_16x16 2_28: -5565117924403233371
+      2_City_Terrains_16x16 2_29: -3862753822125980622
+      2_City_Terrains_16x16 2_3: 2885480235939477074
+      2_City_Terrains_16x16 2_30: 3573392636891081441
+      2_City_Terrains_16x16 2_31: 2134073683746782113
+      2_City_Terrains_16x16 2_32: 6572699661653506657
+      2_City_Terrains_16x16 2_33: -5040443924186060663
+      2_City_Terrains_16x16 2_34: 2069069632320079874
+      2_City_Terrains_16x16 2_35: -6000461563281984415
+      2_City_Terrains_16x16 2_36: 1421956886915796
+      2_City_Terrains_16x16 2_37: -7801456580217605588
+      2_City_Terrains_16x16 2_38: 4443565202283280457
+      2_City_Terrains_16x16 2_39: 1084758070080064548
+      2_City_Terrains_16x16 2_4: 1469684878533122654
+      2_City_Terrains_16x16 2_40: -4347391796448698004
+      2_City_Terrains_16x16 2_41: 3555970597538039191
+      2_City_Terrains_16x16 2_42: -7324647878819070886
+      2_City_Terrains_16x16 2_43: 27172624903884885
+      2_City_Terrains_16x16 2_44: -1734155979058393231
+      2_City_Terrains_16x16 2_45: -2924896656645669660
+      2_City_Terrains_16x16 2_46: -8491472266227535762
+      2_City_Terrains_16x16 2_47: 4883664812932208305
+      2_City_Terrains_16x16 2_48: -8991466115531970503
+      2_City_Terrains_16x16 2_49: -8666308104636048087
+      2_City_Terrains_16x16 2_5: 4084440947639429815
+      2_City_Terrains_16x16 2_50: -2166500159127044508
+      2_City_Terrains_16x16 2_51: 993780382111525557
+      2_City_Terrains_16x16 2_52: -2927265925818845499
+      2_City_Terrains_16x16 2_53: -4628836890445037326
+      2_City_Terrains_16x16 2_54: -1604506992135417896
+      2_City_Terrains_16x16 2_55: 4764905183702860906
+      2_City_Terrains_16x16 2_56: -2736320041776905329
+      2_City_Terrains_16x16 2_57: 1046402180223645721
+      2_City_Terrains_16x16 2_58: -16407190111528848
+      2_City_Terrains_16x16 2_59: -2634091407709801666
+      2_City_Terrains_16x16 2_6: 449432845296337426
+      2_City_Terrains_16x16 2_60: 1462636113128180299
+      2_City_Terrains_16x16 2_61: 5499970594083510349
+      2_City_Terrains_16x16 2_62: -8192933269976919405
+      2_City_Terrains_16x16 2_63: -4893618313488401300
+      2_City_Terrains_16x16 2_64: -6508544792957404421
+      2_City_Terrains_16x16 2_65: 7455567239309119
+      2_City_Terrains_16x16 2_66: -4685146464167799990
+      2_City_Terrains_16x16 2_67: -5281696764396143144
+      2_City_Terrains_16x16 2_68: -7975854795394302042
+      2_City_Terrains_16x16 2_69: 5594046494594223157
+      2_City_Terrains_16x16 2_7: 6990594959542567139
+      2_City_Terrains_16x16 2_70: -9088940301838584656
+      2_City_Terrains_16x16 2_71: 3413710223206265417
+      2_City_Terrains_16x16 2_72: 4447207150372970028
+      2_City_Terrains_16x16 2_73: 1227964543544216705
+      2_City_Terrains_16x16 2_74: 7984448327716100306
+      2_City_Terrains_16x16 2_75: -2419837510962518218
+      2_City_Terrains_16x16 2_76: 8046142357770892052
+      2_City_Terrains_16x16 2_77: -511932822372688424
+      2_City_Terrains_16x16 2_78: 8243135185963441378
+      2_City_Terrains_16x16 2_79: -5799987167983056974
+      2_City_Terrains_16x16 2_8: 5216839586807810521
+      2_City_Terrains_16x16 2_80: -8550413268766518821
+      2_City_Terrains_16x16 2_81: 5163731361990182602
+      2_City_Terrains_16x16 2_82: -2980377416245366881
+      2_City_Terrains_16x16 2_83: 1922178712994640928
+      2_City_Terrains_16x16 2_84: 8455618486789816601
+      2_City_Terrains_16x16 2_85: -2032217521792065467
+      2_City_Terrains_16x16 2_86: 2811152106622070069
+      2_City_Terrains_16x16 2_87: 7994711447136771613
+      2_City_Terrains_16x16 2_88: -6420434014932993837
+      2_City_Terrains_16x16 2_89: 3723347105363847734
+      2_City_Terrains_16x16 2_9: -7659008900817922771
+      2_City_Terrains_16x16 2_90: -6936937005424190534
+      2_City_Terrains_16x16 2_91: 2755401258065382903
+      2_City_Terrains_16x16 2_92: 3179626850817922427
+      2_City_Terrains_16x16 2_93: 4382103333349186827
+      2_City_Terrains_16x16 2_94: -4405701131398820982
+      2_City_Terrains_16x16 2_95: 7644122557153301209
+      2_City_Terrains_16x16 2_96: 5331419746099266618
+      2_City_Terrains_16x16 2_97: -3693487688015343206
+      2_City_Terrains_16x16 2_98: -4005725803987540408
+      2_City_Terrains_16x16 2_99: -5710973361392066098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

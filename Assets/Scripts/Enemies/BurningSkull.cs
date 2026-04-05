@@ -5,6 +5,7 @@ public class BurningSkull : Enemy
     [Header("BurningSkull Settings")]
     [SerializeField] private GameObject firePrefab; // Drag the Fire prefab here in the Inspector
     [SerializeField] private float fireCooldown = 2f;
+    [SerializeField] private float fireRange = 6f;
     
     private float fireTimer = 0f;
 
@@ -23,6 +24,13 @@ public class BurningSkull : Enemy
     protected override void HandleAI()
     {
         if (target == null) return;
+
+        float distanceToPlayer = Vector2.Distance(transform.position, target.position);
+        if (distanceToPlayer > fireRange)
+        {
+            fireTimer = 0f;
+            return;
+        }
 
         fireTimer += Time.deltaTime;
 

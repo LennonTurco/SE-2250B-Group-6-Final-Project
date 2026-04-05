@@ -1,0 +1,7436 @@
+fileFormatVersion: 2
+guid: 0ee5a4920419146e19d95f69577fd778
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3808341299934592776
+    second: 21_Beach_16x16 2_0
+  - first:
+      213: -5920767013119692877
+    second: 21_Beach_16x16 2_1
+  - first:
+      213: -7861103750900786416
+    second: 21_Beach_16x16 2_2
+  - first:
+      213: 2032796669199787055
+    second: 21_Beach_16x16 2_3
+  - first:
+      213: -9101135211230844500
+    second: 21_Beach_16x16 2_4
+  - first:
+      213: -2440882334775617199
+    second: 21_Beach_16x16 2_5
+  - first:
+      213: -1949326060981013531
+    second: 21_Beach_16x16 2_6
+  - first:
+      213: 6176687864385877546
+    second: 21_Beach_16x16 2_7
+  - first:
+      213: 287292205240181566
+    second: 21_Beach_16x16 2_8
+  - first:
+      213: -1167948078767835284
+    second: 21_Beach_16x16 2_9
+  - first:
+      213: 3602190190510148222
+    second: 21_Beach_16x16 2_10
+  - first:
+      213: -5871570406878618609
+    second: 21_Beach_16x16 2_11
+  - first:
+      213: 8091368289672227415
+    second: 21_Beach_16x16 2_12
+  - first:
+      213: -4997053075050164584
+    second: 21_Beach_16x16 2_13
+  - first:
+      213: 1226807081218615456
+    second: 21_Beach_16x16 2_14
+  - first:
+      213: -237148377068286250
+    second: 21_Beach_16x16 2_15
+  - first:
+      213: 558683419987032642
+    second: 21_Beach_16x16 2_16
+  - first:
+      213: 3053785359234049852
+    second: 21_Beach_16x16 2_17
+  - first:
+      213: -4573667203012813770
+    second: 21_Beach_16x16 2_18
+  - first:
+      213: -3721110885411812745
+    second: 21_Beach_16x16 2_19
+  - first:
+      213: -8208140863579735866
+    second: 21_Beach_16x16 2_20
+  - first:
+      213: -1476199488905738598
+    second: 21_Beach_16x16 2_21
+  - first:
+      213: -4113914686442031676
+    second: 21_Beach_16x16 2_22
+  - first:
+      213: 1830642222694110648
+    second: 21_Beach_16x16 2_23
+  - first:
+      213: 8915528163775417065
+    second: 21_Beach_16x16 2_24
+  - first:
+      213: 3943881041832862408
+    second: 21_Beach_16x16 2_25
+  - first:
+      213: -8159490101180855763
+    second: 21_Beach_16x16 2_26
+  - first:
+      213: 1976497809898636984
+    second: 21_Beach_16x16 2_27
+  - first:
+      213: 602374772561825797
+    second: 21_Beach_16x16 2_28
+  - first:
+      213: -5545880421590932648
+    second: 21_Beach_16x16 2_29
+  - first:
+      213: -8984251014163024036
+    second: 21_Beach_16x16 2_30
+  - first:
+      213: -4682378173421412882
+    second: 21_Beach_16x16 2_31
+  - first:
+      213: -9137646737064006750
+    second: 21_Beach_16x16 2_32
+  - first:
+      213: 3192840344028137591
+    second: 21_Beach_16x16 2_33
+  - first:
+      213: -4511140400106424130
+    second: 21_Beach_16x16 2_34
+  - first:
+      213: 8060221573547790028
+    second: 21_Beach_16x16 2_35
+  - first:
+      213: 2673897649203095433
+    second: 21_Beach_16x16 2_36
+  - first:
+      213: -5936787297137058194
+    second: 21_Beach_16x16 2_37
+  - first:
+      213: 2910226999405038111
+    second: 21_Beach_16x16 2_38
+  - first:
+      213: -4099714046015211363
+    second: 21_Beach_16x16 2_39
+  - first:
+      213: 768959956879232487
+    second: 21_Beach_16x16 2_40
+  - first:
+      213: -7457049883582563048
+    second: 21_Beach_16x16 2_41
+  - first:
+      213: 3520588813594149821
+    second: 21_Beach_16x16 2_42
+  - first:
+      213: 286452717659063513
+    second: 21_Beach_16x16 2_43
+  - first:
+      213: 4253861620737071151
+    second: 21_Beach_16x16 2_44
+  - first:
+      213: -5221670845657389809
+    second: 21_Beach_16x16 2_45
+  - first:
+      213: -8673553957545922507
+    second: 21_Beach_16x16 2_46
+  - first:
+      213: -1465289474494899375
+    second: 21_Beach_16x16 2_47
+  - first:
+      213: -8338778254580435745
+    second: 21_Beach_16x16 2_48
+  - first:
+      213: 4449265511069265195
+    second: 21_Beach_16x16 2_49
+  - first:
+      213: 970446312874679756
+    second: 21_Beach_16x16 2_50
+  - first:
+      213: -7074044870900927423
+    second: 21_Beach_16x16 2_51
+  - first:
+      213: 286078261240983759
+    second: 21_Beach_16x16 2_52
+  - first:
+      213: -481239053755610931
+    second: 21_Beach_16x16 2_53
+  - first:
+      213: -5101282590499444945
+    second: 21_Beach_16x16 2_54
+  - first:
+      213: 7568111595418134488
+    second: 21_Beach_16x16 2_55
+  - first:
+      213: -4699159903683986942
+    second: 21_Beach_16x16 2_56
+  - first:
+      213: 2187313668410849787
+    second: 21_Beach_16x16 2_57
+  - first:
+      213: 6684429695577728297
+    second: 21_Beach_16x16 2_58
+  - first:
+      213: -6815018486604105737
+    second: 21_Beach_16x16 2_59
+  - first:
+      213: -8941385774426911092
+    second: 21_Beach_16x16 2_60
+  - first:
+      213: 442920934390719970
+    second: 21_Beach_16x16 2_61
+  - first:
+      213: -1770783024255055372
+    second: 21_Beach_16x16 2_62
+  - first:
+      213: -1366373837660459693
+    second: 21_Beach_16x16 2_63
+  - first:
+      213: -1258001358172808365
+    second: 21_Beach_16x16 2_64
+  - first:
+      213: 5713357679477400015
+    second: 21_Beach_16x16 2_65
+  - first:
+      213: -8688326363877097876
+    second: 21_Beach_16x16 2_66
+  - first:
+      213: 6289934609006720026
+    second: 21_Beach_16x16 2_67
+  - first:
+      213: -7647784278607819245
+    second: 21_Beach_16x16 2_68
+  - first:
+      213: 1509106045286332330
+    second: 21_Beach_16x16 2_69
+  - first:
+      213: 9194011308838841747
+    second: 21_Beach_16x16 2_70
+  - first:
+      213: 6646038323081091674
+    second: 21_Beach_16x16 2_71
+  - first:
+      213: 555207002456217103
+    second: 21_Beach_16x16 2_72
+  - first:
+      213: 6659571144251115923
+    second: 21_Beach_16x16 2_73
+  - first:
+      213: -289292571705879467
+    second: 21_Beach_16x16 2_74
+  - first:
+      213: 2494322152423580113
+    second: 21_Beach_16x16 2_75
+  - first:
+      213: -3715135274466717136
+    second: 21_Beach_16x16 2_76
+  - first:
+      213: -635864815287660703
+    second: 21_Beach_16x16 2_77
+  - first:
+      213: 4853611891334874439
+    second: 21_Beach_16x16 2_78
+  - first:
+      213: -4372434017120480098
+    second: 21_Beach_16x16 2_79
+  - first:
+      213: 929840186920491284
+    second: 21_Beach_16x16 2_80
+  - first:
+      213: -3575918576504077714
+    second: 21_Beach_16x16 2_81
+  - first:
+      213: -388224640679000757
+    second: 21_Beach_16x16 2_82
+  - first:
+      213: 150764251254646652
+    second: 21_Beach_16x16 2_83
+  - first:
+      213: -607523077689649757
+    second: 21_Beach_16x16 2_84
+  - first:
+      213: 8147690542939219419
+    second: 21_Beach_16x16 2_85
+  - first:
+      213: -5353858354051172701
+    second: 21_Beach_16x16 2_86
+  - first:
+      213: -6290882073529172329
+    second: 21_Beach_16x16 2_87
+  - first:
+      213: -3753710031084474567
+    second: 21_Beach_16x16 2_88
+  - first:
+      213: 1273698955313974216
+    second: 21_Beach_16x16 2_89
+  - first:
+      213: 6248244307207332205
+    second: 21_Beach_16x16 2_90
+  - first:
+      213: -8758106200682968611
+    second: 21_Beach_16x16 2_91
+  - first:
+      213: -3885694112554508640
+    second: 21_Beach_16x16 2_92
+  - first:
+      213: 4427605020685820772
+    second: 21_Beach_16x16 2_93
+  - first:
+      213: -331576272737316068
+    second: 21_Beach_16x16 2_94
+  - first:
+      213: -7846441147107669745
+    second: 21_Beach_16x16 2_95
+  - first:
+      213: 7958956559001757142
+    second: 21_Beach_16x16 2_96
+  - first:
+      213: 3918881474427972056
+    second: 21_Beach_16x16 2_97
+  - first:
+      213: -574682706784467162
+    second: 21_Beach_16x16 2_98
+  - first:
+      213: 7987046720853206157
+    second: 21_Beach_16x16 2_99
+  - first:
+      213: -7830819042368745534
+    second: 21_Beach_16x16 2_100
+  - first:
+      213: -1851127750937424228
+    second: 21_Beach_16x16 2_101
+  - first:
+      213: 1691739898874195443
+    second: 21_Beach_16x16 2_102
+  - first:
+      213: 7976426604426773747
+    second: 21_Beach_16x16 2_103
+  - first:
+      213: 1748741236490525161
+    second: 21_Beach_16x16 2_104
+  - first:
+      213: -5130781520277111636
+    second: 21_Beach_16x16 2_105
+  - first:
+      213: 2514712528204051125
+    second: 21_Beach_16x16 2_106
+  - first:
+      213: -1126761193334168937
+    second: 21_Beach_16x16 2_107
+  - first:
+      213: -7339902541918083961
+    second: 21_Beach_16x16 2_108
+  - first:
+      213: -6809585086452720011
+    second: 21_Beach_16x16 2_109
+  - first:
+      213: 7867918714825094555
+    second: 21_Beach_16x16 2_110
+  - first:
+      213: 8836439031177309941
+    second: 21_Beach_16x16 2_111
+  - first:
+      213: 3932167198319106175
+    second: 21_Beach_16x16 2_112
+  - first:
+      213: -5682224027722552781
+    second: 21_Beach_16x16 2_113
+  - first:
+      213: -7518463076050409245
+    second: 21_Beach_16x16 2_114
+  - first:
+      213: -1237765703056016787
+    second: 21_Beach_16x16 2_115
+  - first:
+      213: 614744067678200351
+    second: 21_Beach_16x16 2_116
+  - first:
+      213: 629509149883050963
+    second: 21_Beach_16x16 2_117
+  - first:
+      213: 3058420778498997087
+    second: 21_Beach_16x16 2_118
+  - first:
+      213: -766391475310022550
+    second: 21_Beach_16x16 2_119
+  - first:
+      213: -2573987704821559310
+    second: 21_Beach_16x16 2_120
+  - first:
+      213: -2054561782384042645
+    second: 21_Beach_16x16 2_121
+  - first:
+      213: 7730831846376618862
+    second: 21_Beach_16x16 2_122
+  - first:
+      213: -8775308411285324152
+    second: 21_Beach_16x16 2_123
+  - first:
+      213: -4784557271253831490
+    second: 21_Beach_16x16 2_124
+  - first:
+      213: -366430323783657583
+    second: 21_Beach_16x16 2_125
+  - first:
+      213: -4511878704370936871
+    second: 21_Beach_16x16 2_126
+  - first:
+      213: 6249019441108179816
+    second: 21_Beach_16x16 2_127
+  - first:
+      213: -5781816124599185729
+    second: 21_Beach_16x16 2_128
+  - first:
+      213: 5190433808755364466
+    second: 21_Beach_16x16 2_129
+  - first:
+      213: -6732634419144468429
+    second: 21_Beach_16x16 2_130
+  - first:
+      213: 7123904621852667375
+    second: 21_Beach_16x16 2_131
+  - first:
+      213: -313463354956299931
+    second: 21_Beach_16x16 2_132
+  - first:
+      213: 4286499539709731206
+    second: 21_Beach_16x16 2_133
+  - first:
+      213: -3669667612055289463
+    second: 21_Beach_16x16 2_134
+  - first:
+      213: -4236202921827677470
+    second: 21_Beach_16x16 2_135
+  - first:
+      213: -5359222991990612181
+    second: 21_Beach_16x16 2_136
+  - first:
+      213: -22180284075383427
+    second: 21_Beach_16x16 2_137
+  - first:
+      213: 7731577904837232575
+    second: 21_Beach_16x16 2_138
+  - first:
+      213: 6454773451154343341
+    second: 21_Beach_16x16 2_139
+  - first:
+      213: 2509460755016080351
+    second: 21_Beach_16x16 2_140
+  - first:
+      213: -2522935146549851940
+    second: 21_Beach_16x16 2_141
+  - first:
+      213: 3591171300184365167
+    second: 21_Beach_16x16 2_142
+  - first:
+      213: 445648769433776343
+    second: 21_Beach_16x16 2_143
+  - first:
+      213: 4912539117327573297
+    second: 21_Beach_16x16 2_144
+  - first:
+      213: 281371480289774552
+    second: 21_Beach_16x16 2_145
+  - first:
+      213: -5275997304329527680
+    second: 21_Beach_16x16 2_146
+  - first:
+      213: -8956729216973779653
+    second: 21_Beach_16x16 2_147
+  - first:
+      213: 2764836428410888572
+    second: 21_Beach_16x16 2_148
+  - first:
+      213: 6747150337595926617
+    second: 21_Beach_16x16 2_149
+  - first:
+      213: -7328384776500457696
+    second: 21_Beach_16x16 2_150
+  - first:
+      213: 61353135929317079
+    second: 21_Beach_16x16 2_151
+  - first:
+      213: -3260847026355182191
+    second: 21_Beach_16x16 2_152
+  - first:
+      213: 6171458622074277545
+    second: 21_Beach_16x16 2_153
+  - first:
+      213: -31046402168639903
+    second: 21_Beach_16x16 2_154
+  - first:
+      213: 7915228968566628600
+    second: 21_Beach_16x16 2_155
+  - first:
+      213: 6596657504323003619
+    second: 21_Beach_16x16 2_156
+  - first:
+      213: 3749736915217631866
+    second: 21_Beach_16x16 2_157
+  - first:
+      213: 683327012442716997
+    second: 21_Beach_16x16 2_158
+  - first:
+      213: -7922148917920396228
+    second: 21_Beach_16x16 2_159
+  - first:
+      213: -8115359670514815094
+    second: 21_Beach_16x16 2_160
+  - first:
+      213: -5420148232550074884
+    second: 21_Beach_16x16 2_161
+  - first:
+      213: -1235614243425764438
+    second: 21_Beach_16x16 2_162
+  - first:
+      213: -8032163505054851073
+    second: 21_Beach_16x16 2_163
+  - first:
+      213: -1524760002102164127
+    second: 21_Beach_16x16 2_164
+  - first:
+      213: -880225103516732627
+    second: 21_Beach_16x16 2_165
+  - first:
+      213: -5285281451527073532
+    second: 21_Beach_16x16 2_166
+  - first:
+      213: 6608702001812509330
+    second: 21_Beach_16x16 2_167
+  - first:
+      213: 3951666208079571337
+    second: 21_Beach_16x16 2_168
+  - first:
+      213: -6912332007452071941
+    second: 21_Beach_16x16 2_169
+  - first:
+      213: 1043934110163900580
+    second: 21_Beach_16x16 2_170
+  - first:
+      213: 8405037878547703778
+    second: 21_Beach_16x16 2_171
+  - first:
+      213: -5987957939872944342
+    second: 21_Beach_16x16 2_172
+  - first:
+      213: 3028049809011940132
+    second: 21_Beach_16x16 2_173
+  - first:
+      213: -502576654319601873
+    second: 21_Beach_16x16 2_174
+  - first:
+      213: -1013260433959980656
+    second: 21_Beach_16x16 2_175
+  - first:
+      213: -545372000136439268
+    second: 21_Beach_16x16 2_176
+  - first:
+      213: -8513738853326622625
+    second: 21_Beach_16x16 2_177
+  - first:
+      213: 1117731916515819571
+    second: 21_Beach_16x16 2_178
+  - first:
+      213: 5707791260669080313
+    second: 21_Beach_16x16 2_179
+  - first:
+      213: 8186526961645993037
+    second: 21_Beach_16x16 2_180
+  - first:
+      213: -1194890447761846894
+    second: 21_Beach_16x16 2_181
+  - first:
+      213: -9048247397667912562
+    second: 21_Beach_16x16 2_182
+  - first:
+      213: 45749592851939750
+    second: 21_Beach_16x16 2_183
+  - first:
+      213: -1608192250481425031
+    second: 21_Beach_16x16 2_184
+  - first:
+      213: 3002191130795588974
+    second: 21_Beach_16x16 2_185
+  - first:
+      213: -7894034400912088551
+    second: 21_Beach_16x16 2_186
+  - first:
+      213: 3752130307656252900
+    second: 21_Beach_16x16 2_187
+  - first:
+      213: 3155520359156793746
+    second: 21_Beach_16x16 2_188
+  - first:
+      213: 2358528610313985646
+    second: 21_Beach_16x16 2_189
+  - first:
+      213: -6224230549456162163
+    second: 21_Beach_16x16 2_190
+  - first:
+      213: -8029962039946329268
+    second: 21_Beach_16x16 2_191
+  - first:
+      213: 992578196094395609
+    second: 21_Beach_16x16 2_192
+  - first:
+      213: 3735593302060426136
+    second: 21_Beach_16x16 2_193
+  - first:
+      213: 7275020049426291545
+    second: 21_Beach_16x16 2_194
+  - first:
+      213: 4405663098418348712
+    second: 21_Beach_16x16 2_195
+  - first:
+      213: 3322465825784418174
+    second: 21_Beach_16x16 2_196
+  - first:
+      213: 1578450818227849653
+    second: 21_Beach_16x16 2_197
+  - first:
+      213: 1332453854288643141
+    second: 21_Beach_16x16 2_198
+  - first:
+      213: 8288305048961841771
+    second: 21_Beach_16x16 2_199
+  - first:
+      213: 4246762889877608174
+    second: 21_Beach_16x16 2_200
+  - first:
+      213: 238437590003489936
+    second: 21_Beach_16x16 2_201
+  - first:
+      213: 3304711357867638138
+    second: 21_Beach_16x16 2_202
+  - first:
+      213: -5873457218972086885
+    second: 21_Beach_16x16 2_203
+  - first:
+      213: 5387523095973857967
+    second: 21_Beach_16x16 2_204
+  - first:
+      213: -8818435587160860498
+    second: 21_Beach_16x16 2_205
+  - first:
+      213: 1084663225994744791
+    second: 21_Beach_16x16 2_206
+  - first:
+      213: -1487071025174930718
+    second: 21_Beach_16x16 2_207
+  - first:
+      213: 6749896292409132845
+    second: 21_Beach_16x16 2_208
+  - first:
+      213: 1701279717046603553
+    second: 21_Beach_16x16 2_209
+  - first:
+      213: -957340409644619698
+    second: 21_Beach_16x16 2_210
+  - first:
+      213: -6007408005699939467
+    second: 21_Beach_16x16 2_211
+  - first:
+      213: 7125870400712388755
+    second: 21_Beach_16x16 2_212
+  - first:
+      213: 6689577506016726528
+    second: 21_Beach_16x16 2_213
+  - first:
+      213: 5332234144949883617
+    second: 21_Beach_16x16 2_214
+  - first:
+      213: -5326505869232938563
+    second: 21_Beach_16x16 2_215
+  - first:
+      213: -1303641528879126011
+    second: 21_Beach_16x16 2_216
+  - first:
+      213: 1834476558369048202
+    second: 21_Beach_16x16 2_217
+  - first:
+      213: 625513794979587061
+    second: 21_Beach_16x16 2_218
+  - first:
+      213: 7454730639934486674
+    second: 21_Beach_16x16 2_219
+  - first:
+      213: 3842246661004207473
+    second: 21_Beach_16x16 2_220
+  - first:
+      213: -5468406509477555259
+    second: 21_Beach_16x16 2_221
+  - first:
+      213: -5899935698936436133
+    second: 21_Beach_16x16 2_222
+  - first:
+      213: 941582483130628353
+    second: 21_Beach_16x16 2_223
+  - first:
+      213: -4537407173346774845
+    second: 21_Beach_16x16 2_224
+  - first:
+      213: 2180284350045275191
+    second: 21_Beach_16x16 2_225
+  - first:
+      213: 7048969627746208417
+    second: 21_Beach_16x16 2_226
+  - first:
+      213: -6725367386714215512
+    second: 21_Beach_16x16 2_227
+  - first:
+      213: -1136905852873486974
+    second: 21_Beach_16x16 2_228
+  - first:
+      213: 7564845594719270799
+    second: 21_Beach_16x16 2_229
+  - first:
+      213: 3410883584813526773
+    second: 21_Beach_16x16 2_230
+  - first:
+      213: -7553021654151545400
+    second: 21_Beach_16x16 2_231
+  - first:
+      213: 6576559348481247222
+    second: 21_Beach_16x16 2_232
+  - first:
+      213: -6872338979756475586
+    second: 21_Beach_16x16 2_233
+  - first:
+      213: -8550263633617865233
+    second: 21_Beach_16x16 2_234
+  - first:
+      213: 3704480627912419639
+    second: 21_Beach_16x16 2_235
+  - first:
+      213: -6895721880838025785
+    second: 21_Beach_16x16 2_236
+  - first:
+      213: 7989279037397793546
+    second: 21_Beach_16x16 2_237
+  - first:
+      213: 3475762745542114529
+    second: 21_Beach_16x16 2_238
+  - first:
+      213: -320659349919877633
+    second: 21_Beach_16x16 2_239
+  - first:
+      213: 6411985842961400692
+    second: 21_Beach_16x16 2_240
+  - first:
+      213: -5186804998808196931
+    second: 21_Beach_16x16 2_241
+  - first:
+      213: 1224845020324814736
+    second: 21_Beach_16x16 2_242
+  - first:
+      213: 3290747818259992943
+    second: 21_Beach_16x16 2_243
+  - first:
+      213: 3543597682538150323
+    second: 21_Beach_16x16 2_244
+  - first:
+      213: -7251702328306857847
+    second: 21_Beach_16x16 2_245
+  - first:
+      213: 40430406849034732
+    second: 21_Beach_16x16 2_246
+  - first:
+      213: 8369398170489384055
+    second: 21_Beach_16x16 2_247
+  - first:
+      213: -7319784103378086486
+    second: 21_Beach_16x16 2_248
+  - first:
+      213: 2904551124995942710
+    second: 21_Beach_16x16 2_249
+  - first:
+      213: 7701663396585446373
+    second: 21_Beach_16x16 2_250
+  - first:
+      213: -2712587305707540649
+    second: 21_Beach_16x16 2_251
+  - first:
+      213: 6431898756005669416
+    second: 21_Beach_16x16 2_252
+  - first:
+      213: -1779874932032180803
+    second: 21_Beach_16x16 2_253
+  - first:
+      213: -3680698162979260456
+    second: 21_Beach_16x16 2_254
+  - first:
+      213: 1027219246034152638
+    second: 21_Beach_16x16 2_255
+  - first:
+      213: -830144398136069853
+    second: 21_Beach_16x16 2_256
+  - first:
+      213: -6426218764948670804
+    second: 21_Beach_16x16 2_257
+  - first:
+      213: -1070005245857243551
+    second: 21_Beach_16x16 2_258
+  - first:
+      213: 4002647984028227174
+    second: 21_Beach_16x16 2_259
+  - first:
+      213: 2423867873030221078
+    second: 21_Beach_16x16 2_260
+  - first:
+      213: -7585769548522672213
+    second: 21_Beach_16x16 2_261
+  - first:
+      213: 6030728047960138488
+    second: 21_Beach_16x16 2_262
+  - first:
+      213: -3308432501706890583
+    second: 21_Beach_16x16 2_263
+  - first:
+      213: 3669389797418639367
+    second: 21_Beach_16x16 2_264
+  - first:
+      213: 6392202445934727957
+    second: 21_Beach_16x16 2_265
+  - first:
+      213: 4262896229200382256
+    second: 21_Beach_16x16 2_266
+  - first:
+      213: -7357049328424886687
+    second: 21_Beach_16x16 2_267
+  - first:
+      213: 1840850163315684618
+    second: 21_Beach_16x16 2_268
+  - first:
+      213: -3547702099987059397
+    second: 21_Beach_16x16 2_269
+  - first:
+      213: -6394092311515481709
+    second: 21_Beach_16x16 2_270
+  - first:
+      213: 3090383281076226907
+    second: 21_Beach_16x16 2_271
+  - first:
+      213: 6860016577636688126
+    second: 21_Beach_16x16 2_272
+  - first:
+      213: 7783242810361211464
+    second: 21_Beach_16x16 2_273
+  - first:
+      213: -8422196313876780678
+    second: 21_Beach_16x16 2_274
+  - first:
+      213: 2194083346943656066
+    second: 21_Beach_16x16 2_275
+  - first:
+      213: 4631152388920269998
+    second: 21_Beach_16x16 2_276
+  - first:
+      213: -99503165539128805
+    second: 21_Beach_16x16 2_277
+  - first:
+      213: -3721699818545478333
+    second: 21_Beach_16x16 2_278
+  - first:
+      213: -5928373955143647504
+    second: 21_Beach_16x16 2_279
+  - first:
+      213: -3895707434332168350
+    second: 21_Beach_16x16 2_280
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1919
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f003f1e3cd062bc0800000000000000
+      internalID: -3808341299934592776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1919
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf662965c535dda0800000000000000
+      internalID: -5920767013119692877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1967
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b5119d9cfb7e290800000000000000
+      internalID: -7861103750900786416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1968
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242048ecc1f53c10800000000000000
+      internalID: 2032796669199787055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1967
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca929c9ceb542b180800000000000000
+      internalID: -9101135211230844500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1968
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595c29e27e302ed0800000000000000
+      internalID: -2440882334775617199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1974
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3b0d7864a92f4e0800000000000000
+      internalID: -1949326060981013531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1974
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26bf2d13e008b550800000000000000
+      internalID: 6176687864385877546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1984
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3364101dbaacf300800000000000000
+      internalID: 287292205240181566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1968
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6771f0196d9acfe0800000000000000
+      internalID: -1167948078767835284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1984
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a01ce94ec8df130800000000000000
+      internalID: 3602190190510148222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1968
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cdd48e2ddf38ea0800000000000000
+      internalID: -5871570406878618609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1984
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ae5cce6905a4070800000000000000
+      internalID: 8091368289672227415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1968
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e8cd924b6e6aab0800000000000000
+      internalID: -4997053075050164584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1968
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a828fb5a8e760110800000000000000
+      internalID: 1226807081218615456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1984
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec8c9beca75bcf0800000000000000
+      internalID: -237148377068286250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1984
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a3a364c97d0c700800000000000000
+      internalID: 558683419987032642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1967
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372f65ca99316a20800000000000000
+      internalID: 3053785359234049852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1972
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c119349e11780c0800000000000000
+      internalID: -4573667203012813770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1968
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a80317d55fb5cc0800000000000000
+      internalID: -3721110885411812745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1969
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c836f78f53d61e80800000000000000
+      internalID: -8208140863579735866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1951
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a960926d26c738be0800000000000000
+      internalID: -1476199488905738598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1935
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c53c5e936078e6c0800000000000000
+      internalID: -4113914686442031676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1952
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b59382076fb76910800000000000000
+      internalID: 1830642222694110648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1936
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea03d2e0a15abb70800000000000000
+      internalID: 8915528163775417065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1951
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c268d679ea7bb630800000000000000
+      internalID: 3943881041832862408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1935
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8ccadbfaa3ce80800000000000000
+      internalID: -8159490101180855763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1952
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b68852494eed6b10800000000000000
+      internalID: 1976497809898636984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1936
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50054340aa01c5800800000000000000
+      internalID: 602374772561825797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1942
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8536740d3231903b0800000000000000
+      internalID: -5545880421590932648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1942
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57bedf9d47815380800000000000000
+      internalID: -8984251014163024036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1952
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed9c2d0cd9d40fb0800000000000000
+      internalID: -4682378173421412882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_32
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1936
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abea4ab4be803180800000000000000
+      internalID: -9137646737064006750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1952
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7784552606f3f4c20800000000000000
+      internalID: 3192840344028137591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1936
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb83eb705b53561c0800000000000000
+      internalID: -4511140400106424130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1952
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce8146f0d8abdf60800000000000000
+      internalID: 8060221573547790028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_36
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1936
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a08abeb79b1520800000000000000
+      internalID: 2673897649203095433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1935
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e181f586b4c9da0800000000000000
+      internalID: -5936787297137058194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1935
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac9437904336820800000000000000
+      internalID: 2910226999405038111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1935
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98759edbc3ea17c0800000000000000
+      internalID: -4099714046015211363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1921
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4944b105ebaa00800000000000000
+      internalID: 768959956879232487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1922
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d71b8d3ac338890800000000000000
+      internalID: -7457049883582563048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1921
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db34e728fd4abd030800000000000000
+      internalID: 3520588813594149821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1921
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d48301aa3fa9f300800000000000000
+      internalID: 286452717659063513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1910
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2853bb2b90c80b30800000000000000
+      internalID: 4253861620737071151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1910
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e39e0806e887b0800000000000000
+      internalID: -5221670845657389809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1920
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530ba4c41a851a780800000000000000
+      internalID: -8673553957545922507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1920
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bdc938cfe3aabe0800000000000000
+      internalID: -1465289474494899375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1920
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd43bf2bb55b64c80800000000000000
+      internalID: -8338778254580435745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1923
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d2eaab867febd30800000000000000
+      internalID: 4449265511069265195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1906
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd9b78a7c7b77d00800000000000000
+      internalID: 970446312874679756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1906
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144b6c87ba1f3dd90800000000000000
+      internalID: -7074044870900927423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1906
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0fa33b9aa58f300800000000000000
+      internalID: 286078261240983759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1908
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc80adc51ab4259f0800000000000000
+      internalID: -481239053755610931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1908
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27656ef28a9439b0800000000000000
+      internalID: -5101282590499444945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1908
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a9610665570960800000000000000
+      internalID: 7568111595418134488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_56
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1908
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a382ef6fa39ceb0800000000000000
+      internalID: -4699159903683986942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_57
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1904
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf93cf94136ea5e10800000000000000
+      internalID: 2187313668410849787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_58
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1904
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925abfa746dd3cc50800000000000000
+      internalID: 6684429695577728297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1904
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7fd304bc03c61a0800000000000000
+      internalID: -6815018486604105737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e8d8bf201d9e380800000000000000
+      internalID: -8941385774426911092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1840
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e561fd3e32952600800000000000000
+      internalID: 442920934390719970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1792
+        width: 226
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f94cf0b83aec67e0800000000000000
+      internalID: -1770783024255055372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1888
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6cd7eb3aa90de0800000000000000
+      internalID: -1366373837660459693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_64
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1872
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b962f0e6eaa8ee0800000000000000
+      internalID: -1258001358172808365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1888
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12000f98ce94f40800000000000000
+      internalID: 5713357679477400015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_66
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1872
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eb17c643ddc6780800000000000000
+      internalID: -8688326363877097876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1888
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14f74e83365a4750800000000000000
+      internalID: 6289934609006720026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1872
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e83c2e7bc9dd590800000000000000
+      internalID: -7647784278607819245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_69
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1874
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7bfadd3fb61f410800000000000000
+      internalID: 1509106045286332330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1874
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d634cc290b79f70800000000000000
+      internalID: 9194011308838841747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_71
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1874
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a91e284a87b3c50800000000000000
+      internalID: 6646038323081091674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_72
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1793
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06563eb3dd74b700800000000000000
+      internalID: 555207002456217103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1842
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3998789fbac8b6c50800000000000000
+      internalID: 6659571144251115923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_74
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1842
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554df4350f93cfbf0800000000000000
+      internalID: -289292571705879467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_75
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1842
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1689a38cc9d9220800000000000000
+      internalID: 2494322152423580113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1803
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03253e8c620317cc0800000000000000
+      internalID: -3715135274466717136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1791
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f0c97c154fc27f0800000000000000
+      internalID: -635864815287660703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_78
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1810
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74580a4bc4e7b5340800000000000000
+      internalID: 4853611891334874439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_79
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1810
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9413b57d6ef153c0800000000000000
+      internalID: -4372434017120480098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_80
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1810
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419574739b477ec00800000000000000
+      internalID: 929840186920491284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1777
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6201cd2009cf5ec0800000000000000
+      internalID: -3575918576504077714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1777
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4546470fbfbc9af0800000000000000
+      internalID: -388224640679000757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1765
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c776cd8a94f971200800000000000000
+      internalID: 150764251254646652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d479caf4a197f0800000000000000
+      internalID: -607523077689649757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a3b76169621170800000000000000
+      internalID: 8147690542939219419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b505613643b5b0800000000000000
+      internalID: -5353858354051172701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_87
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ebb6ba51c42b8a0800000000000000
+      internalID: -6290882073529172329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fa36f5d9428ebc0800000000000000
+      internalID: -3753710031084474567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb864693761da110800000000000000
+      internalID: 1273698955313974216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_90
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1778
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6123f0c71936b650800000000000000
+      internalID: 6248244307207332205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_91
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1744
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9452b10d4f47680800000000000000
+      internalID: -8758106200682968611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_92
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1744
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae9c5bbacd331ac0800000000000000
+      internalID: -3885694112554508640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1744
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e6bfce43027d30800000000000000
+      internalID: 4427605020685820772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_94
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1727
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135b8ff221066bf0800000000000000
+      internalID: -331576272737316068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_95
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1727
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0983a35957db1390800000000000000
+      internalID: -7846441147107669745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1727
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a01272d4e37e60800000000000000
+      internalID: 7958956559001757142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_97
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1727
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9632810f9a26630800000000000000
+      internalID: 3918881474427972056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1766
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6274d8b7f115608f0800000000000000
+      internalID: -574682706784467162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1764
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8467e8eca0b7de60800000000000000
+      internalID: 7987046720853206157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1762
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf0f370297535390800000000000000
+      internalID: -7830819042368745534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_101
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ec1834e197f46e0800000000000000
+      internalID: -1851127750937424228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_102
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd60cc89744a7710800000000000000
+      internalID: 1691739898874195443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_103
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f445dd5cb5f1be60800000000000000
+      internalID: 7976426604426773747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_104
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9581da3e6c44810800000000000000
+      internalID: 1748741236490525161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7ebf246dcbc8b0800000000000000
+      internalID: -5130781520277111636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_106
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2b3db88bd06e220800000000000000
+      internalID: 2514712528204051125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_107
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1763
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7922f9c1aa0fc50f0800000000000000
+      internalID: -1126761193334168937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1711
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7846cfec68d632a90800000000000000
+      internalID: -7339902541918083961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_109
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1712
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e103e417e7f71a0800000000000000
+      internalID: -6809585086452720011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_110
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1712
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b953cc69266703d60800000000000000
+      internalID: 7867918714825094555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1711
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe68bc3b7651aa70800000000000000
+      internalID: 8836439031177309941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_112
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1711
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78d04dbb3dd19630800000000000000
+      internalID: 3932167198319106175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_113
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1711
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a686d3a5fa421b0800000000000000
+      internalID: -5682224027722552781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_114
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1713
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8ef17baad09a790800000000000000
+      internalID: -7518463076050409245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_115
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1700
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a3f2aa6a292dee0800000000000000
+      internalID: -1237765703056016787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_116
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1713
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ecb5f872088800800000000000000
+      internalID: 614744067678200351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_117
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1711
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db23ad8c377cb800800000000000000
+      internalID: 629509149883050963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1663
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b3b1c6e71b17a20800000000000000
+      internalID: 3058420778498997087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_119
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1663
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603243830b3d55f0800000000000000
+      internalID: -766391475310022550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_120
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1663
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff43ede1db574cd0800000000000000
+      internalID: -2573987704821559310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_121
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1663
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd7e7c1fabc73e0800000000000000
+      internalID: -2054561782384042645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1664
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b3e85ca9e694b60800000000000000
+      internalID: 7730831846376618862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_123
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1680
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e37d65e77d73680800000000000000
+      internalID: -8775308411285324152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_124
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1680
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0376fe286d99db0800000000000000
+      internalID: -4784557271253831490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19791fbdf8d2aeaf0800000000000000
+      internalID: -366430323783657583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1699
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3125c29369261c0800000000000000
+      internalID: -4511878704370936871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1699
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b53cda21af8b650800000000000000
+      internalID: 6249019441108179816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_128
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1698
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec3a83edcd2cfa0800000000000000
+      internalID: -5781816124599185729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1698
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2729a098c00280840800000000000000
+      internalID: 5190433808755364466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_130
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1698
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3385354baa0e092a0800000000000000
+      internalID: -6732634419144468429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_131
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1698
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedaa4f62813dd260800000000000000
+      internalID: 7123904621852667375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1615
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614abd4dba56abf0800000000000000
+      internalID: -313463354956299931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1632
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681264ade94bc7b30800000000000000
+      internalID: 4286499539709731206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1632
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98140b3efb8b21dc0800000000000000
+      internalID: -3669667612055289463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1632
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4dff03ebf535c0800000000000000
+      internalID: -4236202921827677470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_136
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1632
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f1b4a451730a5b0800000000000000
+      internalID: -5359222991990612181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_137
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1631
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d756bae262331bff0800000000000000
+      internalID: -22180284075383427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1631
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7051b04251c4b60800000000000000
+      internalID: 7731577904837232575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_139
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1567
+        width: 186
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54da54146f39950800000000000000
+      internalID: 6454773451154343341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_140
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1567
+        width: 122
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5480d24563d220800000000000000
+      internalID: 2509460755016080351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd84c8ee9dbbcfcd0800000000000000
+      internalID: -2522935146549851940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1600
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68111b454766d130800000000000000
+      internalID: 3591171300184365167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1600
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b0b4d1334f2600800000000000000
+      internalID: 445648769433776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1600
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316589ac48dc2440800000000000000
+      internalID: 4912539117327573297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_145
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1600
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db099cded1a7e300800000000000000
+      internalID: 281371480289774552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_146
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1599
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e1587b764e7c6b0800000000000000
+      internalID: -5275997304329527680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1600
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d4ae06b3e43b380800000000000000
+      internalID: -8956729216973779653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_148
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1567
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ad79351cae5620800000000000000
+      internalID: 2764836428410888572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_149
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1567
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ef8eeb71b2ad50800000000000000
+      internalID: 6747150337595926617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1471
+        width: 250
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f4f4b8fd85c4a90800000000000000
+      internalID: -7328384776500457696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_151
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1471
+        width: 122
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65ce02a58f9d000800000000000000
+      internalID: 61353135929317079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1519
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e53ff7e42fb2d0800000000000000
+      internalID: -3260847026355182191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_153
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1535
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae42c24bec65a550800000000000000
+      internalID: 6171458622074277545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_154
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1542
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2f233673b19ff0800000000000000
+      internalID: -31046402168639903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1542
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0ab4b6fca88dd60800000000000000
+      internalID: 7915228968566628600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_156
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1487
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46612bc090c8b50800000000000000
+      internalID: 6596657504323003619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_157
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1456
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a47b08bddb90430800000000000000
+      internalID: 3749736915217631866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_158
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1487
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb3122c4aab7900800000000000000
+      internalID: 683327012442716997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_159
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1456
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c0c91588fde0290800000000000000
+      internalID: -7922148917920396228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1487
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fee6e6063706f80800000000000000
+      internalID: -8115359670514815094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_161
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1487
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf534e056e3c7c4b0800000000000000
+      internalID: -5420148232550074884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_162
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1456
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb13564673adee0800000000000000
+      internalID: -1235614243425764438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_163
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1471
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff595f29d5088090800000000000000
+      internalID: -8032163505054851073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1391
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1650afa4bd6f6dae0800000000000000
+      internalID: -1524760002102164127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f0869eefc8c3f0800000000000000
+      internalID: -880225103516732627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40194cfb588e6a6b0800000000000000
+      internalID: -5285281451527073532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_167
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1391
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292927cc473d6bb50800000000000000
+      internalID: 6608702001812509330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_168
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1391
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9896f7bba7327d630800000000000000
+      internalID: 3951666208079571337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a14e89a67210a0800000000000000
+      internalID: -6912332007452071941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_170
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89b3dca8ccc7e00800000000000000
+      internalID: 1043934110163900580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_171
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1391
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e9823b61b4a470800000000000000
+      internalID: 8405037878547703778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_172
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1295
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa4efaaff76eca0800000000000000
+      internalID: -5987957939872944342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_173
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1295
+        width: 111
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b985c024bc50a20800000000000000
+      internalID: 3028049809011940132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1329
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2730e6123d7609f0800000000000000
+      internalID: -502576654319601873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_175
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1353
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917bd8f00d20f1f0800000000000000
+      internalID: -1013260433959980656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_176
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1329
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a5c6d2e037e68f0800000000000000
+      internalID: -545372000136439268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_177
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1344
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f507601ee9f19d980800000000000000
+      internalID: -8513738853326622625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_178
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1344
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ca0e814bf28f00800000000000000
+      internalID: 1117731916515819571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_179
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1279
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2724019e5263f40800000000000000
+      internalID: 5707791260669080313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_180
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1312
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3115c5e26c9170800000000000000
+      internalID: 8186526961645993037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_181
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1312
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dc5a3f775ea6fe0800000000000000
+      internalID: -1194890447761846894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1215
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84c6267eea2e6280800000000000000
+      internalID: -9048247397667912562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_183
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1247
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a10f86230982a000800000000000000
+      internalID: 45749592851939750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_184
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1247
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975c4833bad8ea9e0800000000000000
+      internalID: -1608192250481425031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_185
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1263
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d36ea5dece9a920800000000000000
+      internalID: 3002191130795588974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_186
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1264
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ebe86981c27290800000000000000
+      internalID: -7894034400912088551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1151
+        width: 25
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf3da92ae321430800000000000000
+      internalID: 3752130307656252900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_188
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1254
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291cd094c09aacb20800000000000000
+      internalID: 3155520359156793746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_189
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1151
+        width: 17
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e5c5a664d2bb020800000000000000
+      internalID: 2358528610313985646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_190
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1183
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82f78bea471f99a0800000000000000
+      internalID: -6224230549456162163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_191
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1183
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c029b118df8090800000000000000
+      internalID: -8029962039946329268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_192
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1183
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d421064c9856cd00800000000000000
+      internalID: 992578196094395609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1247
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e3a2f05e77d330800000000000000
+      internalID: 3735593302060426136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_194
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1216
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b16e3b03016f460800000000000000
+      internalID: 7275020049426291545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_195
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1234
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c54dee3f042d30800000000000000
+      internalID: 4405663098418348712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_196
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1215
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f414cb015cb1e20800000000000000
+      internalID: 3322465825784418174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_197
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1215
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b945ebf7a8c7e510800000000000000
+      internalID: 1578450818227849653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_198
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1231
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544897888b3dd7210800000000000000
+      internalID: 1332453854288643141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1215
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a72795789f50370800000000000000
+      internalID: 8288305048961841771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_200
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1183
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6577819588fea30800000000000000
+      internalID: 4246762889877608174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_201
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1204
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c124d89b91f4300800000000000000
+      internalID: 238437590003489936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1151
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d36ea8871bcdd20800000000000000
+      internalID: 3304711357867638138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_203
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1183
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d07bb37c94d7ea0800000000000000
+      internalID: -5873457218972086885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_204
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1167
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0cb226b354ca40800000000000000
+      internalID: 5387523095973857967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_205
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1168
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea81d983e8f9e9580800000000000000
+      internalID: -8818435587160860498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_206
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1087
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3985e057f7d0f00800000000000000
+      internalID: 1084663225994744791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_207
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1087
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea1cac08ccdc5be0800000000000000
+      internalID: -1487071025174930718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_208
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1087
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27c5cb5ae27cad50800000000000000
+      internalID: 6749896292409132845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_209
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1170
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fc32e83e82c9710800000000000000
+      internalID: 1701279717046603553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_210
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1151
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48610a38f7d6b2f0800000000000000
+      internalID: -957340409644619698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_211
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1151
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573da675f3661aca0800000000000000
+      internalID: -6007408005699939467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_212
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1119
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390beedff5d24e260800000000000000
+      internalID: 7125870400712388755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_213
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1151
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e029f7c4726dc50800000000000000
+      internalID: 6689577506016726528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_214
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1151
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e252f414b6eff940800000000000000
+      internalID: 5332234144949883617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_215
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1120
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1665a02237416b0800000000000000
+      internalID: -5326505869232938563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_216
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1119
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a66bcbfe888ede0800000000000000
+      internalID: -1303641528879126011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_217
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1119
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a864e5ad5be557910800000000000000
+      internalID: 1834476558369048202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_218
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1135
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f36ddf7b754ea800800000000000000
+      internalID: 625513794979587061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_219
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1087
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f3892506847760800000000000000
+      internalID: 7454730639934486674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_220
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1087
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17526982bf6625530800000000000000
+      internalID: 3842246661004207473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_221
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1087
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c31823a0415c14b0800000000000000
+      internalID: -5468406509477555259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_222
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1087
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a6f33bdb73f1ea0800000000000000
+      internalID: -5899935698936436133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_223
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1087
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1093bb9974c211d00800000000000000
+      internalID: 941582483130628353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_224
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1087
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c03b5f4734e701c0800000000000000
+      internalID: -4537407173346774845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_225
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1087
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734cac1901de14e10800000000000000
+      internalID: 2180284350045275191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_226
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1087
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa84568788f2d160800000000000000
+      internalID: 7048969627746208417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 185
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe6ea8ef1baa2a0800000000000000
+      internalID: -6725367386714215512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_228
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 975
+        width: 122
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dc9608626e830f0800000000000000
+      internalID: -1136905852873486974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_229
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1023
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87bbe5fcfabbf860800000000000000
+      internalID: 7564845594719270799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 185
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe650b7c84e55f20800000000000000
+      internalID: 3410883584813526773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb67bb2d64e2790800000000000000
+      internalID: -7553021654151545400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_232
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 783
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cf7222e1a44b50800000000000000
+      internalID: 6576559348481247222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_233
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 783
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7b8feb1c80a0a0800000000000000
+      internalID: -6872338979756475586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_234
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 879
+        width: 122
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe53446c68c575980800000000000000
+      internalID: -8550263633617865233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73929000185f86330800000000000000
+      internalID: 3704480627912419639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_236
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 687
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdc2c60c797d40a0800000000000000
+      internalID: -6895721880838025785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_237
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 687
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bf19b94fe9fde60800000000000000
+      internalID: 7989279037397793546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 113
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf29b3dc36c3030800000000000000
+      internalID: 3475762745542114529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_239
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 431
+        width: 114
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53e1a250acc8bf0800000000000000
+      internalID: -320659349919877633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_240
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 575
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4734c8ae623fbf850800000000000000
+      internalID: 6411985842961400692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_241
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 527
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db821de9554c408b0800000000000000
+      internalID: -5186804998808196931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_242
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 534
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fdd557e068ff010800000000000000
+      internalID: 1224845020324814736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_243
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 431
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6157c0a4b51bad20800000000000000
+      internalID: 3290747818259992943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_244
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9759641536d2130800000000000000
+      internalID: 3543597682538150323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_245
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 367
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98885605727cc5b90800000000000000
+      internalID: -7251702328306857847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_246
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 367
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97c56ad33af8000800000000000000
+      internalID: 40430406849034732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_247
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 335
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce2d70b43162470800000000000000
+      internalID: 8369398170489384055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_248
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 239
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5199dc327ea6a90800000000000000
+      internalID: -7319784103378086486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_249
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 335
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392855fbd90f4820800000000000000
+      internalID: 2904551124995942710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_250
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 276
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9a15dd0ec1ea60800000000000000
+      internalID: 7701663396585446373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_251
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 335
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f6115a734fa5ad0800000000000000
+      internalID: -2712587305707540649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_252
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 276
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aaef647d1b24950800000000000000
+      internalID: 6431898756005669416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_253
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6993fd2d9c47e0800000000000000
+      internalID: -1779874932032180803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_254
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 278
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7303e95888becc0800000000000000
+      internalID: -3680698162979260456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_255
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 278
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc6f4a367a614e00800000000000000
+      internalID: 1027219246034152638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 239
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b1d4711cba74f0800000000000000
+      internalID: -830144398136069853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f842b41c71d6a0800000000000000
+      internalID: -6426218764948670804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_258
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16edfd4e5e39621f0800000000000000
+      internalID: -1070005245857243551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_259
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6669fe072234c8730800000000000000
+      internalID: 4002647984028227174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61da2720dfe43a120800000000000000
+      internalID: 2423867873030221078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_261
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafa45869cee9b690800000000000000
+      internalID: -7585769548522672213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_262
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f226ab153371b350800000000000000
+      internalID: 6030728047960138488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_263
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 207
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a267642b261612d0800000000000000
+      internalID: -3308432501706890583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_264
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a499549a4ce230800000000000000
+      internalID: 3669389797418639367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_265
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513925ad14aa5b850800000000000000
+      internalID: 6392202445934727957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_266
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 175
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03947dfd889d82b30800000000000000
+      internalID: 4262896229200382256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_267
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e55387d9286e990800000000000000
+      internalID: -7357049328424886687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_268
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b62568730c8910800000000000000
+      internalID: 1840850163315684618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_269
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 143
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d2d519cb704cec0800000000000000
+      internalID: -3547702099987059397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_270
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 127
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39930178bee9347a0800000000000000
+      internalID: -6394092311515481709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bca58783f33ea20800000000000000
+      internalID: 3090383281076226907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_272
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0635f3bbca33f50800000000000000
+      internalID: 6860016577636688126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_273
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a61304912a30c60800000000000000
+      internalID: 7783242810361211464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_274
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7925c243195e1b80800000000000000
+      internalID: -8422196313876780678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_275
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2804d26ed23f27e10800000000000000
+      internalID: 2194083346943656066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_276
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5b429f88254040800000000000000
+      internalID: 4631152388920269998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_277
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a630ce56e7e9ef0800000000000000
+      internalID: -99503165539128805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_278
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34506f2cbbdd95cc0800000000000000
+      internalID: -3721699818545478333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_279
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe3cf33c4f2abda0800000000000000
+      internalID: -5928373955143647504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21_Beach_16x16 2_280
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f58c39abaafe9c0800000000000000
+      internalID: -3895707434332168350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      21_Beach_16x16 2_0: -3808341299934592776
+      21_Beach_16x16 2_1: -5920767013119692877
+      21_Beach_16x16 2_10: 3602190190510148222
+      21_Beach_16x16 2_100: -7830819042368745534
+      21_Beach_16x16 2_101: -1851127750937424228
+      21_Beach_16x16 2_102: 1691739898874195443
+      21_Beach_16x16 2_103: 7976426604426773747
+      21_Beach_16x16 2_104: 1748741236490525161
+      21_Beach_16x16 2_105: -5130781520277111636
+      21_Beach_16x16 2_106: 2514712528204051125
+      21_Beach_16x16 2_107: -1126761193334168937
+      21_Beach_16x16 2_108: -7339902541918083961
+      21_Beach_16x16 2_109: -6809585086452720011
+      21_Beach_16x16 2_11: -5871570406878618609
+      21_Beach_16x16 2_110: 7867918714825094555
+      21_Beach_16x16 2_111: 8836439031177309941
+      21_Beach_16x16 2_112: 3932167198319106175
+      21_Beach_16x16 2_113: -5682224027722552781
+      21_Beach_16x16 2_114: -7518463076050409245
+      21_Beach_16x16 2_115: -1237765703056016787
+      21_Beach_16x16 2_116: 614744067678200351
+      21_Beach_16x16 2_117: 629509149883050963
+      21_Beach_16x16 2_118: 3058420778498997087
+      21_Beach_16x16 2_119: -766391475310022550
+      21_Beach_16x16 2_12: 8091368289672227415
+      21_Beach_16x16 2_120: -2573987704821559310
+      21_Beach_16x16 2_121: -2054561782384042645
+      21_Beach_16x16 2_122: 7730831846376618862
+      21_Beach_16x16 2_123: -8775308411285324152
+      21_Beach_16x16 2_124: -4784557271253831490
+      21_Beach_16x16 2_125: -366430323783657583
+      21_Beach_16x16 2_126: -4511878704370936871
+      21_Beach_16x16 2_127: 6249019441108179816
+      21_Beach_16x16 2_128: -5781816124599185729
+      21_Beach_16x16 2_129: 5190433808755364466
+      21_Beach_16x16 2_13: -4997053075050164584
+      21_Beach_16x16 2_130: -6732634419144468429
+      21_Beach_16x16 2_131: 7123904621852667375
+      21_Beach_16x16 2_132: -313463354956299931
+      21_Beach_16x16 2_133: 4286499539709731206
+      21_Beach_16x16 2_134: -3669667612055289463
+      21_Beach_16x16 2_135: -4236202921827677470
+      21_Beach_16x16 2_136: -5359222991990612181
+      21_Beach_16x16 2_137: -22180284075383427
+      21_Beach_16x16 2_138: 7731577904837232575
+      21_Beach_16x16 2_139: 6454773451154343341
+      21_Beach_16x16 2_14: 1226807081218615456
+      21_Beach_16x16 2_140: 2509460755016080351
+      21_Beach_16x16 2_141: -2522935146549851940
+      21_Beach_16x16 2_142: 3591171300184365167
+      21_Beach_16x16 2_143: 445648769433776343
+      21_Beach_16x16 2_144: 4912539117327573297
+      21_Beach_16x16 2_145: 281371480289774552
+      21_Beach_16x16 2_146: -5275997304329527680
+      21_Beach_16x16 2_147: -8956729216973779653
+      21_Beach_16x16 2_148: 2764836428410888572
+      21_Beach_16x16 2_149: 6747150337595926617
+      21_Beach_16x16 2_15: -237148377068286250
+      21_Beach_16x16 2_150: -7328384776500457696
+      21_Beach_16x16 2_151: 61353135929317079
+      21_Beach_16x16 2_152: -3260847026355182191
+      21_Beach_16x16 2_153: 6171458622074277545
+      21_Beach_16x16 2_154: -31046402168639903
+      21_Beach_16x16 2_155: 7915228968566628600
+      21_Beach_16x16 2_156: 6596657504323003619
+      21_Beach_16x16 2_157: 3749736915217631866
+      21_Beach_16x16 2_158: 683327012442716997
+      21_Beach_16x16 2_159: -7922148917920396228
+      21_Beach_16x16 2_16: 558683419987032642
+      21_Beach_16x16 2_160: -8115359670514815094
+      21_Beach_16x16 2_161: -5420148232550074884
+      21_Beach_16x16 2_162: -1235614243425764438
+      21_Beach_16x16 2_163: -8032163505054851073
+      21_Beach_16x16 2_164: -1524760002102164127
+      21_Beach_16x16 2_165: -880225103516732627
+      21_Beach_16x16 2_166: -5285281451527073532
+      21_Beach_16x16 2_167: 6608702001812509330
+      21_Beach_16x16 2_168: 3951666208079571337
+      21_Beach_16x16 2_169: -6912332007452071941
+      21_Beach_16x16 2_17: 3053785359234049852
+      21_Beach_16x16 2_170: 1043934110163900580
+      21_Beach_16x16 2_171: 8405037878547703778
+      21_Beach_16x16 2_172: -5987957939872944342
+      21_Beach_16x16 2_173: 3028049809011940132
+      21_Beach_16x16 2_174: -502576654319601873
+      21_Beach_16x16 2_175: -1013260433959980656
+      21_Beach_16x16 2_176: -545372000136439268
+      21_Beach_16x16 2_177: -8513738853326622625
+      21_Beach_16x16 2_178: 1117731916515819571
+      21_Beach_16x16 2_179: 5707791260669080313
+      21_Beach_16x16 2_18: -4573667203012813770
+      21_Beach_16x16 2_180: 8186526961645993037
+      21_Beach_16x16 2_181: -1194890447761846894
+      21_Beach_16x16 2_182: -9048247397667912562
+      21_Beach_16x16 2_183: 45749592851939750
+      21_Beach_16x16 2_184: -1608192250481425031
+      21_Beach_16x16 2_185: 3002191130795588974
+      21_Beach_16x16 2_186: -7894034400912088551
+      21_Beach_16x16 2_187: 3752130307656252900
+      21_Beach_16x16 2_188: 3155520359156793746
+      21_Beach_16x16 2_189: 2358528610313985646
+      21_Beach_16x16 2_19: -3721110885411812745
+      21_Beach_16x16 2_190: -6224230549456162163
+      21_Beach_16x16 2_191: -8029962039946329268
+      21_Beach_16x16 2_192: 992578196094395609
+      21_Beach_16x16 2_193: 3735593302060426136
+      21_Beach_16x16 2_194: 7275020049426291545
+      21_Beach_16x16 2_195: 4405663098418348712
+      21_Beach_16x16 2_196: 3322465825784418174
+      21_Beach_16x16 2_197: 1578450818227849653
+      21_Beach_16x16 2_198: 1332453854288643141
+      21_Beach_16x16 2_199: 8288305048961841771
+      21_Beach_16x16 2_2: -7861103750900786416
+      21_Beach_16x16 2_20: -8208140863579735866
+      21_Beach_16x16 2_200: 4246762889877608174
+      21_Beach_16x16 2_201: 238437590003489936
+      21_Beach_16x16 2_202: 3304711357867638138
+      21_Beach_16x16 2_203: -5873457218972086885
+      21_Beach_16x16 2_204: 5387523095973857967
+      21_Beach_16x16 2_205: -8818435587160860498
+      21_Beach_16x16 2_206: 1084663225994744791
+      21_Beach_16x16 2_207: -1487071025174930718
+      21_Beach_16x16 2_208: 6749896292409132845
+      21_Beach_16x16 2_209: 1701279717046603553
+      21_Beach_16x16 2_21: -1476199488905738598
+      21_Beach_16x16 2_210: -957340409644619698
+      21_Beach_16x16 2_211: -6007408005699939467
+      21_Beach_16x16 2_212: 7125870400712388755
+      21_Beach_16x16 2_213: 6689577506016726528
+      21_Beach_16x16 2_214: 5332234144949883617
+      21_Beach_16x16 2_215: -5326505869232938563
+      21_Beach_16x16 2_216: -1303641528879126011
+      21_Beach_16x16 2_217: 1834476558369048202
+      21_Beach_16x16 2_218: 625513794979587061
+      21_Beach_16x16 2_219: 7454730639934486674
+      21_Beach_16x16 2_22: -4113914686442031676
+      21_Beach_16x16 2_220: 3842246661004207473
+      21_Beach_16x16 2_221: -5468406509477555259
+      21_Beach_16x16 2_222: -5899935698936436133
+      21_Beach_16x16 2_223: 941582483130628353
+      21_Beach_16x16 2_224: -4537407173346774845
+      21_Beach_16x16 2_225: 2180284350045275191
+      21_Beach_16x16 2_226: 7048969627746208417
+      21_Beach_16x16 2_227: -6725367386714215512
+      21_Beach_16x16 2_228: -1136905852873486974
+      21_Beach_16x16 2_229: 7564845594719270799
+      21_Beach_16x16 2_23: 1830642222694110648
+      21_Beach_16x16 2_230: 3410883584813526773
+      21_Beach_16x16 2_231: -7553021654151545400
+      21_Beach_16x16 2_232: 6576559348481247222
+      21_Beach_16x16 2_233: -6872338979756475586
+      21_Beach_16x16 2_234: -8550263633617865233
+      21_Beach_16x16 2_235: 3704480627912419639
+      21_Beach_16x16 2_236: -6895721880838025785
+      21_Beach_16x16 2_237: 7989279037397793546
+      21_Beach_16x16 2_238: 3475762745542114529
+      21_Beach_16x16 2_239: -320659349919877633
+      21_Beach_16x16 2_24: 8915528163775417065
+      21_Beach_16x16 2_240: 6411985842961400692
+      21_Beach_16x16 2_241: -5186804998808196931
+      21_Beach_16x16 2_242: 1224845020324814736
+      21_Beach_16x16 2_243: 3290747818259992943
+      21_Beach_16x16 2_244: 3543597682538150323
+      21_Beach_16x16 2_245: -7251702328306857847
+      21_Beach_16x16 2_246: 40430406849034732
+      21_Beach_16x16 2_247: 8369398170489384055
+      21_Beach_16x16 2_248: -7319784103378086486
+      21_Beach_16x16 2_249: 2904551124995942710
+      21_Beach_16x16 2_25: 3943881041832862408
+      21_Beach_16x16 2_250: 7701663396585446373
+      21_Beach_16x16 2_251: -2712587305707540649
+      21_Beach_16x16 2_252: 6431898756005669416
+      21_Beach_16x16 2_253: -1779874932032180803
+      21_Beach_16x16 2_254: -3680698162979260456
+      21_Beach_16x16 2_255: 1027219246034152638
+      21_Beach_16x16 2_256: -830144398136069853
+      21_Beach_16x16 2_257: -6426218764948670804
+      21_Beach_16x16 2_258: -1070005245857243551
+      21_Beach_16x16 2_259: 4002647984028227174
+      21_Beach_16x16 2_26: -8159490101180855763
+      21_Beach_16x16 2_260: 2423867873030221078
+      21_Beach_16x16 2_261: -7585769548522672213
+      21_Beach_16x16 2_262: 6030728047960138488
+      21_Beach_16x16 2_263: -3308432501706890583
+      21_Beach_16x16 2_264: 3669389797418639367
+      21_Beach_16x16 2_265: 6392202445934727957
+      21_Beach_16x16 2_266: 4262896229200382256
+      21_Beach_16x16 2_267: -7357049328424886687
+      21_Beach_16x16 2_268: 1840850163315684618
+      21_Beach_16x16 2_269: -3547702099987059397
+      21_Beach_16x16 2_27: 1976497809898636984
+      21_Beach_16x16 2_270: -6394092311515481709
+      21_Beach_16x16 2_271: 3090383281076226907
+      21_Beach_16x16 2_272: 6860016577636688126
+      21_Beach_16x16 2_273: 7783242810361211464
+      21_Beach_16x16 2_274: -8422196313876780678
+      21_Beach_16x16 2_275: 2194083346943656066
+      21_Beach_16x16 2_276: 4631152388920269998
+      21_Beach_16x16 2_277: -99503165539128805
+      21_Beach_16x16 2_278: -3721699818545478333
+      21_Beach_16x16 2_279: -5928373955143647504
+      21_Beach_16x16 2_28: 602374772561825797
+      21_Beach_16x16 2_280: -3895707434332168350
+      21_Beach_16x16 2_29: -5545880421590932648
+      21_Beach_16x16 2_3: 2032796669199787055
+      21_Beach_16x16 2_30: -8984251014163024036
+      21_Beach_16x16 2_31: -4682378173421412882
+      21_Beach_16x16 2_32: -9137646737064006750
+      21_Beach_16x16 2_33: 3192840344028137591
+      21_Beach_16x16 2_34: -4511140400106424130
+      21_Beach_16x16 2_35: 8060221573547790028
+      21_Beach_16x16 2_36: 2673897649203095433
+      21_Beach_16x16 2_37: -5936787297137058194
+      21_Beach_16x16 2_38: 2910226999405038111
+      21_Beach_16x16 2_39: -4099714046015211363
+      21_Beach_16x16 2_4: -9101135211230844500
+      21_Beach_16x16 2_40: 768959956879232487
+      21_Beach_16x16 2_41: -7457049883582563048
+      21_Beach_16x16 2_42: 3520588813594149821
+      21_Beach_16x16 2_43: 286452717659063513
+      21_Beach_16x16 2_44: 4253861620737071151
+      21_Beach_16x16 2_45: -5221670845657389809
+      21_Beach_16x16 2_46: -8673553957545922507
+      21_Beach_16x16 2_47: -1465289474494899375
+      21_Beach_16x16 2_48: -8338778254580435745
+      21_Beach_16x16 2_49: 4449265511069265195
+      21_Beach_16x16 2_5: -2440882334775617199
+      21_Beach_16x16 2_50: 970446312874679756
+      21_Beach_16x16 2_51: -7074044870900927423
+      21_Beach_16x16 2_52: 286078261240983759
+      21_Beach_16x16 2_53: -481239053755610931
+      21_Beach_16x16 2_54: -5101282590499444945
+      21_Beach_16x16 2_55: 7568111595418134488
+      21_Beach_16x16 2_56: -4699159903683986942
+      21_Beach_16x16 2_57: 2187313668410849787
+      21_Beach_16x16 2_58: 6684429695577728297
+      21_Beach_16x16 2_59: -6815018486604105737
+      21_Beach_16x16 2_6: -1949326060981013531
+      21_Beach_16x16 2_60: -8941385774426911092
+      21_Beach_16x16 2_61: 442920934390719970
+      21_Beach_16x16 2_62: -1770783024255055372
+      21_Beach_16x16 2_63: -1366373837660459693
+      21_Beach_16x16 2_64: -1258001358172808365
+      21_Beach_16x16 2_65: 5713357679477400015
+      21_Beach_16x16 2_66: -8688326363877097876
+      21_Beach_16x16 2_67: 6289934609006720026
+      21_Beach_16x16 2_68: -7647784278607819245
+      21_Beach_16x16 2_69: 1509106045286332330
+      21_Beach_16x16 2_7: 6176687864385877546
+      21_Beach_16x16 2_70: 9194011308838841747
+      21_Beach_16x16 2_71: 6646038323081091674
+      21_Beach_16x16 2_72: 555207002456217103
+      21_Beach_16x16 2_73: 6659571144251115923
+      21_Beach_16x16 2_74: -289292571705879467
+      21_Beach_16x16 2_75: 2494322152423580113
+      21_Beach_16x16 2_76: -3715135274466717136
+      21_Beach_16x16 2_77: -635864815287660703
+      21_Beach_16x16 2_78: 4853611891334874439
+      21_Beach_16x16 2_79: -4372434017120480098
+      21_Beach_16x16 2_8: 287292205240181566
+      21_Beach_16x16 2_80: 929840186920491284
+      21_Beach_16x16 2_81: -3575918576504077714
+      21_Beach_16x16 2_82: -388224640679000757
+      21_Beach_16x16 2_83: 150764251254646652
+      21_Beach_16x16 2_84: -607523077689649757
+      21_Beach_16x16 2_85: 8147690542939219419
+      21_Beach_16x16 2_86: -5353858354051172701
+      21_Beach_16x16 2_87: -6290882073529172329
+      21_Beach_16x16 2_88: -3753710031084474567
+      21_Beach_16x16 2_89: 1273698955313974216
+      21_Beach_16x16 2_9: -1167948078767835284
+      21_Beach_16x16 2_90: 6248244307207332205
+      21_Beach_16x16 2_91: -8758106200682968611
+      21_Beach_16x16 2_92: -3885694112554508640
+      21_Beach_16x16 2_93: 4427605020685820772
+      21_Beach_16x16 2_94: -331576272737316068
+      21_Beach_16x16 2_95: -7846441147107669745
+      21_Beach_16x16 2_96: 7958956559001757142
+      21_Beach_16x16 2_97: 3918881474427972056
+      21_Beach_16x16 2_98: -574682706784467162
+      21_Beach_16x16 2_99: 7987046720853206157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
