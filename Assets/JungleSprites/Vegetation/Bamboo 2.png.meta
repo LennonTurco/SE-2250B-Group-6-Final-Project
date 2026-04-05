@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: aa5351c2e67eb46948b0269e31fead1f
+guid: 4e57d9d4f6dc948268f3f227770ffb42
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7184138408967707247
-    second: Rock 2_0
+      213: -3447862986008367305
+    second: Bamboo 2_0
   - first:
-      213: 1940434861493793363
-    second: Rock 2_1
+      213: 771056173816066817
+    second: Bamboo 2_1
+  - first:
+      213: -4518448962130842011
+    second: Bamboo 2_2
+  - first:
+      213: -1975918748288619879
+    second: Bamboo 2_3
+  - first:
+      213: 2844682319442391878
+    second: Bamboo 2_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,45 +125,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rock 2_0
+      name: Bamboo 2_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 0
         width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3971557}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1956d342e20dc4c90800000000000000
-      internalID: -7184138408967707247
+      spriteID: 73fe0ccb1eab620d0800000000000000
+      internalID: -3447862986008367305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rock 2_1
+      name: Bamboo 2_1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 0
-        width: 5
-        height: 6
+        x: 35
+        y: 2
+        width: 8
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3523f15c93fcdea10800000000000000
-      internalID: 1940434861493793363
+      spriteID: 103bd2e318753ba00800000000000000
+      internalID: 771056173816066817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bamboo 2_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6574db9e3b41c0800000000000000
+      internalID: -4518448962130842011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bamboo 2_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ae8370e502494e0800000000000000
+      internalID: -1975918748288619879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bamboo 2_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b23d6f775a7720800000000000000
+      internalID: 2844682319442391878
       vertices: []
       indices: 
       edges: []
@@ -163,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 24e1ce313fea14119bf1cabe95e6247b
     internalID: 0
     vertices: []
     indices: 
@@ -171,10 +246,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Rock 2_0: -7184138408967707247
-      Rock 2_1: 1940434861493793363
+      Bamboo 2_0: -3447862986008367305
+      Bamboo 2_1: 771056173816066817
+      Bamboo 2_2: -4518448962130842011
+      Bamboo 2_3: -1975918748288619879
+      Bamboo 2_4: 2844682319442391878
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
