@@ -74,6 +74,17 @@ public class SolomonBoss : Enemy
 
         visualRenderer = GetComponentInChildren<SpriteRenderer>();
         moveSpeed = p1MoveSpeed;
+
+        // find health bar at runtime since solomon is spawned dynamically
+        if (healthBar == null)
+        {
+            GameObject sliderGO = GameObject.Find("Slider");
+            if (sliderGO != null)
+                healthBar = sliderGO.GetComponent<UnityEngine.UI.Slider>();
+            else
+                Debug.LogWarning("[SolomonBoss] Health bar slider not found.");
+        }
+
         UpdateHealthBar();
     }
 
