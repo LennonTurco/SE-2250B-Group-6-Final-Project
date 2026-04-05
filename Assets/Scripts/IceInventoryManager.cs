@@ -36,15 +36,13 @@ public class IceInventoryManager : MonoBehaviour
     public bool hasIcePickaxe { get; private set; } = false;
 
     private bool polarBearMessageShown = false;
-    
-    // ensures only one inventory manager exists to follow singleton pattern
+
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
     }
 
-    // sets all initially inactive features to not be visible so that they are only shown once the inventory follows certain requirements
     private void Start()
     {
         if (fishingRodInventoryBox != null) fishingRodInventoryBox.SetActive(false);
@@ -56,16 +54,19 @@ public class IceInventoryManager : MonoBehaviour
         if (fullMapBoundaries != null) fullMapBoundaries.SetActive(false);
     }
 
-    // adds fishing rod to inventory if you trade with an npc
     public void AddFishingRod()
     {
         fishingRodCount++;
         if (fishingRodInventoryBox != null) fishingRodInventoryBox.SetActive(true);
         RefreshUI();
+
+        // Advance objective on first fishing rod
+        if (fishingRodCount == 1)
+            HUDManager.Instance?.SetObjective(HUDManager.Objective.FindFish);
+
         Debug.Log("[Inventory] Fishing rods: " + fishingRodCount);
     }
 
-    // collects fish if you have a fishing rod and collide with a fish
     public bool CollectFish()
     {
         if (fishingRodCount <= 0)
@@ -91,7 +92,6 @@ public class IceInventoryManager : MonoBehaviour
         return true;
     }
 
-    // collects pickaxe after you trade for it at the special igloo
     public void GiveIcePickaxe()
     {
         hasIcePickaxe = true;
@@ -99,9 +99,11 @@ public class IceInventoryManager : MonoBehaviour
         if (mazeBoss != null) mazeBoss.SetActive(true);
         if (joseBoss != null) joseBoss.SetActive(true);
 
-        // Swap boundaries
         if (mainMapBoundaries != null) mainMapBoundaries.SetActive(false);
         if (fullMapBoundaries != null) fullMapBoundaries.SetActive(true);
+
+        // Advance objective
+        HUDManager.Instance?.SetObjective(HUDManager.Objective.CompleteIceMaze);
 
         Debug.Log("[Inventory] Ice Pickaxe obtained! Maze and boss revealed.");
     }
@@ -110,7 +112,6 @@ public class IceInventoryManager : MonoBehaviour
     public bool HasEnoughFish(int required) => fishCount >= required;
     public bool HasIcePickaxe() => hasIcePickaxe;
 
-    // updates the count of fishing rods and fish in the inventory
     private void RefreshUI()
     {
         if (fishingRodCountText != null)
@@ -119,7 +120,6 @@ public class IceInventoryManager : MonoBehaviour
             fishCountText.text = "x" + fishCount;
     }
 
-    // once 3 fish are collected, the player is told to go find the special igloo (which is now visible) and trade
     private void ShowPolarBearMessage()
     {
         polarBearMessageShown = true;
@@ -133,9 +133,12 @@ public class IceInventoryManager : MonoBehaviour
 
         if (specialIgloo != null) specialIgloo.SetActive(true);
 
+        // Advance objective
+        HUDManager.Instance?.SetObjective(HUDManager.Objective.FindPickaxe);
+
         Invoke(nameof(HidePolarBearMessage), 5f);
     }
-    
+
     private void HidePolarBearMessage()
     {
         if (polarBearPanel != null) polarBearPanel.SetActive(false);
