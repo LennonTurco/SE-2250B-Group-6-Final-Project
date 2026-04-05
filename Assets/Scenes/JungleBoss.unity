@@ -21390,8 +21390,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.2D.PixelPerfect::UnityEngine.U2D.PixelPerfectCamera
   m_AssetsPPU: 16
-  m_RefResolutionX: 384
-  m_RefResolutionY: 216
+  m_RefResolutionX: 256
+  m_RefResolutionY: 144
   m_UpscaleRT: 0
   m_PixelSnapping: 0
   m_CropFrameX: 0
@@ -28635,7 +28635,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dd5e7555b1cdea448c9f5384cd1c0e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  sceneToLoad: CityScene
+  sceneToLoad: josephIceLevel
   requiresPuzzleSolved: 0
   blockedLines:
   - You can't leave yet. Finish what you started.

@@ -5,7 +5,7 @@ using UnityEngine;
 public class SimpleAutoDialogTrigger : MonoBehaviour
 {
     [TextArea]
-    [SerializeField] private string line = "LOL! I love wasting your time!";
+    [SerializeField] private string line = "LOL! I love wasting your time! The real challenge is southeast of here!";
     [SerializeField] private bool triggerOnce = true;
 
     private bool hasTriggered;
