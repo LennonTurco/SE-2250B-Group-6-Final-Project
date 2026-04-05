@@ -46,7 +46,10 @@ public class PlayerMovement : MonoBehaviour
     public void OnAttack(InputAction.CallbackContext context)
     {
         if (context.started) // when key is pressed down
-        {
+        {   
+            // added this line to block attacks if dialog is open
+            if (DialogManager.Instance != null && DialogManager.Instance.IsDisplaying()) return;
+
             isAttacking = true;
             player.anim.SetBool("isAttacking", true);
             if(moveInput != Vector2.zero)
