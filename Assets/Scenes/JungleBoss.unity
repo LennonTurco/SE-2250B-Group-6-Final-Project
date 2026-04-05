@@ -14183,10 +14183,12 @@ MonoBehaviour:
   projectileSpeed: 10
   fireInterval: 4
   spreadAngle: 38
+  projectileDamage: 10
   smokeEffectPrefab: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
   smokeEffectLifetime: 1.1
   spawnSmokeOnDisappear: 1
   spawnSmokeOnAppear: 1
+  projectileTag: NinjaStar
   initialDelay: 1
   spriteRenderer: {fileID: 0}
   animationFrameRate: 8
@@ -54009,6 +54011,10 @@ PrefabInstance:
     - target: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
       propertyPath: m_Name
       value: KeanuSmoke
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
       propertyPath: m_LocalPosition.x

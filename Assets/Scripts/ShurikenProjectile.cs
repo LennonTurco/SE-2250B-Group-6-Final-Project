@@ -16,22 +16,29 @@ public class ShurikenProjectile : MonoBehaviour
         rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
     }
 
-    private void Start()
-    {
-        rb.linearVelocity = direction * speed;
-        Destroy(gameObject, 5f);
-    }
-
     public void Initialize(Vector2 dir, float moveSpeed, float dmg)
     {
         direction = dir.normalized;
         speed = moveSpeed;
         damage = dmg;
+
+        // set velocity immediately so it doesn't wait for Start
+        if (rb != null) rb.linearVelocity = direction * speed;
+    }
+
+    private void Start()
+    {
+        // fallback if Initialize wasn't called before Start
+        if (rb.linearVelocity == Vector2.zero && direction != Vector2.zero)
+            rb.linearVelocity = direction * speed;
+
+        Destroy(gameObject, 5f);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.GetComponent<NinjaEnemy>() != null) return;
+        if (other.GetComponent<JungleBoss>() != null) return;
         if (other.GetComponent<ShurikenProjectile>() != null) return;
 
         Player player = other.GetComponent<Player>();

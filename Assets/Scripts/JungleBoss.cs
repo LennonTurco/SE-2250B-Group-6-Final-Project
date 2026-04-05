@@ -25,12 +25,14 @@ public class JungleBoss : MonoBehaviour
     [SerializeField] private float projectileSpeed = 10f;
     [SerializeField] private float fireInterval = 1.25f;
     [SerializeField] private float spreadAngle = 25f;
+    [SerializeField] private float projectileDamage = 10f;
 
     [Header("Smoke Effect")]
     [SerializeField] private GameObject smokeEffectPrefab;
     [SerializeField] private float smokeEffectLifetime = 1f;
     [SerializeField] private bool spawnSmokeOnDisappear = true;
     [SerializeField] private bool spawnSmokeOnAppear = true;
+    [SerializeField] private string projectileTag = "NinjaStar";
 
     [Header("Optional")]
     [SerializeField] private float initialDelay = 1f;
@@ -87,9 +89,7 @@ public class JungleBoss : MonoBehaviour
         colliders = GetComponents<Collider2D>();
 
         if (spriteRenderer == null)
-        {
             spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-        }
 
         currentHealth = maxHealth;
         fireTimer = initialDelay > 0f ? initialDelay : fireInterval;
@@ -98,25 +98,17 @@ public class JungleBoss : MonoBehaviour
 
         AcquireTarget();
 
-        if (firePoint == null)
-        {
-            firePoint = transform;
-        }
+        if (firePoint == null) firePoint = transform;
 
         UpdateHealthBar();
 
         if (levelLoadZoneToEnable != null)
-        {
             levelLoadZoneToEnable.SetActive(false);
-        }
     }
 
     private void Update()
     {
-        if (isDead)
-        {
-            return;
-        }
+        if (isDead) return;
 
         AcquireTarget();
 
@@ -131,9 +123,7 @@ public class JungleBoss : MonoBehaviour
 
             visibilityTimer -= Time.deltaTime;
             if (visibilityTimer <= 0f && shotsFiredThisCycle >= Mathf.Max(1, shotsBeforeDisappear))
-            {
                 visibilityRoutine = StartCoroutine(DisappearAndReappear());
-            }
         }
 
         UpdateAnimation();
@@ -141,36 +131,24 @@ public class JungleBoss : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (rb != null)
-        {
-            rb.linearVelocity = Vector2.zero;
-        }
+        if (rb != null) rb.linearVelocity = Vector2.zero;
     }
 
     public void TakeDamage(float amount)
     {
-        if (isDead || !isVisible || amount <= 0f)
-        {
-            return;
-        }
+        if (isDead || !isVisible || amount <= 0f) return;
 
         currentHealth -= amount;
         currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth);
         Debug.Log($"JungleBoss took {amount} damage. Health: {currentHealth}/{maxHealth}");
         UpdateHealthBar();
 
-        if (currentHealth <= 0f)
-        {
-            Die();
-        }
+        if (currentHealth <= 0f) Die();
     }
 
     private void Die()
     {
-        if (isDead)
-        {
-            return;
-        }
+        if (isDead) return;
 
         isDead = true;
         isVisible = false;
@@ -181,22 +159,12 @@ public class JungleBoss : MonoBehaviour
             visibilityRoutine = null;
         }
 
-        if (rb != null)
-        {
-            rb.linearVelocity = Vector2.zero;
-        }
+        if (rb != null) rb.linearVelocity = Vector2.zero;
 
         SetBossVisible(false);
 
-        if (healthBar != null)
-        {
-            healthBar.gameObject.SetActive(false);
-        }
-
-        if (levelLoadZoneToEnable != null)
-        {
-            levelLoadZoneToEnable.SetActive(true);
-        }
+        if (healthBar != null) healthBar.gameObject.SetActive(false);
+        if (levelLoadZoneToEnable != null) levelLoadZoneToEnable.SetActive(true);
 
         Debug.Log("JungleBoss defeated.");
         Destroy(gameObject);
@@ -204,11 +172,7 @@ public class JungleBoss : MonoBehaviour
 
     private void UpdateHealthBar()
     {
-        if (healthBar == null)
-        {
-            return;
-        }
-
+        if (healthBar == null) return;
         healthBar.maxValue = maxHealth;
         healthBar.value = currentHealth;
     }
@@ -220,30 +184,19 @@ public class JungleBoss : MonoBehaviour
         isVisible = false;
         fireTimer = fireInterval;
 
-        // destroy all active projectiles on disappear
-        foreach (GameObject proj in GameObject.FindGameObjectsWithTag("NinjaStar"))
-            Destroy(proj);
-
+        // removed projectile cleanup - just smoke and teleport
         if (spawnSmokeOnDisappear) SpawnSmoke(transform.position);
 
-    SetBossVisible(false);
-    // rest unchanged
-        if (playerDisappearanceDuration > 0f)
-        {
-            yield return new WaitForSeconds(playerDisappearanceDuration);
-        }
+        SetBossVisible(false);
 
-        if (isDead)
-        {
-            yield break;
-        }
+        if (playerDisappearanceDuration > 0f)
+            yield return new WaitForSeconds(playerDisappearanceDuration);
+
+        if (isDead) yield break;
 
         transform.position = GetRandomPositionNearTarget();
 
-        if (spawnSmokeOnAppear)
-        {
-            SpawnSmoke(transform.position);
-        }
+        if (spawnSmokeOnAppear) SpawnSmoke(transform.position);
 
         SetBossVisible(true);
         isVisible = true;
@@ -254,17 +207,12 @@ public class JungleBoss : MonoBehaviour
 
     private void SetBossVisible(bool shouldBeVisible)
     {
-        if (spriteRenderer != null)
-        {
-            spriteRenderer.enabled = shouldBeVisible;
-        }
+        if (spriteRenderer != null) spriteRenderer.enabled = shouldBeVisible;
 
         for (int i = 0; i < colliders.Length; i++)
         {
             if (colliders[i] != null)
-            {
                 colliders[i].enabled = shouldBeVisible;
-            }
         }
     }
 
@@ -276,76 +224,39 @@ public class JungleBoss : MonoBehaviour
         float halfSize = repositionSquareSize * 0.5f;
         float padding = Mathf.Clamp(repositionPadding, 0f, halfSize);
 
-        float minX = center.x - halfSize + padding;
-        float maxX = center.x + halfSize - padding;
-        float minY = center.y - halfSize + padding;
-        float maxY = center.y + halfSize - padding;
-
-        return new Vector2(Random.Range(minX, maxX), Random.Range(minY, maxY));
+        return new Vector2(
+            Random.Range(center.x - halfSize + padding, center.x + halfSize - padding),
+            Random.Range(center.y - halfSize + padding, center.y + halfSize - padding)
+        );
     }
 
     private void SpawnSmoke(Vector2 position)
     {
-        if (smokeEffectPrefab == null)
-        {
-            return;
-        }
-
+        if (smokeEffectPrefab == null) return;
         GameObject smokeInstance = Instantiate(smokeEffectPrefab, position, Quaternion.identity);
-        if (smokeEffectLifetime > 0f)
-        {
-            Destroy(smokeInstance, smokeEffectLifetime);
-        }
+        if (smokeEffectLifetime > 0f) Destroy(smokeInstance, smokeEffectLifetime);
     }
 
     private void AcquireTarget()
     {
-        if (target != null)
-        {
-            return;
-        }
+        if (target != null) return;
 
         GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
-        if (playerObject != null)
-        {
-            target = playerObject.transform;
-            return;
-        }
+        if (playerObject != null) { target = playerObject.transform; return; }
 
         Player player = FindFirstObjectByType<Player>();
-        if (player != null)
-        {
-            target = player.transform;
-        }
+        if (player != null) target = player.transform;
     }
 
     private void FireAtPlayer()
     {
-        Debug.Log($"[JungleBoss] FireAtPlayer called. isVisible: {isVisible} prefab: {projectilePrefab != null}");
         if (!isVisible || projectilePrefab == null) return;
-    // rest unchanged
-        if (!isVisible || projectilePrefab == null)
-        {
-            if (projectilePrefab == null)
-            {
-                Debug.LogWarning("JungleBoss: projectilePrefab is not assigned.");
-            }
-            return;
-        }
 
         AcquireTarget();
-
-        if (target == null)
-        {
-            Debug.LogWarning("JungleBoss: could not find a Player target.");
-            return;
-        }
+        if (target == null) return;
 
         Vector2 direction = ((Vector2)target.position - (Vector2)firePoint.position).normalized;
-        if (direction == Vector2.zero)
-        {
-            return;
-        }
+        if (direction == Vector2.zero) return;
 
         int shotCount = Mathf.Max(1, projectilesPerShot);
         float totalSpread = Mathf.Max(0f, spreadAngle);
@@ -358,6 +269,17 @@ public class JungleBoss : MonoBehaviour
             Vector2 shotDirection = Quaternion.Euler(0f, 0f, angleOffset) * direction;
 
             GameObject projectileInstance = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
+            Debug.Log($"[JungleBoss] Spawned projectile at {firePoint.position} dir {shotDirection}");
+
+            // try ShurikenProjectile first
+            ShurikenProjectile shuriken = projectileInstance.GetComponent<ShurikenProjectile>();
+            if (shuriken != null)
+            {
+                shuriken.Initialize(shotDirection, projectileSpeed, projectileDamage);
+                continue;
+            }
+
+            // try BossProjectile
             BossProjectile bossProjectile = projectileInstance.GetComponent<BossProjectile>();
             if (bossProjectile != null)
             {
@@ -365,6 +287,7 @@ public class JungleBoss : MonoBehaviour
                 continue;
             }
 
+            // try Fire
             Fire fireProjectile = projectileInstance.GetComponent<Fire>();
             if (fireProjectile != null)
             {
@@ -373,11 +296,10 @@ public class JungleBoss : MonoBehaviour
                 continue;
             }
 
+            // fallback - raw velocity
             Rigidbody2D projectileRb = projectileInstance.GetComponent<Rigidbody2D>();
             if (projectileRb != null)
-            {
                 projectileRb.linearVelocity = shotDirection * projectileSpeed;
-            }
         }
 
         facingDirection = direction;
@@ -387,25 +309,16 @@ public class JungleBoss : MonoBehaviour
 
     private void UpdateAnimation()
     {
-        if (spriteRenderer == null || !isVisible)
-        {
-            return;
-        }
+        if (spriteRenderer == null || !isVisible) return;
 
-        if (shootAnimationTimer > 0f)
-        {
-            shootAnimationTimer -= Time.deltaTime;
-        }
+        if (shootAnimationTimer > 0f) shootAnimationTimer -= Time.deltaTime;
 
         Vector2 animationDirection = facingDirection != Vector2.zero ? facingDirection : Vector2.down;
         Sprite[] nextFrames = shootAnimationTimer > 0f
             ? GetDirectionalFrames(shootUp, shootDown, shootLeft, shootRight, animationDirection)
             : GetDirectionalFrames(idleUp, idleDown, idleLeft, idleRight, animationDirection);
 
-        if (nextFrames == null || nextFrames.Length == 0)
-        {
-            return;
-        }
+        if (nextFrames == null || nextFrames.Length == 0) return;
 
         if (currentAnimationFrames != nextFrames)
         {
@@ -427,10 +340,7 @@ public class JungleBoss : MonoBehaviour
     private static Sprite[] GetDirectionalFrames(Sprite[] upFrames, Sprite[] downFrames, Sprite[] leftFrames, Sprite[] rightFrames, Vector2 direction)
     {
         if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
-        {
             return direction.x >= 0f ? rightFrames : leftFrames;
-        }
-
         return direction.y >= 0f ? upFrames : downFrames;
     }
 }
