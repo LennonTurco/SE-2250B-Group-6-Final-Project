@@ -218,21 +218,19 @@ public class JungleBoss : MonoBehaviour
 
     private IEnumerator DisappearAndReappear()
     {
-        if (!isVisible || isDead)
-        {
-            yield break;
-        }
+        if (!isVisible || isDead) yield break;
 
         isVisible = false;
         fireTimer = fireInterval;
 
-        if (spawnSmokeOnDisappear)
-        {
-            SpawnSmoke(transform.position);
-        }
+        // destroy all active projectiles on disappear
+        foreach (GameObject proj in GameObject.FindGameObjectsWithTag("NinjaStar"))
+            Destroy(proj);
 
-        SetBossVisible(false);
+        if (spawnSmokeOnDisappear) SpawnSmoke(transform.position);
 
+    SetBossVisible(false);
+    // rest unchanged
         if (playerDisappearanceDuration > 0f)
         {
             yield return new WaitForSeconds(playerDisappearanceDuration);
@@ -327,6 +325,9 @@ public class JungleBoss : MonoBehaviour
 
     private void FireAtPlayer()
     {
+        Debug.Log($"[JungleBoss] FireAtPlayer called. isVisible: {isVisible} prefab: {projectilePrefab != null}");
+        if (!isVisible || projectilePrefab == null) return;
+    // rest unchanged
         if (!isVisible || projectilePrefab == null)
         {
             if (projectilePrefab == null)
