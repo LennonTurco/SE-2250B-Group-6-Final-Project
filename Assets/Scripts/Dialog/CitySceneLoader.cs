@@ -6,6 +6,7 @@ public class CitySceneLoader : MonoBehaviour
 {
     [SerializeField] private GameObject solomonPrefab;
     [SerializeField] private Transform spawnPoint;
+    [SerializeField] private Transform playerRespawnPoint;
 
     [SerializeField] private List<string> solomonSpawnDialog = new List<string>
     {
@@ -14,28 +15,37 @@ public class CitySceneLoader : MonoBehaviour
         "Come. Let's finish this."
     };
 
-    private void Start()
+    private void Awake()
     {
-        if (PlayerPrefs.GetInt("PuzzleSolved", 0) == 1)
+        if (GameState.PuzzleSolved)
         {
-            Debug.Log("[CitySceneLoader] PuzzleSolved key found - starting sequence.");
-            PlayerPrefs.DeleteKey("PuzzleSolved");
+            GameState.PuzzleSolved = false;
+            Debug.Log("[CitySceneLoader] PuzzleSolved flag found - starting sequence.");
             StartCoroutine(SolomonSequence());
         }
         else
         {
-            Debug.Log("[CitySceneLoader] PuzzleSolved key not found - skipping sequence.");
+            Debug.Log("[CitySceneLoader] PuzzleSolved flag not found - skipping sequence.");
         }
     }
 
     private IEnumerator SolomonSequence()
     {
-        // wait 3 frames for all Awake/Start calls to finish
         yield return null;
         yield return null;
         yield return null;
 
         Debug.Log("[CitySceneLoader] Running solomon sequence.");
+
+        // move player to respawn point near gate
+        if (playerRespawnPoint != null)
+        {
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            if (player != null)
+                player.transform.position = playerRespawnPoint.position;
+            else
+                Debug.LogWarning("[CitySceneLoader] Player not found.");
+        }
 
         // open the gate
         if (PuzzleManager.Instance != null)
@@ -43,10 +53,7 @@ public class CitySceneLoader : MonoBehaviour
             Debug.Log("[CitySceneLoader] Calling TrySolve.");
             PuzzleManager.Instance.TrySolve();
         }
-        else
-        {
-            Debug.LogWarning("[CitySceneLoader] PuzzleManager not found.");
-        }
+        else Debug.LogWarning("[CitySceneLoader] PuzzleManager not found.");
 
         yield return new WaitForSeconds(1f);
 
@@ -56,22 +63,16 @@ public class CitySceneLoader : MonoBehaviour
             Debug.Log("[CitySceneLoader] Spawning Solomon.");
             Instantiate(solomonPrefab, spawnPoint.position, Quaternion.identity);
         }
-        else
-        {
-            Debug.LogWarning("[CitySceneLoader] Solomon prefab or spawn point not assigned.");
-        }
+        else Debug.LogWarning("[CitySceneLoader] Solomon prefab or spawn point not assigned.");
 
         yield return new WaitForSeconds(0.5f);
 
-        // play dialog
+        // play entrance dialog
         if (DialogManager.Instance != null)
         {
             Debug.Log("[CitySceneLoader] Playing dialog.");
             DialogManager.Instance.ShowDialog(solomonSpawnDialog);
         }
-        else
-        {
-            Debug.LogWarning("[CitySceneLoader] DialogManager not found.");
-        }
+        else Debug.LogWarning("[CitySceneLoader] DialogManager not found.");
     }
 }

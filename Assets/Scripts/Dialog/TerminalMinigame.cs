@@ -4,8 +4,6 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-// attach to empty GO in TerminalScene
-// wire buttons in inspector: element 0 = button labeled 0, element 1 = button labeled 1, etc.
 public class TerminalMinigame : MonoBehaviour
 {
     [SerializeField] private List<Button> digitButtons;
@@ -32,10 +30,8 @@ public class TerminalMinigame : MonoBehaviour
     private void OnDigitPressed(int digit)
     {
         if (enteredDigits.Count >= correctCode.Length) return;
-
         enteredDigits.Add(digit);
         UpdateDisplay();
-
         if (enteredDigits.Count == correctCode.Length)
             CheckCode();
     }
@@ -62,9 +58,8 @@ public class TerminalMinigame : MonoBehaviour
         }
 
         feedbackText.text = "ACCESS GRANTED.";
-        PlayerPrefs.SetInt("PuzzleSolved", 1);
-        PlayerPrefs.Save();
-        Debug.Log($"[TerminalMinigame] PuzzleSolved written. Verify: {PlayerPrefs.GetInt("PuzzleSolved", 0)}");
+        GameState.PuzzleSolved = true;
+        Debug.Log("[TerminalMinigame] GameState.PuzzleSolved set to true.");
 
         foreach (Button b in digitButtons) b.interactable = false;
         Invoke(nameof(LoadCityScene), loadDelay);
