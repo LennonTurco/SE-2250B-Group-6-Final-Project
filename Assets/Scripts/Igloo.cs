@@ -25,6 +25,7 @@ public class Igloo : MonoBehaviour // these igloos shoot snowballs at the player
     // update increments the timer and checks if another snowball should be shot
     private void Update()
     {
+        if (Enemy.isPaused) return; // if on the shop
         if (playerTransform == null) return;
 
         shootTimer += Time.deltaTime;

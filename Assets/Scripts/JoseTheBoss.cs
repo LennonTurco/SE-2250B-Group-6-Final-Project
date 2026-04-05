@@ -10,9 +10,10 @@ public class JoseTheBoss : MonoBehaviour
     [Header("Boss Settings")]
     [SerializeField] private int hitsToDefeat = 5;
     [SerializeField] private GameObject defeatPanel;
+    [SerializeField] private GameObject levelLoadZoneToEnable;
 
     [Header("Activation")]
-    [SerializeField] private float activationYThreshold = 10f; // boss starts firing when player Y exceeds this
+    [SerializeField] private float activationYThreshold = 40f;
 
     private float shootTimer = 0f;
     private Transform playerTransform;
@@ -23,7 +24,6 @@ public class JoseTheBoss : MonoBehaviour
 
     private void Start()
     {
-        // like the snowball shooting igloos, the timer is set to space out icicle launches
         shootTimer = shootCooldown;
 
         Player player = FindFirstObjectByType<Player>();
@@ -31,21 +31,22 @@ public class JoseTheBoss : MonoBehaviour
             playerTransform = player.transform;
 
         if (defeatPanel != null) defeatPanel.SetActive(false);
+        if (levelLoadZoneToEnable != null) levelLoadZoneToEnable.SetActive(false);
     }
 
-    // increments the timer and checks if another icicle should be shot
     private void Update()
     {
         if (defeated) return;
         if (playerTransform == null) return;
 
-        // Only start firing once player passes the Y threshold
         if (!activated)
         {
             if (playerTransform.position.y >= activationYThreshold)
             {
                 activated = true;
-                Debug.Log("[Jose] Activated! Player reached Y: " + playerTransform.position.y);
+                // Advance objective to defeat boss
+                HUDManager.Instance?.SetObjective(HUDManager.Objective.DefeatBoss);
+                Debug.Log("[Jose] Activated!");
             }
             return;
         }
@@ -58,7 +59,6 @@ public class JoseTheBoss : MonoBehaviour
         }
     }
 
-    // shoots icicle at player
     private void ShootIcicle()
     {
         if (iciclePrefab == null)
@@ -76,7 +76,6 @@ public class JoseTheBoss : MonoBehaviour
             icicle.Launch(direction, gameObject);
     }
 
-    // if the icicle collides with the player, the players health is reduced and the icicle is destroyed
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (defeated) return;
@@ -103,6 +102,7 @@ public class JoseTheBoss : MonoBehaviour
         Debug.Log("[Jose] Defeated!");
 
         if (defeatPanel != null) defeatPanel.SetActive(true);
+        if (levelLoadZoneToEnable != null) levelLoadZoneToEnable.SetActive(true);
 
         Destroy(gameObject, 2f);
     }

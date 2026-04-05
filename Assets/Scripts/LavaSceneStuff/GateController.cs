@@ -7,9 +7,14 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Collider2D))]
 public class GateController : MonoBehaviour
 {
+    private const string LavaNpcTextTag = "LavaNPCTXT";
+
     [Header("UI")]
     [SerializeField] private GameObject promptUI;
     [SerializeField] private GameObject lockedMessageUI;
+    [SerializeField] private GameObject lavaNpcTextObject;
+    [SerializeField] [TextArea] private string interactionMessage = "You need to collect the required scrolls before entering.";
+    [SerializeField] private float interactionMessageDuration = 10f;
 
     [Header("Gate State")]
     [SerializeField] private Sprite openedSprite;
@@ -22,8 +27,11 @@ public class GateController : MonoBehaviour
     private Collider2D gateCollider;
     private TMP_Text lockedMessageText;
     private Text legacyLockedMessageText;
+    private TMP_Text lavaNpcText;
+    private Text legacyLavaNpcText;
     private bool playerNearby;
     private bool opened;
+    private float interactionMessageTimer;
 
     private void Awake()
     {
@@ -43,10 +51,14 @@ public class GateController : MonoBehaviour
                     legacyLockedMessageText = lockedMessageUI.GetComponentInChildren<Text>(true);
             }
         }
+
+        CacheLavaNpcText();
     }
 
     private void Update()
     {
+        UpdateInteractionMessageTimer();
+
         if (opened || !playerNearby || Keyboard.current == null)
             return;
 
@@ -58,6 +70,7 @@ public class GateController : MonoBehaviour
     {
         if (ScrollManager.Instance == null)
         {
+            ShowInteractionMessage();
             Debug.LogWarning("[GateController] No ScrollManager found in the scene.");
             return;
         }
@@ -65,6 +78,7 @@ public class GateController : MonoBehaviour
         if (!ScrollManager.Instance.HasEnoughScrolls())
         {
             UpdateLockedMessage();
+            ShowInteractionMessage();
 
             if (lockedMessageUI != null)
                 lockedMessageUI.SetActive(true);
@@ -100,6 +114,101 @@ public class GateController : MonoBehaviour
         }
 
         Debug.Log("[GateController] Gate opened.");
+    }
+
+    private void CacheLavaNpcText()
+    {
+        GameObject targetObject = lavaNpcTextObject;
+        if (targetObject == null)
+        {
+            try
+            {
+                targetObject = GameObject.FindGameObjectWithTag(LavaNpcTextTag);
+            }
+            catch (UnityException)
+            {
+                Debug.LogWarning($"[GateController] Tag '{LavaNpcTextTag}' is not defined. Assign the lava NPC text object directly in the Inspector.");
+                return;
+            }
+        }
+
+        if (targetObject == null)
+        {
+            Debug.LogWarning($"[GateController] No object found for lava NPC text. Assign it in the Inspector or use tag '{LavaNpcTextTag}'.");
+            return;
+        }
+
+        lavaNpcText = targetObject.GetComponent<TMP_Text>();
+        if (lavaNpcText == null)
+            lavaNpcText = targetObject.GetComponentInChildren<TMP_Text>(true);
+
+        if (lavaNpcText == null)
+        {
+            legacyLavaNpcText = targetObject.GetComponent<Text>();
+            if (legacyLavaNpcText == null)
+                legacyLavaNpcText = targetObject.GetComponentInChildren<Text>(true);
+        }
+    }
+
+    private void ShowInteractionMessage()
+    {
+        if (string.IsNullOrWhiteSpace(interactionMessage))
+            return;
+
+        if (lavaNpcText == null && legacyLavaNpcText == null)
+            CacheLavaNpcText();
+
+        if (lavaNpcText != null)
+        {
+            EnsureUiHierarchyVisible(lavaNpcText.transform);
+            lavaNpcText.text = interactionMessage;
+        }
+
+        if (legacyLavaNpcText != null)
+        {
+            EnsureUiHierarchyVisible(legacyLavaNpcText.transform);
+            legacyLavaNpcText.text = interactionMessage;
+        }
+
+        interactionMessageTimer = interactionMessageDuration;
+    }
+
+    private void UpdateInteractionMessageTimer()
+    {
+        if (interactionMessageTimer <= 0f)
+            return;
+
+        interactionMessageTimer -= Time.deltaTime;
+        if (interactionMessageTimer > 0f)
+            return;
+
+        ClearInteractionMessage();
+    }
+
+    private void ClearInteractionMessage()
+    {
+        interactionMessageTimer = 0f;
+
+        if (lavaNpcText != null)
+            lavaNpcText.text = string.Empty;
+
+        if (legacyLavaNpcText != null)
+            legacyLavaNpcText.text = string.Empty;
+    }
+
+    private void EnsureUiHierarchyVisible(Transform targetTransform)
+    {
+        Transform current = targetTransform;
+        while (current != null)
+        {
+            current.gameObject.SetActive(true);
+
+            Canvas canvas = current.GetComponent<Canvas>();
+            if (canvas != null)
+                canvas.enabled = true;
+
+            current = current.parent;
+        }
     }
 
     private void UpdateLockedMessage()

@@ -12,7 +12,7 @@ public class HUDManager : MonoBehaviour
 
     [Header("Level & Boss")]
     [SerializeField] private TextMeshProUGUI levelText;
-    [SerializeField] private TextMeshProUGUI bossText;
+    [SerializeField] private TextMeshProUGUI bossText; // used as objective text
 
     [Header("Gold")]
     [SerializeField] private TextMeshProUGUI goldText;
@@ -37,17 +37,31 @@ public class HUDManager : MonoBehaviour
     private List<string> unlockedCharacters = new List<string> { "Tennon Lurco", "Antuna", "Keanu", "Jose" };
     private int currentCharacterIndex = 0;
 
+    // Objective tracking
+    public enum Objective
+    {
+        CollectCoins,
+        CollectFishingRods,
+        FindFish,
+        FindPickaxe,
+        CompleteIceMaze,
+        DefeatBoss
+    }
+
+    private Objective currentObjective = Objective.CollectCoins;
+
     private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
         Instance = this;
-        gold = 0; // reset gold for start of run
+        gold = 0;
         PlayerPrefs.SetInt("Gold", 0);
     }
 
     private void Start()
     {
         RefreshHUD();
+        SetObjective(Objective.CollectCoins);
     }
 
     private void OnEnable()
@@ -62,6 +76,8 @@ public class HUDManager : MonoBehaviour
 
     public void RefreshHUD()
     {
+        UpdateSceneHeaderText();
+
         if (goldText != null)
             goldText.text = "Gold: " + gold;
 
@@ -82,6 +98,63 @@ public class HUDManager : MonoBehaviour
                 statsText.text = "SPD: " + player.moveSpeed +
                                  "\nATK: " + player.attackDamage +
                                  "\nCD: "  + player.attackCooldown;
+        }
+    }
+
+    // Call this to advance the objective
+    public void SetObjective(Objective objective)
+    {
+        currentObjective = objective;
+        UpdateObjectiveText();
+    }
+
+    private void UpdateObjectiveText()
+    {
+        if (bossText == null) return;
+
+        if (SceneManager.GetActiveScene().name == "JungleScene")
+        {
+            bossText.text = "Objective: Solve maze!";
+            return;
+        }
+
+        if (SceneManager.GetActiveScene().name == "JungleBoss")
+        {
+            bossText.text = "Objective: Defeat Keanu!";
+            return;
+        }
+
+        switch (currentObjective)
+        {
+            case Objective.CollectCoins:
+                bossText.text = "Objective: Collect Coins";
+                break;
+            case Objective.CollectFishingRods:
+                bossText.text = "Objective: Collect Fishing Rods from the Igloos";
+                break;
+            case Objective.FindFish:
+                bossText.text = "Objective: Find 3 Fishing Rods to Get 3 Fish";
+                break;
+            case Objective.FindPickaxe:
+                bossText.text = "Objective: Find the Pickaxe in the Special Igloo";
+                break;
+            case Objective.CompleteIceMaze:
+                bossText.text = "Objective: Complete the Ice Maze";
+                break;
+            case Objective.DefeatBoss:
+                bossText.text = "Objective: Defeat Jose the Ice Mage by Colliding 5 Times";
+                break;
+        }
+    }
+
+    private void UpdateSceneHeaderText()
+    {
+        if (levelText == null) return;
+
+        string sceneName = SceneManager.GetActiveScene().name;
+        if (sceneName == "JungleScene")
+        {
+            levelText.text = "Jungle";
         }
     }
 
@@ -131,8 +204,12 @@ public class HUDManager : MonoBehaviour
     public static void AddGoldToTotal(int amount)
     {
         gold += amount;
-        PlayerPrefs.SetInt("Gold", gold); // persist
+        PlayerPrefs.SetInt("Gold", gold);
         Instance?.RefreshHUD();
+
+        // Advance objective once player hits 30 gold
+        if (gold >= 30 && Instance?.currentObjective == Objective.CollectCoins)
+            Instance?.SetObjective(Objective.CollectFishingRods);
     }
 
     public static bool SpendGoldFromTotal(int amount)
@@ -140,7 +217,7 @@ public class HUDManager : MonoBehaviour
         if (gold < amount) return false;
 
         gold -= amount;
-        PlayerPrefs.SetInt("Gold", gold); // persist after spend
+        PlayerPrefs.SetInt("Gold", gold);
         Instance?.RefreshHUD();
         return true;
     }
