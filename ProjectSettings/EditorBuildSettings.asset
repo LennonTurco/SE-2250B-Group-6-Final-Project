@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/JungleBoss.unity
     guid: 0fade76770b014c7fb8ccc656f9395c9
   - enabled: 1
+    path: Assets/Scenes/TerminalScene.unity
+    guid: d65579deca818ab4196c69e1c88f8857
+  - enabled: 1
     path: Assets/Scenes/josephIceLevel.unity
     guid: fdfdbcca2a4e041b2bb575179a6a8c2c
   m_configObjects:

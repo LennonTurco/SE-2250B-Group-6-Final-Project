@@ -118,8 +118,10 @@ MonoBehaviour:
   rb: {fileID: 0}
   anim: {fileID: 0}
   sr: {fileID: 0}
+  goldDrop: 5
   firePrefab: {fileID: 1005219721337998162, guid: d6bfeaf15bf291a4eb4da4a375578da1, type: 3}
   fireCooldown: 2
+  fireRange: 6
 --- !u!58 &4250246492579117927
 CircleCollider2D:
   m_ObjectHideFlags: 0
