@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9053578819496252525}
   - component: {fileID: 1992684355913497787}
   - component: {fileID: 8422663446480395594}
-  m_Layer: 6
+  m_Layer: 5
   m_Name: Snowball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1559554707437419804, guid: e3188b1788f5d5e4c84763159ee258db, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
