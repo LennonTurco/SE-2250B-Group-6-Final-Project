@@ -16160,7 +16160,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -720, y: 605}
   m_SizeDelta: {x: 500, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &635265801
@@ -39753,7 +39753,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GateController
   promptUI: {fileID: 0}
-  lockedMessageUI: {fileID: 635265799}
   lavaNpcTextObject: {fileID: 2014807997}
   interactionMessage: I am Eldritch, the overseer of this world. Amira, the Lava
     Queen, has kept countless poor souls trapped here in the abyss. You must defeat
@@ -41519,7 +41518,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -0.000030517578, y: 124}
+  m_AnchoredPosition: {x: -0.000030517578, y: 193}
   m_SizeDelta: {x: 1500, y: 200}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &2014807999

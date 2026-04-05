@@ -11,7 +11,6 @@ public class GateController : MonoBehaviour
 
     [Header("UI")]
     [SerializeField] private GameObject promptUI;
-    [SerializeField] private GameObject lockedMessageUI;
     [SerializeField] private GameObject lavaNpcTextObject;
     [SerializeField] [TextArea] private string interactionMessage = "You need to collect the required scrolls before entering.";
     [SerializeField] private float interactionMessageDuration = 10f;
@@ -25,8 +24,6 @@ public class GateController : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private Collider2D gateCollider;
-    private TMP_Text lockedMessageText;
-    private Text legacyLockedMessageText;
     private TMP_Text lavaNpcText;
     private Text legacyLavaNpcText;
     private bool playerNearby;
@@ -37,20 +34,6 @@ public class GateController : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         gateCollider = GetComponent<Collider2D>();
-
-        if (lockedMessageUI != null)
-        {
-            lockedMessageText = lockedMessageUI.GetComponent<TMP_Text>();
-            if (lockedMessageText == null)
-                lockedMessageText = lockedMessageUI.GetComponentInChildren<TMP_Text>(true);
-
-            if (lockedMessageText == null)
-            {
-                legacyLockedMessageText = lockedMessageUI.GetComponent<Text>();
-                if (legacyLockedMessageText == null)
-                    legacyLockedMessageText = lockedMessageUI.GetComponentInChildren<Text>(true);
-            }
-        }
 
         CacheLavaNpcText();
     }
@@ -77,11 +60,7 @@ public class GateController : MonoBehaviour
 
         if (!ScrollManager.Instance.HasEnoughScrolls())
         {
-            UpdateLockedMessage();
             ShowInteractionMessage();
-
-            if (lockedMessageUI != null)
-                lockedMessageUI.SetActive(true);
 
             Debug.Log($"[GateController] Gate locked. Need {ScrollManager.Instance.RequiredScrolls} scrolls.");
             return;
@@ -96,9 +75,6 @@ public class GateController : MonoBehaviour
 
         if (promptUI != null)
             promptUI.SetActive(false);
-
-        if (lockedMessageUI != null)
-            lockedMessageUI.SetActive(false);
 
         if (spriteRenderer != null && openedSprite != null)
             spriteRenderer.sprite = openedSprite;
@@ -211,20 +187,6 @@ public class GateController : MonoBehaviour
         }
     }
 
-    private void UpdateLockedMessage()
-    {
-        if (ScrollManager.Instance == null)
-            return;
-
-        string message = $"Gate Locked: {ScrollManager.Instance.CurrentScrolls}/{ScrollManager.Instance.RequiredScrolls} Scrolls";
-
-        if (lockedMessageText != null)
-            lockedMessageText.text = message;
-
-        if (legacyLockedMessageText != null)
-            legacyLockedMessageText.text = message;
-    }
-
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player"))
@@ -245,8 +207,5 @@ public class GateController : MonoBehaviour
 
         if (promptUI != null)
             promptUI.SetActive(false);
-
-        if (lockedMessageUI != null)
-            lockedMessageUI.SetActive(false);
     }
 }
