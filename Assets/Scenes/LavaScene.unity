@@ -28563,9 +28563,9 @@ MonoBehaviour:
   promptUI: {fileID: 0}
   lockedMessageUI: {fileID: 635265799}
   lavaNpcTextObject: {fileID: 2014807997}
-  interactionMessage: I am Eldritch, the overseer of this world. Amir, the Lava Queen,
-    has kept countless poor souls trapped here in the abyss. You must defeat her!
-    Find the 3 scrolls from chests and return back to me to save us all.
+  interactionMessage: I am Eldritch, the overseer of this world. Amira, the Lava
+    Queen, has kept countless poor souls trapped here in the abyss. You must defeat
+    her! Find the 3 scrolls from chests and return back to me to save us all.
   interactionMessageDuration: 10
   openedSprite: {fileID: 0}
   disableColliderWhenOpened: 1

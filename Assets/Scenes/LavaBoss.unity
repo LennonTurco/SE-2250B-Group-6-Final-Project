@@ -2852,6 +2852,7 @@ GameObject:
   - component: {fileID: 566570824}
   - component: {fileID: 566570823}
   - component: {fileID: 566570822}
+  - component: {fileID: 566570826}
   m_Layer: 0
   m_Name: LevelLoadZone
   m_TagString: Untagged
@@ -2908,7 +2909,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 2
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 8529910793743118104, guid: 63c2b57b8773246daad16392fe580d93, type: 3}
+  m_Sprite: {fileID: 7773031391787181946, guid: 7c21358d5cdc14a7abc076f8c4ee0b1b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2956,13 +2957,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1.6875}
+    oldSize: {x: 0.64, y: 0.64}
     newSize: {x: 1.4375, y: 1.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.6, y: 0.65}
   m_EdgeRadius: 0
 --- !u!114 &566570824
 MonoBehaviour:
@@ -2989,12 +2990,34 @@ Transform:
   m_GameObject: {fileID: 566570821}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.5, y: 4.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.4, y: -0.86, z: 0}
+  m_LocalScale: {x: 3.8712, y: 6.0087, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &566570826
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566570821}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d309107c674544d18bed0403eeb9ac82, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &568162849 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7681920417496710254, guid: 061d16aab64ae4a2d9ec4fa3f4e0f94f, type: 3}
@@ -8624,7 +8647,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 1000
   m_MaskInteraction: 0
   m_Sprite: {fileID: 4723107735738678597, guid: 7c1d8d77949c0114a8e971115fef38dc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
