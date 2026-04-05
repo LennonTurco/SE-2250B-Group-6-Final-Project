@@ -6,7 +6,7 @@ public class Fire : Entity
 {
     [Header("Projectile Settings")]
     [SerializeField] private float lifetime = 5f;
-
+        
     [Header("Direction")]
     public float dx;
     public float dy;
@@ -26,9 +26,6 @@ public class Fire : Entity
         {
             col.isTrigger = true;
         }
-
-        moveSpeed = 2f;
-        collisionDamage = 10f;
     }
 
     protected override void Start()
