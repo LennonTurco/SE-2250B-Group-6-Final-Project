@@ -10,6 +10,7 @@ public class AntunaBoss : Enemy
     private float bombTimer = 0f;
     private float teleportTimer = 0f;
     private bool isTeleporting = false;
+    public bool isFighting = false;
 
     protected override void Start()
     {
@@ -27,6 +28,7 @@ public class AntunaBoss : Enemy
 
     protected override void HandleAI()
     {
+        if (!isFighting) return;
         if (target == null || isTeleporting) return;
 
         // Teleport timing
@@ -89,6 +91,11 @@ public class AntunaBoss : Enemy
                 ShootBomb();
             }
         }
+    }
+
+    public void TeleportToCenter()
+    {
+        transform.position = new Vector2(-11.5f, 44f);
     }
 
     private System.Collections.IEnumerator TeleportToRandomPosition()
@@ -157,6 +164,19 @@ public class AntunaBoss : Enemy
         Bomb bombScript = bombObj.GetComponent<Bomb>();
     }
 
-    // -17 to -6
-    // 40 to 48
+    protected override void Die()
+    {
+        Player player = FindFirstObjectByType<Player>();
+        if (player != null)
+        {
+            if (player.numCharactersUnlocked < 2)
+            {
+                player.numCharactersUnlocked = 2;
+                player.SaveStats();
+                Debug.Log("AntunaBoss Defeated! Unlocked Noble character.");
+            }
+        }
+        
+        base.Die();
+    }
 }
