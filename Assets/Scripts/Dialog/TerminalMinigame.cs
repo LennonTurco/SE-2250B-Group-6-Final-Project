@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine.SceneManagement;
 
 // attach to empty GO in TerminalScene
-// wire 9 buttons in order 1-9 in inspector
+// wire buttons in inspector: element 0 = button labeled 0, element 1 = button labeled 1, etc.
 public class TerminalMinigame : MonoBehaviour
 {
     [SerializeField] private List<Button> digitButtons;
@@ -24,7 +24,7 @@ public class TerminalMinigame : MonoBehaviour
 
         for (int i = 0; i < digitButtons.Count; i++)
         {
-            int digit = i + 1;
+            int digit = i;
             digitButtons[i].onClick.AddListener(() => OnDigitPressed(digit));
         }
     }
