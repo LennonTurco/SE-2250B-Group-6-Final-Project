@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// attach to empty GO in CityScene
-// fires solomon spawn sequence when returning from terminal
 public class CitySceneLoader : MonoBehaviour
 {
     [SerializeField] private GameObject solomonPrefab;
@@ -20,30 +18,60 @@ public class CitySceneLoader : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("PuzzleSolved", 0) == 1)
         {
+            Debug.Log("[CitySceneLoader] PuzzleSolved key found - starting sequence.");
             PlayerPrefs.DeleteKey("PuzzleSolved");
             StartCoroutine(SolomonSequence());
+        }
+        else
+        {
+            Debug.Log("[CitySceneLoader] PuzzleSolved key not found - skipping sequence.");
         }
     }
 
     private IEnumerator SolomonSequence()
     {
-        // wait a frame for scene to fully initialize
+        // wait 3 frames for all Awake/Start calls to finish
         yield return null;
+        yield return null;
+        yield return null;
+
+        Debug.Log("[CitySceneLoader] Running solomon sequence.");
 
         // open the gate
         if (PuzzleManager.Instance != null)
+        {
+            Debug.Log("[CitySceneLoader] Calling TrySolve.");
             PuzzleManager.Instance.TrySolve();
+        }
+        else
+        {
+            Debug.LogWarning("[CitySceneLoader] PuzzleManager not found.");
+        }
 
         yield return new WaitForSeconds(1f);
 
         // spawn solomon
         if (solomonPrefab != null && spawnPoint != null)
+        {
+            Debug.Log("[CitySceneLoader] Spawning Solomon.");
             Instantiate(solomonPrefab, spawnPoint.position, Quaternion.identity);
+        }
+        else
+        {
+            Debug.LogWarning("[CitySceneLoader] Solomon prefab or spawn point not assigned.");
+        }
 
         yield return new WaitForSeconds(0.5f);
 
-        // play entrance dialog
+        // play dialog
         if (DialogManager.Instance != null)
+        {
+            Debug.Log("[CitySceneLoader] Playing dialog.");
             DialogManager.Instance.ShowDialog(solomonSpawnDialog);
+        }
+        else
+        {
+            Debug.LogWarning("[CitySceneLoader] DialogManager not found.");
+        }
     }
 }

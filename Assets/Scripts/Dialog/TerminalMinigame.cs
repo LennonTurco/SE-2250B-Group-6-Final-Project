@@ -64,6 +64,7 @@ public class TerminalMinigame : MonoBehaviour
         feedbackText.text = "ACCESS GRANTED.";
         PlayerPrefs.SetInt("PuzzleSolved", 1);
         PlayerPrefs.Save();
+        Debug.Log($"[TerminalMinigame] PuzzleSolved written. Verify: {PlayerPrefs.GetInt("PuzzleSolved", 0)}");
 
         foreach (Button b in digitButtons) b.interactable = false;
         Invoke(nameof(LoadCityScene), loadDelay);
