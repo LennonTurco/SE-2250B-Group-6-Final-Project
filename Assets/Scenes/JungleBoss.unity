@@ -14180,7 +14180,7 @@ MonoBehaviour:
   firePoint: {fileID: 545471521}
   target: {fileID: 1552827716}
   projectilesPerShot: 4
-  projectileSpeed: 10
+  projectileSpeed: 7
   fireInterval: 4
   spreadAngle: 38
   projectileDamage: 10
