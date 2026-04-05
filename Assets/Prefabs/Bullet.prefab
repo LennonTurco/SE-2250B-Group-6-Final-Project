@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2356046100086196055}
   - component: {fileID: 6600141399949926832}
   m_Layer: 0
-  m_Name: Fire
+  m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,8 +84,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 100
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 6211036013863027259, guid: a236df42964b9fd4fb45c5f73f72fbdf, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: -8171958947958391838, guid: 0af5018f8eaedd7479e5da58305fbe67, type: 3}
+  m_Color: {r: 0.2528302, g: 0.2513991, b: 0.2513991, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -134,12 +134,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Fire
   maxHealth: 100
-  moveSpeed: 2
-  attackDamage: 10
+  moveSpeed: 5
+  attackDamage: 5
   attackCooldown: 1
   invulTime: 0
   isInvul: 0
-  collisionDamage: 10
+  collisionDamage: 5
   currentHealth: 0
   isDead: 0
   facingDirection: {x: 0, y: -1}
