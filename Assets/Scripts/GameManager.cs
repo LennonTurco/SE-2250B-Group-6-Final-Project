@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// attach to a GO in the first scene only (desert/starting biome)
+// attach to a GO in the first scene only (switched it to the storyline scene)
 public class GameManager : MonoBehaviour
 {
     [SerializeField] private bool isFirstScene = true;
