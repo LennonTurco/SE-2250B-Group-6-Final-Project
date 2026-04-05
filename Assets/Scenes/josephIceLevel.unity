@@ -29636,6 +29636,7 @@ GameObject:
   - component: {fileID: 450967234}
   - component: {fileID: 450967233}
   - component: {fileID: 450967232}
+  - component: {fileID: 450967235}
   m_Layer: 5
   m_Name: WinPanel
   m_TagString: Untagged
@@ -29701,6 +29702,20 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &450967235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 450967231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0cb1a3f009364366b235db839436af9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DefeatScreenLoader
+  delay: 10
+  nextScene: LavaScene
 --- !u!1 &459874351
 GameObject:
   m_ObjectHideFlags: 0
@@ -32695,6 +32710,7 @@ MonoBehaviour:
   spawnOffset: 0.8
   hitsToDefeat: 5
   defeatPanel: {fileID: 450967231}
+  levelLoadZoneToEnable: {fileID: 0}
   activationYThreshold: 40.75
 --- !u!58 &845407737
 CircleCollider2D:
