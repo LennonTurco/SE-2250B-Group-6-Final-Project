@@ -9,7 +9,7 @@ public class Coin : MonoBehaviour
         Debug.Log("Trigger hit by: " + other.name + " Tag: " + other.tag);
         if (other.CompareTag("Player"))
         {
-            IceHUDManager.AddGoldToTotal(pointValue);
+            HUDManager.AddGoldToTotal(pointValue);
             Destroy(gameObject);
         }
     }

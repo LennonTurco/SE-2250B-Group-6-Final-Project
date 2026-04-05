@@ -31,7 +31,7 @@ public class ShopManagerScript : MonoBehaviour
     private void RefreshUI()
     {
         if (coinsTxt != null)
-            coinsTxt.text = "Gold: " + IceHUDManager.GetGoldTotal();
+            coinsTxt.text = "Gold: " + HUDManager.GetGoldTotal();
 
         var stock = shop.GetStock();
         for (int i = 0; i < buttons.Length; i++)

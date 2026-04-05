@@ -64,7 +64,7 @@ public class Shop
 
         ShopItem item = stock[index];
 
-        if (!IceHUDManager.SpendGoldFromTotal(item.cost))
+        if (!HUDManager.SpendGoldFromTotal(item.cost))
         {
             Debug.Log("[Shop] Not enough gold for " + item.name);
             return false;

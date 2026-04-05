@@ -3,9 +3,9 @@ using TMPro;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
-public class IceHUDManager : MonoBehaviour
+public class HUDManager : MonoBehaviour
 {
-    public static IceHUDManager Instance { get; private set; }
+    public static HUDManager Instance { get; private set; }
 
     [Header("Health")]
     [SerializeField] private TextMeshProUGUI healthText;

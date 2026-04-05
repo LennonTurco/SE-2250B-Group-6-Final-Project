@@ -47,9 +47,9 @@ public class FishingRodNPC : MonoBehaviour
     // adjusts the HUD and your inventory if you make the trade
     private void OnTrade()
     {
-        if (IceHUDManager.GetGoldTotal() >= cost)
+        if (HUDManager.GetGoldTotal() >= cost)
         {
-            IceHUDManager.SpendGoldFromTotal(cost);
+            HUDManager.SpendGoldFromTotal(cost);
             alreadyTraded = true;
 
             // Add fishing rod via InventoryManager (handles UI count)

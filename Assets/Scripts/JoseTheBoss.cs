@@ -45,7 +45,7 @@ public class JoseTheBoss : MonoBehaviour
             {
                 activated = true;
                 // Advance objective to defeat boss
-                IceHUDManager.Instance?.SetObjective(IceHUDManager.Objective.DefeatBoss);
+                HUDManager.Instance?.SetObjective(HUDManager.Objective.DefeatBoss);
                 Debug.Log("[Jose] Activated!");
             }
             return;

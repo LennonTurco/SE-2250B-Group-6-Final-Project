@@ -104,7 +104,7 @@ public class NPCShopTrigger2D : MonoBehaviour
                 }
                 PlayerPrefs.DeleteKey("PendingCount");
 
-                IceHUDManager.Instance?.RefreshHUD();
+                HUDManager.Instance?.RefreshHUD();
 
                 shopPlayer.isInvul = originalPlayerInvulState;
                 shopPlayer = null;

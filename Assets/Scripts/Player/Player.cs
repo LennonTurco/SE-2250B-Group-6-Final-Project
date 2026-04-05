@@ -49,7 +49,7 @@ public class Player : Entity
         PlayerPrefs.DeleteKey("PendingCount");
 
         // refresh hud now that player is fully initialized
-        IceHUDManager.Instance?.RefreshHUD();
+        HUDManager.Instance?.RefreshHUD();
     }
 
     protected override void Die()
@@ -71,7 +71,7 @@ public class Player : Entity
         // stop movement
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
-        IceHUDManager.Instance?.RefreshHUD();
+        HUDManager.Instance?.RefreshHUD();
         Debug.Log("[Player] Respawned at " + spawnPoint);
     }
 
@@ -126,6 +126,6 @@ public class Player : Entity
 
     public bool SpendGold(int amount)
     {
-        return IceHUDManager.SpendGoldFromTotal(amount); // delegate to hud
+        return HUDManager.SpendGoldFromTotal(amount); // delegate to hud
     }
 }

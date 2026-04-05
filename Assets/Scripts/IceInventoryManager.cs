@@ -62,7 +62,7 @@ public class IceInventoryManager : MonoBehaviour
 
         // Advance objective on first fishing rod
         if (fishingRodCount == 1)
-            IceHUDManager.Instance?.SetObjective(IceHUDManager.Objective.FindFish);
+            HUDManager.Instance?.SetObjective(HUDManager.Objective.FindFish);
 
         Debug.Log("[Inventory] Fishing rods: " + fishingRodCount);
     }
@@ -103,7 +103,7 @@ public class IceInventoryManager : MonoBehaviour
         if (fullMapBoundaries != null) fullMapBoundaries.SetActive(true);
 
         // Advance objective
-        IceHUDManager.Instance?.SetObjective(IceHUDManager.Objective.CompleteIceMaze);
+        HUDManager.Instance?.SetObjective(HUDManager.Objective.CompleteIceMaze);
 
         Debug.Log("[Inventory] Ice Pickaxe obtained! Maze and boss revealed.");
     }
@@ -134,7 +134,7 @@ public class IceInventoryManager : MonoBehaviour
         if (specialIgloo != null) specialIgloo.SetActive(true);
 
         // Advance objective
-        IceHUDManager.Instance?.SetObjective(IceHUDManager.Objective.FindPickaxe);
+        HUDManager.Instance?.SetObjective(HUDManager.Objective.FindPickaxe);
 
         Invoke(nameof(HidePolarBearMessage), 5f);
     }
