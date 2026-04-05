@@ -76,6 +76,8 @@ public class HUDManager : MonoBehaviour
 
     public void RefreshHUD()
     {
+        UpdateSceneHeaderText();
+
         if (goldText != null)
             goldText.text = "Gold: " + gold;
 
@@ -110,6 +112,18 @@ public class HUDManager : MonoBehaviour
     {
         if (bossText == null) return;
 
+        if (SceneManager.GetActiveScene().name == "JungleScene")
+        {
+            bossText.text = "Objective: Solve maze!";
+            return;
+        }
+
+        if (SceneManager.GetActiveScene().name == "JungleBoss")
+        {
+            bossText.text = "Objective: Defeat Keanu!";
+            return;
+        }
+
         switch (currentObjective)
         {
             case Objective.CollectCoins:
@@ -130,6 +144,17 @@ public class HUDManager : MonoBehaviour
             case Objective.DefeatBoss:
                 bossText.text = "Objective: Defeat Jose the Ice Mage by Colliding 5 Times";
                 break;
+        }
+    }
+
+    private void UpdateSceneHeaderText()
+    {
+        if (levelText == null) return;
+
+        string sceneName = SceneManager.GetActiveScene().name;
+        if (sceneName == "JungleScene")
+        {
+            levelText.text = "Jungle";
         }
     }
 
