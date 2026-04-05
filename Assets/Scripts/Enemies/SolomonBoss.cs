@@ -75,14 +75,17 @@ public class SolomonBoss : Enemy
         visualRenderer = GetComponentInChildren<SpriteRenderer>();
         moveSpeed = p1MoveSpeed;
 
-        // find health bar at runtime since solomon is spawned dynamically
         if (healthBar == null)
         {
             GameObject sliderGO = GameObject.Find("Slider");
             if (sliderGO != null)
                 healthBar = sliderGO.GetComponent<UnityEngine.UI.Slider>();
-            else
-                Debug.LogWarning("[SolomonBoss] Health bar slider not found.");
+        }
+
+        if (healthBar != null)
+        {
+            CanvasGroup cg = healthBar.GetComponent<CanvasGroup>();
+            if (cg != null) cg.alpha = 1f;
         }
 
         UpdateHealthBar();
@@ -326,7 +329,13 @@ public class SolomonBoss : Enemy
     {
         rb.linearVelocity = Vector2.zero;
         StopAllCoroutines();
-        if (healthBar != null) healthBar.gameObject.SetActive(false);
+
+        if (healthBar != null)
+        {
+            CanvasGroup cg = healthBar.GetComponent<CanvasGroup>();
+            if (cg != null) cg.alpha = 0f;
+        }
+
         Debug.Log("[SolomonBoss] Defeated!");
         base.Die();
     }
