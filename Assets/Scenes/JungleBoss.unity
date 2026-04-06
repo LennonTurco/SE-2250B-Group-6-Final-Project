@@ -14166,23 +14166,29 @@ MonoBehaviour:
   m_GameObject: {fileID: 545471517}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 387d23458e89e4f1a8a819750db7e535, type: 3}
+  m_Script: {fileID: 11500000, guid: 7f9a2e3d4c0b41d3a5e6f71829bc54de, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LavaBoss
-  maxHealth: 100
+  m_EditorClassIdentifier: Assembly-CSharp::JungleBoss
+  maxHealth: 250
   levelLoadZoneToEnable: {fileID: 1585989766}
-  moveSpeed: 4
-  roamRadius: 17
-  destinationThreshold: 0.3
-  moveDuration: 5
-  pauseDuration: 0.5
+  playerAppearanceDuration: 1.5
+  playerDisappearanceDuration: 0.75
+  repositionSquareSize: 8
+  repositionPadding: 0.35
+  shotsBeforeDisappear: 1
   projectilePrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
-  firePoint: {fileID: 0}
-  target: {fileID: 0}
-  projectilesPerShot: 3
-  projectileSpeed: 10
+  firePoint: {fileID: 545471521}
+  target: {fileID: 1552827716}
+  projectilesPerShot: 4
+  projectileSpeed: 7
   fireInterval: 4
-  spreadAngle: 25
+  spreadAngle: 38
+  projectileDamage: 10
+  smokeEffectPrefab: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+  smokeEffectLifetime: 1.1
+  spawnSmokeOnDisappear: 1
+  spawnSmokeOnAppear: 1
+  projectileTag: NinjaStar
   initialDelay: 1
   spriteRenderer: {fileID: 0}
   animationFrameRate: 8
@@ -14194,6 +14200,20 @@ MonoBehaviour:
   - {fileID: -5540648042656198855, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
   idleRight:
   - {fileID: 3929453942698372637, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
+  shootUp:
+  - {fileID: 731033340, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
+  shootDown:
+  - {fileID: -1379021930, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
+  shootLeft:
+  - {fileID: 52916858, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
+  shootRight:
+  - {fileID: 868069719, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
+  shootAnimationDuration: 0.05
+  moveSpeed: 3
+  roamRadius: 15
+  destinationThreshold: 0.3
+  moveDuration: 5
+  pauseDuration: 2
   walkUp:
   - {fileID: 160890277334083914, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
   - {fileID: -2764029711273647405, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
@@ -14212,15 +14232,6 @@ MonoBehaviour:
   - {fileID: -3086720242725003937, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
   - {fileID: 3929453942698372637, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
   - {fileID: -1778605668, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
-  shootUp:
-  - {fileID: 731033340, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
-  shootDown:
-  - {fileID: -1379021930, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
-  shootLeft:
-  - {fileID: 52916858, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
-  shootRight:
-  - {fileID: 868069719, guid: a54230729d5f3e345bc9176a68469c3d, type: 3}
-  shootAnimationDuration: 0.05
   healthBar: {fileID: 1198927144}
 --- !u!212 &545471520
 SpriteRenderer:
@@ -40329,7 +40340,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 2
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7773031391787181946, guid: 7c21358d5cdc14a7abc076f8c4ee0b1b, type: 3}
+  m_Sprite: {fileID: 8529910793743118104, guid: 63c2b57b8773246daad16392fe580d93, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -40377,7 +40388,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.64, y: 0.64}
+    oldSize: {x: 1, y: 1.6875}
     newSize: {x: 1.4375, y: 1.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -40410,8 +40421,8 @@ Transform:
   m_GameObject: {fileID: 1585989766}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.4, y: -0.86, z: 0}
-  m_LocalScale: {x: 3.8712, y: 6.0087, z: 1}
+  m_LocalPosition: {x: -0.8934, y: -4.899, z: 0}
+  m_LocalScale: {x: 1.2844642, y: 1.2215687, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -53989,6 +54000,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6346482577486952033, guid: c6609e577f9c04d18a1fe55bec56a5e4, type: 3}
   m_PrefabInstance: {fileID: 2139481145}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9079003066058551673
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_Name
+      value: KeanuSmoke
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589751084697783388, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -54011,3 +54083,4 @@ SceneRoots:
   - {fileID: 1135787534}
   - {fileID: 1585989771}
   - {fileID: 1208834003}
+  - {fileID: 9079003066058551673}

@@ -40,6 +40,7 @@ public class HUDManager : MonoBehaviour
     // Objective tracking
     public enum Objective
     {
+        TalkToSkeleton,
         CollectCoins,
         CollectFishingRods,
         FindFish,
@@ -61,7 +62,7 @@ public class HUDManager : MonoBehaviour
     private void Start()
     {
         RefreshHUD();
-        SetObjective(Objective.CollectCoins);
+        RefreshSceneObjective();
     }
 
     private void OnEnable()
@@ -114,7 +115,9 @@ public class HUDManager : MonoBehaviour
 
         if (SceneManager.GetActiveScene().name == "JungleScene")
         {
-            bossText.text = "Objective: Solve maze!";
+            bossText.text = currentObjective == Objective.TalkToSkeleton
+                ? "Objective: Talk to Skeleton"
+                : "Objective: Solve maze!";
             return;
         }
 
@@ -126,6 +129,9 @@ public class HUDManager : MonoBehaviour
 
         switch (currentObjective)
         {
+            case Objective.TalkToSkeleton:
+                bossText.text = "Objective: Talk to Skeleton";
+                break;
             case Objective.CollectCoins:
                 bossText.text = "Objective: Collect Coins";
                 break;
@@ -230,5 +236,25 @@ public class HUDManager : MonoBehaviour
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         RefreshHUD();
+        RefreshSceneObjective();
+    }
+
+    public void RefreshSceneObjective()
+    {
+        string sceneName = SceneManager.GetActiveScene().name;
+
+        if (sceneName == "JungleScene")
+        {
+            SetObjective(JungleProgressState.HasSeenSkeletonHint() ? Objective.CollectCoins : Objective.TalkToSkeleton);
+            return;
+        }
+
+        if (sceneName == "JungleBoss")
+        {
+            UpdateObjectiveText();
+            return;
+        }
+
+        SetObjective(Objective.CollectCoins);
     }
 }

@@ -1,47 +1,29 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Collider2D))]
 public class BossProjectile : MonoBehaviour
 {
     [SerializeField] private float damage = 15f;
-    [SerializeField] private float speed = 6f;
     [SerializeField] private float lifetime = 5f;
 
     private Vector2 direction = Vector2.right;
+    private float speed = 6f;
     private Rigidbody2D rb;
     private GameObject owner;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        if (rb == null)
-        {
-            rb = gameObject.AddComponent<Rigidbody2D>();
-            rb.gravityScale = 0f;
-            rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
-        }
-
-        if (rb != null)
-        {
-            rb.isKinematic = true;
-        }
+        rb.gravityScale = 0f;
+        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
+        rb.bodyType = RigidbodyType2D.Dynamic;; // dynamic so triggers fire correctly
     }
 
     private void Start()
     {
+        rb.linearVelocity = direction * speed;
         Destroy(gameObject, lifetime);
-    }
-
-    private void FixedUpdate()
-    {
-        if (rb != null)
-        {
-            rb.MovePosition(rb.position + direction * speed * Time.fixedDeltaTime);
-        }
-        else
-        {
-            transform.Translate(direction * speed * Time.fixedDeltaTime);
-        }
     }
 
     public void Initialize(Vector2 moveDirection, float moveSpeed)
@@ -60,11 +42,11 @@ public class BossProjectile : MonoBehaviour
     {
         if (owner != null)
         {
-            if (other.gameObject == owner || other.transform.root.gameObject == owner)
-            {
-                return;
-            }
+            if (other.gameObject == owner || other.transform.root.gameObject == owner) return;
         }
+
+        if (other.GetComponent<SolomonBoss>() != null) return;
+        if (other.GetComponent<BossProjectile>() != null) return;
 
         Player player = other.GetComponent<Player>();
         if (player != null)
@@ -73,9 +55,6 @@ public class BossProjectile : MonoBehaviour
             Destroy(gameObject);
             return;
         }
-
-        if (other.GetComponent<SolomonBoss>() != null) return;
-        if (other.GetComponent<BossProjectile>() != null) return;
 
         Destroy(gameObject);
     }

@@ -62,6 +62,14 @@ public class TossedCoin : Entity
             return;
         }
 
+        JungleBoss jungleBoss = hitObject.GetComponentInParent<JungleBoss>();
+        if (jungleBoss != null)
+        {
+            jungleBoss.TakeDamage(collisionDamage);
+            Die();
+            return;
+        }
+
         // Check if we hit an enemy
         Enemy enemy = hitObject.GetComponentInParent<Enemy>();
         if (enemy != null)

@@ -9,7 +9,7 @@ public class Player : Entity
     protected override void Awake()
     {
         base.Awake();
-        PlayerPrefs.DeleteAll();
+        // removed this so upgrades persist
     }
 
     protected override void Start()

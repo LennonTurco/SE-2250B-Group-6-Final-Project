@@ -10,6 +10,7 @@ public class LevelLoadZone : MonoBehaviour
 
     // optional - only allow loading if puzzle is solved
     [SerializeField] private bool requiresPuzzleSolved = false;
+    [SerializeField] private bool requiresJungleSkeletonHint = false;
 
     [SerializeField] private List<string> blockedLines = new List<string>
     {
@@ -22,6 +23,12 @@ public class LevelLoadZone : MonoBehaviour
         if (string.IsNullOrEmpty(sceneToLoad)) return;
 
         if (requiresPuzzleSolved && PuzzleManager.Instance != null && !PuzzleManager.Instance.IsSolved())
+        {
+            DialogManager.Instance?.ShowDialog(blockedLines);
+            return;
+        }
+
+        if (requiresJungleSkeletonHint && !JungleProgressState.HasSeenSkeletonHint())
         {
             DialogManager.Instance?.ShowDialog(blockedLines);
             return;

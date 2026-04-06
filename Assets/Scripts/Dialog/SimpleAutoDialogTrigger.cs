@@ -7,6 +7,7 @@ public class SimpleAutoDialogTrigger : MonoBehaviour
     [TextArea]
     [SerializeField] private string line = "LOL! I love wasting your time! The real challenge is southeast of here!";
     [SerializeField] private bool triggerOnce = true;
+    [SerializeField] private bool marksJungleSkeletonHintSeen = false;
 
     private bool hasTriggered;
 
@@ -30,5 +31,11 @@ public class SimpleAutoDialogTrigger : MonoBehaviour
 
         hasTriggered = true;
         DialogManager.Instance.ShowDialog(new List<string> { line });
+
+        if (marksJungleSkeletonHintSeen)
+        {
+            JungleProgressState.MarkSkeletonHintSeen();
+            HUDManager.Instance?.RefreshSceneObjective();
+        }
     }
 }

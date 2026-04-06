@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(Animator))]
-public class AnimationSetSwitcher : MonoBehaviour
+public class AnimationSetSwitcherLava : MonoBehaviour
 {
     [Header("Animator target")]
     [SerializeField] private Animator animator;
