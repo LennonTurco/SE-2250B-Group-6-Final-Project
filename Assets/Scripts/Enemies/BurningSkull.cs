@@ -6,6 +6,8 @@ public class BurningSkull : Enemy
     [SerializeField] private GameObject firePrefab; // Drag the Fire prefab here in the Inspector
     [SerializeField] private float fireCooldown = 2f;
     [SerializeField] private float fireRange = 6f;
+    [SerializeField] private float projectileSpeed = 5f;
+    [SerializeField] private float projectileDamage = 10f;
     
     private float fireTimer = 0f;
 
@@ -49,17 +51,29 @@ public class BurningSkull : Enemy
             return;
         }
 
-        GameObject fireObj = Instantiate(firePrefab, transform.position, Quaternion.identity);
-        Fire fireScript = fireObj.GetComponent<Fire>();
+        Vector2 direction = (target.position - transform.position).normalized;
+        Vector2 spawnPosition = (Vector2)transform.position + (direction * 0.6f);
+        GameObject fireObj = Instantiate(firePrefab, spawnPosition, Quaternion.identity);
 
+        ShurikenProjectile shurikenProjectile = fireObj.GetComponent<ShurikenProjectile>();
+        if (shurikenProjectile != null)
+        {
+            shurikenProjectile.Initialize(direction, projectileSpeed, projectileDamage, gameObject);
+            return;
+        }
+
+        Fire fireScript = fireObj.GetComponent<Fire>();
         if (fireScript != null)
         {
-            // Calculate direction to the target
-            Vector2 direction = (target.position - transform.position).normalized;
-            
-            // Set the dx and dy on the Fire script
             fireScript.dx = direction.x;
             fireScript.dy = direction.y;
+            return;
+        }
+
+        Rigidbody2D projectileRb = fireObj.GetComponent<Rigidbody2D>();
+        if (projectileRb != null)
+        {
+            projectileRb.linearVelocity = direction * projectileSpeed;
         }
     }
 }

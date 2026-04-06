@@ -281,7 +281,7 @@ public class JungleBoss : MonoBehaviour
             ShurikenProjectile shuriken = projectileInstance.GetComponent<ShurikenProjectile>();
             if (shuriken != null)
             {
-                shuriken.Initialize(shotDirection, projectileSpeed, projectileDamage);
+                shuriken.Initialize(shotDirection, projectileSpeed, projectileDamage, gameObject);
                 continue;
             }
 

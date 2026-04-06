@@ -7,6 +7,7 @@ public class ShurikenProjectile : MonoBehaviour
     private float speed = 8f;
     private Vector2 direction;
     private Rigidbody2D rb;
+    private GameObject owner;
 
     private void Awake()
     {
@@ -26,6 +27,12 @@ public class ShurikenProjectile : MonoBehaviour
         if (rb != null) rb.linearVelocity = direction * speed;
     }
 
+    public void Initialize(Vector2 dir, float moveSpeed, float dmg, GameObject projectileOwner)
+    {
+        owner = projectileOwner;
+        Initialize(dir, moveSpeed, dmg);
+    }
+
     private void Start()
     {
         // fallback if Initialize wasn't called before Start
@@ -37,6 +44,14 @@ public class ShurikenProjectile : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (owner != null)
+        {
+            if (other.gameObject == owner || other.transform.root.gameObject == owner)
+            {
+                return;
+            }
+        }
+
         if (other.GetComponent<NinjaEnemy>() != null) return;
         if (other.GetComponent<JungleBoss>() != null) return;
         if (other.GetComponent<ShurikenProjectile>() != null) return;
