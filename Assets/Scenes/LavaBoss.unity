@@ -2150,7 +2150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 387d23458e89e4f1a8a819750db7e535, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LavaBoss
-  maxHealth: 300
+  maxHealth: 1500
   levelLoadZoneToEnable: {fileID: 566570821}
   moveSpeed: 3.5
   roamRadius: 12
@@ -2979,6 +2979,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   sceneToLoad: CityScene
   requiresPuzzleSolved: 0
+  requiresJungleSkeletonHint: 0
   blockedLines:
   - You can't leave yet. Finish what you started.
 --- !u!4 &566570825
@@ -5867,9 +5868,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 100
+  m_SortingLayerID: 1323342617
+  m_SortingLayer: 1
+  m_SortingOrder: 32767
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2504461236383077340, guid: 6fd4ba49bf3ca44f5b0573e2cd77a34c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8067,7 +8068,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 12
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -8490,6 +8491,7 @@ MonoBehaviour:
   rb: {fileID: 0}
   anim: {fileID: 0}
   sr: {fileID: 0}
+  numCharactersUnlocked: 1
 --- !u!95 &1818474459
 Animator:
   serializedVersion: 7
@@ -8755,9 +8757,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1000
+  m_SortingLayerID: 1323342617
+  m_SortingLayer: 1
+  m_SortingOrder: 32766
   m_MaskInteraction: 0
   m_Sprite: {fileID: 4723107735738678597, guid: 7c1d8d77949c0114a8e971115fef38dc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

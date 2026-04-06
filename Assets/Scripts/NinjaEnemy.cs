@@ -27,6 +27,13 @@ public class NinjaEnemy : Enemy
     {
         if (target == null || isFiring) return;
 
+        if (PlayerShadowStealth.Instance != null && PlayerShadowStealth.Instance.IsHiddenInShadow)
+        {
+            fireTimer = 0f;
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
         // stand still
         rb.linearVelocity = Vector2.zero;
 
