@@ -144,7 +144,7 @@ MonoBehaviour:
   maxHealth: 60
   moveSpeed: 5
   attackDamage: 10
-  attackCooldown: 1.5
+  attackCooldown: 2
   invulTime: 0
   isInvul: 0
   collisionDamage: 0
@@ -156,4 +156,4 @@ MonoBehaviour:
   sr: {fileID: 0}
   goldDrop: 5
   bulletPrefab: {fileID: 1005219721337998162, guid: 001a5a3305a8aa249b26c01c960ae5b5, type: 3}
-  fireRange: 15
+  fireRange: 12

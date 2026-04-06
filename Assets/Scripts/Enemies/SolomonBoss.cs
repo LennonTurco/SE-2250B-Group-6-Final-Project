@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class SolomonBoss : Enemy
 {
@@ -337,6 +338,7 @@ public class SolomonBoss : Enemy
         }
 
         Debug.Log("[SolomonBoss] Defeated!");
+        SceneManager.LoadScene("ending");
         base.Die();
     }
 }

@@ -4,6 +4,7 @@ public class Player : Entity
 {
     // ── private ──────────────────────────────
     private Vector3 spawnPoint;
+    public int numCharactersUnlocked = 1;
 
     protected override void Awake()
     {
@@ -104,12 +105,13 @@ public class Player : Entity
 
     // ── stat persistence ─────────────────────
 
-    private void SaveStats()
+    public void SaveStats()
     {
         PlayerPrefs.SetFloat("Stat_MoveSpeed",      moveSpeed);
         PlayerPrefs.SetFloat("Stat_AttackDamage",   attackDamage);
         PlayerPrefs.SetFloat("Stat_MaxHP",          maxHealth);
         PlayerPrefs.SetFloat("Stat_AttackCooldown", attackCooldown);
+        PlayerPrefs.SetInt("Stat_NumCharactersUnlocked", numCharactersUnlocked);
     }
 
     private void LoadStats()
@@ -122,6 +124,8 @@ public class Player : Entity
             maxHealth      = PlayerPrefs.GetFloat("Stat_MaxHP");
         if (PlayerPrefs.HasKey("Stat_AttackCooldown"))
             attackCooldown = PlayerPrefs.GetFloat("Stat_AttackCooldown");
+        if (PlayerPrefs.HasKey("Stat_NumCharactersUnlocked"))
+            numCharactersUnlocked = PlayerPrefs.GetInt("Stat_NumCharactersUnlocked");
     }
 
     public bool SpendGold(int amount)

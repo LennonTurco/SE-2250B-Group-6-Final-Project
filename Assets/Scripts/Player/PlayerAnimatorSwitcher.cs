@@ -20,6 +20,7 @@ public class AnimationSetSwitcherLava : MonoBehaviour
     [SerializeField] private RuntimeAnimatorController flamController;
 
     private RuntimeAnimatorController currentController;
+    private Player player;
 
     private void Awake()
     {
@@ -28,6 +29,9 @@ public class AnimationSetSwitcherLava : MonoBehaviour
             animator = GetComponent<Animator>();
         }
         currentController = animator.runtimeAnimatorController;
+        player = GetComponentInParent<Player>();
+        if (player == null)
+            player = FindFirstObjectByType<Player>();
     }
 
     private void Update()
@@ -35,45 +39,51 @@ public class AnimationSetSwitcherLava : MonoBehaviour
         // Optional legacy fallback for keyboard usage in Editor/playmode (removable if not needed)
         if (Keyboard.current != null)
         {
-            if (Keyboard.current.digit1Key.wasPressedThisFrame) SetAnimationController(boyController);
-            else if (Keyboard.current.digit2Key.wasPressedThisFrame) SetAnimationController(nobleController);
-            else if (Keyboard.current.digit3Key.wasPressedThisFrame) SetAnimationController(ninjaGreenController);
-            else if (Keyboard.current.digit4Key.wasPressedThisFrame) SetAnimationController(ninjaEskimoController);
-            else if (Keyboard.current.digit5Key.wasPressedThisFrame) SetAnimationController(flamController);
+            if (Keyboard.current.digit1Key.wasPressedThisFrame) SetAnimationController(boyController, 1);
+            else if (Keyboard.current.digit2Key.wasPressedThisFrame) SetAnimationController(nobleController, 2);
+            else if (Keyboard.current.digit3Key.wasPressedThisFrame) SetAnimationController(ninjaGreenController, 3);
+            else if (Keyboard.current.digit4Key.wasPressedThisFrame) SetAnimationController(ninjaEskimoController, 4);
+            else if (Keyboard.current.digit5Key.wasPressedThisFrame) SetAnimationController(flamController, 5);
         }
     }
 
     public void OnSwitch1(InputAction.CallbackContext context)
     {
         Debug.Log("Switch1 input received");
-        if (context.started) SetAnimationController(boyController);
+        if (context.started) SetAnimationController(boyController, 1);
     }
 
     public void OnSwitch2(InputAction.CallbackContext context)
     {
-        if (context.started) SetAnimationController(nobleController);
+        if (context.started) SetAnimationController(nobleController, 2);
     }
 
     public void OnSwitch3(InputAction.CallbackContext context)
     {
-        if (context.started) SetAnimationController(ninjaGreenController);
+        if (context.started) SetAnimationController(ninjaGreenController, 3);
     }
 
     public void OnSwitch4(InputAction.CallbackContext context)
     {
-        if (context.started) SetAnimationController(ninjaEskimoController);
+        if (context.started) SetAnimationController(ninjaEskimoController, 4);
     }
 
     public void OnSwitch5(InputAction.CallbackContext context)
     {
-        if (context.started) SetAnimationController(flamController);
+        if (context.started) SetAnimationController(flamController, 5);
     }
 
-    private void SetAnimationController(RuntimeAnimatorController controller)
+    private void SetAnimationController(RuntimeAnimatorController controller, int requiredUnlockLevel = 1)
     {
         if (controller == null)
         {
             Debug.LogWarning("AnimationSetSwitcher: controller is not assigned.");
+            return;
+        }
+
+        if (player != null && player.numCharactersUnlocked < requiredUnlockLevel)
+        {
+            Debug.Log($"AnimationSetSwitcher: Cannot switch to {controller.name}. Requires unlock level {requiredUnlockLevel} but have {player.numCharactersUnlocked}.");
             return;
         }
 
@@ -148,19 +158,19 @@ public class AnimationSetSwitcherLava : MonoBehaviour
         switch (index)
         {
             case 1:
-                SetAnimationController(boyController);
+                SetAnimationController(boyController, 1);
                 break;
             case 2:
-                SetAnimationController(nobleController);
+                SetAnimationController(nobleController, 2);
                 break;
             case 3:
-                SetAnimationController(ninjaGreenController);
+                SetAnimationController(ninjaGreenController, 3);
                 break;
             case 4:
-                SetAnimationController(ninjaEskimoController);
+                SetAnimationController(ninjaEskimoController, 4);
                 break;
             case 5:
-                SetAnimationController(flamController);
+                SetAnimationController(flamController, 5);
                 break;
             default:
                 Debug.LogWarning("AnimationSetSwitcher: invalid index " + index);

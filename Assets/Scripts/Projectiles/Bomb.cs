@@ -122,4 +122,22 @@ public class Bomb : Entity
         ShootFire(0, 1);
         ShootFire(0, -1);
     }
+
+    protected override void HandleCollision(GameObject hitObject, bool hitIsTrigger)
+    {
+        // Don't interact with the enemy that fired it
+        if (hitObject.CompareTag("Enemy")) return;
+
+        base.HandleCollision(hitObject, hitIsTrigger);
+
+        // If it hits a solid wall/object, stop moving
+        if (!hitIsTrigger)
+        {
+            initialVelocity = Vector2.zero;
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector2.zero;
+            }
+        }
+    }
 }
