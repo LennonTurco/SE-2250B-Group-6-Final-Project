@@ -40,9 +40,12 @@ public class CitySceneLoader : MonoBehaviour
         // move player to respawn point near gate
         if (playerRespawnPoint != null)
         {
-            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            Player player = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
             if (player != null)
+            {
                 player.transform.position = playerRespawnPoint.position;
+                player.spawnPoint = new Vector3(-74f, 9f, 0f);
+            }
             else
                 Debug.LogWarning("[CitySceneLoader] Player not found.");
         }
