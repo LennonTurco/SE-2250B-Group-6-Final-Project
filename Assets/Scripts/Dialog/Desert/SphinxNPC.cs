@@ -16,8 +16,10 @@ public class SphinxNPC : MonoBehaviour
     // shown if already spoken to
     [SerializeField] private List<string> postPageLines = new List<string>
     {
+        "You have located my pages. Now listen closely.",
         "To find my master's lair, search for a skull not like the others.",
         "Hidden in the tall grass nearby lies the way forward.",
+        "Prepare well, or you will learn the hard way."
     };
 
     private void OnTriggerEnter2D(Collider2D other)

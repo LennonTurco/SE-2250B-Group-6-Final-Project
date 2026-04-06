@@ -4,6 +4,10 @@ using UnityEngine;
 public class AntunaDialogueManager : MonoBehaviour
 {
     [SerializeField] private AntunaBoss boss;
+
+    [Header("Audio")]
+    [SerializeField] private AudioSource bossMusic;
+    [SerializeField] private AudioSource normalMusic;
     
     [SerializeField] private List<string> introLines = new List<string>
     {
@@ -41,6 +45,15 @@ public class AntunaDialogueManager : MonoBehaviour
             if (hasPlayedIntro && !boss.isFighting && !hasPlayedPhase2 && !DialogManager.Instance.IsDisplaying())
             {
                 boss.isFighting = true;
+                boss.RefreshAttack();
+                if (normalMusic != null && normalMusic.isPlaying)
+                {
+                    normalMusic.Pause();
+                }
+                if (bossMusic != null && !bossMusic.isPlaying)
+                {
+                    bossMusic.Play();
+                }
             }
 
             // Fire Phase 2 dialogue if at or below 150 HP
@@ -62,6 +75,17 @@ public class AntunaDialogueManager : MonoBehaviour
             if (!hasPlayedDefeat)
             {
                 hasPlayedDefeat = true;
+                if (bossMusic != null && bossMusic.isPlaying)
+                {
+                    bossMusic.Stop();
+                }
+                if (normalMusic != null)
+                {
+                    normalMusic.UnPause();
+                    // Fallback in case it wasn't playing before pausing
+                    if (!normalMusic.isPlaying) normalMusic.Play();
+                }
+
                 if (DialogManager.Instance != null)
                 {
                     DialogManager.Instance.ShowDialog(defeatLines);

@@ -141,10 +141,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 880828d5255cd444181b2dee2cbe5908, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AntunaBoss
-  maxHealth: 750
+  maxHealth: 1200
   moveSpeed: 5
   attackDamage: 10
-  attackCooldown: 1.5
+  attackCooldown: 1
   invulTime: 0
   isInvul: 0
   collisionDamage: 0
@@ -157,4 +157,6 @@ MonoBehaviour:
   goldDrop: 50
   bombPrefab: {fileID: 3439315822245991202, guid: c2dd9ff05fc586b489d7ff0896a45c39, type: 3}
   fireRange: 24
-  teleportCooldown: 3
+  teleportCooldown: 2.5
+  healthBar: {fileID: 0}
+  isFighting: 0

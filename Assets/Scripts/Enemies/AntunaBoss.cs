@@ -6,6 +6,9 @@ public class AntunaBoss : Enemy
     [SerializeField] private GameObject bombPrefab; // Drag the Fire prefab here in the Inspector
     [SerializeField] private float fireRange = 12f;
     [SerializeField] private float teleportCooldown = 1f;
+
+    [Header("UI")]
+    [SerializeField] private UnityEngine.UI.Slider healthBar;
     
     private float bombTimer = 0f;
     private float teleportTimer = 0f;
@@ -24,6 +27,7 @@ public class AntunaBoss : Enemy
         }
 
         teleportTimer = teleportCooldown; // Initial cooldown
+        UpdateHealthBar();
     }
 
     protected override void HandleAI()
@@ -32,10 +36,10 @@ public class AntunaBoss : Enemy
         if (target == null || isTeleporting) return;
 
         // Teleport timing
-        teleportTimer -= Time.deltaTime;
-        if (teleportTimer <= 0f)
+        teleportTimer += Time.deltaTime;
+        if (teleportTimer >= teleportCooldown)
         {
-            teleportTimer = teleportCooldown;
+            teleportTimer = 0;
             StartCoroutine(TeleportToRandomPosition());
             return; // Skip other AI while starting teleport
         }
@@ -49,8 +53,8 @@ public class AntunaBoss : Enemy
 
         bombTimer += Time.deltaTime;
 
-        // 750 total health
-        if(currentHealth > 600)
+        // 1500 total health
+        if(currentHealth > maxHealth*0.8)
         {
             if (bombTimer >= attackCooldown*1.5)
             {
@@ -58,7 +62,7 @@ public class AntunaBoss : Enemy
                 ShootBomb();
             }
         }
-        else if(currentHealth > 450)
+        else if(currentHealth > maxHealth*0.6)
         {
             if (bombTimer >= attackCooldown*1.5)
             {
@@ -68,7 +72,7 @@ public class AntunaBoss : Enemy
             }
 
         }
-        else if(currentHealth > 300)
+        else if(currentHealth > maxHealth*0.4)
         {
             if (bombTimer >= attackCooldown)
             {
@@ -76,7 +80,7 @@ public class AntunaBoss : Enemy
                 ShootBomb();
             }
         }
-        else if(currentHealth > 150) {
+        else if(currentHealth > maxHealth*0.2) {
             if (bombTimer >= attackCooldown)
             {
                 bombTimer = 0f;
@@ -91,6 +95,13 @@ public class AntunaBoss : Enemy
                 ShootBomb();
             }
         }
+
+        UpdateHealthBar();
+    }
+
+    public void RefreshAttack() {
+        bombTimer = 999;
+        teleportTimer = 999;
     }
 
     public void TeleportToCenter()
@@ -164,8 +175,26 @@ public class AntunaBoss : Enemy
         Bomb bombScript = bombObj.GetComponent<Bomb>();
     }
 
+    void UpdateHealthBar()
+    {
+        if (healthBar == null) return;
+        healthBar.value = currentHealth / maxHealth;
+
+        healthBar.gameObject.SetActive(isFighting);
+    }
+
+    public override void TakeDamage(float amount)
+    {
+        base.TakeDamage(amount);
+        UpdateHealthBar();
+    }
+
     protected override void Die()
     {
+        if (healthBar != null)
+            isFighting = false;
+            healthBar.gameObject.SetActive(false);
+
         Player player = FindFirstObjectByType<Player>();
         if (player != null)
         {
