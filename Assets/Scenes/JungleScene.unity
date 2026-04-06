@@ -44250,6 +44250,7 @@ GameObject:
   - component: {fileID: 1552827709}
   - component: {fileID: 1552827708}
   - component: {fileID: 1552827707}
+  - component: {fileID: 1552827705}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -44269,6 +44270,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6fe849b883044f4b983577c3b8c0509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInteractor
+--- !u!114 &1552827705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552827706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 287db9573345405d852523af24d9fca8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerShadowStealth
+  targetRenderers: []
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
+  hiddenColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
 --- !u!58 &1552827708
 CircleCollider2D:
   m_ObjectHideFlags: 0

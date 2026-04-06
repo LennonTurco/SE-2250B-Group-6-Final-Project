@@ -27,6 +27,12 @@ public class BurningSkull : Enemy
     {
         if (target == null) return;
 
+        if (PlayerShadowStealth.Instance != null && PlayerShadowStealth.Instance.IsHiddenInShadow)
+        {
+            fireTimer = 0f;
+            return;
+        }
+
         float distanceToPlayer = Vector2.Distance(transform.position, target.position);
         if (distanceToPlayer > fireRange)
         {
