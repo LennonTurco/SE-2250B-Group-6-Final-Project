@@ -159,5 +159,5 @@ MonoBehaviour:
   firePrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   fireCooldown: 2
   fireRange: 2.5
-  projectileSpeed: 3.5
+  projectileSpeed: 5
   projectileDamage: 10

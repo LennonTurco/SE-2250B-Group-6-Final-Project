@@ -38333,6 +38333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1349359318}
   - component: {fileID: 1349359317}
+  - component: {fileID: 1349359319}
   m_Layer: 0
   m_Name: DialogManager
   m_TagString: Untagged
@@ -38370,6 +38371,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1349359319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349359316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a91a4bb2d7d8475dbf9d0ea4d1ec1a34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::JungleIntroDialog
+  introDelay: 0.4
+  introLines:
+  - Hide in the shadows of trees to avoid enemy detection.
+  - Enemies cannot detect you while you are hidden there.
+  - Follow your current objective to find the right path forward.
+  - Avoid getting too close to bushes to avoid getting ambushed!
 --- !u!1001 &1350948863
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44361,6 +44380,21 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6346482577486952033, guid: c6609e577f9c04d18a1fe55bec56a5e4, type: 3}
   m_PrefabInstance: {fileID: 1552084294}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1552827705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552827706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 287db9573345405d852523af24d9fca8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerShadowStealth
+  targetRenderers: []
+  normalColor: {r: 1, g: 1, b: 1, a: 1}
+  hiddenColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
 --- !u!1 &1552827706
 GameObject:
   m_ObjectHideFlags: 0
@@ -44399,21 +44433,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6fe849b883044f4b983577c3b8c0509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInteractor
---- !u!114 &1552827705
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1552827706}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 287db9573345405d852523af24d9fca8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerShadowStealth
-  targetRenderers: []
-  normalColor: {r: 1, g: 1, b: 1, a: 1}
-  hiddenColor: {r: 0.65, g: 0.65, b: 0.65, a: 1}
 --- !u!58 &1552827708
 CircleCollider2D:
   m_ObjectHideFlags: 0

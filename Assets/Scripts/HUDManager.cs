@@ -42,6 +42,7 @@ public class HUDManager : MonoBehaviour
     {
         TalkToSkeleton,
         CollectCoins,
+        GoThroughPortal,
         CollectFishingRods,
         FindFish,
         FindPickaxe,
@@ -130,7 +131,9 @@ public class HUDManager : MonoBehaviour
 
         if (SceneManager.GetActiveScene().name == "JungleBoss")
         {
-            bossText.text = "Objective: Defeat Keanu!";
+            bossText.text = currentObjective == Objective.GoThroughPortal
+                ? "Objective: Go through portal"
+                : "Objective: Defeat Keanu!";
             return;
         }
 
@@ -142,6 +145,9 @@ public class HUDManager : MonoBehaviour
                     break;
                 case Objective.CollectCoins:
                 bossText.text = "Objective: Collect Coins";
+                break;
+            case Objective.GoThroughPortal:
+                bossText.text = "Objective: Go through portal";
                 break;
             case Objective.CollectFishingRods:
                 bossText.text = "Objective: Collect Fishing Rods from the Igloos";
@@ -196,6 +202,12 @@ public class HUDManager : MonoBehaviour
         if (sceneName == "JungleScene")
         {
             levelText.text = "Jungle";
+            return;
+        }
+
+        if (sceneName == "JungleBoss")
+        {
+            levelText.text = "Jungle Boss";
         }
     }
 
@@ -288,7 +300,7 @@ public class HUDManager : MonoBehaviour
 
         if (sceneName == "JungleBoss")
         {
-            UpdateObjectiveText();
+            SetObjective(Objective.DefeatBoss);
             return;
         }
 
