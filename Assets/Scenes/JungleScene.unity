@@ -7645,9 +7645,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &305492301
 Rigidbody2D:
@@ -11529,9 +11529,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &453816924
 Rigidbody2D:
@@ -11809,9 +11809,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &461855419
 Rigidbody2D:
@@ -12122,9 +12122,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &470108895
 Rigidbody2D:
@@ -13087,9 +13087,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &501007090
 Rigidbody2D:
@@ -14036,15 +14036,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 537326171}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fc00748c98d554184d3213b6206325, type: 3}
+  m_Script: {fileID: 11500000, guid: f0dff0e3a9d74426b95a1f462c6a0e1a, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: '::'
+  m_EditorClassIdentifier: Assembly-CSharp::JungleCharacterPortrait
   portraits:
   - {fileID: -7527145504033472756, guid: 73c28eed079a7dc44a77c89d586f53c7, type: 3}
   - {fileID: -7527145504033472756, guid: c2a2acfe93e35d340bc4ac6d5a63b304, type: 3}
-  - {fileID: -7527145504033472756, guid: 628a72b8002f4d548a3abbe51f411e31, type: 3}
-  - {fileID: -7527145504033472756, guid: fa59b466e7979bf42835496554b1b776, type: 3}
-  - {fileID: -7527145504033472756, guid: 70d165c4ddb367847a095d3178b6fa6a, type: 3}
   nameText: {fileID: 484920815}
 --- !u!114 &537326174
 MonoBehaviour:
@@ -15986,9 +15983,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &599980234
 Rigidbody2D:
@@ -16132,9 +16129,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &604547511
 Rigidbody2D:
@@ -17525,9 +17522,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &639698799
 Rigidbody2D:
@@ -18827,9 +18824,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &696693327
 Rigidbody2D:
@@ -21574,9 +21571,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &780485588
 Rigidbody2D:
@@ -23713,9 +23710,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &845230046
 Rigidbody2D:
@@ -27033,9 +27030,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &965258391
 Rigidbody2D:
@@ -28841,9 +28838,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1026302040
 Rigidbody2D:
@@ -29123,9 +29120,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1031202093
 Rigidbody2D:
@@ -31217,9 +31214,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1093558203
 Rigidbody2D:
@@ -34682,9 +34679,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1205589788
 Rigidbody2D:
@@ -36479,9 +36476,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1283237651
 Rigidbody2D:
@@ -36686,7 +36683,7 @@ MonoBehaviour:
   requiresPuzzleSolved: 0
   requiresJungleSkeletonHint: 1
   blockedLines:
-  - Talk to the skeleton first. He said to go southwest.
+  - Look at your current objective!
 --- !u!58 &1293540001
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -38631,9 +38628,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1371347848
 Rigidbody2D:
@@ -44342,15 +44339,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1552827706}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff0c84a810457ce45b5c3bf3bdce2371, type: 3}
+  m_Script: {fileID: 11500000, guid: 72f2ec566c2549f8b430ef555bca8c81, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AnimationSetSwitcher
+  m_EditorClassIdentifier: Assembly-CSharp::JunglePlayerAnimatorSwitcher
   animator: {fileID: 1552827711}
   boyController: {fileID: 9100000, guid: aee4c0c246b89de4d92755219fe4e743, type: 2}
   nobleController: {fileID: 9100000, guid: 69be496bdcc072745ad34b250653efee, type: 2}
-  ninjaGreenController: {fileID: 9100000, guid: 8bf7d07e19305ea44af80449a777d4a3, type: 2}
-  ninjaEskimoController: {fileID: 9100000, guid: 86d0c53db5d1a2647838aec0c5ca781c, type: 2}
-  flamController: {fileID: 9100000, guid: 23e45feb1fe33754c90ac643452cdc5b, type: 2}
 --- !u!95 &1552827711
 Animator:
   serializedVersion: 7
@@ -47851,9 +47845,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1677709428
 Rigidbody2D:
@@ -49625,9 +49619,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1728558420
 Rigidbody2D:
@@ -51678,9 +51672,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1797576820
 Rigidbody2D:
@@ -53285,9 +53279,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1848182983
 Rigidbody2D:
@@ -53431,9 +53425,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1853566357
 Rigidbody2D:
@@ -53496,9 +53490,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1859207692
 Rigidbody2D:
@@ -56805,9 +56799,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &1984542372
 Rigidbody2D:
@@ -58962,9 +58956,9 @@ MonoBehaviour:
   shurikenPrefab: {fileID: 1005219721337998162, guid: 61c48f0a3e6114ec3a38127446e2d7b7, type: 3}
   attackRange: 8
   fireCooldown: 2
-  burstCount: 2
+  burstCount: 1
   burstDelay: 0.15
-  shurikenSpeed: 7
+  shurikenSpeed: 2.5
   shurikenDamage: 10
 --- !u!50 &2078569713
 Rigidbody2D:
