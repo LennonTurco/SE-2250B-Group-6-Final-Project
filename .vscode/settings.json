@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SE-2250B-Group-6-Final-Project.slnx"
+    "dotnet.defaultSolution": "2250LennonWork.slnx"
 }
