@@ -6698,7 +6698,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb253a80bcd894d9c8e6fb91b4597b34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimpleAutoDialogTrigger
-  line: I too had flesh once... Go southeast and solve the labyrinth!
+  line: I too had flesh once... Go southeast stranger!
   triggerOnce: 1
   marksJungleSkeletonHintSeen: 1
 --- !u!1 &265346795 stripped
