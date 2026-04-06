@@ -2150,7 +2150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 387d23458e89e4f1a8a819750db7e535, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LavaBoss
-  maxHealth: 750
+  maxHealth: 1500
   levelLoadZoneToEnable: {fileID: 566570821}
   moveSpeed: 3.5
   roamRadius: 12

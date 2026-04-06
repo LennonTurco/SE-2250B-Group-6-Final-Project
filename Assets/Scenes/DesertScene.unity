@@ -86221,7 +86221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
   maxHealth: 100
-  moveSpeed: 15
+  moveSpeed: 5
   attackDamage: 10
   attackCooldown: 1
   invulTime: 0
@@ -87122,9 +87122,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9b4c8e022cca6b4da5615712de0ea35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogTrigger
-  lines:
-  - Default NPC line. Set this in the inspector.
-  triggerOnce: 1
 --- !u!212 &1816244212
 SpriteRenderer:
   serializedVersion: 2

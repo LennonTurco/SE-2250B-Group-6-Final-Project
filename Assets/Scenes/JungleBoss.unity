@@ -14172,6 +14172,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::JungleBoss
   maxHealth: 500
   levelLoadZoneToEnable: {fileID: 1585989766}
+  defeatDialogLine: The shadows have betrayed me!
   playerAppearanceDuration: 1.5
   playerDisappearanceDuration: 0.75
   repositionSquareSize: 8
@@ -14181,7 +14182,7 @@ MonoBehaviour:
   target: {fileID: 1552827716}
   projectilesPerShot: 4
   projectileSpeed: 5
-  fireInterval: 4
+  fireInterval: 5
   spreadAngle: 38
   projectileDamage: 10
   smokeEffectPrefab: {fileID: 1538902922077680436, guid: 4d40ff75810354f6bb3591083ce66b63, type: 3}
@@ -38754,6 +38755,8 @@ MonoBehaviour:
   rb: {fileID: 0}
   anim: {fileID: 0}
   sr: {fileID: 0}
+  spawnPoint: {x: 0, y: 0, z: 0}
+  numCharactersUnlocked: 1
 --- !u!114 &1552827710
 MonoBehaviour:
   m_ObjectHideFlags: 0
