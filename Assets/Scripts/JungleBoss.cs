@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,6 +10,7 @@ public class JungleBoss : MonoBehaviour
 
     [Header("Boss Rewards")]
     [SerializeField] private GameObject levelLoadZoneToEnable;
+    [SerializeField] private string defeatDialogLine = "The shadows have betrayed me!";
 
     [Header("Stationary Behaviour")]
     [SerializeField] private float playerAppearanceDuration = 0.5f;
@@ -167,6 +169,13 @@ public class JungleBoss : MonoBehaviour
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
         SetBossVisible(false);
+
+        if (DialogManager.Instance != null)
+        {
+            DialogManager.Instance.ShowDialog(new List<string> { defeatDialogLine });
+        }
+
+        HUDManager.Instance?.SetObjective(HUDManager.Objective.GoThroughPortal);
 
         if (healthBar != null) healthBar.gameObject.SetActive(false);
         if (levelLoadZoneToEnable != null) levelLoadZoneToEnable.SetActive(true);
