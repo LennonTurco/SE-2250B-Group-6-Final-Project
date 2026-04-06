@@ -46,7 +46,14 @@ public class HUDManager : MonoBehaviour
         FindFish,
         FindPickaxe,
         CompleteIceMaze,
-        DefeatBoss
+        FindDesertClues,
+        DefeatBoss,
+        Explore,
+        FindPages,
+        ReturnToSphinx,
+        FindAntuna,
+        DefeatAntuna,
+        EnterJungle
     }
 
     private Objective currentObjective = Objective.CollectCoins;
@@ -127,12 +134,13 @@ public class HUDManager : MonoBehaviour
             return;
         }
 
-        switch (currentObjective)
-        {
-            case Objective.TalkToSkeleton:
-                bossText.text = "Objective: Talk to Skeleton";
-                break;
-            case Objective.CollectCoins:
+        if(SceneManager.GetActiveScene().name == "josephIceLevel") {
+            switch (currentObjective)
+            {
+                case Objective.TalkToSkeleton:
+                    bossText.text = "Objective: Talk to Skeleton";
+                    break;
+                case Objective.CollectCoins:
                 bossText.text = "Objective: Collect Coins";
                 break;
             case Objective.CollectFishingRods:
@@ -150,6 +158,33 @@ public class HUDManager : MonoBehaviour
             case Objective.DefeatBoss:
                 bossText.text = "Objective: Defeat Jose the Ice Mage by Colliding 5 Times";
                 break;
+        }
+        }
+
+        if (SceneManager.GetActiveScene().name == "DesertScene")
+        {
+            switch (currentObjective)
+            {
+                case Objective.FindPages:
+                    bossText.text = "Objective: Collect the Sphinx's Pages!";
+                    break;
+                case Objective.ReturnToSphinx:
+                    bossText.text = "Objective: Return to the Sphinx!";
+                    break;
+                case Objective.FindAntuna:
+                    bossText.text = "Objective: Locate Antuna!";
+                    break;
+                case Objective.DefeatAntuna:
+                    bossText.text = "Objective: Defeat Antuna the Arms Dealer!";
+                    break;
+                case Objective.EnterJungle:
+                    bossText.text = "Objective: Enter the Jungle!";
+                    break;
+                default:
+                    bossText.text = "Objective: Explore!";
+                    break;
+            }
+            return;
         }
     }
 
@@ -235,6 +270,8 @@ public class HUDManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        if (mode == LoadSceneMode.Additive) return;
+        
         RefreshHUD();
         RefreshSceneObjective();
     }
@@ -252,6 +289,12 @@ public class HUDManager : MonoBehaviour
         if (sceneName == "JungleBoss")
         {
             UpdateObjectiveText();
+            return;
+        }
+
+        if (sceneName == "DesertScene")
+        {
+            SetObjective(Objective.FindDesertClues);
             return;
         }
 

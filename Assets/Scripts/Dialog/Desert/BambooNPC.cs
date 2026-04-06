@@ -49,7 +49,7 @@ public class BambooNPC : MonoBehaviour
     {
         if (bambooMan == null) yield break;
 
-        Vector2 targetPos = bambooMan.position + new Vector3(0, 20f, 0);
+        Vector2 targetPos = bambooMan.position + new Vector3(0, 30f, 0);
         Vector2 startPos = bambooMan.position;
         
         float duration = 5f;

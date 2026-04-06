@@ -28,5 +28,10 @@ public class PageA : MonoBehaviour
         // give the clue and register it
         DialogManager.Instance.ShowDialog(pageLines);
         DesertPuzzleManager.Instance.RegisterClue(clueIndex);
+
+        if (DesertPuzzleManager.Instance.AllCluesFound())
+        {
+            HUDManager.Instance?.SetObjective(HUDManager.Objective.ReturnToSphinx);
+        }
     }
 }
