@@ -3,7 +3,7 @@ using UnityEngine;
 public class Player : Entity
 {
     // ── private ──────────────────────────────
-    private Vector3 spawnPoint;
+    public Vector3 spawnPoint;
     public int numCharactersUnlocked = 1;
 
     protected override void Awake()

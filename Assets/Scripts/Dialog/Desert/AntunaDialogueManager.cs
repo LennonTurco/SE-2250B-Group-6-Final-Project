@@ -46,6 +46,13 @@ public class AntunaDialogueManager : MonoBehaviour
             {
                 boss.isFighting = true;
                 boss.RefreshAttack();
+
+                Player player = FindObjectOfType<Player>();
+                if (player != null)
+                {
+                    player.spawnPoint = new Vector3(-6f, 15f, 0f);
+                }
+
                 HUDManager.Instance?.SetObjective(HUDManager.Objective.DefeatAntuna);
 
                 if (normalMusic != null && normalMusic.isPlaying)
@@ -62,7 +69,6 @@ public class AntunaDialogueManager : MonoBehaviour
             if (boss.isFighting && !hasPlayedPhase2 && boss.currentHealth <= 300)
             {
                 hasPlayedPhase2 = true;
-                // boss.isFighting = false; // Pause boss
                 DialogManager.Instance.ShowDialog(phase2Lines);
             }
 
