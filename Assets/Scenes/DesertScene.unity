@@ -81786,9 +81786,6 @@ MonoBehaviour:
   portraits:
   - {fileID: -7527145504033472756, guid: 73c28eed079a7dc44a77c89d586f53c7, type: 3}
   - {fileID: -7527145504033472756, guid: c2a2acfe93e35d340bc4ac6d5a63b304, type: 3}
-  - {fileID: -7527145504033472756, guid: 628a72b8002f4d548a3abbe51f411e31, type: 3}
-  - {fileID: -7527145504033472756, guid: fa59b466e7979bf42835496554b1b776, type: 3}
-  - {fileID: -7527145504033472756, guid: 70d165c4ddb367847a095d3178b6fa6a, type: 3}
   nameText: {fileID: 1842694747}
 --- !u!114 &869485773
 MonoBehaviour:
@@ -84296,7 +84293,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 95.33264, y: 95.3326}
+  m_AnchoredPosition: {x: 95.33252, y: 95.33264}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1278240676
@@ -86224,7 +86221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
   maxHealth: 100
-  moveSpeed: 5
+  moveSpeed: 15
   attackDamage: 10
   attackCooldown: 1
   invulTime: 0
@@ -86236,6 +86233,7 @@ MonoBehaviour:
   rb: {fileID: 0}
   anim: {fileID: 0}
   sr: {fileID: 0}
+  spawnPoint: {x: 0, y: 0, z: 0}
   numCharactersUnlocked: 1
 --- !u!114 &1682889508
 MonoBehaviour:
