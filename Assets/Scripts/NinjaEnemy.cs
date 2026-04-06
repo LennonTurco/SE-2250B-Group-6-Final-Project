@@ -64,11 +64,12 @@ public class NinjaEnemy : Enemy
 
         Vector2 dir = (target.position - transform.position).normalized;
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        Vector2 spawnPosition = (Vector2)transform.position + (dir * 0.6f);
 
-        GameObject obj = Instantiate(shurikenPrefab, transform.position, Quaternion.Euler(0, 0, angle));
+        GameObject obj = Instantiate(shurikenPrefab, spawnPosition, Quaternion.Euler(0, 0, angle));
 
         ShurikenProjectile proj = obj.GetComponent<ShurikenProjectile>();
         if (proj != null)
-            proj.Initialize(dir, shurikenSpeed, shurikenDamage);
+            proj.Initialize(dir, shurikenSpeed, shurikenDamage, gameObject);
     }
 }
