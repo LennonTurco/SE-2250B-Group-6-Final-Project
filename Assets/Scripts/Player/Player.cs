@@ -58,6 +58,7 @@ public class Player : Entity
         // don't call base.Die() as it destroys the gameobject
         if (isDead) return;
         isDead = true;
+        PlayerScoreTracker.RecordDeath();
         Debug.Log("[Player] Died - respawning");
         Respawn();
     }

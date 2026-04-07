@@ -338,6 +338,7 @@ public class SolomonBoss : Enemy
         }
 
         Debug.Log("[SolomonBoss] Defeated!");
+        PlayerScoreTracker.SaveFinalScore();
         SceneManager.LoadScene("ending");
         base.Die();
     }
