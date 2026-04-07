@@ -45,5 +45,6 @@ public class InformantNPC : MonoBehaviour
         // give the clue and register it
         DialogManager.Instance.ShowDialog(clueLines);
         PuzzleManager.Instance.RegisterClue(clueIndex);
+        PlayerPrefs.SetInt("CityClue_" + clueIndex, 1);
     }
 }
