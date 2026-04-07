@@ -42,6 +42,10 @@ public class CharacterPortrait : MonoBehaviour
     void Swap(int i)
     {
         if (i < 0 || i >= portraits.Length || portraits[i] == null) return;
+
+        Player player = Object.FindFirstObjectByType<Player>();
+        if (player != null && i >= player.numCharactersUnlocked) return;
+
         img.sprite = portraits[i];
         img.enabled = false;
         img.enabled = true;
