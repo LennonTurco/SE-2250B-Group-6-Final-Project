@@ -1,21 +1,23 @@
 # 2250 Final Project Work
 
-Mar 16 - Global project structure delegation of tasks
+April 7 - Final Project Submitted
+
+The Exile
+
 Nathan
-- Tile, Entitiy, Player
-- Add files for all charecters (no implmeentation needed)
-
-Lennon
-- GameManager, Dialog 
-
-Joseph
-- ProgressionSystem, LevelManager
-
-Amir
-- EnemyFactory, Enemy, 
-- Create files for enemeies 1-5
-- Create Boss file (no implementation needed)
+- Antuna (Desert): Level 1
 
 Neo
-- Shop, DialogManager, CutScreen + Music (These two things were committed on Lennon's laptop and GitHub account, due to difficulties on Neo's laptop).
+- Keanu (Jungle): Level 2
+
+Joseph
+- Jose (Ice): Level 3
+
+Amir
+- Amira (Lava): Level 4
+
+Lennon
+- Solomon (City): Level 5 
+
+
 
