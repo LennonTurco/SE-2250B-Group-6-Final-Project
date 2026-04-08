@@ -47,6 +47,7 @@ public class BossProjectile : MonoBehaviour
 
         if (other.GetComponent<SolomonBoss>() != null) return;
         if (other.GetComponent<BossProjectile>() != null) return;
+        if (other.GetComponent<TossedCoin>() != null) return;
 
         Player player = other.GetComponent<Player>();
         if (player != null)

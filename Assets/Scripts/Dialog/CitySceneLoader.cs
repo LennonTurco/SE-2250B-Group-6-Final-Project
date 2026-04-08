@@ -45,6 +45,7 @@ public class CitySceneLoader : MonoBehaviour
             {
                 player.transform.position = playerRespawnPoint.position;
                 player.spawnPoint = new Vector3(-74f, 9f, 0f);
+                player.HealToFull(); 
             }
             else
                 Debug.LogWarning("[CitySceneLoader] Player not found.");

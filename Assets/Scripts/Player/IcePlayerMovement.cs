@@ -2,15 +2,8 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Tilemaps;
 
-public class IcePlayerMovement : MonoBehaviour
+public class IcePlayerMovement : PlayerMovement
 {
-    private Player player;
-    private Vector2 moveInput;
-    private bool isAttacking = false;
-
-    [Header("Combat Settings")]
-    [SerializeField] private GameObject tossedCoinPrefab;
-
     [Header("Ice Settings")]
     [SerializeField] private Tilemap iceTilemap;
 
@@ -32,10 +25,15 @@ public class IcePlayerMovement : MonoBehaviour
     private bool isOnIce = false;
 
     // at initialization, create player object and sets normal drag
-    void Start()
+    protected override void Start()
     {
-        player = GetComponent<Player>();
+        base.Start();
         player.rb.linearDamping = normalDrag;
+    }
+
+    protected override void Update()
+    {
+        // Don't call base.Update() because we use force-based movement in FixedUpdate instead
     }
 
     void FixedUpdate()
@@ -46,7 +44,7 @@ public class IcePlayerMovement : MonoBehaviour
 
         // if the player is on an ice tile, the acceleration and max speed is increased
         float acceleration = isOnIce ? iceAcceleration : normalAcceleration;
-        float maxSpeed = player.moveSpeed * (isOnIce ? iceMaxSpeedMultiplier : 1f);
+        float maxSpeed = isOnIce ? Mathf.Min(player.moveSpeed, 5f) * iceMaxSpeedMultiplier : player.moveSpeed;
 
         // Always use force-based movement — smooth on both surfaces
         Vector2 targetVelocity = moveInput * maxSpeed;
@@ -85,69 +83,5 @@ public class IcePlayerMovement : MonoBehaviour
     {
         Vector3Int cell = iceTilemap.WorldToCell(worldPos);
         return iceTilemap.HasTile(cell);
-    }
-    
-    public void OnMove(InputAction.CallbackContext context)
-    {
-        if (context.canceled)
-        {
-            player.anim.SetBool("isWalking", false);
-            player.anim.SetFloat("LastInputX", moveInput.x);
-            player.anim.SetFloat("LastInputY", moveInput.y);
-        }
-        else
-        {
-            player.anim.SetBool("isWalking", true);
-        }
-
-        moveInput = context.ReadValue<Vector2>();
-        player.anim.SetFloat("InputX", moveInput.x);
-        player.anim.SetFloat("InputY", moveInput.y);
-    }
-
-    public void OnAttack(InputAction.CallbackContext context)
-    {
-        if (context.started)
-        {
-            isAttacking = true;
-            player.anim.SetBool("isAttacking", true);
-            if (moveInput != Vector2.zero)
-            {
-                player.anim.SetFloat("LastInputX", moveInput.x);
-                player.anim.SetFloat("LastInputY", moveInput.y);
-            }
-            player.rb.linearVelocity = Vector2.zero;
-            SpawnTossedCoin();
-        }
-    }
-
-    private void SpawnTossedCoin()
-    {
-        if (tossedCoinPrefab == null) return;
-
-        Vector2 spawnDir = moveInput;
-        if (spawnDir == Vector2.zero)
-        {
-            spawnDir = new Vector2(
-                player.anim.GetFloat("LastInputX"),
-                player.anim.GetFloat("LastInputY")
-            );
-            if (spawnDir == Vector2.zero) spawnDir = Vector2.down;
-        }
-
-        GameObject coinObj = Instantiate(tossedCoinPrefab, player.transform.position, Quaternion.identity);
-        TossedCoin coin = coinObj.GetComponent<TossedCoin>();
-        if (coin != null)
-        {
-            coin.dx = spawnDir.x;
-            coin.dy = spawnDir.y;
-            coin.collisionDamage = player.attackDamage;
-        }
-    }
-
-    public void EndAttack()
-    {
-        isAttacking = false;
-        player.anim.SetBool("isAttacking", false);
     }
 }

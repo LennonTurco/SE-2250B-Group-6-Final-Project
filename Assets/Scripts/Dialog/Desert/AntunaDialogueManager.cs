@@ -51,6 +51,7 @@ public class AntunaDialogueManager : MonoBehaviour
                 if (player != null)
                 {
                     player.spawnPoint = new Vector3(-6f, 15f, 0f);
+                    player.HealToFull();
                 }
 
                 HUDManager.Instance?.SetObjective(HUDManager.Objective.DefeatAntuna);
@@ -65,8 +66,8 @@ public class AntunaDialogueManager : MonoBehaviour
                 }
             }
 
-            // Fire Phase 2 dialogue if at or below 150 HP
-            if (boss.isFighting && !hasPlayedPhase2 && boss.currentHealth <= 300)
+            // Fire Phase 2 dialogue
+            if (boss.isFighting && !hasPlayedPhase2 && boss.currentHealth <= 480)
             {
                 hasPlayedPhase2 = true;
                 DialogManager.Instance.ShowDialog(phase2Lines);

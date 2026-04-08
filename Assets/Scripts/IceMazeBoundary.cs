@@ -37,7 +37,7 @@ public class IceMazeBoundary : MonoBehaviour
             // Player entered the maze - boost speed
             isInMaze = true;
             originalMoveSpeed = player.moveSpeed;
-            player.moveSpeed = originalMoveSpeed * mazeSpeedMultiplier;
+            player.moveSpeed = Mathf.Min(originalMoveSpeed, 5f) * mazeSpeedMultiplier;
             Debug.Log("[Maze] Entered maze, speed boosted to " + player.moveSpeed);
         }
         else if (!onBoundary && isInMaze)

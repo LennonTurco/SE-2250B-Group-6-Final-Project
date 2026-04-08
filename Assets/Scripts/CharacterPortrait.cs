@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 [RequireComponent(typeof(Image))]
@@ -44,7 +45,7 @@ public class CharacterPortrait : MonoBehaviour
         if (i < 0 || i >= portraits.Length || portraits[i] == null) return;
 
         Player player = Object.FindFirstObjectByType<Player>();
-        if (player != null && i >= player.numCharactersUnlocked) return;
+        if (player != null && SceneManager.GetActiveScene().name == "DesertScene" && i >= player.numCharactersUnlocked) return;
 
         img.sprite = portraits[i];
         img.enabled = false;

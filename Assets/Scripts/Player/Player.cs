@@ -105,7 +105,12 @@ public class Player : Entity
     }
 
     // ── stat persistence ─────────────────────
-
+    public void HealToFull()
+    {
+        currentHealth = maxHealth;
+        HUDManager.Instance?.RefreshHUD();
+    }
+    
     public void SaveStats()
     {
         PlayerPrefs.SetFloat("Stat_MoveSpeed",      moveSpeed);
@@ -127,6 +132,7 @@ public class Player : Entity
             attackCooldown = PlayerPrefs.GetFloat("Stat_AttackCooldown");
         if (PlayerPrefs.HasKey("Stat_NumCharactersUnlocked"))
             numCharactersUnlocked = PlayerPrefs.GetInt("Stat_NumCharactersUnlocked");
+        HealToFull();
     }
 
     public bool SpendGold(int amount)

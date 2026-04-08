@@ -5,21 +5,21 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour
 {
 
-    private Player player;
-    private Vector2 moveInput;
-    private bool isAttacking = false;
+    protected Player player;
+    protected Vector2 moveInput;
+    protected bool isAttacking = false;
     
     [Header("Combat Settings")]
-    [SerializeField] private GameObject tossedCoinPrefab;
+    [SerializeField] protected GameObject tossedCoinPrefab;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    protected virtual void Start()
     {
         player = GetComponent<Player>();
     }
 
     // Update is called once per frame
-    void Update()
+    protected virtual void Update()
     {
         if(!isAttacking)
         {
@@ -27,7 +27,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    public void OnMove(InputAction.CallbackContext context)
+    public virtual void OnMove(InputAction.CallbackContext context)
     {
         player.anim.SetBool("isWalking", true);
 
@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
         player.anim.SetFloat("InputX", moveInput.x);
         player.anim.SetFloat("InputY", moveInput.y);
     }
-    public void OnAttack(InputAction.CallbackContext context)
+    public virtual void OnAttack(InputAction.CallbackContext context)
     {
         if (context.started) // when key is pressed down
         {   
@@ -63,7 +63,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void SpawnTossedCoin()
+    protected virtual void SpawnTossedCoin()
     {
         if (tossedCoinPrefab == null) return;
 
@@ -84,7 +84,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    public void EndAttack()
+    public virtual void EndAttack()
     {
         isAttacking = false;
         player.anim.SetBool("isAttacking", false);

@@ -34,11 +34,12 @@ public class BambooNPC : MonoBehaviour
         else
         {
             // Antuna was destroyed.
-            DialogManager.Instance.ShowDialog(antunaDefeatedLines);
-            
             if (!hasMoved)
             {
                 hasMoved = true;
+
+                DialogManager.Instance.ShowDialog(antunaDefeatedLines);
+
                 Debug.Log("Bamboo Man is leaving");
                 StartCoroutine(moveBambooMan());
             }

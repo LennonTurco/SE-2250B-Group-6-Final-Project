@@ -10,7 +10,7 @@ public class SphinxNPC : MonoBehaviour
         "Greetings, traveler. I am the Mega Sphinx.",
         "If you seek my master, you must find my pages three.",
         "The first page is where X marks the spot.",
-        "The second page is hidden behind a house down a secret path.",
+        "The second page is hidden down an abode's secret path.",
         "The third page is in a guarded oasis."
     };
 
@@ -23,11 +23,25 @@ public class SphinxNPC : MonoBehaviour
         "Prepare well, for he is no pushover."
     };
 
+    // shown if already spoken to
+    [SerializeField] private List<string> postDefeatLines = new List<string>
+    {
+        "Well done, traveler. You defeated my master.",
+        "Good luck on your travels."
+    };
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
 
         if (DialogManager.Instance == null || DesertPuzzleManager.Instance == null) return;
+
+        AntunaBoss antuna = FindFirstObjectByType<AntunaBoss>();
+        if (antuna == null)
+        {
+            DialogManager.Instance.ShowDialog(postDefeatLines);
+            return;
+        }
 
         if (DesertPuzzleManager.Instance.AllCluesFound())
         {
